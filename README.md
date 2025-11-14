@@ -1,12 +1,5 @@
 <!-- ======================= -->
-<!--      PREMIUM SVG BANNER  -->
-<!-- ======================= -->
-<p align="center">
-  [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Nyashadzaishe%20Masvongo%20🌻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
-</p>
-
-<!-- ======================= -->
-<!--     HEADER / TYPING     -->
+<!--      HEADER / BANNER     -->
 <!-- ======================= -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=26&duration=3500&pause=1200&color=4C8BFF&center=true&vCenter=true&width=900&lines=Nyashadzaishe+Masvongo+%7C+Knowledge_Seeker101;Machine+Learning+Engineer;Speech+%26+Language+AI+Specialist;NLP+%7C+Speech+Synthesis+%7C+Geospatial+AI;Building+AI+for+African+Languages" />
@@ -56,6 +49,7 @@ Consistently Top **1–10%**, across NLP, CV, forecasting, and health ML.
 | IBM Hydropower | **23/444** | 🥇 | Climate & energy forecasting |
 | Amini Soil | **29/308** | 🥇 | EO nutrient modelling |
 | Côte d’Ivoire Agriculture | **28/143** | 🥈 | Crop pixel classification |
+
 
 ---
 
