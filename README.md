@@ -2,7 +2,7 @@
 <!--      PREMIUM  BANNER     -->
 <!-- ======================= -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1508385082359-f38ae991e8f2?auto=format&fit=crop&w=2000&q=80" width="100%" />
+ 
 </p>
 
 <!-- ======================= -->
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1536104968055-4d61aa56f46a?auto=format&fit=crop&w=2000&q=80" />
+  <img src="https://images.unsplash.com/photo-1536104968055-4d61aa56f46a?auto=format&fit=crop&w=2000&q=80" width="100%" />
   <img src="https://komarev.com/ghpvc/?username=KnowledgeSeeker101-bit&label=Profile%856Views&color=blue&style=flat-square" />
 </p>
 
