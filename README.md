@@ -97,7 +97,7 @@ I sharpen my edge through real-world machine learning competitions.
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=KnowledgeSeeker101-bit&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnowledgeSeeker101-bit1&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnowledgeSeeker101-bit&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
