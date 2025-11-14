@@ -37,7 +37,7 @@ I'm a **Machine Learning Engineer** focused on building impactful AI solutions f
 
 # 🚀 Featured Project  
 ### **VoxAfrica — Shona Text-to-Speech (TTS)**  
-High-quality, open-source TTS for Bantu languages.
+High-quality, open-source dataset links for Bantu languages.
 
 👉 **Repo:** https://github.com/SeViVI-Tese/voxAfrica
 
