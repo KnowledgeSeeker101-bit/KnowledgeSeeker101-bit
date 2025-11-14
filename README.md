@@ -1,58 +1,112 @@
-### Hi, I'm Nyashadzaishe Masvongo aka Knowledge_Seeker101 👋
-
-I am a results-driven Machine Learning Engineer with a proven ability to build high-performing models from scratch. I specialize in Natural Language Processing (NLP) and Speech Synthesis, and I have a passion for creating AI solutions for low-resource African languages.
-
-My skills are not just theoretical; I have a consistent track record of top-tier finishes in Zindi data science competitions, regularly placing in the top 10% against thousands of competitors.
-
-* 🌱 I’m currently building an open-source Speech-to-Speech (STS) model for the Shona language and Twi with my colluage Duke Congo aka CodeJoe.
-* 🏆 I am a multi-time competition winner/finalist on the Zindi Africa platform.
-* 📫 How to reach me: [nashaa182@gmail.com] or on [LinkedIn](https://www.linkedin.com/in/nyashadzaishe-masvongo-b67698254/)
-
----
-
-### 🚀 My Star Project: Shona Text-to-Speech (TTS)
-This is my flagship project which i am still working on , built to provide high-quality, open-source speech data for the local Bantu lnaguages .
-> [Click here to see the project (https://github.com/SeViVI-Tese/voxAfrica)
-
----
-
-## 🏆 Zindi Competition Highlights
-
-I use competitions to sharpen my skills on real-world problems.
-
-### Top Challenge Performances
-
-| Competition                                                   | Rank        | Medal      | Description                                                               |
-| :------------------------------------------------------------ | :---------- | :--------- | :------------------------------------------------------------------------ |
-| **Kenya Clinical Reasoning Challenge**                        | **3/387**   | **Gold**   | NLP SLM model to match clinician reasoning in rural healthcare.           |
-| **Barbados Lands and Surveys Plot Automation Challenge**      | **8/154**   | —          | OCR + Geospatial CV for cadastral plan digitisation.                      |
-| **MPEG-G Microbiome Classification Challenge**                | **6/73**    | **Gold**   | Deep learning on compressed federated microbiome data.                    |
-| **CGIAR Root Volume Estimation Challenge**                    | **15/245**  | **Gold**   | Computer vision for underground cassava root volume estimation.           |
-| **IBM SkillsBuild Hydropower Climate Optimisation Challenge** | **23/444**  | **Gold**   | Forecasting climate + operational effects on micro-hydropower generation. |
-| **Amini Soil Prediction Challenge**                           | **29/308**  | **Gold**   | Earth observation nutrient gap prediction.                                |
-| **Côte d’Ivoire Byte-Sized Agriculture Challenge**            | **28/143**  | **Silver** | Satellite pixel classification for crop identification.                   |
-| **MPEG-G: Decoding the Dialogue**                             | **14/20**   | —          | Host–microbiome interaction prediction and visualisation.                 |
-| **Adaptation Atlas Data Storytelling Challenge (Track 1)**    | **10/31**   | —          | Climate, water security, agriculture data storytelling + visualisation.   |
-| **Classification for Landslide Detection**                    | **55/265**  | **Silver** | Landslide detection model from EO and CV data.                            |
-| **Your Voice, Your Device, Your Language Challenge**          | **15/70**   | **Silver** | Swahili ASR for low-resource indigenous languages.                        |
-| **Amini Cocoa Contamination Challenge**                       | **95/209**  | **Bronze** | Mobile-friendly CV for cocoa disease identification.                      |
-| **Amini GeoFM Decoding the Field Challenge**                  | **108/136** | —          | Geospatial foundation model for crop classification.                      |
-| **SUA Outsmarting Outbreaks Challenge**                       | **134/369** | **Bronze** | Predicting waterborne disease outbreaks in Tanzania.                      |
-
-
----
-
-### 🛠️ My Technical Toolkit
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=1F51FF&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Nyashadzaishe+Masvongo+(Knowledge_Seeker101);Machine+Learning+Engineer+%7C+Speech+%26+Language+AI+Builder;NLP+%7C+Speech+Synthesis+%7C+Geospatial+ML+%7C+Deep+Learning;" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Knowledge-Seeker101&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+---
+
+## 👋 **About Me**
+
+I am a results-driven **Machine Learning Engineer** specialising in:
+
+- **Natural Language Processing (NLP)**
+- **Speech Technologies (TTS, ASR, STS)**
+- **Low-resource African language modelling**
+- **Computer Vision & Geospatial ML**
+
+I build **high-performing ML systems from scratch** and consistently rank in the **Top 1–10%** on Zindi across NLP, CV, forecasting, and health challenges.
+
+🌍 *Currently building open-source Speech-to-Speech (STS) models for Shona & Twi*  
+🤝 *Collaborating with: **Duke Congo (CodeJoe)**  
+📬 Contact: **nashaa182@gmail.com** | [LinkedIn](https://www.linkedin.com/in/nyashadzaishe-masvongo-b67698254/)*
+
+---
+
+# 🔥 Featured Project  
+## **Shona Text-to-Speech (TTS) — VoxAfrica**
+High-quality, open-source speech technology for Bantu languages.
+
+👉 **Repo:** https://github.com/SeViVI-Tese/voxAfrica
+
+---
+
+# 🏆 **Zindi Competition Highlights**
+
+I sharpen my edge through real-world machine learning competitions.
+
+### 🥇 **Top Challenge Performances**
+
+| Competition | Rank | Medal | What I Built |
+|------------|------|--------|---------------|
+| Kenya Clinical Reasoning Challenge | **3/387** | 🥇 Gold | NLP SLM reasoning model rivaling clinicians |
+| Barbados Cadastral Plot Automation | **8/154** | — | OCR + Geospatial CV digitisation |
+| MPEG-G Microbiome Classification | **6/73** | 🥇 Gold | DL on compressed federated microbiome data |
+| CGIAR Root Volume Estimation | **15/245** | 🥇 Gold | CV for underground cassava scanning |
+| IBM Hydropower Climate Optimisation | **23/444** | 🥇 Gold | Energy forecasting for micro-hydropower |
+| Amini Soil Prediction | **29/308** | 🥇 Gold | EO-based nutrient gap predictions |
+| Côte d’Ivoire Byte-Sized Agriculture | **28/143** | 🥈 Silver | Crop pixel classification |
+| MPEG-G: Decoding the Dialogue | **14/20** | — | Microbiome interaction modelling |
+| Adaptation Atlas Climate Storytelling | **10/31** | — | Climate–health–agriculture analytics |
+| Landslide Detection Challenge | **55/265** | 🥈 Silver | EO + CV landslide classifier |
+| Swahili ASR Challenge | **15/70** | 🥈 Silver | Indigenous-language speech recognition |
+| Cocoa Contamination Detection | **95/209** | 🥉 Bronze | Mobile CV disease detection |
+| Amini GeoFM Decoding the Field | **108/136** | — | Geospatial foundation model |
+| SUA Outbreak Prediction | **134/369** | 🥉 Bronze | Waterborne disease forecasting |
+
+---
+
+# 🛠️ **Technical Toolkit**
+
+### **Languages**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,bash,js" />
+</p>
+
+### **ML / DL Frameworks**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+</p>
+
+### **Data & Deployment**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
+</p>
+
+### **Specialised Domains**
+- Speech Processing (TTS, ASR, STS)
+- NLP: Transformers, finetuning, tokenisation
+- Geospatial ML (EO data, segmentation, CV)
+- Forecasting, health modelling, bioinformatics
+
+---
+
+# 📌 **Pinned Projects**
+<p align="center">
+  <a href="https://github.com/SeViVI-Tese/voxAfrica">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SeViVI-Tese&repo=voxAfrica&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
+# 📊 **GitHub Stats**
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Knowledge-Seeker101&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Knowledge-Seeker101&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Knowledge-Seeker101&theme=tokyonight" />
+</p>
+
+---
+
+# 🧠 **Fun Fact**
+**I love building AI for languages and communities the world often overlooks.  
+Impact > hype.**
 
