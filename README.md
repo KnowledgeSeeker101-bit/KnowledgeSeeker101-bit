@@ -2,7 +2,7 @@
 <!--      PREMIUM SVG BANNER  -->
 <!-- ======================= -->
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=luminance&text1=Nyashadzaishe%20Masvongo%20%7C%20Knowledge_Seeker101&width=800&height=400" alt="Profile Banner" />
+  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=Nyashadzaishe%20Masvongo%20%7C%20Knowledge_Seeker101&width=800&height=400" alt="Profile Banner" />
 </p>
 
 <!-- ======================= -->
