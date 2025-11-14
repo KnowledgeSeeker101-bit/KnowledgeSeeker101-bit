@@ -1,8 +1,8 @@
 <!-- ======================= -->
-<!--      PREMIUM  BANNER     -->
+<!--      PREMIUM SVG BANNER  -->
 <!-- ======================= -->
 <p align="center">
- 
+  [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Nyashadzaishe%20Masvongo%20🌻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 </p>
 
 <!-- ======================= -->
@@ -13,8 +13,8 @@
 </p>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1536104968055-4d61aa56f46a?auto=format&fit=crop&w=2000&q=80" width="100%" />
-  <img src="https://komarev.com/ghpvc/?username=KnowledgeSeeker101-bit&label=Profile%856Views&color=blue&style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Low%20Resource%20AI-blue?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=KnowledgeSeeker101-bit&label=Profile%20Views&color=blue&style=flat-square" />
 </p>
 
 ---
@@ -37,7 +37,7 @@ I'm a **Machine Learning Engineer** focused on building impactful AI solutions f
 
 # 🚀 Featured Project  
 ### **VoxAfrica — Shona Text-to-Speech (TTS)**  
-High-quality, open-source datasets for Bantu languages.
+High-quality, open-source TTS for Bantu languages.
 
 👉 **Repo:** https://github.com/SeViVI-Tese/voxAfrica
 
