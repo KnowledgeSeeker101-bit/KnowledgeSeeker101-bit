@@ -13,8 +13,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Low%20Resource%20AI-blue?style=flat-square" />
-  <img src="https://komarev.com/ghpvc/?username=KnowledgeSeeker101-bit&label=Profile%20Views&color=blue&style=flat-square" />
+  <img src="https://images.unsplash.com/photo-1536104968055-4d61aa56f46a?auto=format&fit=crop&w=2000&q=80" />
+  <img src="https://komarev.com/ghpvc/?username=KnowledgeSeeker101-bit&label=Profile%856Views&color=blue&style=flat-square" />
 </p>
 
 ---
