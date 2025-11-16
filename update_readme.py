@@ -2,6 +2,8 @@ import requests
 from datetime import datetime
 from urllib.parse import quote_plus
 import os
+import feedparser
+import json
 
 # ========================================
 # CUSTOMIZE YOUR PROFILE HERE!
@@ -24,89 +26,208 @@ PROFILE_CONFIG = {
     }
 }
 
-# Dev.to tags to fetch articles from
-DEVTO_TAGS = ["ai", "machinelearning", "python", "datascience", "deeplearning"]
 MAX_ARTICLES = 5
 
 def fetch_devto_articles():
-    # Fetch latest tech articles from Dev.to API
+    # Fetch from Dev.to - NO AUTH REQUIRED
+    print("📡 Fetching from Dev.to...")
     articles = []
     
     try:
-        # Fetch articles for each tag
-        for tag in DEVTO_TAGS[:2]:  # Limit to 2 tags to avoid rate limits
-            url = f"https://dev.to/api/articles?tag={tag}&per_page=3&top=7"
-            response = requests.get(
-                url,
-                headers={
-                    "User-Agent": "GitHub-Actions",
-                    "Accept": "application/json"
-                },
-                timeout=10
-            )
+        # Use latest articles endpoint with top articles
+        url = "https://dev.to/api/articles?per_page=10&top=7"
+        
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "Accept": "application/json"
+        }
+        
+        response = requests.get(url, headers=headers, timeout=15)
+        print(f"   Dev.to status: {response.status_code}")
+        
+        if response.status_code == 200:
+            data = response.json()
+            print(f"   Found {len(data)} articles")
             
-            if response.status_code == 200:
-                data = response.json()
-                for article in data:
-                    if len(articles) >= MAX_ARTICLES:
-                        break
-                    
-                    # Avoid duplicates
-                    if not any(a['id'] == article['id'] for a in articles):
-                        articles.append({
-                            'id': article['id'],
-                            'title': article['title'],
-                            'description': article['description'] or article['title'],
-                            'url': article['url'],
-                            'published': article['published_at'][:10],
-                            'tags': article['tag_list'][:3],
-                            'reading_time': article.get('reading_time_minutes', 5),
-                            'reactions': article.get('public_reactions_count', 0)
-                        })
+            for article in data[:MAX_ARTICLES]:
+                articles.append({
+                    'title': article.get('title', 'Untitled'),
+                    'description': article.get('description', article.get('title', ''))[:200],
+                    'url': article.get('url', '#'),
+                    'published': article.get('published_at', '')[:10],
+                    'tags': article.get('tag_list', [])[:3],
+                    'reactions': article.get('public_reactions_count', 0),
+                    'reading_time': article.get('reading_time_minutes', 5),
+                    'source': 'Dev.to'
+                })
+        else:
+            print(f"   Dev.to returned {response.status_code}")
             
-            if len(articles) >= MAX_ARTICLES:
-                break
-                
     except Exception as e:
-        print(f"Error fetching Dev.to articles: {e}")
+        print(f"   Error with Dev.to: {e}")
     
-    # Sort by reactions/popularity
-    articles.sort(key=lambda x: x['reactions'], reverse=True)
-    return articles[:MAX_ARTICLES]
+    return articles
 
-def fetch_github_trending():
-    # Fetch trending repositories as fallback
+def fetch_hackernews_articles():
+    # Fetch from Hacker News API
+    print("📡 Fetching from Hacker News...")
+    articles = []
+    
     try:
-        url = "https://api.github.com/search/repositories?q=stars:>1000+language:python&sort=stars&order=desc&per_page=3"
+        # Get top stories
         response = requests.get(
-            url,
-            headers={
-                "User-Agent": "GitHub-Actions",
-                "Accept": "application/vnd.github.v3+json"
-            },
+            "https://hacker-news.firebaseio.com/v0/topstories.json",
             timeout=10
         )
         
         if response.status_code == 200:
-            data = response.json()
-            repos = []
-            for repo in data.get('items', [])[:3]:
-                repos.append({
-                    'title': repo['full_name'],
-                    'description': repo['description'] or 'No description',
-                    'url': repo['html_url'],
-                    'stars': repo['stargazers_count'],
-                    'language': repo['language']
-                })
-            return repos
+            story_ids = response.json()[:10]
+            print(f"   Found {len(story_ids)} top stories")
+            
+            for story_id in story_ids[:MAX_ARTICLES]:
+                try:
+                    story_response = requests.get(
+                        f"https://hacker-news.firebaseio.com/v0/item/{story_id}.json",
+                        timeout=5
+                    )
+                    
+                    if story_response.status_code == 200:
+                        story = story_response.json()
+                        
+                        if story.get('type') == 'story' and story.get('url'):
+                            articles.append({
+                                'title': story.get('title', 'Untitled'),
+                                'description': story.get('title', '')[:200],
+                                'url': story.get('url', '#'),
+                                'published': datetime.fromtimestamp(story.get('time', 0)).strftime('%Y-%m-%d'),
+                                'tags': ['tech', 'news'],
+                                'reactions': story.get('score', 0),
+                                'reading_time': 5,
+                                'source': 'Hacker News'
+                            })
+                except Exception as e:
+                    continue
+                    
     except Exception as e:
-        print(f"Error fetching GitHub trending: {e}")
+        print(f"   Error with Hacker News: {e}")
     
-    return []
+    return articles
+
+def fetch_github_trending():
+    # Fetch trending GitHub repositories
+    print("📡 Fetching GitHub Trending...")
+    articles = []
+    
+    try:
+        url = "https://api.github.com/search/repositories"
+        params = {
+            "q": "stars:>1000 language:python created:>2024-01-01",
+            "sort": "stars",
+            "order": "desc",
+            "per_page": MAX_ARTICLES
+        }
+        
+        headers = {
+            "User-Agent": "Mozilla/5.0",
+            "Accept": "application/vnd.github.v3+json"
+        }
+        
+        response = requests.get(url, params=params, headers=headers, timeout=10)
+        print(f"   GitHub status: {response.status_code}")
+        
+        if response.status_code == 200:
+            data = response.json()
+            repos = data.get('items', [])
+            print(f"   Found {len(repos)} repositories")
+            
+            for repo in repos[:MAX_ARTICLES]:
+                articles.append({
+                    'title': repo.get('full_name', 'Untitled'),
+                    'description': repo.get('description', 'No description')[:200],
+                    'url': repo.get('html_url', '#'),
+                    'published': repo.get('created_at', '')[:10],
+                    'tags': [repo.get('language', 'Unknown')],
+                    'reactions': repo.get('stargazers_count', 0),
+                    'reading_time': 0,
+                    'source': 'GitHub'
+                })
+                
+    except Exception as e:
+        print(f"   Error with GitHub: {e}")
+    
+    return articles
+
+def fetch_medium_tech_feed():
+    # Fetch from Medium's public RSS feed
+    print("📡 Fetching from Medium RSS...")
+    articles = []
+    
+    try:
+        # Medium's technology tag RSS feed
+        feed_url = "https://medium.com/feed/tag/technology"
+        feed = feedparser.parse(feed_url)
+        print(f"   Found {len(feed.entries)} Medium articles")
+        
+        for entry in feed.entries[:MAX_ARTICLES]:
+            articles.append({
+                'title': entry.get('title', 'Untitled'),
+                'description': entry.get('summary', '')[:200].replace('<p>', '').replace('</p>', ''),
+                'url': entry.get('link', '#'),
+                'published': entry.get('published', '')[:10],
+                'tags': ['tech', 'medium'],
+                'reactions': 0,
+                'reading_time': 5,
+                'source': 'Medium'
+            })
+            
+    except Exception as e:
+        print(f"   Error with Medium: {e}")
+    
+    return articles
+
+def get_articles():
+    # Try multiple sources and return the first successful one
+    print("\n🔍 Fetching articles from multiple sources...\n")
+    
+    all_sources = [
+        fetch_devto_articles,
+        fetch_hackernews_articles,
+        fetch_github_trending,
+        fetch_medium_tech_feed
+    ]
+    
+    all_articles = []
+    
+    for fetch_func in all_sources:
+        try:
+            articles = fetch_func()
+            if articles:
+                all_articles.extend(articles)
+                print(f"✅ Got {len(articles)} articles from {articles[0]['source']}\n")
+                if len(all_articles) >= MAX_ARTICLES:
+                    break
+        except Exception as e:
+            print(f"❌ Source failed: {e}\n")
+            continue
+    
+    # Return unique articles (based on title)
+    seen_titles = set()
+    unique_articles = []
+    
+    for article in all_articles:
+        if article['title'] not in seen_titles:
+            seen_titles.add(article['title'])
+            unique_articles.append(article)
+            
+            if len(unique_articles) >= MAX_ARTICLES:
+                break
+    
+    print(f"\n📊 Total unique articles: {len(unique_articles)}\n")
+    return unique_articles
 
 def generate_readme():
     config = PROFILE_CONFIG
-    articles = fetch_devto_articles()
+    articles = get_articles()
     now = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
     user = config["github_user"]
     
@@ -154,10 +275,10 @@ I'm passionate about AI and machine learning:
 
 ---
 
-## 📚 Latest Tech Articles
+## 📚 Latest Tech Articles & News
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=header&text=Fresh%20Tech%20Reads&fontSize=35&fontColor=fff&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=header&text=Fresh%20Tech%20Content&fontSize=35&fontColor=fff&animation=twinkling" width="100%"/>
 </div>
 
 > 🔄 Auto-updated every 12 hours | 📅 Last update: **{now}**
@@ -166,10 +287,18 @@ I'm passionate about AI and machine learning:
     
     if articles:
         for idx, article in enumerate(articles, 1):
+            source_badge = f'<img src="https://img.shields.io/badge/Source-{article["source"].replace(" ", "_")}-green?style=flat-square" />'
+            
             tag_badges = " ".join([
-                f'<img src="https://img.shields.io/badge/{tag.replace("-", "--")}-blue?style=flat-square" />'
-                for tag in article["tags"]
+                f'<img src="https://img.shields.io/badge/{tag.replace("-", "--").replace(" ", "_")}-blue?style=flat-square" />'
+                for tag in article.get("tags", [])
             ])
+            
+            reactions_info = ""
+            if article.get("reading_time", 0) > 0:
+                reactions_info = f"⏱️ {article['reading_time']} min read | "
+            if article.get("reactions", 0) > 0:
+                reactions_info += f"{'⭐' if article['source'] == 'GitHub' else '❤️'} {article['reactions']} "
             
             readme += f'''
 <details open>
@@ -177,16 +306,16 @@ I'm passionate about AI and machine learning:
 
 <br/>
 
-{tag_badges}
+{source_badge} {tag_badges}
 
-**Published:** {article["published"]} | ⏱️ {article["reading_time"]} min read | ❤️ {article["reactions"]} reactions
+**Published:** {article["published"]} {("| " + reactions_info) if reactions_info else ""}
 
 **Description:**  
 _{article["description"]}_
 
 <div align="center">
 
-[![Read Article](https://img.shields.io/badge/Read_on_Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)]({article["url"]})
+[![Read More](https://img.shields.io/badge/Read_More-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)]({article["url"]})
 
 </div>
 
@@ -194,16 +323,8 @@ _{article["description"]}_
 
 '''
     else:
-        readme += "\n> ⚠️ No articles available. Showing GitHub trending projects:\n\n"
-        
-        # Fallback to GitHub trending
-        trending = fetch_github_trending()
-        if trending:
-            for idx, repo in enumerate(trending, 1):
-                readme += f'''
-**{idx}. [{repo["title"]}]({repo["url"]})**  
-{repo["description"]}  
-⭐ {repo["stars"]:,} stars | 💻 {repo["language"]}
+        readme += '''
+> ⚠️ Unable to fetch articles at this time. Please check back later!
 
 '''
     
@@ -245,13 +366,18 @@ _{article["description"]}_
     return readme
 
 def main():
-    print("🎨 Generating README...")
+    print("\n" + "="*50)
+    print("🎨 Generating README with Tech Articles")
+    print("="*50 + "\n")
+    
     readme_content = generate_readme()
     
     with open("README.md", "w", encoding="utf-8") as f:
         f.write(readme_content)
     
-    print("✅ README.md generated!")
+    print("\n" + "="*50)
+    print("✅ README.md generated successfully!")
+    print("="*50 + "\n")
 
 if __name__ == "__main__":
     main()
