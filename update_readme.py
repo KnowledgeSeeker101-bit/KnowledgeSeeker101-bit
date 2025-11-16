@@ -1,53 +1,58 @@
 import requests
+import xml.etree.ElementTree as ET
 from datetime import datetime
 from urllib.parse import quote_plus
-import os
 import feedparser
-import json
 
-# ========================================
-# CUSTOMIZE YOUR PROFILE HERE!
-# ========================================
-PROFILE_CONFIG = {
-    "name": "Your Name",
-    "tagline": "AI Researcher | ML Engineer | Open Source Enthusiast",
-    "interests": [
-        "Artificial Intelligence",
-        "Deep Learning", 
-        "Natural Language Processing",
-        "Computer Vision",
-        "MLOps"
-    ],
-    "github_user": os.getenv("GITHUB_USER", "yourusername"),
-    "social": {
-        "linkedin": "your-linkedin",
-        "twitter": "your-twitter",
-        "website": "https://yourwebsite.com"
-    }
-}
-
+ARXIV_API = "http://export.arxiv.org/api/query"
+ARXIV_CATEGORIES = ["cs.AI", "cs.LG"]
 MAX_ARTICLES = 5
 
+def fetch_arxiv():
+    query = " OR ".join(f"cat:{c}" for c in ARXIV_CATEGORIES)
+    params = {
+        "search_query": query,
+        "max_results": 1,
+        "start": 0,
+        "sortBy": "submittedDate",
+        "sortOrder": "descending"
+    }
+    url = ARXIV_API + "?" + "&".join(f"{k}={quote_plus(str(v))}" for k,v in params.items())
+    resp = requests.get(url, headers={"User-Agent":"GitHub-Actions"}, timeout=10)
+    resp.raise_for_status()
+    return resp.text
+
+def parse_arxiv(xml_text):
+    root = ET.fromstring(xml_text)
+    ns = {"atom":"http://www.w3.org/2005/Atom"}
+    entry = root.find("atom:entry", ns)
+    if entry is None: 
+        return None
+    title = entry.find("atom:title", ns).text.strip()
+    summary = entry.find("atom:summary", ns).text.strip().replace("\n"," ")
+    link = entry.find("atom:id", ns).text.strip()
+    aid = link.split("/")[-1]
+    return {
+        "title": title,
+        "summary": summary[:800]+"...",
+        "abs": link,
+        "pdf": f"https://arxiv.org/pdf/{aid}.pdf"
+    }
+
 def fetch_devto_articles():
-    # Fetch from Dev.to - NO AUTH REQUIRED
-    print("📡 Fetching from Dev.to...")
+    print("📡 Fetching Dev.to articles...")
     articles = []
-    
     try:
-        # Use latest articles endpoint with top articles
         url = "https://dev.to/api/articles?per_page=10&top=7"
-        
         headers = {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "User-Agent": "Mozilla/5.0",
             "Accept": "application/json"
         }
-        
         response = requests.get(url, headers=headers, timeout=15)
-        print(f"   Dev.to status: {response.status_code}")
         
         if response.status_code == 200:
             data = response.json()
-            print(f"   Found {len(data)} articles")
+            print(f"   ✔ Found {len(data)} articles")
             
             for article in data[:MAX_ARTICLES]:
                 articles.append({
@@ -60,21 +65,15 @@ def fetch_devto_articles():
                     'reading_time': article.get('reading_time_minutes', 5),
                     'source': 'Dev.to'
                 })
-        else:
-            print(f"   Dev.to returned {response.status_code}")
-            
     except Exception as e:
-        print(f"   Error with Dev.to: {e}")
+        print(f"   ✗ Dev.to error: {e}")
     
     return articles
 
-def fetch_hackernews_articles():
-    # Fetch from Hacker News API
-    print("📡 Fetching from Hacker News...")
+def fetch_hackernews():
+    print("📡 Fetching Hacker News...")
     articles = []
-    
     try:
-        # Get top stories
         response = requests.get(
             "https://hacker-news.firebaseio.com/v0/topstories.json",
             timeout=10
@@ -82,7 +81,6 @@ def fetch_hackernews_articles():
         
         if response.status_code == 200:
             story_ids = response.json()[:10]
-            print(f"   Found {len(story_ids)} top stories")
             
             for story_id in story_ids[:MAX_ARTICLES]:
                 try:
@@ -105,68 +103,23 @@ def fetch_hackernews_articles():
                                 'reading_time': 5,
                                 'source': 'Hacker News'
                             })
-                except Exception as e:
+                            
+                            if len(articles) >= MAX_ARTICLES:
+                                break
+                except:
                     continue
                     
+            print(f"   ✔ Found {len(articles)} stories")
     except Exception as e:
-        print(f"   Error with Hacker News: {e}")
+        print(f"   ✗ Hacker News error: {e}")
     
     return articles
 
-def fetch_github_trending():
-    # Fetch trending GitHub repositories
-    print("📡 Fetching GitHub Trending...")
+def fetch_medium_rss():
+    print("📡 Fetching Medium RSS...")
     articles = []
-    
     try:
-        url = "https://api.github.com/search/repositories"
-        params = {
-            "q": "stars:>1000 language:python created:>2024-01-01",
-            "sort": "stars",
-            "order": "desc",
-            "per_page": MAX_ARTICLES
-        }
-        
-        headers = {
-            "User-Agent": "Mozilla/5.0",
-            "Accept": "application/vnd.github.v3+json"
-        }
-        
-        response = requests.get(url, params=params, headers=headers, timeout=10)
-        print(f"   GitHub status: {response.status_code}")
-        
-        if response.status_code == 200:
-            data = response.json()
-            repos = data.get('items', [])
-            print(f"   Found {len(repos)} repositories")
-            
-            for repo in repos[:MAX_ARTICLES]:
-                articles.append({
-                    'title': repo.get('full_name', 'Untitled'),
-                    'description': repo.get('description', 'No description')[:200],
-                    'url': repo.get('html_url', '#'),
-                    'published': repo.get('created_at', '')[:10],
-                    'tags': [repo.get('language', 'Unknown')],
-                    'reactions': repo.get('stargazers_count', 0),
-                    'reading_time': 0,
-                    'source': 'GitHub'
-                })
-                
-    except Exception as e:
-        print(f"   Error with GitHub: {e}")
-    
-    return articles
-
-def fetch_medium_tech_feed():
-    # Fetch from Medium's public RSS feed
-    print("📡 Fetching from Medium RSS...")
-    articles = []
-    
-    try:
-        # Medium's technology tag RSS feed
-        feed_url = "https://medium.com/feed/tag/technology"
-        feed = feedparser.parse(feed_url)
-        print(f"   Found {len(feed.entries)} Medium articles")
+        feed = feedparser.parse("https://medium.com/feed/tag/technology")
         
         for entry in feed.entries[:MAX_ARTICLES]:
             articles.append({
@@ -174,26 +127,23 @@ def fetch_medium_tech_feed():
                 'description': entry.get('summary', '')[:200].replace('<p>', '').replace('</p>', ''),
                 'url': entry.get('link', '#'),
                 'published': entry.get('published', '')[:10],
-                'tags': ['tech', 'medium'],
+                'tags': ['tech'],
                 'reactions': 0,
                 'reading_time': 5,
                 'source': 'Medium'
             })
-            
+        
+        print(f"   ✔ Found {len(articles)} articles")
     except Exception as e:
-        print(f"   Error with Medium: {e}")
+        print(f"   ✗ Medium error: {e}")
     
     return articles
 
-def get_articles():
-    # Try multiple sources and return the first successful one
-    print("\n🔍 Fetching articles from multiple sources...\n")
-    
+def get_tech_articles():
     all_sources = [
         fetch_devto_articles,
-        fetch_hackernews_articles,
-        fetch_github_trending,
-        fetch_medium_tech_feed
+        fetch_hackernews,
+        fetch_medium_rss
     ]
     
     all_articles = []
@@ -203,14 +153,11 @@ def get_articles():
             articles = fetch_func()
             if articles:
                 all_articles.extend(articles)
-                print(f"✅ Got {len(articles)} articles from {articles[0]['source']}\n")
                 if len(all_articles) >= MAX_ARTICLES:
                     break
-        except Exception as e:
-            print(f"❌ Source failed: {e}\n")
+        except:
             continue
     
-    # Return unique articles (based on title)
     seen_titles = set()
     unique_articles = []
     
@@ -222,162 +169,86 @@ def get_articles():
             if len(unique_articles) >= MAX_ARTICLES:
                 break
     
-    print(f"\n📊 Total unique articles: {len(unique_articles)}\n")
     return unique_articles
 
-def generate_readme():
-    config = PROFILE_CONFIG
-    articles = get_articles()
+def main():
+    print("\n🚀 Generating README...\n")
+    
+    # Fetch arXiv paper
+    xml = fetch_arxiv()
+    arxiv_paper = parse_arxiv(xml)
+    
+    # Fetch tech articles
+    tech_articles = get_tech_articles()
+    
     now = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
-    user = config["github_user"]
+    banner = "https://svg-banners.vercel.app/api?type=luminance&text1=AI+Research+Digest&width=900&height=200"
     
-    readme = f'''<div align="center">
+    md = f"""<p align="center"><img src="{banner}" /></p>
 
-# 👋 Hi, I'm {config["name"]}
+# 🧠 Latest AI Research (arXiv)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines={quote_plus(config["tagline"])}" alt="Typing SVG" />
+_Last updated: {now}_
 
-<br/>
+"""
+    
+    if arxiv_paper:
+        md += f"""### **[{arxiv_paper['title']}]({arxiv_paper['abs']})**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/{config["social"].get("linkedin", "")})
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/{config["social"].get("twitter", "")})
-[![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]({config["social"].get("website", "#")})
+**Abstract:**  
+{arxiv_paper['summary']}
 
-</div>
+📄 [Read Paper]({arxiv_paper['abs']})  
+📘 [PDF]({arxiv_paper['pdf']})
 
 ---
 
-## 🚀 About Me
-
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username={user}&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" />
-
-I'm passionate about AI and machine learning:
-
-'''
+"""
     
-    interest_emojis = ["🤖", "🧠", "💬", "👁️", "⚙️", "📊", "🔬", "💡"]
-    for i, interest in enumerate(config["interests"]):
-        emoji = interest_emojis[i % len(interest_emojis)]
-        readme += f"- {emoji} **{interest}**\n"
+    # Add tech articles section
+    md += """## 📚 Latest Tech Articles & News
+
+> 🔄 Auto-updated every 12 hours
+
+"""
     
-    readme += f'''
-
-<br clear="right"/>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username={user}&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user={user}&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1"/>
-</div>
-
----
-
-## 📚 Latest Tech Articles & News
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=header&text=Fresh%20Tech%20Content&fontSize=35&fontColor=fff&animation=twinkling" width="100%"/>
-</div>
-
-> 🔄 Auto-updated every 12 hours | 📅 Last update: **{now}**
-
-'''
-    
-    if articles:
-        for idx, article in enumerate(articles, 1):
-            source_badge = f'<img src="https://img.shields.io/badge/Source-{article["source"].replace(" ", "_")}-green?style=flat-square" />'
-            
-            tag_badges = " ".join([
-                f'<img src="https://img.shields.io/badge/{tag.replace("-", "--").replace(" ", "_")}-blue?style=flat-square" />'
-                for tag in article.get("tags", [])
-            ])
+    if tech_articles:
+        for idx, article in enumerate(tech_articles, 1):
+            source_badge = f"`{article['source']}`"
+            tag_badges = " ".join([f"`{tag}`" for tag in article.get('tags', [])[:3]])
             
             reactions_info = ""
-            if article.get("reading_time", 0) > 0:
-                reactions_info = f"⏱️ {article['reading_time']} min read | "
-            if article.get("reactions", 0) > 0:
-                reactions_info += f"{'⭐' if article['source'] == 'GitHub' else '❤️'} {article['reactions']} "
+            if article.get('reading_time', 0) > 0:
+                reactions_info = f"⏱️ {article['reading_time']} min read"
+            if article.get('reactions', 0) > 0:
+                if reactions_info:
+                    reactions_info += " | "
+                reactions_info += f"{'⭐' if article['source'] == 'GitHub' else '❤️'} {article['reactions']}"
             
-            readme += f'''
-<details open>
-<summary><b>📄 {idx}. {article["title"]}</b></summary>
-
-<br/>
+            md += f"""
+<details>
+<summary><b>{idx}. {article['title']}</b></summary>
 
 {source_badge} {tag_badges}
 
-**Published:** {article["published"]} {("| " + reactions_info) if reactions_info else ""}
+**Published:** {article['published']} {('| ' + reactions_info) if reactions_info else ''}
 
-**Description:**  
-_{article["description"]}_
+_{article['description']}_
 
-<div align="center">
-
-[![Read More](https://img.shields.io/badge/Read_More-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)]({article["url"]})
-
-</div>
+🔗 [Read More]({article['url']})
 
 </details>
 
-'''
+"""
     else:
-        readme += '''
-> ⚠️ Unable to fetch articles at this time. Please check back later!
-
-'''
+        md += "\n> ⚠️ No articles available at this time.\n\n"
     
-    readme += f'''
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username={user}&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=C9D1D9" width="100%"/>
-</div>
-
----
-
-<div align="center">
-
-### 💬 Let's Connect!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
-
-**⭐️ From [{user}](https://github.com/{user})**
-
-</div>
-'''
-    
-    return readme
-
-def main():
-    print("\n" + "="*50)
-    print("🎨 Generating README with Tech Articles")
-    print("="*50 + "\n")
-    
-    readme_content = generate_readme()
+    md += "\n---\n"
     
     with open("README.md", "w", encoding="utf-8") as f:
-        f.write(readme_content)
+        f.write(md)
     
-    print("\n" + "="*50)
-    print("✅ README.md generated successfully!")
-    print("="*50 + "\n")
+    print("\n✅ README.md generated successfully!\n")
 
 if __name__ == "__main__":
     main()
