@@ -1,17 +1,22 @@
 name: Auto Update README with AI Research & Tech Articles
+
 on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
+
 permissions:
   contents: write
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # IMPORTANT: allow rebase
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -26,8 +31,14 @@ jobs:
 
       - name: Commit & Push
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Prevent push rejection
+          git pull --rebase --autostash
+
           git add README.md
-          git commit -m "Auto update $(date +'%Y-%m-%d %H:%M UTC')" || echo "No changes"
+          git commit -m "🤖 Auto-update $(date +'%Y-%m-%d %H:%M UTC')" || exit 0
+
+          # Rebase-safe push
           git push
