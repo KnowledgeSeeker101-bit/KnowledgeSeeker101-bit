@@ -1,5 +1,4 @@
 import requests
-import xml.etree.ElementTree as ET
 from datetime import datetime
 from urllib.parse import quote_plus
 import os
@@ -25,70 +24,89 @@ PROFILE_CONFIG = {
     }
 }
 
-ARXIV_CATEGORIES = ["cs.AI", "cs.LG", "cs.CL", "cs.CV", "stat.ML"]
+# Dev.to tags to fetch articles from
+DEVTO_TAGS = ["ai", "machinelearning", "python", "datascience", "deeplearning"]
 MAX_ARTICLES = 5
 
-def fetch_arxiv_articles():
-    query = " OR ".join(f"cat:{c}" for c in ARXIV_CATEGORIES)
-    params = {
-        "search_query": query,
-        "max_results": MAX_ARTICLES,
-        "sortBy": "submittedDate",
-        "sortOrder": "descending"
-    }
-    
-    url = "http://export.arxiv.org/api/query?" + "&".join(
-        f"{k}={quote_plus(str(v))}" for k, v in params.items()
-    )
+def fetch_devto_articles():
+    # Fetch latest tech articles from Dev.to API
+    articles = []
     
     try:
-        response = requests.get(url, headers={"User-Agent": "GitHub-Actions"}, timeout=10)
-        response.raise_for_status()
-        return parse_arxiv_response(response.text)
-    except Exception as e:
-        print(f"Error fetching arXiv: {e}")
-        return []
-
-def parse_arxiv_response(xml_text):
-    articles = []
-    root = ET.fromstring(xml_text)
-    ns = {"atom": "http://www.w3.org/2005/Atom"}
-    
-    for entry in root.findall("atom:entry", ns):
-        try:
-            title_elem = entry.find("atom:title", ns)
-            summary_elem = entry.find("atom:summary", ns)
-            link_elem = entry.find("atom:id", ns)
-            published_elem = entry.find("atom:published", ns)
+        # Fetch articles for each tag
+        for tag in DEVTO_TAGS[:2]:  # Limit to 2 tags to avoid rate limits
+            url = f"https://dev.to/api/articles?tag={tag}&per_page=3&top=7"
+            response = requests.get(
+                url,
+                headers={
+                    "User-Agent": "GitHub-Actions",
+                    "Accept": "application/json"
+                },
+                timeout=10
+            )
             
-            if not all([title_elem, summary_elem, link_elem, published_elem]):
-                continue
+            if response.status_code == 200:
+                data = response.json()
+                for article in data:
+                    if len(articles) >= MAX_ARTICLES:
+                        break
+                    
+                    # Avoid duplicates
+                    if not any(a['id'] == article['id'] for a in articles):
+                        articles.append({
+                            'id': article['id'],
+                            'title': article['title'],
+                            'description': article['description'] or article['title'],
+                            'url': article['url'],
+                            'published': article['published_at'][:10],
+                            'tags': article['tag_list'][:3],
+                            'reading_time': article.get('reading_time_minutes', 5),
+                            'reactions': article.get('public_reactions_count', 0)
+                        })
+            
+            if len(articles) >= MAX_ARTICLES:
+                break
                 
-            title = title_elem.text.strip().replace("\n", " ")
-            summary = summary_elem.text.strip().replace("\n", " ")
-            link = link_elem.text.strip()
-            arxiv_id = link.split("/")[-1]
-            published = published_elem.text[:10]
-            
-            categories = [cat.attrib.get("term", "") for cat in entry.findall("atom:category", ns)]
-            
-            articles.append({
-                "title": title,
-                "summary": summary[:250] + "..." if len(summary) > 250 else summary,
-                "link": link,
-                "pdf": f"https://arxiv.org/pdf/{arxiv_id}.pdf",
-                "published": published,
-                "categories": categories[:3]
-            })
-        except Exception as e:
-            print(f"Error parsing entry: {e}")
-            continue
+    except Exception as e:
+        print(f"Error fetching Dev.to articles: {e}")
     
-    return articles
+    # Sort by reactions/popularity
+    articles.sort(key=lambda x: x['reactions'], reverse=True)
+    return articles[:MAX_ARTICLES]
+
+def fetch_github_trending():
+    # Fetch trending repositories as fallback
+    try:
+        url = "https://api.github.com/search/repositories?q=stars:>1000+language:python&sort=stars&order=desc&per_page=3"
+        response = requests.get(
+            url,
+            headers={
+                "User-Agent": "GitHub-Actions",
+                "Accept": "application/vnd.github.v3+json"
+            },
+            timeout=10
+        )
+        
+        if response.status_code == 200:
+            data = response.json()
+            repos = []
+            for repo in data.get('items', [])[:3]:
+                repos.append({
+                    'title': repo['full_name'],
+                    'description': repo['description'] or 'No description',
+                    'url': repo['html_url'],
+                    'stars': repo['stargazers_count'],
+                    'language': repo['language']
+                })
+            return repos
+    except Exception as e:
+        print(f"Error fetching GitHub trending: {e}")
+    
+    return []
 
 def generate_readme():
     config = PROFILE_CONFIG
-    articles = fetch_arxiv_articles()
+    articles = fetch_devto_articles()
     now = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
     user = config["github_user"]
     
@@ -136,10 +154,10 @@ I'm passionate about AI and machine learning:
 
 ---
 
-## 📚 Latest AI Research Feed
+## 📚 Latest Tech Articles
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=header&text=Fresh%20AI%20Articles&fontSize=35&fontColor=fff&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=header&text=Fresh%20Tech%20Reads&fontSize=35&fontColor=fff&animation=twinkling" width="100%"/>
 </div>
 
 > 🔄 Auto-updated every 12 hours | 📅 Last update: **{now}**
@@ -148,9 +166,9 @@ I'm passionate about AI and machine learning:
     
     if articles:
         for idx, article in enumerate(articles, 1):
-            category_badges = " ".join([
-                f'<img src="https://img.shields.io/badge/{cat.replace("-", "--")}-blue?style=flat-square" />'
-                for cat in article["categories"]
+            tag_badges = " ".join([
+                f'<img src="https://img.shields.io/badge/{tag.replace("-", "--")}-blue?style=flat-square" />'
+                for tag in article["tags"]
             ])
             
             readme += f'''
@@ -159,17 +177,16 @@ I'm passionate about AI and machine learning:
 
 <br/>
 
-{category_badges}
+{tag_badges}
 
-**Published:** {article["published"]}
+**Published:** {article["published"]} | ⏱️ {article["reading_time"]} min read | ❤️ {article["reactions"]} reactions
 
-**Abstract:**  
-_{article["summary"]}_
+**Description:**  
+_{article["description"]}_
 
 <div align="center">
 
-[![Read Paper](https://img.shields.io/badge/Read_Paper-arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)]({article["link"]})
-[![Download PDF](https://img.shields.io/badge/Download_PDF-6366F1?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)]({article["pdf"]})
+[![Read Article](https://img.shields.io/badge/Read_on_Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)]({article["url"]})
 
 </div>
 
@@ -177,7 +194,18 @@ _{article["summary"]}_
 
 '''
     else:
-        readme += "\n> ⚠️ No articles available\n\n"
+        readme += "\n> ⚠️ No articles available. Showing GitHub trending projects:\n\n"
+        
+        # Fallback to GitHub trending
+        trending = fetch_github_trending()
+        if trending:
+            for idx, repo in enumerate(trending, 1):
+                readme += f'''
+**{idx}. [{repo["title"]}]({repo["url"]})**  
+{repo["description"]}  
+⭐ {repo["stars"]:,} stars | 💻 {repo["language"]}
+
+'''
     
     readme += f'''
 ---
