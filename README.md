@@ -2,15 +2,15 @@
 
 # Latest AI Research (arXiv)
 
-_Last updated: 2025-11-17 01:51 UTC_
+_Last updated: 2025-11-17 12:49 UTC_
 
-### **[Black-Box On-Policy Distillation of Large Language Models](http://arxiv.org/abs/2511.10643v1)**
+### **[Optimizing Mixture of Block Attention](http://arxiv.org/abs/2511.11571v1)**
 
 **Abstract:**  
-Black-box distillation creates student large language models (LLMs) by learning from a proprietary teacher model's text outputs alone, without access to its internal logits or parameters. In this work, we introduce Generative Adversarial Distillation (GAD), which enables on-policy and black-box distillation. GAD frames the student LLM as a generator and trains a discriminator to distinguish its responses from the teacher LLM's, creating a minimax game. The discriminator acts as an on-policy reward model that co-evolves with the student, providing stable, adaptive feedback. Experimental results show that GAD consistently surpasses the commonly used sequence-level knowledge distillation. In particular, Qwen2.5-14B-Instruct (student) trained with GAD becomes comparable to its teacher, GPT-5-C...
+Mixture of Block Attention (MoBA) (Lu et al., 2025) is a promising building block for efficiently processing long contexts in LLMs by enabling queries to sparsely attend to a small subset of key-value blocks, drastically reducing computational cost. However, the design principles governing MoBA's performance are poorly understood, and it lacks an efficient GPU implementation, hindering its practical adoption. In this paper, we first develop a statistical model to analyze MoBA's underlying mechanics. Our model reveals that performance critically depends on the router's ability to accurately distinguish relevant from irrelevant blocks based on query-key affinities. We derive a signal-to-noise ratio that formally connects architectural parameters to this retrieval accuracy. Guided by our anal...
 
-📄 [Read Paper](http://arxiv.org/abs/2511.10643v1)  
-📘 [PDF](https://arxiv.org/pdf/2511.10643v1.pdf)
+📄 [Read Paper](http://arxiv.org/abs/2511.11571v1)  
+📘 [PDF](https://arxiv.org/pdf/2511.11571v1.pdf)
 
 ---
 
@@ -22,7 +22,7 @@ Black-box distillation creates student large language models (LLMs) by learning 
 
 `Dev.to` `webdev` `programming` `productivity`
 
-**Published:** 2025-11-13 | 3 min read | ❤️ 117
+**Published:** 2025-11-13 | 3 min read | ❤️ 122
 
 _Everyone says learning to code is fun. They talk about “building cool projects,” “landing your first..._
 
@@ -36,7 +36,7 @@ _Everyone says learning to code is fun. They talk about “building cool project
 
 `Dev.to` `ai` `career` `programming`
 
-**Published:** 2025-11-13 | 9 min read | ❤️ 44
+**Published:** 2025-11-13 | 9 min read | ❤️ 48
 
 _I just read a stat that made me sit up straight.  By 2026 (well, it's happening), ninety percent of..._
 
@@ -50,7 +50,7 @@ _I just read a stat that made me sit up straight.  By 2026 (well, it's happening
 
 `Dev.to` `community` `forem` `ai`
 
-**Published:** 2025-11-13 | 2 min read | ❤️ 146
+**Published:** 2025-11-13 | 2 min read | ❤️ 151
 
 _We're happy to roll out a new feature today: Prompt-driven image generation, built directly into the..._
 
@@ -64,7 +64,7 @@ _We're happy to roll out a new feature today: Prompt-driven image generation, bu
 
 `Dev.to` `frontend` `javascript` `css`
 
-**Published:** 2025-11-12 | 5 min read | ❤️ 83
+**Published:** 2025-11-12 | 5 min read | ❤️ 86
 
 _Setting the Stage   Ever wondered why the features your favorite product promises often take..._
 
