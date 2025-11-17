@@ -2,7 +2,7 @@
 
 # Latest AI Research (arXiv)
 
-_Last updated: 2025-11-16 18:48 UTC_
+_Last updated: 2025-11-17 01:51 UTC_
 
 ### **[Black-Box On-Policy Distillation of Large Language Models](http://arxiv.org/abs/2511.10643v1)**
 
@@ -22,7 +22,7 @@ Black-box distillation creates student large language models (LLMs) by learning 
 
 `Dev.to` `webdev` `programming` `productivity`
 
-**Published:** 2025-11-13 | 3 min read | ❤️ 114
+**Published:** 2025-11-13 | 3 min read | ❤️ 117
 
 _Everyone says learning to code is fun. They talk about “building cool projects,” “landing your first..._
 
@@ -32,7 +32,21 @@ _Everyone says learning to code is fun. They talk about “building cool project
 
 
 <details>
-<summary><b>2. Cover Image Generation Now an Option in the DEV Editor</b></summary>
+<summary><b>2. "2026", AI Users vs The Unemployed.</b></summary>
+
+`Dev.to` `ai` `career` `programming`
+
+**Published:** 2025-11-13 | 9 min read | ❤️ 44
+
+_I just read a stat that made me sit up straight.  By 2026 (well, it's happening), ninety percent of..._
+
+🔗 [Read More](https://dev.to/elvissautet/2026-ai-users-vs-the-unemployed-3jk4)
+
+</details>
+
+
+<details>
+<summary><b>3. Cover Image Generation Now an Option in the DEV Editor</b></summary>
 
 `Dev.to` `community` `forem` `ai`
 
@@ -46,11 +60,11 @@ _We're happy to roll out a new feature today: Prompt-driven image generation, bu
 
 
 <details>
-<summary><b>3. How I Built a Tiny Tool That Makes Responsive Design Feel Effortless</b></summary>
+<summary><b>4. How I Built a Tiny Tool That Makes Responsive Design Feel Effortless</b></summary>
 
 `Dev.to` `frontend` `javascript` `css`
 
-**Published:** 2025-11-12 | 5 min read | ❤️ 82
+**Published:** 2025-11-12 | 5 min read | ❤️ 83
 
 _Setting the Stage   Ever wondered why the features your favorite product promises often take..._
 
@@ -60,7 +74,7 @@ _Setting the Stage   Ever wondered why the features your favorite product promis
 
 
 <details>
-<summary><b>4. How I Built a "Community Prayer Quilt" in 5 Minutes</b></summary>
+<summary><b>5. How I Built a "Community Prayer Quilt" in 5 Minutes</b></summary>
 
 `Dev.to` `ai` `webdev` `programming`
 
@@ -69,20 +83,6 @@ _Setting the Stage   Ever wondered why the features your favorite product promis
 _Stack: Google AI Studio + Google Sheets + Google Forms + Gemini 2.5 Flash-Lite   We’ve all..._
 
 🔗 [Read More](https://dev.to/googleai/how-i-built-a-community-prayer-quilt-in-5-minutes-5afk)
-
-</details>
-
-
-<details>
-<summary><b>5. Top 7 Featured DEV Posts of the Week</b></summary>
-
-`Dev.to` `top7` `discuss`
-
-**Published:** 2025-11-11 | 2 min read | ❤️ 44
-
-_Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the..._
-
-🔗 [Read More](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2ah)
 
 </details>
 
