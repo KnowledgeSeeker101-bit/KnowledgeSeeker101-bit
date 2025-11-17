@@ -1,88 +1,115 @@
-<p align="center"><img src="https://svg-banners.vercel.app/api?type=luminance&text1=AI+Research+Digest&width=900&height=200" /></p>
+<!-- ======================= -->
+<!--      PREMIUM SVG BANNER  -->
+<!-- ======================= -->
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=i%20am%20Knowledge_Seeker101&width=800&height=200" alt="Profile Banner" />
+</p>
 
-# Latest AI Research (arXiv)
+<!-- ======================= -->
+<!--     HEADER / TYPING     -->
+<!-- ======================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=26&duration=3500&pause=1200&color=4C8BFF&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;Speech+%26+Language+AI+Specialist;NLP+%7C+Speech+Synthesis+%7C+Geospatial+AI;Building+AI+for+African+Languages" />
+</p>
 
-_Last updated: 2025-11-17 12:49 UTC_
-
-### **[Optimizing Mixture of Block Attention](http://arxiv.org/abs/2511.11571v1)**
-
-**Abstract:**  
-Mixture of Block Attention (MoBA) (Lu et al., 2025) is a promising building block for efficiently processing long contexts in LLMs by enabling queries to sparsely attend to a small subset of key-value blocks, drastically reducing computational cost. However, the design principles governing MoBA's performance are poorly understood, and it lacks an efficient GPU implementation, hindering its practical adoption. In this paper, we first develop a statistical model to analyze MoBA's underlying mechanics. Our model reveals that performance critically depends on the router's ability to accurately distinguish relevant from irrelevant blocks based on query-key affinities. We derive a signal-to-noise ratio that formally connects architectural parameters to this retrieval accuracy. Guided by our anal...
-
-📄 [Read Paper](http://arxiv.org/abs/2511.11571v1)  
-📘 [PDF](https://arxiv.org/pdf/2511.11571v1.pdf)
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Low%20Resource%20AI-blue?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=KnowledgeSeeker101-bit&label=Profile%20Views&color=blue&style=flat-square" />
+</p>
 
 ---
 
-## Latest Tech Articles & News
+# 👋 About Me
 
+I'm a **Machine Learning Engineer** focused on building impactful AI solutions for **low-resource African languages**, specialising in:
 
-<details>
-<summary><b>1. The Hard Truth About Learning to Code (That No One Tells You)</b></summary>
+- **Speech Technologies** (ASR, TTS, STS)  
+- **Natural Language Processing**  
+- **Geospatial & Computer Vision ML**  
+- **Health, Agriculture & Climate ML**  
 
-`Dev.to` `webdev` `programming` `productivity`
+🎧 Currently building **Shona & Twi Speech-to-Speech models**  
+🤝 Collaborating with **Duke Congo (CodeJoe)**  
+📬 Email: **nashaa182@gmail.com**  
+🔗 LinkedIn: https://www.linkedin.com/in/nyashadzaishe-masvongo-b67698254/  
 
-**Published:** 2025-11-13 | 3 min read | ❤️ 122
+---
 
-_Everyone says learning to code is fun. They talk about “building cool projects,” “landing your first..._
+# 🚀 Featured Project  
+### **VoxAfrica — Shona Text-to-Speech (TTS)**  
+High-quality, open-source dataset links for Bantu languages.
 
-🔗 [Read More](https://dev.to/hadil/the-hard-truth-about-learning-to-code-that-no-one-tells-you-15c1)
+👉 **Repo:** https://github.com/SeViVI-Tese/voxAfrica
 
-</details>
+---
 
+# 🏆 Competition Excellence (Zindi Africa)
 
-<details>
-<summary><b>2. "2026", AI Users vs The Unemployed.</b></summary>
+Consistently Top **1–10%**, across NLP, CV, forecasting, and health ML.
 
-`Dev.to` `ai` `career` `programming`
+| Competition | Rank | Medal | Summary |
+|------------|------|--------|---------|
+| Kenya Clinical Reasoning | **3/387** | 🥇 | NLP reasoning model |
+| Barbados Plot Automation | **8/154** | — | OCR + Geospatial CV |
+| MPEG-G Microbiome | **6/73** | 🥇 | Deep learning on federated data |
+| CGIAR Root Volume | **15/245** | 🥇 | CV underground scanning |
+| IBM Hydropower | **23/444** | 🥇 | Climate & energy forecasting |
+| Amini Soil | **29/308** | 🥇 | EO nutrient modelling |
+| Côte d'Ivoire Agriculture | **28/143** | 🥈 | Crop pixel classification |
 
-**Published:** 2025-11-13 | 9 min read | ❤️ 48
+---
 
-_I just read a stat that made me sit up straight.  By 2026 (well, it's happening), ninety percent of..._
+# 🛠️ Technical Skills
 
-🔗 [Read More](https://dev.to/elvissautet/2026-ai-users-vs-the-unemployed-3jk4)
+### Languages  
+<p><img src="https://skillicons.dev/icons?i=python,bash,js" /></p>
 
-</details>
+### ML Frameworks  
+<p><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" /></p>
 
+### Tools  
+<p><img src="https://skillicons.dev/icons?i=git,github,docker,linux" /></p>
 
-<details>
-<summary><b>3. Cover Image Generation Now an Option in the DEV Editor</b></summary>
+### Specialisations  
+- Speech: TTS, ASR, STS  
+- NLP: tokenisation, transformers, finetuning  
+- CV & Geospatial ML  
+- Bioinformatics & climate modelling  
 
-`Dev.to` `community` `forem` `ai`
+---
 
-**Published:** 2025-11-13 | 2 min read | ❤️ 151
+# 📌 Pinned Project  
+<p align="center">
+  <a href="https://github.com/SeViVI-Tese/voxAfrica">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SeViVI-Tese&repo=voxAfrica&theme=tokyonight" />
+  </a>
+</p>
 
-_We're happy to roll out a new feature today: Prompt-driven image generation, built directly into the..._
+---
 
-🔗 [Read More](https://dev.to/devteam/cover-image-generation-now-an-option-in-the-dev-editor-1nld)
+# 📊 GitHub Stats
 
-</details>
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=KnowledgeSeeker101-bit&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnowledgeSeeker101-bit&layout=compact&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KnowledgeSeeker101-bit&theme=tokyonight" />
+</p>
 
-<details>
-<summary><b>4. How I Built a Tiny Tool That Makes Responsive Design Feel Effortless</b></summary>
+---
 
-`Dev.to` `frontend` `javascript` `css`
+# 💡 Fun Fact  
+I build **AI for people and languages often overlooked by the global AI ecosystem.**  
+*Impact > hype.*
 
-**Published:** 2025-11-12 | 5 min read | ❤️ 86
+---
 
-_Setting the Stage   Ever wondered why the features your favorite product promises often take..._
+<!-- AUTO-UPDATE-START -->
+# 📰 Latest AI & Tech Articles
 
-🔗 [Read More](https://dev.to/olawalethefirst/how-i-built-a-tiny-tool-that-makes-responsive-design-feel-effortless-4caj)
+_This section auto-updates every 12 hours_
 
-</details>
-
-
-<details>
-<summary><b>5. How I Built a "Community Prayer Quilt" in 5 Minutes</b></summary>
-
-`Dev.to` `ai` `webdev` `programming`
-
-**Published:** 2025-11-12 | 3 min read | ❤️ 32
-
-_Stack: Google AI Studio + Google Sheets + Google Forms + Gemini 2.5 Flash-Lite   We’ve all..._
-
-🔗 [Read More](https://dev.to/googleai/how-i-built-a-community-prayer-quilt-in-5-minutes-5afk)
-
-</details>
-
+Loading articles...
+<!-- AUTO-UPDATE-END -->
