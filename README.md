@@ -109,7 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_This section auto-updates every 12 hours_
+_Last updated: 2025-11-17 22:23 UTC_
 
-Loading articles...
+### 🔬 Latest AI Research
+**[Optimizing Mixture of Block Attention](http://arxiv.org/abs/2511.11571v1)**  
+_Mixture of Block Attention (MoBA) (Lu et al., 2025) is a promising building block for efficiently processing long contexts in LLMs by enabling queries to sparsely attend to a small subset of key-value..._
+
+### 💻 Trending Tech
+1. **[Compiling Ruby to Machine Language](https://patshaughnessy.net/2025/11/17/compiling-ruby-to-machine-language)** (⬆️ 99)
+2. **[Show HN: I built a synth for my daughter](https://bitsnpieces.dev/posts/a-synth-for-my-daughter/)** (⬆️ 828)
+3. **["One Student One Chip" Course Homepage](https://ysyx.oscc.cc/docs/en/)** (⬆️ 65)
 <!-- AUTO-UPDATE-END -->
