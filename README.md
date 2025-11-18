@@ -1,122 +1,88 @@
-<!-- ======================= -->
-<!--      PREMIUM SVG BANNER  -->
-<!-- ======================= -->
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=i%20am%20Knowledge_Seeker101&width=800&height=200" alt="Profile Banner" />
-</p>
+<p align="center"><img src="https://svg-banners.vercel.app/api?type=luminance&text1=AI+Research+Digest&width=900&height=200" /></p>
 
-<!-- ======================= -->
-<!--     HEADER / TYPING     -->
-<!-- ======================= -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=26&duration=3500&pause=1200&color=4C8BFF&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;Speech+%26+Language+AI+Specialist;NLP+%7C+Speech+Synthesis+%7C+Geospatial+AI;Building+AI+for+African+Languages" />
-</p>
+# Latest AI Research (arXiv)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Low%20Resource%20AI-blue?style=flat-square" />
-  <img src="https://komarev.com/ghpvc/?username=KnowledgeSeeker101-bit&label=Profile%20Views&color=blue&style=flat-square" />
-</p>
+_Last updated: 2025-11-18 12:49 UTC_
+
+### **[Scaling Spatial Intelligence with Multimodal Foundation Models](http://arxiv.org/abs/2511.13719v1)**
+
+**Abstract:**  
+Despite remarkable progress, multimodal foundation models still exhibit surprising deficiencies in spatial intelligence. In this work, we explore scaling up multimodal foundation models to cultivate spatial intelligence within the SenseNova-SI family, built upon established multimodal foundations including visual understanding models (i.e., Qwen3-VL and InternVL3) and unified understanding and generation models (i.e., Bagel). We take a principled approach to constructing high-performing and robust spatial intelligence by systematically curating SenseNova-SI-8M: eight million diverse data samples under a rigorous taxonomy of spatial capabilities. SenseNova-SI demonstrates unprecedented performance across a broad range of spatial intelligence benchmarks: 68.7% on VSI-Bench, 43.3% on MMSI, 85...
+
+📄 [Read Paper](http://arxiv.org/abs/2511.13719v1)  
+📘 [PDF](https://arxiv.org/pdf/2511.13719v1.pdf)
 
 ---
 
-# 👋 About Me
+## Latest Tech Articles & News
 
-I'm a **Machine Learning Engineer** focused on building impactful AI solutions for **low-resource African languages**, specialising in:
 
-- **Speech Technologies** (ASR, TTS, STS)  
-- **Natural Language Processing**  
-- **Geospatial & Computer Vision ML**  
-- **Health, Agriculture & Climate ML**  
+<details>
+<summary><b>1. The Hard Truth About Learning to Code (That No One Tells You)</b></summary>
 
-🎧 Currently building **Shona & Twi Speech-to-Speech models**  
-🤝 Collaborating with **Duke Congo (CodeJoe)**  
-📬 Email: **nashaa182@gmail.com**  
-🔗 LinkedIn: https://www.linkedin.com/in/nyashadzaishe-masvongo-b67698254/  
+`Dev.to` `webdev` `programming` `productivity`
 
----
+**Published:** 2025-11-13 | 3 min read | ❤️ 136
 
-# 🚀 Featured Project  
-### **VoxAfrica — Shona Text-to-Speech (TTS)**  
-High-quality, open-source dataset links for Bantu languages.
+_Everyone says learning to code is fun. They talk about “building cool projects,” “landing your first..._
 
-👉 **Repo:** https://github.com/SeViVI-Tese/voxAfrica
+🔗 [Read More](https://dev.to/hadil/the-hard-truth-about-learning-to-code-that-no-one-tells-you-15c1)
 
----
+</details>
 
-# 🏆 Competition Excellence (Zindi Africa)
 
-Consistently Top **1–10%**, across NLP, CV, forecasting, and health ML.
+<details>
+<summary><b>2. Cover Image Generation Now an Option in the DEV Editor</b></summary>
 
-| Competition | Rank | Medal | Summary |
-|------------|------|--------|---------|
-| Kenya Clinical Reasoning | **3/387** | 🥇 | NLP reasoning model |
-| Barbados Plot Automation | **8/154** | — | OCR + Geospatial CV |
-| MPEG-G Microbiome | **6/73** | 🥇 | Deep learning on federated data |
-| CGIAR Root Volume | **15/245** | 🥇 | CV underground scanning |
-| IBM Hydropower | **23/444** | 🥇 | Climate & energy forecasting |
-| Amini Soil | **29/308** | 🥇 | EO nutrient modelling |
-| Côte d'Ivoire Agriculture | **28/143** | 🥈 | Crop pixel classification |
+`Dev.to` `community` `forem` `ai`
 
----
+**Published:** 2025-11-13 | 2 min read | ❤️ 156
 
-# 🛠️ Technical Skills
+_We're happy to roll out a new feature today: Prompt-driven image generation, built directly into the..._
 
-### Languages  
-<p><img src="https://skillicons.dev/icons?i=python,bash,js" /></p>
+🔗 [Read More](https://dev.to/devteam/cover-image-generation-now-an-option-in-the-dev-editor-1nld)
 
-### ML Frameworks  
-<p><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" /></p>
+</details>
 
-### Tools  
-<p><img src="https://skillicons.dev/icons?i=git,github,docker,linux" /></p>
 
-### Specialisations  
-- Speech: TTS, ASR, STS  
-- NLP: tokenisation, transformers, finetuning  
-- CV & Geospatial ML  
-- Bioinformatics & climate modelling  
+<details>
+<summary><b>3. "2026", AI Users vs The Unemployed.</b></summary>
 
----
+`Dev.to` `ai` `career` `programming`
 
-# 📌 Pinned Project  
-<p align="center">
-  <a href="https://github.com/SeViVI-Tese/voxAfrica">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SeViVI-Tese&repo=voxAfrica&theme=tokyonight" />
-  </a>
-</p>
+**Published:** 2025-11-13 | 9 min read | ❤️ 56
 
----
+_I just read a stat that made me sit up straight.  By 2026 (well, it's happening), ninety percent of..._
 
-# 📊 GitHub Stats
+🔗 [Read More](https://dev.to/elvissautet/2026-ai-users-vs-the-unemployed-3jk4)
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=KnowledgeSeeker101-bit&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnowledgeSeeker101-bit&layout=compact&theme=tokyonight" />
-</p>
+</details>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KnowledgeSeeker101-bit&theme=tokyonight" />
-</p>
 
----
+<details>
+<summary><b>4. How I Built a Tiny Tool That Makes Responsive Design Feel Effortless</b></summary>
 
-# 💡 Fun Fact  
-I build **AI for people and languages often overlooked by the global AI ecosystem.**  
-*Impact > hype.*
+`Dev.to` `frontend` `javascript` `css`
 
----
+**Published:** 2025-11-12 | 5 min read | ❤️ 91
 
-<!-- AUTO-UPDATE-START -->
-# 📰 Latest AI & Tech Articles
+_Setting the Stage   Ever wondered why the features your favorite product promises often take..._
 
-_Last updated: 2025-11-18 12:41 UTC_
+🔗 [Read More](https://dev.to/olawalethefirst/how-i-built-a-tiny-tool-that-makes-responsive-design-feel-effortless-4caj)
 
-### 🔬 Latest AI Research
-**[Scaling Spatial Intelligence with Multimodal Foundation Models](http://arxiv.org/abs/2511.13719v1)**  
-_Despite remarkable progress, multimodal foundation models still exhibit surprising deficiencies in spatial intelligence. In this work, we explore scaling up multimodal foundation models to cultivate s..._
+</details>
 
-### 💻 Trending Tech
-1. **[Cloudflare Global Network experiencing issues](https://www.cloudflarestatus.com/?t=1)** (⬆️ 515)
-2. **[Gemini 3 Pro Model Card](https://pixeldrain.com/u/hwgaNKeH)** (⬆️ 73)
-3. **[How Quake.exe got its TCP/IP stack](https://fabiensanglard.net/quake_chunnel/index.html)** (⬆️ 185)
-<!-- AUTO-UPDATE-END -->
+
+<details>
+<summary><b>5. "Technical Debt Will Bite Us in the Ass": How to Make Non-Technical Stakeholders Actually Care</b></summary>
+
+`Dev.to` `webdev` `career` `productivity`
+
+**Published:** 2025-11-14 | 6 min read | ❤️ 37
+
+_"We need to refactor this code."  Blank stares.  "The architecture is getting messy."  More blank..._
+
+🔗 [Read More](https://dev.to/tlorent/technical-debt-will-bite-us-in-the-ass-how-to-make-non-technical-stakeholders-actually-care-2oef)
+
+</details>
+
