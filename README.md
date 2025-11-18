@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2025-11-17 22:23 UTC_
+_Last updated: 2025-11-18 01:28 UTC_
 
 ### 🔬 Latest AI Research
 **[Optimizing Mixture of Block Attention](http://arxiv.org/abs/2511.11571v1)**  
 _Mixture of Block Attention (MoBA) (Lu et al., 2025) is a promising building block for efficiently processing long contexts in LLMs by enabling queries to sparsely attend to a small subset of key-value..._
 
 ### 💻 Trending Tech
-1. **[Compiling Ruby to Machine Language](https://patshaughnessy.net/2025/11/17/compiling-ruby-to-machine-language)** (⬆️ 99)
-2. **[Show HN: I built a synth for my daughter](https://bitsnpieces.dev/posts/a-synth-for-my-daughter/)** (⬆️ 828)
-3. **["One Student One Chip" Course Homepage](https://ysyx.oscc.cc/docs/en/)** (⬆️ 65)
+1. **[Compiling Ruby to machine language](https://patshaughnessy.net/2025/11/17/compiling-ruby-to-machine-language)** (⬆️ 177)
+2. **[Show HN: I built a synth for my daughter](https://bitsnpieces.dev/posts/a-synth-for-my-daughter/)** (⬆️ 936)
+3. **[Azure hit by 15 Tbps DDoS attack using 500k IP addresses](https://www.bleepingcomputer.com/news/microsoft/microsoft-aisuru-botnet-used-500-000-ips-in-15-tbps-azure-ddos-attack/)** (⬆️ 216)
 <!-- AUTO-UPDATE-END -->
