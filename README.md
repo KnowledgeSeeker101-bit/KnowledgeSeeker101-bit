@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2025-11-18 09:59 UTC_
+_Last updated: 2025-11-18 12:41 UTC_
 
 ### 🔬 Latest AI Research
 **[Scaling Spatial Intelligence with Multimodal Foundation Models](http://arxiv.org/abs/2511.13719v1)**  
 _Despite remarkable progress, multimodal foundation models still exhibit surprising deficiencies in spatial intelligence. In this work, we explore scaling up multimodal foundation models to cultivate s..._
 
 ### 💻 Trending Tech
-1. **[How Quake.exe got its TCP/IP stack](https://fabiensanglard.net/quake_chunnel/index.html)** (⬆️ 65)
-2. **[How many video games include a marriage proposal? At least one](https://32bits.substack.com/p/under-the-microscope-ncaa-basketball)** (⬆️ 202)
-3. **[Unofficial "Tier 4" Rust Target for older Windows versions](https://github.com/rust9x/rust)** (⬆️ 80)
+1. **[Cloudflare Global Network experiencing issues](https://www.cloudflarestatus.com/?t=1)** (⬆️ 515)
+2. **[Gemini 3 Pro Model Card](https://pixeldrain.com/u/hwgaNKeH)** (⬆️ 73)
+3. **[How Quake.exe got its TCP/IP stack](https://fabiensanglard.net/quake_chunnel/index.html)** (⬆️ 185)
 <!-- AUTO-UPDATE-END -->
