@@ -2,15 +2,15 @@
 
 # Latest AI Research (arXiv)
 
-_Last updated: 2025-11-19 01:49 UTC_
+_Last updated: 2025-11-19 12:49 UTC_
 
-### **[Scaling Spatial Intelligence with Multimodal Foundation Models](http://arxiv.org/abs/2511.13719v1)**
+### **[ARC Is a Vision Problem!](http://arxiv.org/abs/2511.14761v1)**
 
 **Abstract:**  
-Despite remarkable progress, multimodal foundation models still exhibit surprising deficiencies in spatial intelligence. In this work, we explore scaling up multimodal foundation models to cultivate spatial intelligence within the SenseNova-SI family, built upon established multimodal foundations including visual understanding models (i.e., Qwen3-VL and InternVL3) and unified understanding and generation models (i.e., Bagel). We take a principled approach to constructing high-performing and robust spatial intelligence by systematically curating SenseNova-SI-8M: eight million diverse data samples under a rigorous taxonomy of spatial capabilities. SenseNova-SI demonstrates unprecedented performance across a broad range of spatial intelligence benchmarks: 68.7% on VSI-Bench, 43.3% on MMSI, 85...
+The Abstraction and Reasoning Corpus (ARC) is designed to promote research on abstract reasoning, a fundamental aspect of human intelligence. Common approaches to ARC treat it as a language-oriented problem, addressed by large language models (LLMs) or recurrent reasoning models. However, although the puzzle-like tasks in ARC are inherently visual, existing research has rarely approached the problem from a vision-centric perspective. In this work, we formulate ARC within a vision paradigm, framing it as an image-to-image translation problem. To incorporate visual priors, we represent the inputs on a "canvas" that can be processed like natural images. It is then natural for us to apply standard vision architectures, such as a vanilla Vision Transformer (ViT), to perform image-to-image mappi...
 
-📄 [Read Paper](http://arxiv.org/abs/2511.13719v1)  
-📘 [PDF](https://arxiv.org/pdf/2511.13719v1.pdf)
+📄 [Read Paper](http://arxiv.org/abs/2511.14761v1)  
+📘 [PDF](https://arxiv.org/pdf/2511.14761v1.pdf)
 
 ---
 
@@ -22,7 +22,7 @@ Despite remarkable progress, multimodal foundation models still exhibit surprisi
 
 `Dev.to` `webdev` `programming` `productivity`
 
-**Published:** 2025-11-13 | 3 min read | ❤️ 148
+**Published:** 2025-11-13 | 3 min read | ❤️ 149
 
 _Everyone says learning to code is fun. They talk about “building cool projects,” “landing your first..._
 
@@ -36,7 +36,7 @@ _Everyone says learning to code is fun. They talk about “building cool project
 
 `Dev.to` `community` `forem` `ai`
 
-**Published:** 2025-11-13 | 2 min read | ❤️ 161
+**Published:** 2025-11-13 | 2 min read | ❤️ 162
 
 _We're happy to roll out a new feature today: Prompt-driven image generation, built directly into the..._
 
@@ -50,7 +50,7 @@ _We're happy to roll out a new feature today: Prompt-driven image generation, bu
 
 `Dev.to` `ai` `career` `programming`
 
-**Published:** 2025-11-13 | 9 min read | ❤️ 58
+**Published:** 2025-11-13 | 9 min read | ❤️ 59
 
 _I just read a stat that made me sit up straight.  By 2026 (well, it's happening), ninety percent of..._
 
@@ -60,29 +60,29 @@ _I just read a stat that made me sit up straight.  By 2026 (well, it's happening
 
 
 <details>
-<summary><b>4. How I Built a Tiny Tool That Makes Responsive Design Feel Effortless</b></summary>
+<summary><b>4. "Technical Debt Will Bite Us in the Ass": How to Make Non-Technical Stakeholders Actually Care</b></summary>
 
-`Dev.to` `frontend` `javascript` `css`
+`Dev.to` `webdev` `career` `productivity`
 
-**Published:** 2025-11-12 | 5 min read | ❤️ 93
+**Published:** 2025-11-14 | 6 min read | ❤️ 43
 
-_Setting the Stage   Ever wondered why the features your favorite product promises often take..._
+_"We need to refactor this code."  Blank stares.  "The architecture is getting messy."  More blank..._
 
-🔗 [Read More](https://dev.to/olawalethefirst/how-i-built-a-tiny-tool-that-makes-responsive-design-feel-effortless-4caj)
+🔗 [Read More](https://dev.to/tlorent/technical-debt-will-bite-us-in-the-ass-how-to-make-non-technical-stakeholders-actually-care-2oef)
 
 </details>
 
 
 <details>
-<summary><b>5. "Technical Debt Will Bite Us in the Ass": How to Make Non-Technical Stakeholders Actually Care</b></summary>
+<summary><b>5. 🚀 Junior Devs Aren't Disappearing—They're Just Getting Started</b></summary>
 
-`Dev.to` `webdev` `career` `productivity`
+`Dev.to` `beginners` `career` `learning`
 
-**Published:** 2025-11-14 | 6 min read | ❤️ 39
+**Published:** 2025-11-17 | 4 min read | ❤️ 39
 
-_"We need to refactor this code."  Blank stares.  "The architecture is getting messy."  More blank..._
+_I refresh LinkedIn and see another post: "Junior roles are dead." Another thread on Reddit: "AI is..._
 
-🔗 [Read More](https://dev.to/tlorent/technical-debt-will-bite-us-in-the-ass-how-to-make-non-technical-stakeholders-actually-care-2oef)
+🔗 [Read More](https://dev.to/tlorent/junior-devs-arent-disappearing-theyre-just-getting-started-5fob)
 
 </details>
 
