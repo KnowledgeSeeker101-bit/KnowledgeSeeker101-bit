@@ -2,7 +2,7 @@
 
 # Latest AI Research (arXiv)
 
-_Last updated: 2025-11-18 12:49 UTC_
+_Last updated: 2025-11-19 01:49 UTC_
 
 ### **[Scaling Spatial Intelligence with Multimodal Foundation Models](http://arxiv.org/abs/2511.13719v1)**
 
@@ -22,7 +22,7 @@ Despite remarkable progress, multimodal foundation models still exhibit surprisi
 
 `Dev.to` `webdev` `programming` `productivity`
 
-**Published:** 2025-11-13 | 3 min read | ❤️ 136
+**Published:** 2025-11-13 | 3 min read | ❤️ 148
 
 _Everyone says learning to code is fun. They talk about “building cool projects,” “landing your first..._
 
@@ -36,7 +36,7 @@ _Everyone says learning to code is fun. They talk about “building cool project
 
 `Dev.to` `community` `forem` `ai`
 
-**Published:** 2025-11-13 | 2 min read | ❤️ 156
+**Published:** 2025-11-13 | 2 min read | ❤️ 161
 
 _We're happy to roll out a new feature today: Prompt-driven image generation, built directly into the..._
 
@@ -50,7 +50,7 @@ _We're happy to roll out a new feature today: Prompt-driven image generation, bu
 
 `Dev.to` `ai` `career` `programming`
 
-**Published:** 2025-11-13 | 9 min read | ❤️ 56
+**Published:** 2025-11-13 | 9 min read | ❤️ 58
 
 _I just read a stat that made me sit up straight.  By 2026 (well, it's happening), ninety percent of..._
 
@@ -64,7 +64,7 @@ _I just read a stat that made me sit up straight.  By 2026 (well, it's happening
 
 `Dev.to` `frontend` `javascript` `css`
 
-**Published:** 2025-11-12 | 5 min read | ❤️ 91
+**Published:** 2025-11-12 | 5 min read | ❤️ 93
 
 _Setting the Stage   Ever wondered why the features your favorite product promises often take..._
 
@@ -78,7 +78,7 @@ _Setting the Stage   Ever wondered why the features your favorite product promis
 
 `Dev.to` `webdev` `career` `productivity`
 
-**Published:** 2025-11-14 | 6 min read | ❤️ 37
+**Published:** 2025-11-14 | 6 min read | ❤️ 39
 
 _"We need to refactor this code."  Blank stares.  "The architecture is getting messy."  More blank..._
 
