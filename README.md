@@ -2,7 +2,7 @@
 
 # Latest AI Research (arXiv)
 
-_Last updated: 2025-11-19 12:49 UTC_
+_Last updated: 2025-11-20 01:47 UTC_
 
 ### **[ARC Is a Vision Problem!](http://arxiv.org/abs/2511.14761v1)**
 
@@ -64,7 +64,7 @@ _I just read a stat that made me sit up straight.  By 2026 (well, it's happening
 
 `Dev.to` `webdev` `career` `productivity`
 
-**Published:** 2025-11-14 | 6 min read | ❤️ 43
+**Published:** 2025-11-14 | 6 min read | ❤️ 46
 
 _"We need to refactor this code."  Blank stares.  "The architecture is getting messy."  More blank..._
 
@@ -78,7 +78,7 @@ _"We need to refactor this code."  Blank stares.  "The architecture is getting m
 
 `Dev.to` `beginners` `career` `learning`
 
-**Published:** 2025-11-17 | 4 min read | ❤️ 39
+**Published:** 2025-11-17 | 4 min read | ❤️ 43
 
 _I refresh LinkedIn and see another post: "Junior roles are dead." Another thread on Reddit: "AI is..._
 
