@@ -2,7 +2,7 @@
 
 # Latest AI Research (arXiv)
 
-_Last updated: 2025-11-20 12:48 UTC_
+_Last updated: 2025-11-21 01:48 UTC_
 
 ### **[Tokenisation over Bounded Alphabets is Hard](http://arxiv.org/abs/2511.15709v1)**
 
@@ -18,15 +18,15 @@ Recent works have shown that tokenisation is NP-complete. However, these works a
 
 
 <details>
-<summary><b>1. Cover Image Generation Now an Option in the DEV Editor</b></summary>
+<summary><b>1. Join the AI Challenge for Cross-Platform Apps: $3,000 in Prizes!</b></summary>
 
-`Dev.to` `community` `forem` `ai`
+`Dev.to` `devchallenge` `unoplatformchallenge` `dotnet`
 
-**Published:** 2025-11-13 | 2 min read | ❤️ 164
+**Published:** 2025-11-19 | 7 min read | ❤️ 129
 
-_We're happy to roll out a new feature today: Prompt-driven image generation, built directly into the..._
+_We're excited to announce our newest challenge with Uno Platform!   Running through December 7, the..._
 
-🔗 [Read More](https://dev.to/devteam/cover-image-generation-now-an-option-in-the-dev-editor-1nld)
+🔗 [Read More](https://dev.to/devteam/join-the-ai-challenge-for-cross-platform-apps-3000-in-prizes-25c3)
 
 </details>
 
@@ -46,25 +46,11 @@ _"We need to refactor this code."  Blank stares.  "The architecture is getting m
 
 
 <details>
-<summary><b>3. Join the AI Challenge for Cross-Platform Apps: $3,000 in Prizes!</b></summary>
-
-`Dev.to` `devchallenge` `unoplatformchallenge` `dotnet`
-
-**Published:** 2025-11-19 | 7 min read | ❤️ 54
-
-_We're excited to announce our newest challenge with Uno Platform!   Running through December 7, the..._
-
-🔗 [Read More](https://dev.to/devteam/join-the-ai-challenge-for-cross-platform-apps-3000-in-prizes-25c3)
-
-</details>
-
-
-<details>
-<summary><b>4. 🚀 Junior Devs Aren't Disappearing—They're Just Getting Started</b></summary>
+<summary><b>3. 🚀 Junior Devs Aren't Disappearing—They're Just Getting Started</b></summary>
 
 `Dev.to` `beginners` `career` `learning`
 
-**Published:** 2025-11-17 | 4 min read | ❤️ 48
+**Published:** 2025-11-17 | 4 min read | ❤️ 51
 
 _I refresh LinkedIn and see another post: "Junior roles are dead." Another thread on Reddit: "AI is..._
 
@@ -74,7 +60,7 @@ _I refresh LinkedIn and see another post: "Junior roles are dead." Another threa
 
 
 <details>
-<summary><b>5. ⛓️‍💥Chaining Veo 3.1 and NanoBanana with Gemini</b></summary>
+<summary><b>4. ⛓️‍💥Chaining Veo 3.1 and NanoBanana with Gemini</b></summary>
 
 `Dev.to` `ai` `cloud` `webdev`
 
@@ -83,6 +69,20 @@ _I refresh LinkedIn and see another post: "Junior roles are dead." Another threa
 _As developers, we are used to chaining APIs to get a desired output. In the world of Generative AI, a..._
 
 🔗 [Read More](https://dev.to/googleai/chaining-veo-31-and-nanobanana-with-gemini-3ffi)
+
+</details>
+
+
+<details>
+<summary><b>5. 📻 I built an infinite 90s boombox with Gemini + Lyria (and it has an AI DJ!)</b></summary>
+
+`Dev.to` `gemini` `webdev` `ai`
+
+**Published:** 2025-11-18 | 4 min read | ❤️ 62
+
+_I recently built an experiment that I honestly can’t stop listening to. It’s a virtual, web-based..._
+
+🔗 [Read More](https://dev.to/googleai/i-built-an-infinite-90s-boombox-with-gemini-lyria-and-it-has-an-ai-dj-3jh8)
 
 </details>
 
