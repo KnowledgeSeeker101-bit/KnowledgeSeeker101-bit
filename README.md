@@ -109,7 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_This section auto-updates every 12 hours_
+_Last updated: 2025-11-21 11:17 UTC_
 
-Loading articles...
+### 🔬 Latest AI Research
+**[Dataset Distillation for Pre-Trained Self-Supervised Vision Models](http://arxiv.org/abs/2511.16674v1)**  
+_The task of dataset distillation aims to find a small set of synthetic images such that training a model on them reproduces the performance of the same model trained on a much larger dataset of real s..._
+
+### 💻 Trending Tech
+1. **[FAWK: LLMs can write a language interpreter](https://martin.janiczek.cz/2025/11/21/fawk-llms-can-write-a-language-interpreter.html)** (⬆️ 20)
+2. **[Olmo 3: Charting a path through the model flow to lead open-source AI](https://allenai.org/blog/olmo3)** (⬆️ 141)
+3. **[It's Hard to Build an Oscillator](https://lcamtuf.substack.com/p/its-hard-to-build-an-oscillator)** (⬆️ 57)
 <!-- AUTO-UPDATE-END -->
