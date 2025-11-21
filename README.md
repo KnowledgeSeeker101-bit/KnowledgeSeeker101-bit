@@ -1,88 +1,115 @@
-<p align="center"><img src="https://svg-banners.vercel.app/api?type=luminance&text1=AI+Research+Digest&width=900&height=200" /></p>
+<!-- ======================= -->
+<!--      PREMIUM SVG BANNER  -->
+<!-- ======================= -->
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=i%20am%20Knowledge_Seeker101&width=800&height=200" alt="Profile Banner" />
+</p>
 
-# Latest AI Research (arXiv)
+<!-- ======================= -->
+<!--     HEADER / TYPING     -->
+<!-- ======================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=26&duration=3500&pause=1200&color=4C8BFF&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;Speech+%26+Language+AI+Specialist;NLP+%7C+Speech+Synthesis+%7C+Geospatial+AI;Building+AI+for+African+Languages" />
+</p>
 
-_Last updated: 2025-11-21 01:48 UTC_
-
-### **[Tokenisation over Bounded Alphabets is Hard](http://arxiv.org/abs/2511.15709v1)**
-
-**Abstract:**  
-Recent works have shown that tokenisation is NP-complete. However, these works assume tokenisation is applied to inputs with unboundedly large alphabets -- an unrealistic assumption, given that in practice tokenisers operate over fixed-size alphabets, such as bytes or Unicode characters. We close this gap by analysing tokenisation over bounded $n$-ary alphabets, considering two natural variants: bottom-up tokenisation and direct tokenisation, where we must, respectively, select a sequence of merge operations or a vocabulary whose application optimally compresses a dataset. First, we note that proving hardness results for an $n$-ary alphabet proves the same results for alphabets of any larger size. We then prove that even with binary alphabets, both variants are not only NP-complete, but ad...
-
-📄 [Read Paper](http://arxiv.org/abs/2511.15709v1)  
-📘 [PDF](https://arxiv.org/pdf/2511.15709v1.pdf)
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Low%20Resource%20AI-blue?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=KnowledgeSeeker101-bit&label=Profile%20Views&color=blue&style=flat-square" />
+</p>
 
 ---
 
-## Latest Tech Articles & News
+# 👋 About Me
 
+I'm a **Machine Learning Engineer** focused on building impactful AI solutions for **low-resource African languages**, specialising in:
 
-<details>
-<summary><b>1. Join the AI Challenge for Cross-Platform Apps: $3,000 in Prizes!</b></summary>
+- **Speech Technologies** (ASR, TTS, STS)  
+- **Natural Language Processing**  
+- **Geospatial & Computer Vision ML**  
+- **Health, Agriculture & Climate ML**  
 
-`Dev.to` `devchallenge` `unoplatformchallenge` `dotnet`
+🎧 Currently building **Shona & Twi Speech-to-Speech models**  
+🤝 Collaborating with **Duke Congo (CodeJoe)**  
+📬 Email: **nashaa182@gmail.com**  
+🔗 LinkedIn: https://www.linkedin.com/in/nyashadzaishe-masvongo-b67698254/  
 
-**Published:** 2025-11-19 | 7 min read | ❤️ 129
+---
 
-_We're excited to announce our newest challenge with Uno Platform!   Running through December 7, the..._
+# 🚀 Featured Project  
+### **VoxAfrica — Shona Text-to-Speech (TTS)**  
+High-quality, open-source dataset links for Bantu languages.
 
-🔗 [Read More](https://dev.to/devteam/join-the-ai-challenge-for-cross-platform-apps-3000-in-prizes-25c3)
+👉 **Repo:** https://github.com/SeViVI-Tese/voxAfrica
 
-</details>
+---
 
+# 🏆 Competition Excellence (Zindi Africa)
 
-<details>
-<summary><b>2. "Technical Debt Will Bite Us in the Ass": How to Make Non-Technical Stakeholders Actually Care</b></summary>
+Consistently Top **1–10%**, across NLP, CV, forecasting, and health ML.
 
-`Dev.to` `webdev` `career` `productivity`
+| Competition | Rank | Medal | Summary |
+|------------|------|--------|---------|
+| Kenya Clinical Reasoning | **3/387** | 🥇 | NLP reasoning model |
+| Barbados Plot Automation | **8/154** | — | OCR + Geospatial CV |
+| MPEG-G Microbiome | **6/73** | 🥇 | Deep learning on federated data |
+| CGIAR Root Volume | **15/245** | 🥇 | CV underground scanning |
+| IBM Hydropower | **23/444** | 🥇 | Climate & energy forecasting |
+| Amini Soil | **29/308** | 🥇 | EO nutrient modelling |
+| Côte d'Ivoire Agriculture | **28/143** | 🥈 | Crop pixel classification |
 
-**Published:** 2025-11-14 | 6 min read | ❤️ 48
+---
 
-_"We need to refactor this code."  Blank stares.  "The architecture is getting messy."  More blank..._
+# 🛠️ Technical Skills
 
-🔗 [Read More](https://dev.to/tlorent/technical-debt-will-bite-us-in-the-ass-how-to-make-non-technical-stakeholders-actually-care-2oef)
+### Languages  
+<p><img src="https://skillicons.dev/icons?i=python,bash,js" /></p>
 
-</details>
+### ML Frameworks  
+<p><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" /></p>
 
+### Tools  
+<p><img src="https://skillicons.dev/icons?i=git,github,docker,linux" /></p>
 
-<details>
-<summary><b>3. 🚀 Junior Devs Aren't Disappearing—They're Just Getting Started</b></summary>
+### Specialisations  
+- Speech: TTS, ASR, STS  
+- NLP: tokenisation, transformers, finetuning  
+- CV & Geospatial ML  
+- Bioinformatics & climate modelling  
 
-`Dev.to` `beginners` `career` `learning`
+---
 
-**Published:** 2025-11-17 | 4 min read | ❤️ 51
+# 📌 Pinned Project  
+<p align="center">
+  <a href="https://github.com/SeViVI-Tese/voxAfrica">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SeViVI-Tese&repo=voxAfrica&theme=tokyonight" />
+  </a>
+</p>
 
-_I refresh LinkedIn and see another post: "Junior roles are dead." Another thread on Reddit: "AI is..._
+---
 
-🔗 [Read More](https://dev.to/tlorent/junior-devs-arent-disappearing-theyre-just-getting-started-5fob)
+# 📊 GitHub Stats
 
-</details>
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=KnowledgeSeeker101-bit&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnowledgeSeeker101-bit&layout=compact&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KnowledgeSeeker101-bit&theme=tokyonight" />
+</p>
 
-<details>
-<summary><b>4. ⛓️‍💥Chaining Veo 3.1 and NanoBanana with Gemini</b></summary>
+---
 
-`Dev.to` `ai` `cloud` `webdev`
+# 💡 Fun Fact  
+I build **AI for people and languages often overlooked by the global AI ecosystem.**  
+*Impact > hype.*
 
-**Published:** 2025-11-15 | 5 min read | ❤️ 52
+---
 
-_As developers, we are used to chaining APIs to get a desired output. In the world of Generative AI, a..._
+<!-- AUTO-UPDATE-START -->
+# 📰 Latest AI & Tech Articles
 
-🔗 [Read More](https://dev.to/googleai/chaining-veo-31-and-nanobanana-with-gemini-3ffi)
+_This section auto-updates every 12 hours_
 
-</details>
-
-
-<details>
-<summary><b>5. 📻 I built an infinite 90s boombox with Gemini + Lyria (and it has an AI DJ!)</b></summary>
-
-`Dev.to` `gemini` `webdev` `ai`
-
-**Published:** 2025-11-18 | 4 min read | ❤️ 62
-
-_I recently built an experiment that I honestly can’t stop listening to. It’s a virtual, web-based..._
-
-🔗 [Read More](https://dev.to/googleai/i-built-an-infinite-90s-boombox-with-gemini-lyria-and-it-has-an-ai-dj-3jh8)
-
-</details>
-
+Loading articles...
+<!-- AUTO-UPDATE-END -->
