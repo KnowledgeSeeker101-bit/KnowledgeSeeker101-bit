@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2025-11-21 12:39 UTC_
+_Last updated: 2025-11-22 01:25 UTC_
 
 ### 🔬 Latest AI Research
 **[Dataset Distillation for Pre-Trained Self-Supervised Vision Models](http://arxiv.org/abs/2511.16674v1)**  
 _The task of dataset distillation aims to find a small set of synthetic images such that training a model on them reproduces the performance of the same model trained on a much larger dataset of real s..._
 
 ### 💻 Trending Tech
-1. **[FAWK: LLMs can write a language interpreter](https://martin.janiczek.cz/2025/11/21/fawk-llms-can-write-a-language-interpreter.html)** (⬆️ 58)
-2. **[Olmo 3: Charting a path through the model flow to lead open-source AI](https://allenai.org/blog/olmo3)** (⬆️ 169)
-3. **[It's hard to build an oscillator](https://lcamtuf.substack.com/p/its-hard-to-build-an-oscillator)** (⬆️ 77)
+1. **[California DMV approves map increase in Waymo driverless operations](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/autonomous-vehicle-testing-permit-holders/waymo-approved-areas-of-operation-for-driverless-testing-and-deployment/)** (⬆️ 148)
+2. **[Childhood Friends, Not Moms, Shape Attachment Styles Most](https://nautil.us/childhood-friends-not-moms-shape-attachment-styles-most-1247316/)** (⬆️ 92)
+3. **[Helping Valve to power up Steam devices](https://www.igalia.com/2025/11/helpingvalve.html)** (⬆️ 412)
 <!-- AUTO-UPDATE-END -->
