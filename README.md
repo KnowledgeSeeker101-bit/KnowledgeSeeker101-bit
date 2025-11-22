@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2025-11-22 01:25 UTC_
+_Last updated: 2025-11-22 12:35 UTC_
 
 ### 🔬 Latest AI Research
 **[Dataset Distillation for Pre-Trained Self-Supervised Vision Models](http://arxiv.org/abs/2511.16674v1)**  
 _The task of dataset distillation aims to find a small set of synthetic images such that training a model on them reproduces the performance of the same model trained on a much larger dataset of real s..._
 
 ### 💻 Trending Tech
-1. **[California DMV approves map increase in Waymo driverless operations](https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/autonomous-vehicle-testing-permit-holders/waymo-approved-areas-of-operation-for-driverless-testing-and-deployment/)** (⬆️ 148)
-2. **[Childhood Friends, Not Moms, Shape Attachment Styles Most](https://nautil.us/childhood-friends-not-moms-shape-attachment-styles-most-1247316/)** (⬆️ 92)
-3. **[Helping Valve to power up Steam devices](https://www.igalia.com/2025/11/helpingvalve.html)** (⬆️ 412)
+1. **[My private information is worth $30](https://blog.melashri.net/micro/privacy-price/)** (⬆️ 42)
+2. **[Superman copy found in mum's attic is most valuable comic ever at $9.12M](https://www.bbc.com/news/articles/c8e9rp0knj6o)** (⬆️ 250)
+3. **[An Interview with Unity CEO Matthew Bromberg About Turnarounds](https://stratechery.com/2025/an-interview-with-unity-ceo-matthew-bromberg-about-turnarounds/)** (⬆️ 6)
 <!-- AUTO-UPDATE-END -->
