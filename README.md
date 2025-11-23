@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2025-11-22 12:35 UTC_
+_Last updated: 2025-11-23 01:48 UTC_
 
 ### 🔬 Latest AI Research
 **[Dataset Distillation for Pre-Trained Self-Supervised Vision Models](http://arxiv.org/abs/2511.16674v1)**  
 _The task of dataset distillation aims to find a small set of synthetic images such that training a model on them reproduces the performance of the same model trained on a much larger dataset of real s..._
 
 ### 💻 Trending Tech
-1. **[My private information is worth $30](https://blog.melashri.net/micro/privacy-price/)** (⬆️ 42)
-2. **[Superman copy found in mum's attic is most valuable comic ever at $9.12M](https://www.bbc.com/news/articles/c8e9rp0knj6o)** (⬆️ 250)
-3. **[An Interview with Unity CEO Matthew Bromberg About Turnarounds](https://stratechery.com/2025/an-interview-with-unity-ceo-matthew-bromberg-about-turnarounds/)** (⬆️ 6)
+1. **[WorldGen – Text to Immersive 3D Worlds](https://www.meta.com/en-gb/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/)** (⬆️ 130)
+2. **[We Induced Smells With Ultrasound](https://writetobrain.com/olfactory)** (⬆️ 214)
+3. **[The privacy nightmare of browser fingerprinting](https://kevinboone.me/fingerprinting.html)** (⬆️ 426)
 <!-- AUTO-UPDATE-END -->
