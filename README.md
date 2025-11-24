@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2025-11-23 12:35 UTC_
+_Last updated: 2025-11-24 01:43 UTC_
 
 ### 🔬 Latest AI Research
 **[Dataset Distillation for Pre-Trained Self-Supervised Vision Models](http://arxiv.org/abs/2511.16674v1)**  
 _The task of dataset distillation aims to find a small set of synthetic images such that training a model on them reproduces the performance of the same model trained on a much larger dataset of real s..._
 
 ### 💻 Trending Tech
-1. **[After my dad died, we found the love letters](https://www.jenn.site/after-my-dad-died-we-found-the-love-letters/)** (⬆️ 221)
-2. **[Almost all Collatz orbits attain almost bounded values](https://mathvideos.org/2023/terence-tao-almost-all-collatz-orbits-attain-almost-bounded-values/)** (⬆️ 37)
-3. **[A monopoly ISP refuses to fix upstream infrastructure](https://sacbear.com/xfinity-wont-fix-internet/)** (⬆️ 317)
+1. **[Fran Sans – font inspired by San Francisco light rail displays](https://emilysneddon.com/fran-sans-essay)** (⬆️ 561)
+2. **[Native Secure Enclave backed SSH keys on macOS](https://gist.github.com/arianvp/5f59f1783e3eaf1a2d4cd8e952bb4acf)** (⬆️ 307)
+3. **[Show HN: I wrote a minimal memory allocator in C](https://github.com/t9nzin/memory)** (⬆️ 39)
 <!-- AUTO-UPDATE-END -->
