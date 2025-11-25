@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2025-11-25 01:38 UTC_
+_Last updated: 2025-11-25 12:42 UTC_
 
 ### 🔬 Latest AI Research
-**[Harnessing Data from Clustered LQR Systems: Personalized and Collaborative Policy Optimization](http://arxiv.org/abs/2511.17489v1)**  
-_It is known that reinforcement learning (RL) is data-hungry. To improve sample-efficiency of RL, it has been proposed that the learning algorithm utilize data from 'approximately similar' processes. H..._
+**[VDC-Agent: When Video Detailed Captioners Evolve Themselves via Agentic Self-Reflection](http://arxiv.org/abs/2511.19436v1)**  
+_We present VDC-Agent, a self-evolving framework for Video Detailed Captioning that requires neither human annotations nor larger teacher models. The agent forms a closed loop of caption generation, pr..._
 
 ### 💻 Trending Tech
-1. **[Pebble Watch software is now 100% open source](https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source)** (⬆️ 674)
-2. **[Claude Advanced Tool Use](https://www.anthropic.com/engineering/advanced-tool-use)** (⬆️ 329)
-3. **[Unpowered SSDs slowly lose data](https://www.xda-developers.com/your-unpowered-ssd-is-slowly-losing-your-data/)** (⬆️ 172)
+1. **[Pebble Watch software is now open source](https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source)** (⬆️ 1034)
+2. **[Most Stable Raspberry Pi? 81% Better NTP with Thermal Management](https://austinsnerdythings.com/2025/11/24/worlds-most-stable-raspberry-pi-81-better-ntp-with-thermal-management/)** (⬆️ 155)
+3. **[Human brains are preconfigured with instructions for understanding the world](https://news.ucsc.edu/2025/11/sharf-preconfigured-brain/)** (⬆️ 165)
 <!-- AUTO-UPDATE-END -->
