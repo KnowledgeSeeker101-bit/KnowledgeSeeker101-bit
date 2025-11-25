@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2025-11-24 01:43 UTC_
+_Last updated: 2025-11-25 01:38 UTC_
 
 ### 🔬 Latest AI Research
-**[Dataset Distillation for Pre-Trained Self-Supervised Vision Models](http://arxiv.org/abs/2511.16674v1)**  
-_The task of dataset distillation aims to find a small set of synthetic images such that training a model on them reproduces the performance of the same model trained on a much larger dataset of real s..._
+**[Harnessing Data from Clustered LQR Systems: Personalized and Collaborative Policy Optimization](http://arxiv.org/abs/2511.17489v1)**  
+_It is known that reinforcement learning (RL) is data-hungry. To improve sample-efficiency of RL, it has been proposed that the learning algorithm utilize data from 'approximately similar' processes. H..._
 
 ### 💻 Trending Tech
-1. **[Fran Sans – font inspired by San Francisco light rail displays](https://emilysneddon.com/fran-sans-essay)** (⬆️ 561)
-2. **[Native Secure Enclave backed SSH keys on macOS](https://gist.github.com/arianvp/5f59f1783e3eaf1a2d4cd8e952bb4acf)** (⬆️ 307)
-3. **[Show HN: I wrote a minimal memory allocator in C](https://github.com/t9nzin/memory)** (⬆️ 39)
+1. **[Pebble Watch software is now 100% open source](https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source)** (⬆️ 674)
+2. **[Claude Advanced Tool Use](https://www.anthropic.com/engineering/advanced-tool-use)** (⬆️ 329)
+3. **[Unpowered SSDs slowly lose data](https://www.xda-developers.com/your-unpowered-ssd-is-slowly-losing-your-data/)** (⬆️ 172)
 <!-- AUTO-UPDATE-END -->
