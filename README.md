@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2025-11-26 01:37 UTC_
+_Last updated: 2025-11-26 12:43 UTC_
 
 ### 🔬 Latest AI Research
-**[VDC-Agent: When Video Detailed Captioners Evolve Themselves via Agentic Self-Reflection](http://arxiv.org/abs/2511.19436v1)**  
-_We present VDC-Agent, a self-evolving framework for Video Detailed Captioning that requires neither human annotations nor larger teacher models. The agent forms a closed loop of caption generation, pr..._
+**[MedROV: Towards Real-Time Open-Vocabulary Detection Across Diverse Medical Imaging Modalities](http://arxiv.org/abs/2511.20650v1)**  
+_Traditional object detection models in medical imaging operate within a closed-set paradigm, limiting their ability to detect objects of novel labels. Open-vocabulary object detection (OVOD) addresses..._
 
 ### 💻 Trending Tech
-1. **[Reinventing how .NET builds and ships (again)](https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/)** (⬆️ 66)
-2. **[What They Don't Tell You About Maintaining an Open Source Project](https://andrej.sh/blog/maintaining-open-source-project/)** (⬆️ 60)
-3. **[A new bridge links the math of infinity to computer science](https://www.quantamagazine.org/a-new-bridge-links-the-strange-math-of-infinity-to-computer-science-20251121/)** (⬆️ 117)
+1. **[Statistical Process Control in Python](https://timothyfraser.com/sigma/statistical-process-control-in-python.html)** (⬆️ 67)
+2. **[Show HN: KiDoom – Running DOOM on PCB Traces](https://www.mikeayles.com/#kidoom)** (⬆️ 264)
+3. **[Await Is Not a Context Switch: Understanding Python's Coroutines vs. Tasks](https://mergify.com/blog/await-is-not-a-context-switch-understanding-python-s-coroutines-vs-tasks)** (⬆️ 66)
 <!-- AUTO-UPDATE-END -->
