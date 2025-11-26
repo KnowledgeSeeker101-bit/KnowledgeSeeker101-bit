@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2025-11-25 12:42 UTC_
+_Last updated: 2025-11-26 01:37 UTC_
 
 ### 🔬 Latest AI Research
 **[VDC-Agent: When Video Detailed Captioners Evolve Themselves via Agentic Self-Reflection](http://arxiv.org/abs/2511.19436v1)**  
 _We present VDC-Agent, a self-evolving framework for Video Detailed Captioning that requires neither human annotations nor larger teacher models. The agent forms a closed loop of caption generation, pr..._
 
 ### 💻 Trending Tech
-1. **[Pebble Watch software is now open source](https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source)** (⬆️ 1034)
-2. **[Most Stable Raspberry Pi? 81% Better NTP with Thermal Management](https://austinsnerdythings.com/2025/11/24/worlds-most-stable-raspberry-pi-81-better-ntp-with-thermal-management/)** (⬆️ 155)
-3. **[Human brains are preconfigured with instructions for understanding the world](https://news.ucsc.edu/2025/11/sharf-preconfigured-brain/)** (⬆️ 165)
+1. **[Reinventing how .NET builds and ships (again)](https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/)** (⬆️ 66)
+2. **[What They Don't Tell You About Maintaining an Open Source Project](https://andrej.sh/blog/maintaining-open-source-project/)** (⬆️ 60)
+3. **[A new bridge links the math of infinity to computer science](https://www.quantamagazine.org/a-new-bridge-links-the-strange-math-of-infinity-to-computer-science-20251121/)** (⬆️ 117)
 <!-- AUTO-UPDATE-END -->
