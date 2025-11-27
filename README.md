@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2025-11-26 12:43 UTC_
+_Last updated: 2025-11-27 01:28 UTC_
 
 ### 🔬 Latest AI Research
 **[MedROV: Towards Real-Time Open-Vocabulary Detection Across Diverse Medical Imaging Modalities](http://arxiv.org/abs/2511.20650v1)**  
 _Traditional object detection models in medical imaging operate within a closed-set paradigm, limiting their ability to detect objects of novel labels. Open-vocabulary object detection (OVOD) addresses..._
 
 ### 💻 Trending Tech
-1. **[Statistical Process Control in Python](https://timothyfraser.com/sigma/statistical-process-control-in-python.html)** (⬆️ 67)
-2. **[Show HN: KiDoom – Running DOOM on PCB Traces](https://www.mikeayles.com/#kidoom)** (⬆️ 264)
-3. **[Await Is Not a Context Switch: Understanding Python's Coroutines vs. Tasks](https://mergify.com/blog/await-is-not-a-context-switch-understanding-python-s-coroutines-vs-tasks)** (⬆️ 66)
+1. **[Bring Bathroom Doors Back to Hotels](https://bringbackdoors.com/)** (⬆️ 270)
+2. **[Voyager 1 is about to reach one light-day from earth](https://scienceclock.com/voyager-1-is-about-to-reach-one-light-day-from-earth/)** (⬆️ 764)
+3. **[Sutskever and LeCun: Scaling LLMs Won't Yield More Useful Results](https://www.abzglobal.net/web-development-blog/ilya-sutskever-yann-lecun-and-the-end-of-just-add-gpus)** (⬆️ 39)
 <!-- AUTO-UPDATE-END -->
