@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2025-11-27 01:28 UTC_
+_Last updated: 2025-11-27 12:42 UTC_
 
 ### 🔬 Latest AI Research
-**[MedROV: Towards Real-Time Open-Vocabulary Detection Across Diverse Medical Imaging Modalities](http://arxiv.org/abs/2511.20650v1)**  
-_Traditional object detection models in medical imaging operate within a closed-set paradigm, limiting their ability to detect objects of novel labels. Open-vocabulary object detection (OVOD) addresses..._
+**[Revisiting Generalization Across Difficulty Levels: It's Not So Easy](http://arxiv.org/abs/2511.21692v1)**  
+_We investigate how well large language models (LLMs) generalize across different task difficulties, a key question for effective data curation and evaluation. Existing research is mixed regarding whet..._
 
 ### 💻 Trending Tech
-1. **[Bring Bathroom Doors Back to Hotels](https://bringbackdoors.com/)** (⬆️ 270)
-2. **[Voyager 1 is about to reach one light-day from earth](https://scienceclock.com/voyager-1-is-about-to-reach-one-light-day-from-earth/)** (⬆️ 764)
-3. **[Sutskever and LeCun: Scaling LLMs Won't Yield More Useful Results](https://www.abzglobal.net/web-development-blog/ilya-sutskever-yann-lecun-and-the-end-of-just-add-gpus)** (⬆️ 39)
+1. **[How Arthur Conan Doyle Explored Men's Mental Health Through Sherlock Holmes](https://scienceclock.com/arthur-conan-doyle-delved-into-mens-mental-health-through-his-sherlock-holmes-stories/)** (⬆️ 39)
+2. **[Linux Kernel Explorer](https://reverser.dev/linux-kernel-explorer)** (⬆️ 232)
+3. **[Penpot: The Open-Source Figma](https://github.com/penpot/penpot)** (⬆️ 409)
 <!-- AUTO-UPDATE-END -->
