@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2025-11-28 01:26 UTC_
+_Last updated: 2025-11-28 12:40 UTC_
 
 ### 🔬 Latest AI Research
 **[Revisiting Generalization Across Difficulty Levels: It's Not So Easy](http://arxiv.org/abs/2511.21692v1)**  
 _We investigate how well large language models (LLMs) generalize across different task difficulties, a key question for effective data curation and evaluation. Existing research is mixed regarding whet..._
 
 ### 💻 Trending Tech
-1. **[250MWh 'Sand Battery' to start construction in Finland](https://www.energy-storage.news/250mwh-sand-battery-to-start-construction-in-finland-for-both-heating-and-ancillary-services/)** (⬆️ 107)
-2. **[How Charles M Schulz created Charlie Brown and Snoopy (2024)](https://www.bbc.com/culture/article/20241205-how-charles-m-schulz-created-charlie-brown-and-snoopy)** (⬆️ 28)
-3. **[Same-day upstream Linux support for Snapdragon 8 Elite Gen 5](https://www.qualcomm.com/developer/blog/2025/10/same-day-snapdragon-8-elite-gen-5-upstream-linux-support)** (⬆️ 324)
+1. **[Show HN: Glasses to detect smart-glasses that have cameras](https://github.com/NullPxl/banrays)** (⬆️ 273)
+2. **[EU Council Approves New "Chat Control" Mandate Pushing Mass Surveillance](https://reclaimthenet.org/eu-council-approves-new-chat-control-mandate-pushing-mass-surveillance)** (⬆️ 246)
+3. **[Pocketbase – open-source realtime back end in 1 file](https://pocketbase.io/)** (⬆️ 362)
 <!-- AUTO-UPDATE-END -->
