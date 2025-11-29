@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2025-11-28 12:40 UTC_
+_Last updated: 2025-11-29 01:27 UTC_
 
 ### 🔬 Latest AI Research
 **[Revisiting Generalization Across Difficulty Levels: It's Not So Easy](http://arxiv.org/abs/2511.21692v1)**  
 _We investigate how well large language models (LLMs) generalize across different task difficulties, a key question for effective data curation and evaluation. Existing research is mixed regarding whet..._
 
 ### 💻 Trending Tech
-1. **[Show HN: Glasses to detect smart-glasses that have cameras](https://github.com/NullPxl/banrays)** (⬆️ 273)
-2. **[EU Council Approves New "Chat Control" Mandate Pushing Mass Surveillance](https://reclaimthenet.org/eu-council-approves-new-chat-control-mandate-pushing-mass-surveillance)** (⬆️ 246)
-3. **[Pocketbase – open-source realtime back end in 1 file](https://pocketbase.io/)** (⬆️ 362)
+1. **[A triangle whose interior angles sum to zero](https://www.johndcook.com/blog/2025/11/28/tricusp-triangle/)** (⬆️ 17)
+2. **[Airbus A320 – intense solar radiation may corrupt data critical for flight](https://www.airbus.com/en/newsroom/press-releases/2025-11-airbus-update-on-a320-family-precautionary-fleet-action)** (⬆️ 69)
+3. **[Imgur geo-blocked the UK, so I geo-unblocked my network](https://blog.tymscar.com/posts/imgurukproxy/)** (⬆️ 265)
 <!-- AUTO-UPDATE-END -->
