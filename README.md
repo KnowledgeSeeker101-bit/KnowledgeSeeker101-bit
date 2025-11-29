@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2025-11-29 01:27 UTC_
+_Last updated: 2025-11-29 12:37 UTC_
 
 ### 🔬 Latest AI Research
 **[Revisiting Generalization Across Difficulty Levels: It's Not So Easy](http://arxiv.org/abs/2511.21692v1)**  
 _We investigate how well large language models (LLMs) generalize across different task difficulties, a key question for effective data curation and evaluation. Existing research is mixed regarding whet..._
 
 ### 💻 Trending Tech
-1. **[A triangle whose interior angles sum to zero](https://www.johndcook.com/blog/2025/11/28/tricusp-triangle/)** (⬆️ 17)
-2. **[Airbus A320 – intense solar radiation may corrupt data critical for flight](https://www.airbus.com/en/newsroom/press-releases/2025-11-airbus-update-on-a320-family-precautionary-fleet-action)** (⬆️ 69)
-3. **[Imgur geo-blocked the UK, so I geo-unblocked my network](https://blog.tymscar.com/posts/imgurukproxy/)** (⬆️ 265)
+1. **[High Air Pollution Could Diminish Exercise Benefits by 50%, Study Finds](https://scienceclock.com/exercise-may-protect-less-when-air-pollution-is-high-study-finds/)** (⬆️ 38)
+2. **[System 7 natively boots on the Mac mini G4](https://macos9lives.com/smforum/index.php?topic=7711.0)** (⬆️ 216)
+3. **[WinApps: Run Windows apps as if they were a part of the native Linux OS](https://github.com/winapps-org/winapps)** (⬆️ 181)
 <!-- AUTO-UPDATE-END -->
