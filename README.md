@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2025-11-29 12:37 UTC_
+_Last updated: 2025-11-30 01:47 UTC_
 
 ### 🔬 Latest AI Research
 **[Revisiting Generalization Across Difficulty Levels: It's Not So Easy](http://arxiv.org/abs/2511.21692v1)**  
 _We investigate how well large language models (LLMs) generalize across different task difficulties, a key question for effective data curation and evaluation. Existing research is mixed regarding whet..._
 
 ### 💻 Trending Tech
-1. **[High Air Pollution Could Diminish Exercise Benefits by 50%, Study Finds](https://scienceclock.com/exercise-may-protect-less-when-air-pollution-is-high-study-finds/)** (⬆️ 38)
-2. **[System 7 natively boots on the Mac mini G4](https://macos9lives.com/smforum/index.php?topic=7711.0)** (⬆️ 216)
-3. **[WinApps: Run Windows apps as if they were a part of the native Linux OS](https://github.com/winapps-org/winapps)** (⬆️ 181)
+1. **[Bazzite: The next generation of Linux gaming](https://bazzite.gg/)** (⬆️ 146)
+2. **[Landlock-Ing Linux](https://blog.prizrak.me/post/landlock/)** (⬆️ 111)
+3. **[All it takes is for one to work out](https://alearningaday.blog/2025/11/28/all-it-takes-is-for-one-to-work-out-2/)** (⬆️ 294)
 <!-- AUTO-UPDATE-END -->
