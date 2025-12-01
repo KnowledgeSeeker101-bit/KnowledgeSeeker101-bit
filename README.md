@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2025-12-01 01:54 UTC_
+_Last updated: 2025-12-01 12:43 UTC_
 
 ### 🔬 Latest AI Research
-**[Revisiting Generalization Across Difficulty Levels: It's Not So Easy](http://arxiv.org/abs/2511.21692v1)**  
-_We investigate how well large language models (LLMs) generalize across different task difficulties, a key question for effective data curation and evaluation. Existing research is mixed regarding whet..._
+**[Thinking by Doing: Building Efficient World Model Reasoning in LLMs via Multi-turn Interaction](http://arxiv.org/abs/2511.23476v1)**  
+_Developing robust world model reasoning is crucial for large language model (LLM) agents to plan and interact in complex environments. While multi-turn interaction offers a superior understanding of e..._
 
 ### 💻 Trending Tech
-1. **[A Love Letter to FreeBSD](https://www.tara.sh/posts/2025/2025-11-25_freebsd_letter/)** (⬆️ 171)
-2. **[Is America's jobs market nearing a cliff?](https://www.economist.com/finance-and-economics/2025/11/30/is-americas-jobs-market-nearing-a-cliff)** (⬆️ 31)
-3. **[Algorithms for Optimization [pdf]](https://algorithmsbook.com/optimization/files/optimization.pdf)** (⬆️ 68)
+1. **[Self-hosting a Matrix server for 5 years](https://yaky.dev/2025-11-30-self-hosting-matrix/)** (⬆️ 54)
+2. **[Search tool that only returns content created before ChatGPT's public release](https://tegabrain.com/Slop-Evader)** (⬆️ 510)
+3. **[Why Is ChatGPT for Mac So Good?](https://allenpike.com/2025/why-is-chatgpt-so-good-claude)** (⬆️ 17)
 <!-- AUTO-UPDATE-END -->
