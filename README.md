@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2025-11-30 12:37 UTC_
+_Last updated: 2025-12-01 01:54 UTC_
 
 ### 🔬 Latest AI Research
 **[Revisiting Generalization Across Difficulty Levels: It's Not So Easy](http://arxiv.org/abs/2511.21692v1)**  
 _We investigate how well large language models (LLMs) generalize across different task difficulties, a key question for effective data curation and evaluation. Existing research is mixed regarding whet..._
 
 ### 💻 Trending Tech
-1. **[CachyOS: Fast and Customizable Linux Distribution](https://cachyos.org/)** (⬆️ 58)
-2. **[Show HN: Boing](https://boing.greg.technology/)** (⬆️ 427)
-3. **[Bazzite: The next generation of Linux gaming](https://bazzite.gg/)** (⬆️ 439)
+1. **[A Love Letter to FreeBSD](https://www.tara.sh/posts/2025/2025-11-25_freebsd_letter/)** (⬆️ 171)
+2. **[Is America's jobs market nearing a cliff?](https://www.economist.com/finance-and-economics/2025/11/30/is-americas-jobs-market-nearing-a-cliff)** (⬆️ 31)
+3. **[Algorithms for Optimization [pdf]](https://algorithmsbook.com/optimization/files/optimization.pdf)** (⬆️ 68)
 <!-- AUTO-UPDATE-END -->
