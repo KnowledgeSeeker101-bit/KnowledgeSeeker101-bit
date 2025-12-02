@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2025-12-02 01:39 UTC_
+_Last updated: 2025-12-02 12:43 UTC_
 
 ### 🔬 Latest AI Research
-**[Thinking by Doing: Building Efficient World Model Reasoning in LLMs via Multi-turn Interaction](http://arxiv.org/abs/2511.23476v1)**  
-_Developing robust world model reasoning is crucial for large language model (LLM) agents to plan and interact in complex environments. While multi-turn interaction offers a superior understanding of e..._
+**[EfficientFlow: Efficient Equivariant Flow Policy Learning for Embodied AI](http://arxiv.org/abs/2512.02020v1)**  
+_Generative modeling has recently shown remarkable promise for visuomotor policy learning, enabling flexible and expressive control across diverse embodied AI tasks. However, existing generative polici..._
 
 ### 💻 Trending Tech
-1. **[How to Attend Meetings – Internal guidelines from the New York Times](https://docs.google.com/presentation/d/1l7s1aAsNPlNhSye8OsMqmH6pMR32OYGGdLT6VKyFaQE/edit#slide=id.p)** (⬆️ 298)
-2. **[DeepSeek-v3.2: Pushing the frontier of open large language models [pdf]](https://huggingface.co/deepseek-ai/DeepSeek-V3.2/resolve/main/assets/paper.pdf)** (⬆️ 539)
-3. **[India orders smartphone makers to preload state-owned cyber safety app](https://www.reuters.com/sustainability/boards-policy-regulation/india-orders-mobile-phones-preloaded-with-government-app-ensure-cyber-safety-2025-12-01/)** (⬆️ 436)
+1. **[Addressing the adding situation](https://xania.org/202512/02-adding-integers)** (⬆️ 64)
+2. **[Advent of Compiler Optimisations 2025](https://xania.org/202511/advent-of-compiler-optimisation)** (⬆️ 110)
+3. **[Apple Releases Open Weights Video Model](https://starflow-v.github.io)** (⬆️ 220)
 <!-- AUTO-UPDATE-END -->
