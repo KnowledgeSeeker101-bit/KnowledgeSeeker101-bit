@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2025-12-02 12:43 UTC_
+_Last updated: 2025-12-03 01:39 UTC_
 
 ### 🔬 Latest AI Research
 **[EfficientFlow: Efficient Equivariant Flow Policy Learning for Embodied AI](http://arxiv.org/abs/2512.02020v1)**  
 _Generative modeling has recently shown remarkable promise for visuomotor policy learning, enabling flexible and expressive control across diverse embodied AI tasks. However, existing generative polici..._
 
 ### 💻 Trending Tech
-1. **[Addressing the adding situation](https://xania.org/202512/02-adding-integers)** (⬆️ 64)
-2. **[Advent of Compiler Optimisations 2025](https://xania.org/202511/advent-of-compiler-optimisation)** (⬆️ 110)
-3. **[Apple Releases Open Weights Video Model](https://starflow-v.github.io)** (⬆️ 220)
+1. **[Anthropic acquires Bun](https://bun.com/blog/bun-joins-anthropic)** (⬆️ 1373)
+2. **[Paged Out](https://pagedout.institute)** (⬆️ 210)
+3. **[IBM CEO says there is 'no way' spending on AI data centers will pay off](https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12)** (⬆️ 212)
 <!-- AUTO-UPDATE-END -->
