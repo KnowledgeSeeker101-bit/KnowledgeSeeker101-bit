@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2025-12-03 01:39 UTC_
+_Last updated: 2025-12-03 12:44 UTC_
 
 ### 🔬 Latest AI Research
-**[EfficientFlow: Efficient Equivariant Flow Policy Learning for Embodied AI](http://arxiv.org/abs/2512.02020v1)**  
-_Generative modeling has recently shown remarkable promise for visuomotor policy learning, enabling flexible and expressive control across diverse embodied AI tasks. However, existing generative polici..._
+**[PPTArena: A Benchmark for Agentic PowerPoint Editing](http://arxiv.org/abs/2512.03042v1)**  
+_We introduce PPTArena, a benchmark for PowerPoint editing that measures reliable modifications to real slides under natural-language instructions. In contrast to image-PDF renderings or text-to-slide ..._
 
 ### 💻 Trending Tech
-1. **[Anthropic acquires Bun](https://bun.com/blog/bun-joins-anthropic)** (⬆️ 1373)
-2. **[Paged Out](https://pagedout.institute)** (⬆️ 210)
-3. **[IBM CEO says there is 'no way' spending on AI data centers will pay off](https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12)** (⬆️ 212)
+1. **[You Can't Fool the Optimizer](https://xania.org/202512/03-more-adding-integers)** (⬆️ 29)
+2. **[The "Mad Men" in 4K on HBO Max Debacle](http://fxrant.blogspot.com/2025/12/the-mad-men-in-4k-on-hbo-max-debacle.html)** (⬆️ 27)
+3. **[Anthropic acquires Bun](https://bun.com/blog/bun-joins-anthropic)** (⬆️ 1916)
 <!-- AUTO-UPDATE-END -->
