@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2025-12-03 12:44 UTC_
+_Last updated: 2025-12-04 01:40 UTC_
 
 ### 🔬 Latest AI Research
 **[PPTArena: A Benchmark for Agentic PowerPoint Editing](http://arxiv.org/abs/2512.03042v1)**  
 _We introduce PPTArena, a benchmark for PowerPoint editing that measures reliable modifications to real slides under natural-language instructions. In contrast to image-PDF renderings or text-to-slide ..._
 
 ### 💻 Trending Tech
-1. **[You Can't Fool the Optimizer](https://xania.org/202512/03-more-adding-integers)** (⬆️ 29)
-2. **[The "Mad Men" in 4K on HBO Max Debacle](http://fxrant.blogspot.com/2025/12/the-mad-men-in-4k-on-hbo-max-debacle.html)** (⬆️ 27)
-3. **[Anthropic acquires Bun](https://bun.com/blog/bun-joins-anthropic)** (⬆️ 1916)
+1. **[Ghostty is now non-profit](https://mitchellh.com/writing/ghostty-non-profit)** (⬆️ 749)
+2. **[Valve reveals it’s the architect behind a push to bring Windows games to Arm](https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais)** (⬆️ 416)
+3. **[Reverse engineering a $1B Legal AI tool exposed 100k+ confidential files](https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k)** (⬆️ 489)
 <!-- AUTO-UPDATE-END -->
