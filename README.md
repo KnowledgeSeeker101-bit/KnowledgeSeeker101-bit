@@ -109,14 +109,13 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2025-12-05 01:40 UTC_
+_Last updated: 2025-12-05 12:42 UTC_
 
 ### 🔬 Latest AI Research
-**[SkillFactory: Self-Distillation For Learning Cognitive Behaviors](http://arxiv.org/abs/2512.04072v1)**  
-_Reasoning models leveraging long chains of thought employ various cognitive skills, such as verification of their answers, backtracking, retrying by an alternate method, and more. Previous work has sh..._
+**[The Universal Weight Subspace Hypothesis](http://arxiv.org/abs/2512.05117v1)**  
+_We show that deep neural networks trained across diverse tasks exhibit remarkably similar low-dimensional parametric subspaces. We provide the first large-scale empirical evidence that demonstrates th..._
 
 ### 💻 Trending Tech
-1. **[AV1 – Now Powering 30% of Netflix Streaming](https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80)** (⬆️ 96)
-2. **[State of AI: An Empirical 100T Token Study with OpenRouter](https://openrouter.ai/state-of-ai)** (⬆️ 106)
-3. **[CUDA-l2: Surpassing cuBLAS performance for matrix multiplication through RL](https://github.com/deepreinforce-ai/CUDA-L2)** (⬆️ 77)
+1. **[Netflix to Acquire Warner Bros. In an $82.7B Deal](https://about.netflix.com/en/news/netflix-to-acquire-warner-bros)** (⬆️ 100)
+2. **[The US polluters that are rewriting the EU's human rights and climate law](https://www.somo.nl/the-secretive-cabal-of-us-polluters-that-is-rewriting-the-eus-human-rights-and-climate-law/)** (⬆️ 296)
 <!-- AUTO-UPDATE-END -->
