@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2025-12-04 01:40 UTC_
+_Last updated: 2025-12-05 01:40 UTC_
 
 ### 🔬 Latest AI Research
-**[PPTArena: A Benchmark for Agentic PowerPoint Editing](http://arxiv.org/abs/2512.03042v1)**  
-_We introduce PPTArena, a benchmark for PowerPoint editing that measures reliable modifications to real slides under natural-language instructions. In contrast to image-PDF renderings or text-to-slide ..._
+**[SkillFactory: Self-Distillation For Learning Cognitive Behaviors](http://arxiv.org/abs/2512.04072v1)**  
+_Reasoning models leveraging long chains of thought employ various cognitive skills, such as verification of their answers, backtracking, retrying by an alternate method, and more. Previous work has sh..._
 
 ### 💻 Trending Tech
-1. **[Ghostty is now non-profit](https://mitchellh.com/writing/ghostty-non-profit)** (⬆️ 749)
-2. **[Valve reveals it’s the architect behind a push to bring Windows games to Arm](https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais)** (⬆️ 416)
-3. **[Reverse engineering a $1B Legal AI tool exposed 100k+ confidential files](https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k)** (⬆️ 489)
+1. **[AV1 – Now Powering 30% of Netflix Streaming](https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80)** (⬆️ 96)
+2. **[State of AI: An Empirical 100T Token Study with OpenRouter](https://openrouter.ai/state-of-ai)** (⬆️ 106)
+3. **[CUDA-l2: Surpassing cuBLAS performance for matrix multiplication through RL](https://github.com/deepreinforce-ai/CUDA-L2)** (⬆️ 77)
 <!-- AUTO-UPDATE-END -->
