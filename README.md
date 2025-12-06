@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2025-12-06 01:26 UTC_
+_Last updated: 2025-12-06 12:38 UTC_
 
 ### 🔬 Latest AI Research
 **[The Universal Weight Subspace Hypothesis](http://arxiv.org/abs/2512.05117v1)**  
 _We show that deep neural networks trained across diverse tasks exhibit remarkably similar low-dimensional parametric subspaces. We provide the first large-scale empirical evidence that demonstrates th..._
 
 ### 💻 Trending Tech
-1. **[Netflix to Acquire Warner Bros](https://about.netflix.com/en/news/netflix-to-acquire-warner-bros)** (⬆️ 1432)
-2. **[Cloudflare outage on December 5, 2025](https://blog.cloudflare.com/5-december-2025-outage/)** (⬆️ 545)
-3. **[Adenosine on the common path of rapid antidepressant action: The coffee paradox](https://genomicpress.kglmeridian.com/view/journals/brainmed/aop/article-10.61373-bm025c.0134/article-10.61373-bm025c.0134.xml)** (⬆️ 55)
+1. **[Self-hosting my photos with Immich](https://michael.stapelberg.ch/posts/2025-11-29-self-hosting-photos-with-immich/)** (⬆️ 419)
+2. **[Wolfram Compute Services](https://writings.stephenwolfram.com/2025/12/instant-supercompute-launching-wolfram-compute-services/)** (⬆️ 125)
+3. **[Guy Built a Compact Camera Using an Optical Mouse](https://petapixel.com/2025/11/13/this-guy-built-a-compact-camera-using-an-optical-mouse/)** (⬆️ 104)
 <!-- AUTO-UPDATE-END -->
