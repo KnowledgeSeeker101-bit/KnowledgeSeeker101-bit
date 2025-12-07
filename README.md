@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2025-12-07 01:47 UTC_
+_Last updated: 2025-12-07 12:37 UTC_
 
 ### 🔬 Latest AI Research
 **[The Universal Weight Subspace Hypothesis](http://arxiv.org/abs/2512.05117v1)**  
 _We show that deep neural networks trained across diverse tasks exhibit remarkably similar low-dimensional parametric subspaces. We provide the first large-scale empirical evidence that demonstrates th..._
 
 ### 💻 Trending Tech
-1. **[Using LLMs at Oxide](https://rfd.shared.oxide.computer/rfd/0576)** (⬆️ 27)
-2. **[Screenshots from developers: 2002 vs. 2015 (2015)](https://anders.unix.se/2015/12/10/screenshots-from-developers--2002-vs.-2015/)** (⬆️ 147)
-3. **[Trains cancelled over fake bridge collapse image](https://www.bbc.com/news/articles/cwygqqll9k2o)** (⬆️ 45)
+1. **[Using LLMs at Oxide](https://rfd.shared.oxide.computer/rfd/0576)** (⬆️ 452)
+2. **[Java Hello World, LLVM Edition](https://www.javaadvent.com/2025/12/java-hello-world-llvm-edition.html)** (⬆️ 5)
+3. **[Kilauea erupts, destroying webcam [video]](https://www.youtube.com/watch?v=TK2N99BDw7A)** (⬆️ 373)
 <!-- AUTO-UPDATE-END -->
