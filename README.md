@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2025-12-08 01:41 UTC_
+_Last updated: 2025-12-08 12:42 UTC_
 
 ### 🔬 Latest AI Research
-**[The Universal Weight Subspace Hypothesis](http://arxiv.org/abs/2512.05117v1)**  
-_We show that deep neural networks trained across diverse tasks exhibit remarkably similar low-dimensional parametric subspaces. We provide the first large-scale empirical evidence that demonstrates th..._
+**[Enhancing Retrieval-Augmented Generation with Entity Linking for Educational Platforms](http://arxiv.org/abs/2512.05967v1)**  
+_In the era of Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) architectures are gaining significant attention for their ability to ground language generation in reliable knowledge s..._
 
 ### 💻 Trending Tech
-1. **[I failed to recreate the 1996 Space Jam website with Claude](https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude/)** (⬆️ 297)
-2. **[Mechanical power generation using Earth's ambient radiation](https://www.science.org/doi/10.1126/sciadv.adw6833)** (⬆️ 47)
-3. **[Bag of words, have mercy on us](https://www.experimental-history.com/p/bag-of-words-have-mercy-on-us)** (⬆️ 35)
+1. **[12 Days of Shell](https://12days.cmdchallenge.com)** (⬆️ 93)
+2. **[Show HN: Web app that lets you send email time capsules](https://resurf.me)** (⬆️ 16)
+3. **[GitHub Actions Has a Package Manager, and It Might Be the Worst](https://nesbitt.io/2025/12/06/github-actions-package-manager.html)** (⬆️ 179)
 <!-- AUTO-UPDATE-END -->
