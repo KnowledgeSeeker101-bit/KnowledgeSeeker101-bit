@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2025-12-09 01:40 UTC_
+_Last updated: 2025-12-09 12:44 UTC_
 
 ### 🔬 Latest AI Research
-**[Enhancing Retrieval-Augmented Generation with Entity Linking for Educational Platforms](http://arxiv.org/abs/2512.05967v1)**  
-_In the era of Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) architectures are gaining significant attention for their ability to ground language generation in reliable knowledge s..._
+**[Relational Visual Similarity](http://arxiv.org/abs/2512.07833v1)**  
+_Humans do not just see attribute similarity -- we also see relational similarity. An apple is like a peach because both are reddish fruit, but the Earth is also like a peach: its crust, mantle, and co..._
 
 ### 💻 Trending Tech
-1. **[Horses: AI progress is steady. Human equivalence is sudden](https://andyljones.com/posts/horses.html)** (⬆️ 44)
-2. **[The Universal Weight Subspace Hypothesis](https://arxiv.org/abs/2512.05117)** (⬆️ 47)
-3. **[Icons in Menus Everywhere – Send Help](https://blog.jim-nielsen.com/2025/icons-in-menus/)** (⬆️ 217)
+1. **[LLM from scratch, part 28 – training a base model from scratch on an RTX 3090](https://www.gilesthomas.com/2025/12/llm-from-scratch-28-training-a-base-model-from-scratch)** (⬆️ 121)
+2. **[Show HN: AlgoDrill – Interactive drills to stop forgetting LeetCode patterns](https://algodrill.io)** (⬆️ 33)
+3. **[The Joy of Playing Grandia, on Sega Saturn](https://www.segasaturnshiro.com/2025/11/27/the-joy-of-playing-grandia-on-sega-saturn/)** (⬆️ 66)
 <!-- AUTO-UPDATE-END -->
