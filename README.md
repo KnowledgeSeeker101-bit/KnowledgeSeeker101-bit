@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2025-12-08 12:42 UTC_
+_Last updated: 2025-12-09 01:40 UTC_
 
 ### 🔬 Latest AI Research
 **[Enhancing Retrieval-Augmented Generation with Entity Linking for Educational Platforms](http://arxiv.org/abs/2512.05967v1)**  
 _In the era of Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) architectures are gaining significant attention for their ability to ground language generation in reliable knowledge s..._
 
 ### 💻 Trending Tech
-1. **[12 Days of Shell](https://12days.cmdchallenge.com)** (⬆️ 93)
-2. **[Show HN: Web app that lets you send email time capsules](https://resurf.me)** (⬆️ 16)
-3. **[GitHub Actions Has a Package Manager, and It Might Be the Worst](https://nesbitt.io/2025/12/06/github-actions-package-manager.html)** (⬆️ 179)
+1. **[Horses: AI progress is steady. Human equivalence is sudden](https://andyljones.com/posts/horses.html)** (⬆️ 44)
+2. **[The Universal Weight Subspace Hypothesis](https://arxiv.org/abs/2512.05117)** (⬆️ 47)
+3. **[Icons in Menus Everywhere – Send Help](https://blog.jim-nielsen.com/2025/icons-in-menus/)** (⬆️ 217)
 <!-- AUTO-UPDATE-END -->
