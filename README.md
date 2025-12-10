@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2025-12-09 12:44 UTC_
+_Last updated: 2025-12-10 01:42 UTC_
 
 ### 🔬 Latest AI Research
 **[Relational Visual Similarity](http://arxiv.org/abs/2512.07833v1)**  
 _Humans do not just see attribute similarity -- we also see relational similarity. An apple is like a peach because both are reddish fruit, but the Earth is also like a peach: its crust, mantle, and co..._
 
 ### 💻 Trending Tech
-1. **[LLM from scratch, part 28 – training a base model from scratch on an RTX 3090](https://www.gilesthomas.com/2025/12/llm-from-scratch-28-training-a-base-model-from-scratch)** (⬆️ 121)
-2. **[Show HN: AlgoDrill – Interactive drills to stop forgetting LeetCode patterns](https://algodrill.io)** (⬆️ 33)
-3. **[The Joy of Playing Grandia, on Sega Saturn](https://www.segasaturnshiro.com/2025/11/27/the-joy-of-playing-grandia-on-sega-saturn/)** (⬆️ 66)
+1. **[Show HN: Gemini Pro 3 hallucinates the HN front page 10 years from now](https://dosaygo-studio.github.io/hn-front-page-2035/news)** (⬆️ 1844)
+2. **[PeerTube is recognized as a digital public good by Digital Public Goods Alliance](https://www.digitalpublicgoods.net/r/peertube)** (⬆️ 399)
+3. **[Django: what’s new in 6.0](https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/)** (⬆️ 152)
 <!-- AUTO-UPDATE-END -->
