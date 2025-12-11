@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2025-12-10 12:44 UTC_
+_Last updated: 2025-12-11 01:43 UTC_
 
 ### 🔬 Latest AI Research
 **[Astra: General Interactive World Model with Autoregressive Denoising](http://arxiv.org/abs/2512.08931v1)**  
 _Recent advances in diffusion transformers have empowered video generation models to generate high-quality video clips from texts or images. However, world models with the ability to predict long-horiz..._
 
 ### 💻 Trending Tech
-1. **[Show HN: Gemini Pro 3 hallucinates the HN front page 10 years from now](https://dosaygo-studio.github.io/hn-front-page-2035/news)** (⬆️ 2813)
-2. **[Revisiting "Let's Build a Compiler"](https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/)** (⬆️ 116)
-3. **[Rust in the kernel is no longer experimental](https://lwn.net/Articles/1049831/)** (⬆️ 628)
+1. **[Size of Life](https://neal.fun/size-of-life/)** (⬆️ 1368)
+2. **[Australia begins enforcing world-first teen social media ban](https://www.reuters.com/legal/litigation/australia-social-media-ban-takes-effect-world-first-2025-12-09/)** (⬆️ 555)
+3. **[Getting a Gemini API key is an exercise in frustration](https://ankursethi.com/blog/gemini-api-key-frustration/)** (⬆️ 218)
 <!-- AUTO-UPDATE-END -->
