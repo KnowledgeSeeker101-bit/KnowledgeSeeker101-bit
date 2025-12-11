@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2025-12-11 01:43 UTC_
+_Last updated: 2025-12-11 12:46 UTC_
 
 ### 🔬 Latest AI Research
-**[Astra: General Interactive World Model with Autoregressive Denoising](http://arxiv.org/abs/2512.08931v1)**  
-_Recent advances in diffusion transformers have empowered video generation models to generate high-quality video clips from texts or images. However, world models with the ability to predict long-horiz..._
+**[Closing the Train-Test Gap in World Models for Gradient-Based Planning](http://arxiv.org/abs/2512.09929v1)**  
+_World models paired with model predictive control (MPC) can be trained offline on large-scale datasets of expert trajectories and enable generalization to a wide range of planning tasks at inference t..._
 
 ### 💻 Trending Tech
-1. **[Size of Life](https://neal.fun/size-of-life/)** (⬆️ 1368)
-2. **[Australia begins enforcing world-first teen social media ban](https://www.reuters.com/legal/litigation/australia-social-media-ban-takes-effect-world-first-2025-12-09/)** (⬆️ 555)
-3. **[Getting a Gemini API key is an exercise in frustration](https://ankursethi.com/blog/gemini-api-key-frustration/)** (⬆️ 218)
+1. **[A “frozen” dictionary for Python](https://lwn.net/SubscriberLink/1047238/25c270b077849dc0/)** (⬆️ 46)
+2. **[Size of Life](https://neal.fun/size-of-life/)** (⬆️ 2142)
+3. **[Meta shuts down global accounts linked to abortion advice and queer content](https://www.theguardian.com/global-development/2025/dec/11/meta-shuts-down-global-accounts-linked-to-abortion-advice-and-queer-content)** (⬆️ 55)
 <!-- AUTO-UPDATE-END -->
