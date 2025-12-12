@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2025-12-11 12:46 UTC_
+_Last updated: 2025-12-12 01:42 UTC_
 
 ### 🔬 Latest AI Research
 **[Closing the Train-Test Gap in World Models for Gradient-Based Planning](http://arxiv.org/abs/2512.09929v1)**  
 _World models paired with model predictive control (MPC) can be trained offline on large-scale datasets of expert trajectories and enable generalization to a wide range of planning tasks at inference t..._
 
 ### 💻 Trending Tech
-1. **[A “frozen” dictionary for Python](https://lwn.net/SubscriberLink/1047238/25c270b077849dc0/)** (⬆️ 46)
-2. **[Size of Life](https://neal.fun/size-of-life/)** (⬆️ 2142)
-3. **[Meta shuts down global accounts linked to abortion advice and queer content](https://www.theguardian.com/global-development/2025/dec/11/meta-shuts-down-global-accounts-linked-to-abortion-advice-and-queer-content)** (⬆️ 55)
+1. **[GPT-5.2](https://openai.com/index/introducing-gpt-5-2/)** (⬆️ 760)
+2. **[Nokia N900 Necromancy](https://yaky.dev/2025-12-11-nokia-n900-necromancy/)** (⬆️ 44)
+3. **[Denial of service and source code exposure in React Server Components](https://react.dev/blog/2025/12/11/denial-of-service-and-source-code-exposure-in-react-server-components)** (⬆️ 198)
 <!-- AUTO-UPDATE-END -->
