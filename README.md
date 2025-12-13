@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2025-12-12 12:43 UTC_
+_Last updated: 2025-12-13 01:37 UTC_
 
 ### 🔬 Latest AI Research
 **[SceneMaker: Open-set 3D Scene Generation with Decoupled De-occlusion and Pose Estimation Model](http://arxiv.org/abs/2512.10957v1)**  
 _We propose a decoupled 3D scene generation framework called SceneMaker in this work. Due to the lack of sufficient open-set de-occlusion and pose estimation priors, existing methods struggle to simult..._
 
 ### 💻 Trending Tech
-1. **[After 27 years within budget Austria open 6thlongest railway tunnel in the world](https://infrastruktur.oebb.at/en/projects-for-austria/railway-lines/southern-line-vienna-villach/koralm-railway)** (⬆️ 96)
-2. **[4 billion if statements (2023)](https://andreasjhkarlsson.github.io//jekyll/update/2023/12/27/4-billion-if-statements.html)** (⬆️ 105)
-3. **[The tiniest yet real telescope I've built](https://lucassifoni.info/blog/miniscope-tiny-telescope/)** (⬆️ 141)
+1. **[OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI](https://simonwillison.net/2025/Dec/12/openai-skills/)** (⬆️ 86)
+2. **[macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)** (⬆️ 265)
+3. **[GNU Unifont](https://unifoundry.com/unifont/index.html)** (⬆️ 150)
 <!-- AUTO-UPDATE-END -->
