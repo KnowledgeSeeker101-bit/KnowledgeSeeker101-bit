@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2025-12-13 12:38 UTC_
+_Last updated: 2025-12-14 01:48 UTC_
 
 ### 🔬 Latest AI Research
 **[SceneMaker: Open-set 3D Scene Generation with Decoupled De-occlusion and Pose Estimation Model](http://arxiv.org/abs/2512.10957v1)**  
 _We propose a decoupled 3D scene generation framework called SceneMaker in this work. Due to the lack of sufficient open-set de-occlusion and pose estimation priors, existing methods struggle to simult..._
 
 ### 💻 Trending Tech
-1. **[OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI](https://simonwillison.net/2025/Dec/12/openai-skills/)** (⬆️ 430)
-2. **[macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)** (⬆️ 433)
-3. **[Photographer built a medium-format rangefinder, and so can you](https://petapixel.com/2025/12/06/this-photographer-built-an-awesome-medium-format-rangefinder-and-so-can-you/)** (⬆️ 51)
+1. **[Linux Sandboxes and Fil-C](https://fil-c.org/seccomp)** (⬆️ 92)
+2. **[Closures as Win32 Window Procedures](https://nullprogram.com/blog/2025/12/12/)** (⬆️ 35)
+3. **[Why Twilio Segment moved from microservices back to a monolith](https://www.twilio.com/en-us/blog/developers/best-practices/goodbye-microservices)** (⬆️ 166)
 <!-- AUTO-UPDATE-END -->
