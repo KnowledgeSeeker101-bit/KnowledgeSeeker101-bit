@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2025-12-14 01:48 UTC_
+_Last updated: 2025-12-14 12:39 UTC_
 
 ### 🔬 Latest AI Research
 **[SceneMaker: Open-set 3D Scene Generation with Decoupled De-occlusion and Pose Estimation Model](http://arxiv.org/abs/2512.10957v1)**  
 _We propose a decoupled 3D scene generation framework called SceneMaker in this work. Due to the lack of sufficient open-set de-occlusion and pose estimation priors, existing methods struggle to simult..._
 
 ### 💻 Trending Tech
-1. **[Linux Sandboxes and Fil-C](https://fil-c.org/seccomp)** (⬆️ 92)
-2. **[Closures as Win32 Window Procedures](https://nullprogram.com/blog/2025/12/12/)** (⬆️ 35)
-3. **[Why Twilio Segment moved from microservices back to a monolith](https://www.twilio.com/en-us/blog/developers/best-practices/goodbye-microservices)** (⬆️ 166)
+1. **[Linux Sandboxes and Fil-C](https://fil-c.org/seccomp)** (⬆️ 263)
+2. **[Using e-ink tablet as monitor for Linux](https://alavi.me/blog/e-ink-tablet-as-monitor-linux/)** (⬆️ 165)
+3. **[I fed 24 years of my blog posts to a Markov model](https://susam.net/fed-24-years-of-posts-to-markov-model.html)** (⬆️ 210)
 <!-- AUTO-UPDATE-END -->
