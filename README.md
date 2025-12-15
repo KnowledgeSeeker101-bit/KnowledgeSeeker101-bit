@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2025-12-15 01:46 UTC_
+_Last updated: 2025-12-15 12:47 UTC_
 
 ### 🔬 Latest AI Research
-**[SceneMaker: Open-set 3D Scene Generation with Decoupled De-occlusion and Pose Estimation Model](http://arxiv.org/abs/2512.10957v1)**  
-_We propose a decoupled 3D scene generation framework called SceneMaker in this work. Due to the lack of sufficient open-set de-occlusion and pose estimation priors, existing methods struggle to simult..._
+**[Particulate: Feed-Forward 3D Object Articulation](http://arxiv.org/abs/2512.11798v1)**  
+_We present Particulate, a feed-forward approach that, given a single static 3D mesh of an everyday object, directly infers all attributes of the underlying articulated structure, including its 3D part..._
 
 ### 💻 Trending Tech
-1. **[Anthropic Outage for Opus 4.5 and Sonnet 4/4.5 across all services](https://status.claude.com/incidents/9g6qpr72ttbr)** (⬆️ 241)
-2. **[Signal1996.net](https://signal1996.net/)** (⬆️ 13)
-3. **[2002: Last.fm and Audioscrobbler Herald the Social Web](https://cybercultural.com/p/lastfm-audioscrobbler-2002/)** (⬆️ 138)
+1. **[Adafruit: Arduino’s Rules Are ‘Incompatible With Open Source’](https://thenewstack.io/adafruit-arduinos-rules-are-incompatible-with-open-source/)** (⬆️ 254)
+2. **[I'm Kenyan. I Don't Write Like ChatGPT. ChatGPT Writes Like Me](https://marcusolang.substack.com/p/im-kenyan-i-dont-write-like-chatgpt)** (⬆️ 50)
+3. **[Roomba maker goes bankrupt, Chinese owner emerges](https://news.bloomberglaw.com/bankruptcy-law/robot-vacuum-roomba-maker-files-for-bankruptcy-after-35-years)** (⬆️ 248)
 <!-- AUTO-UPDATE-END -->
