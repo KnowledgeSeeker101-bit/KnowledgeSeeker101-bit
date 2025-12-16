@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2025-12-16 01:43 UTC_
+_Last updated: 2025-12-16 12:44 UTC_
 
 ### 🔬 Latest AI Research
-**[Particulate: Feed-Forward 3D Object Articulation](http://arxiv.org/abs/2512.11798v1)**  
-_We present Particulate, a feed-forward approach that, given a single static 3D mesh of an everyday object, directly infers all attributes of the underlying articulated structure, including its 3D part..._
+**[DiffusionBrowser: Interactive Diffusion Previews via Multi-Branch Decoders](http://arxiv.org/abs/2512.13690v1)**  
+_Video diffusion models have revolutionized generative video synthesis, but they are imprecise, slow, and can be opaque during generation -- keeping users in the dark for a prolonged period. In this wo..._
 
 ### 💻 Trending Tech
-1. **[Quill OS – an open-source, fully-functional standalone OS for Kobo eReaders](https://quill-os.org/)** (⬆️ 66)
-2. **[Fix HDMI-CEC weirdness with a Raspberry Pi and a $7 cable](https://johnlian.net/posts/hdmi-cec/)** (⬆️ 168)
-3. **[Ideas Aren't Getting Harder to Find](https://asteriskmag.com/issues/12-books/ideas-arent-getting-harder-to-find)** (⬆️ 23)
+1. **[SHARP, an approach to photorealistic view synthesis from a single image](https://apple.github.io/ml-sharp/)** (⬆️ 362)
+2. **[A2UI: A Protocol for Agent-Driven Interfaces](https://a2ui.org/)** (⬆️ 53)
+3. **[Children with cancer scammed out of millions fundraised for their treatment](https://www.bbc.com/news/articles/ckgz318y8elo)** (⬆️ 305)
 <!-- AUTO-UPDATE-END -->
