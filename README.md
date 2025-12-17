@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2025-12-16 12:44 UTC_
+_Last updated: 2025-12-17 01:39 UTC_
 
 ### 🔬 Latest AI Research
 **[DiffusionBrowser: Interactive Diffusion Previews via Multi-Branch Decoders](http://arxiv.org/abs/2512.13690v1)**  
 _Video diffusion models have revolutionized generative video synthesis, but they are imprecise, slow, and can be opaque during generation -- keeping users in the dark for a prolonged period. In this wo..._
 
 ### 💻 Trending Tech
-1. **[SHARP, an approach to photorealistic view synthesis from a single image](https://apple.github.io/ml-sharp/)** (⬆️ 362)
-2. **[A2UI: A Protocol for Agent-Driven Interfaces](https://a2ui.org/)** (⬆️ 53)
-3. **[Children with cancer scammed out of millions fundraised for their treatment](https://www.bbc.com/news/articles/ckgz318y8elo)** (⬆️ 305)
+1. **[AI will make formal verification go mainstream](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)** (⬆️ 301)
+2. **[alpr.watch](https://alpr.watch/)** (⬆️ 614)
+3. **[No Graphics API](https://www.sebastianaaltonen.com/blog/no-graphics-api)** (⬆️ 407)
 <!-- AUTO-UPDATE-END -->
