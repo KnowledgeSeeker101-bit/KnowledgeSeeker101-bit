@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2025-12-17 01:39 UTC_
+_Last updated: 2025-12-17 12:45 UTC_
 
 ### 🔬 Latest AI Research
-**[DiffusionBrowser: Interactive Diffusion Previews via Multi-Branch Decoders](http://arxiv.org/abs/2512.13690v1)**  
-_Video diffusion models have revolutionized generative video synthesis, but they are imprecise, slow, and can be opaque during generation -- keeping users in the dark for a prolonged period. In this wo..._
+**[TimeLens: Rethinking Video Temporal Grounding with Multimodal LLMs](http://arxiv.org/abs/2512.14698v1)**  
+_This paper does not introduce a novel method but instead establishes a straightforward, incremental, yet essential baseline for video temporal grounding (VTG), a core capability in video understanding..._
 
 ### 💻 Trending Tech
-1. **[AI will make formal verification go mainstream](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)** (⬆️ 301)
-2. **[alpr.watch](https://alpr.watch/)** (⬆️ 614)
-3. **[No Graphics API](https://www.sebastianaaltonen.com/blog/no-graphics-api)** (⬆️ 407)
+1. **[Is Mozilla trying hard to kill itself?](https://infosec.press/brunomiguel/is-mozilla-trying-hard-to-kill-itself)** (⬆️ 397)
+2. **[AI will make formal verification go mainstream](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)** (⬆️ 678)
+3. **[AI's real superpower: consuming, not creating](https://msanroman.io/blog/ai-consumption-paradigm)** (⬆️ 54)
 <!-- AUTO-UPDATE-END -->
