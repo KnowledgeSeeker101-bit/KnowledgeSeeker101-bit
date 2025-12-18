@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2025-12-17 12:45 UTC_
+_Last updated: 2025-12-18 01:39 UTC_
 
 ### 🔬 Latest AI Research
 **[TimeLens: Rethinking Video Temporal Grounding with Multimodal LLMs](http://arxiv.org/abs/2512.14698v1)**  
 _This paper does not introduce a novel method but instead establishes a straightforward, incremental, yet essential baseline for video temporal grounding (VTG), a core capability in video understanding..._
 
 ### 💻 Trending Tech
-1. **[Is Mozilla trying hard to kill itself?](https://infosec.press/brunomiguel/is-mozilla-trying-hard-to-kill-itself)** (⬆️ 397)
-2. **[AI will make formal verification go mainstream](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)** (⬆️ 678)
-3. **[AI's real superpower: consuming, not creating](https://msanroman.io/blog/ai-consumption-paradigm)** (⬆️ 54)
+1. **[Gemini 3 Flash: Frontier intelligence built for speed](https://blog.google/products/gemini/gemini-3-flash/)** (⬆️ 755)
+2. **[Gut bacteria from amphibians and reptiles achieve tumor elimination in mice](https://www.jaist.ac.jp/english/whatsnew/press/2025/12/17-1.html)** (⬆️ 61)
+3. **[OBS Studio Gets a New Renderer](https://obsproject.com/blog/obs-studio-gets-a-new-renderer)** (⬆️ 99)
 <!-- AUTO-UPDATE-END -->
