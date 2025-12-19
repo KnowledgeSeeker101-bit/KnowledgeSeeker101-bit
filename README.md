@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2025-12-19 01:42 UTC_
+_Last updated: 2025-12-19 12:41 UTC_
 
 ### 🔬 Latest AI Research
-**[Spatia: Video Generation with Updatable Spatial Memory](http://arxiv.org/abs/2512.15716v1)**  
-_Existing video generation models struggle to maintain long-term spatial and temporal consistency due to the dense, high-dimensional nature of video signals. To overcome this limitation, we propose Spa..._
+**[EasyV2V: A High-quality Instruction-based Video Editing Framework](http://arxiv.org/abs/2512.16920v1)**  
+_While image editing has advanced rapidly, video editing remains less explored, facing challenges in consistency, control, and generalization. We study the design space of data, architecture, and contr..._
 
 ### 💻 Trending Tech
-1. **[Beginning January 2026, all ACM publications will be made open access](https://dl.acm.org/openaccess)** (⬆️ 1329)
-2. **[1.5 TB of VRAM on Mac Studio – RDMA over Thunderbolt 5](https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5)** (⬆️ 162)
-3. **[We pwned X, Vercel, Cursor, and Discord through a supply-chain attack](https://gist.github.com/hackermondev/5e2cdc32849405fff6b46957747a2d28)** (⬆️ 596)
+1. **[GotaTun -- Mullvad's WireGuard Implementation in Rust](https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn)** (⬆️ 105)
+2. **[Amazon will allow ePub and PDF downloads for DRM-free eBooks](https://www.kdpcommunity.com/s/article/New-eBook-Download-Options-for-Readers-Coming-in-2026?language=en_US)** (⬆️ 96)
+3. **[Show HN: I open-sourced my Go and Next B2B SaaS Starter (deploy anywhere, MIT)](https://github.com/moasq/production-saas-starter)** (⬆️ 24)
 <!-- AUTO-UPDATE-END -->
