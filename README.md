@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2025-12-20 01:37 UTC_
+_Last updated: 2025-12-20 12:38 UTC_
 
 ### 🔬 Latest AI Research
 **[EasyV2V: A High-quality Instruction-based Video Editing Framework](http://arxiv.org/abs/2512.16920v1)**  
 _While image editing has advanced rapidly, video editing remains less explored, facing challenges in consistency, control, and generalization. We study the design space of data, architecture, and contr..._
 
 ### 💻 Trending Tech
-1. **[CSS Grid Lanes](https://webkit.org/blog/17660/introducing-css-grid-lanes/)** (⬆️ 228)
-2. **[Mistral OCR 3](https://mistral.ai/news/mistral-ocr-3)** (⬆️ 377)
-3. **[Garage – An S3 object store so reliable you can run it outside datacenters](https://garagehq.deuxfleurs.fr/)** (⬆️ 449)
+1. **[NTP at NIST Boulder Has Lost Power](https://lists.nanog.org/archives/list/nanog@lists.nanog.org/message/ACADD3NKOG2QRWZ56OSNNG7UIEKKTZXL/)** (⬆️ 141)
+2. **[What Does a Database for SSDs Look Like?](https://brooker.co.za/blog/2025/12/15/database-for-ssd.html)** (⬆️ 30)
+3. **[Charles Proxy](https://www.charlesproxy.com/)** (⬆️ 178)
 <!-- AUTO-UPDATE-END -->
