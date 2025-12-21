@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2025-12-21 01:48 UTC_
+_Last updated: 2025-12-21 12:38 UTC_
 
 ### 🔬 Latest AI Research
 **[EasyV2V: A High-quality Instruction-based Video Editing Framework](http://arxiv.org/abs/2512.16920v1)**  
 _While image editing has advanced rapidly, video editing remains less explored, facing challenges in consistency, control, and generalization. We study the design space of data, architecture, and contr..._
 
 ### 💻 Trending Tech
-1. **[Show HN: Jmail – Google Suite for Epstein files](https://www.jmail.world)** (⬆️ 252)
-2. **[Backing Up Spotify](https://annas-archive.li/blog/backing-up-spotify.html)** (⬆️ 800)
-3. **[Ireland’s Diarmuid Early wins world Microsoft Excel title](https://www.bbc.com/news/articles/cj4qzgvxxgvo)** (⬆️ 177)
+1. **[New mathematical framework reshapes debate over simulation hypothesis](https://www.santafe.edu/news-center/news/new-mathematical-framework-reshapes-debate-over-simulation-hypothesis)** (⬆️ 19)
+2. **[Show HN: Shittp – Volatile Dotfiles over SSH](https://github.com/FOBshippingpoint/shittp)** (⬆️ 4)
+3. **[Show HN: Jmail – Google Suite for Epstein files](https://www.jmail.world)** (⬆️ 947)
 <!-- AUTO-UPDATE-END -->
