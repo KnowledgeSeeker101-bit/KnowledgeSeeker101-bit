@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2025-12-22 01:47 UTC_
+_Last updated: 2025-12-22 12:42 UTC_
 
 ### 🔬 Latest AI Research
-**[EasyV2V: A High-quality Instruction-based Video Editing Framework](http://arxiv.org/abs/2512.16920v1)**  
-_While image editing has advanced rapidly, video editing remains less explored, facing challenges in consistency, control, and generalization. We study the design space of data, architecture, and contr..._
+**[Re-Depth Anything: Test-Time Depth Refinement via Self-Supervised Re-lighting](http://arxiv.org/abs/2512.17908v1)**  
+_Monocular depth estimation remains challenging as recent foundation models, such as Depth Anything V2 (DA-V2), struggle with real-world images that are far from the training distribution. We introduce..._
 
 ### 💻 Trending Tech
-1. **[A guide to local coding models](https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude)** (⬆️ 206)
-2. **[I'm just having fun](https://jyn.dev/i-m-just-having-fun/)** (⬆️ 142)
-3. **[Show HN: Books mentioned on Hacker News in 2025](https://hackernews-readings-613604506318.us-west1.run.app)** (⬆️ 337)
+1. **[If You Don't Design Your Career, Someone Else Will](https://gregmckeown.com/if-you-dont-design-your-career-someone-else-will/)** (⬆️ 99)
+2. **[The ancient monuments saluting the winter solstice](https://www.bbc.com/culture/article/20251219-the-ancient-monuments-saluting-the-winter-solstice)** (⬆️ 51)
+3. **[A guide to local coding models](https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude)** (⬆️ 455)
 <!-- AUTO-UPDATE-END -->
