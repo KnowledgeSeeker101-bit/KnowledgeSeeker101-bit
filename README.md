@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2025-12-21 12:38 UTC_
+_Last updated: 2025-12-22 01:47 UTC_
 
 ### 🔬 Latest AI Research
 **[EasyV2V: A High-quality Instruction-based Video Editing Framework](http://arxiv.org/abs/2512.16920v1)**  
 _While image editing has advanced rapidly, video editing remains less explored, facing challenges in consistency, control, and generalization. We study the design space of data, architecture, and contr..._
 
 ### 💻 Trending Tech
-1. **[New mathematical framework reshapes debate over simulation hypothesis](https://www.santafe.edu/news-center/news/new-mathematical-framework-reshapes-debate-over-simulation-hypothesis)** (⬆️ 19)
-2. **[Show HN: Shittp – Volatile Dotfiles over SSH](https://github.com/FOBshippingpoint/shittp)** (⬆️ 4)
-3. **[Show HN: Jmail – Google Suite for Epstein files](https://www.jmail.world)** (⬆️ 947)
+1. **[A guide to local coding models](https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude)** (⬆️ 206)
+2. **[I'm just having fun](https://jyn.dev/i-m-just-having-fun/)** (⬆️ 142)
+3. **[Show HN: Books mentioned on Hacker News in 2025](https://hackernews-readings-613604506318.us-west1.run.app)** (⬆️ 337)
 <!-- AUTO-UPDATE-END -->
