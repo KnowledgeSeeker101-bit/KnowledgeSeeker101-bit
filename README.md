@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2025-12-22 12:42 UTC_
+_Last updated: 2025-12-23 01:43 UTC_
 
 ### 🔬 Latest AI Research
 **[Re-Depth Anything: Test-Time Depth Refinement via Self-Supervised Re-lighting](http://arxiv.org/abs/2512.17908v1)**  
 _Monocular depth estimation remains challenging as recent foundation models, such as Depth Anything V2 (DA-V2), struggle with real-world images that are far from the training distribution. We introduce..._
 
 ### 💻 Trending Tech
-1. **[If You Don't Design Your Career, Someone Else Will](https://gregmckeown.com/if-you-dont-design-your-career-someone-else-will/)** (⬆️ 99)
-2. **[The ancient monuments saluting the winter solstice](https://www.bbc.com/culture/article/20251219-the-ancient-monuments-saluting-the-winter-solstice)** (⬆️ 51)
-3. **[A guide to local coding models](https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude)** (⬆️ 455)
+1. **[The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)** (⬆️ 244)
+2. **[It's Always TCP_NODELAY](https://brooker.co.za/blog/2024/05/09/nagle.html)** (⬆️ 125)
+3. **[Ultrasound Cancer Treatment: Sound Waves Fight Tumors](https://spectrum.ieee.org/ultrasound-cancer-treatment)** (⬆️ 166)
 <!-- AUTO-UPDATE-END -->
