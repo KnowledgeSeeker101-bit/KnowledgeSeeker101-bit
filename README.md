@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2025-12-23 01:43 UTC_
+_Last updated: 2025-12-23 12:43 UTC_
 
 ### 🔬 Latest AI Research
-**[Re-Depth Anything: Test-Time Depth Refinement via Self-Supervised Re-lighting](http://arxiv.org/abs/2512.17908v1)**  
-_Monocular depth estimation remains challenging as recent foundation models, such as Depth Anything V2 (DA-V2), struggle with real-world images that are far from the training distribution. We introduce..._
+**[Scalably Enhancing the Clinical Validity of a Task Benchmark with Physician Oversight](http://arxiv.org/abs/2512.19691v1)**  
+_Automating the calculation of clinical risk scores offers a significant opportunity to reduce physician administrative burden and enhance patient care. The current standard for evaluating this capabil..._
 
 ### 💻 Trending Tech
-1. **[The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)** (⬆️ 244)
-2. **[It's Always TCP_NODELAY](https://brooker.co.za/blog/2024/05/09/nagle.html)** (⬆️ 125)
-3. **[Ultrasound Cancer Treatment: Sound Waves Fight Tumors](https://spectrum.ieee.org/ultrasound-cancer-treatment)** (⬆️ 166)
+1. **[Adobe Photoshop 1.0 Source Code (1990)](https://computerhistory.org/blog/adobe-photoshop-source-code/)** (⬆️ 152)
+2. **[Instant database clones with PostgreSQL 18](https://boringsql.com/posts/instant-database-clones/)** (⬆️ 74)
+3. **[Font with Built-In Syntax Highlighting (2024)](https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/)** (⬆️ 22)
 <!-- AUTO-UPDATE-END -->
