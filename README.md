@@ -109,14 +109,13 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2025-12-24 12:42 UTC_
+_Last updated: 2025-12-25 01:43 UTC_
 
 ### 🔬 Latest AI Research
 **[LongVideoAgent: Multi-Agent Reasoning with Long Videos](http://arxiv.org/abs/2512.20618v1)**  
 _Recent advances in multimodal LLMs and systems that use tools for long-video QA point to the promise of reasoning over hour-long episodes. However, many methods still compress content into lossy summa..._
 
 ### 💻 Trending Tech
-1. **[The Ultimate Windows Utility (2022)](https://christitus.com/windows-tool/)** (⬆️ 58)
-2. **[Fabrice Bellard Releases MicroQuickJS](https://github.com/bellard/mquickjs/blob/main/README.md)** (⬆️ 1147)
-3. **[Google 2025 recap: Research breakthroughs of the year](https://blog.google/technology/ai/2025-research-breakthroughs/)** (⬆️ 38)
+1. **[Phoenix: A modern X server written from scratch in Zig](https://git.dec05eba.com/phoenix/about/)** (⬆️ 185)
+2. **[Who Watches the Waymos? I do [video]](https://www.youtube.com/watch?v=oYU2hAbx_Fc)** (⬆️ 33)
 <!-- AUTO-UPDATE-END -->
