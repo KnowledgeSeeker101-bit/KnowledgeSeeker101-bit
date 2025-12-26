@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2025-12-26 01:43 UTC_
+_Last updated: 2025-12-26 12:42 UTC_
 
 ### 🔬 Latest AI Research
 **[Optimizing Decoding Paths in Masked Diffusion Models by Quantifying Uncertainty](http://arxiv.org/abs/2512.21336v1)**  
 _Masked Diffusion Models (MDMs) offer flexible, non-autoregressive generation, but this freedom introduces a challenge: final output quality is highly sensitive to the decoding order. We are the first ..._
 
 ### 💻 Trending Tech
-1. **[Maybe the default settings are too high](https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/)** (⬆️ 171)
-2. **[MiniMax M2.1: Built for Real-World Complex Tasks, Multi-Language Programming](https://www.minimaxi.com/news/minimax-m21)** (⬆️ 20)
-3. **[Python 3.15’s interpreter for Windows x86-64 should hopefully be 15% faster](https://fidget-spinner.github.io/posts/no-longer-sorry.html)** (⬆️ 319)
+1. **[The Algebra of Loans in Rust](https://nadrieril.github.io/blog/2025/12/21/the-algebra-of-loans-in-rust.html)** (⬆️ 66)
+2. **[Maybe the default settings are too high](https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/)** (⬆️ 677)
+3. **[Geometric Algorithms for Translucency Sorting in Minecraft [pdf]](https://douira.dev/assets/document/douira-master-thesis.pdf)** (⬆️ 26)
 <!-- AUTO-UPDATE-END -->
