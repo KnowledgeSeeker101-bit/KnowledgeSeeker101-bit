@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2025-12-28 01:53 UTC_
+_Last updated: 2025-12-28 12:40 UTC_
 
 ### 🔬 Latest AI Research
 **[Optimizing Decoding Paths in Masked Diffusion Models by Quantifying Uncertainty](http://arxiv.org/abs/2512.21336v1)**  
 _Masked Diffusion Models (MDMs) offer flexible, non-autoregressive generation, but this freedom introduces a challenge: final output quality is highly sensitive to the decoding order. We are the first ..._
 
 ### 💻 Trending Tech
-1. **[Replacing JavaScript with Just HTML](https://www.htmhell.dev/adventcalendar/2025/27/)** (⬆️ 37)
-2. **[How we lost communication to entertainment](https://ploum.net/2025-12-15-communication-entertainment.html)** (⬆️ 279)
-3. **[Why Reliability Demands Functional Programming](https://blog.rastrian.dev/post/why-reliability-demands-functional-programming-adts-safety-and-critical-infrastructure)** (⬆️ 29)
+1. **[Growing up in “404 Not Found”: China's nuclear city in the Gobi Desert](https://substack.com/inbox/post/182743659)** (⬆️ 113)
+2. **[Calendar](https://neatnik.net/calendar/?year=2026)** (⬆️ 493)
+3. **[Replacing JavaScript with Just HTML](https://www.htmhell.dev/adventcalendar/2025/27/)** (⬆️ 434)
 <!-- AUTO-UPDATE-END -->
