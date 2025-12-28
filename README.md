@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2025-12-27 12:40 UTC_
+_Last updated: 2025-12-28 01:53 UTC_
 
 ### 🔬 Latest AI Research
 **[Optimizing Decoding Paths in Masked Diffusion Models by Quantifying Uncertainty](http://arxiv.org/abs/2512.21336v1)**  
 _Masked Diffusion Models (MDMs) offer flexible, non-autoregressive generation, but this freedom introduces a challenge: final output quality is highly sensitive to the decoding order. We are the first ..._
 
 ### 💻 Trending Tech
-1. **[Splice a Fibre](https://react-networks-lib.rackout.net/fibre)** (⬆️ 10)
-2. **[Show HN: Ez FFmpeg – Video editing in plain English](http://npmjs.com/package/ezff)** (⬆️ 128)
-3. **[Cursed Bundler: Using go get to install Ruby Gems](https://nesbitt.io/2025/12/25/cursed-bundler-using-go-get-to-install-ruby-gems.html)** (⬆️ 23)
+1. **[Replacing JavaScript with Just HTML](https://www.htmhell.dev/adventcalendar/2025/27/)** (⬆️ 37)
+2. **[How we lost communication to entertainment](https://ploum.net/2025-12-15-communication-entertainment.html)** (⬆️ 279)
+3. **[Why Reliability Demands Functional Programming](https://blog.rastrian.dev/post/why-reliability-demands-functional-programming-adts-safety-and-critical-infrastructure)** (⬆️ 29)
 <!-- AUTO-UPDATE-END -->
