@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2025-12-29 01:51 UTC_
+_Last updated: 2025-12-29 12:45 UTC_
 
 ### 🔬 Latest AI Research
-**[Optimizing Decoding Paths in Masked Diffusion Models by Quantifying Uncertainty](http://arxiv.org/abs/2512.21336v1)**  
-_Masked Diffusion Models (MDMs) offer flexible, non-autoregressive generation, but this freedom introduces a challenge: final output quality is highly sensitive to the decoding order. We are the first ..._
+**[Agentic Structured Graph Traversal for Root Cause Analysis of Code-related Incidents in Cloud Applications](http://arxiv.org/abs/2512.22113v1)**  
+_Cloud incidents pose major operational challenges in production, with unresolved production cloud incidents cost on average over $2M per hour. Prior research identifies code- and configuration-related..._
 
 ### 💻 Trending Tech
-1. **[What an unprocessed photo looks like](https://maurycyz.com/misc/raw_photo/)** (⬆️ 457)
-2. **[Stepping down as Mockito maintainer after 10 years](https://github.com/mockito/mockito/issues/3777)** (⬆️ 206)
-3. **[Unity's Mono problem: Why your C# code runs slower than it should](https://marekfiser.com/blog/mono-vs-dot-net-in-unity/)** (⬆️ 96)
+1. **[I Was Kidnapped by Deutsche Bahn and All I Got Was 1.50 EUR](https://www.theocharis.dev/blog/kidnapped-by-deutsche-bahn/)** (⬆️ 53)
+2. **[What an unprocessed photo looks like](https://maurycyz.com/misc/raw_photo/)** (⬆️ 1699)
+3. **[CIA Star Gate Project: An Overview (1993) [pdf]](https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R002800180001-2.pdf)** (⬆️ 13)
 <!-- AUTO-UPDATE-END -->
