@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2025-12-28 12:40 UTC_
+_Last updated: 2025-12-29 01:51 UTC_
 
 ### 🔬 Latest AI Research
 **[Optimizing Decoding Paths in Masked Diffusion Models by Quantifying Uncertainty](http://arxiv.org/abs/2512.21336v1)**  
 _Masked Diffusion Models (MDMs) offer flexible, non-autoregressive generation, but this freedom introduces a challenge: final output quality is highly sensitive to the decoding order. We are the first ..._
 
 ### 💻 Trending Tech
-1. **[Growing up in “404 Not Found”: China's nuclear city in the Gobi Desert](https://substack.com/inbox/post/182743659)** (⬆️ 113)
-2. **[Calendar](https://neatnik.net/calendar/?year=2026)** (⬆️ 493)
-3. **[Replacing JavaScript with Just HTML](https://www.htmhell.dev/adventcalendar/2025/27/)** (⬆️ 434)
+1. **[What an unprocessed photo looks like](https://maurycyz.com/misc/raw_photo/)** (⬆️ 457)
+2. **[Stepping down as Mockito maintainer after 10 years](https://github.com/mockito/mockito/issues/3777)** (⬆️ 206)
+3. **[Unity's Mono problem: Why your C# code runs slower than it should](https://marekfiser.com/blog/mono-vs-dot-net-in-unity/)** (⬆️ 96)
 <!-- AUTO-UPDATE-END -->
