@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2025-12-29 12:45 UTC_
+_Last updated: 2025-12-30 01:44 UTC_
 
 ### 🔬 Latest AI Research
 **[Agentic Structured Graph Traversal for Root Cause Analysis of Code-related Incidents in Cloud Applications](http://arxiv.org/abs/2512.22113v1)**  
 _Cloud incidents pose major operational challenges in production, with unresolved production cloud incidents cost on average over $2M per hour. Prior research identifies code- and configuration-related..._
 
 ### 💻 Trending Tech
-1. **[I Was Kidnapped by Deutsche Bahn and All I Got Was 1.50 EUR](https://www.theocharis.dev/blog/kidnapped-by-deutsche-bahn/)** (⬆️ 53)
-2. **[What an unprocessed photo looks like](https://maurycyz.com/misc/raw_photo/)** (⬆️ 1699)
-3. **[CIA Star Gate Project: An Overview (1993) [pdf]](https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R002800180001-2.pdf)** (⬆️ 13)
+1. **[Google is dead. Where do we go now?](https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/)** (⬆️ 469)
+2. **[MongoDB Server Security Update, December 2025](https://www.mongodb.com/company/blog/news/mongodb-server-security-update-december-2025)** (⬆️ 22)
+3. **[Show HN: Stop Claude Code from forgetting everything](https://github.com/mutable-state-inc/ensue-skill)** (⬆️ 63)
 <!-- AUTO-UPDATE-END -->
