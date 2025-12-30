@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2025-12-30 01:44 UTC_
+_Last updated: 2025-12-30 12:43 UTC_
 
 ### 🔬 Latest AI Research
-**[Agentic Structured Graph Traversal for Root Cause Analysis of Code-related Incidents in Cloud Applications](http://arxiv.org/abs/2512.22113v1)**  
-_Cloud incidents pose major operational challenges in production, with unresolved production cloud incidents cost on average over $2M per hour. Prior research identifies code- and configuration-related..._
+**[Training AI Co-Scientists Using Rubric Rewards](http://arxiv.org/abs/2512.23707v1)**  
+_AI co-scientists are emerging as a tool to assist human researchers in achieving their research goals. A crucial feature of these AI co-scientists is the ability to generate a research plan given a se..._
 
 ### 💻 Trending Tech
-1. **[Google is dead. Where do we go now?](https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/)** (⬆️ 469)
-2. **[MongoDB Server Security Update, December 2025](https://www.mongodb.com/company/blog/news/mongodb-server-security-update-december-2025)** (⬆️ 22)
-3. **[Show HN: Stop Claude Code from forgetting everything](https://github.com/mutable-state-inc/ensue-skill)** (⬆️ 63)
+1. **[Netflix: Open Content](https://opencontent.netflix.com/)** (⬆️ 130)
+2. **[Non-Zero-Sum Games](https://nonzerosum.games/)** (⬆️ 38)
+3. **[Google is dead. Where do we go now?](https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/)** (⬆️ 879)
 <!-- AUTO-UPDATE-END -->
