@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2025-12-31 01:44 UTC_
+_Last updated: 2025-12-31 12:43 UTC_
 
 ### 🔬 Latest AI Research
 **[Training AI Co-Scientists Using Rubric Rewards](http://arxiv.org/abs/2512.23707v1)**  
 _AI co-scientists are emerging as a tool to assist human researchers in achieving their research goals. A crucial feature of these AI co-scientists is the ability to generate a research plan given a se..._
 
 ### 💻 Trending Tech
-1. **[Project ideas to appreciate the art of programming](https://codecrafters.io/blog/programming-project-ideas)** (⬆️ 102)
-2. **[A faster heart for F-Droid. Our new server is here](https://f-droid.org/2025/12/30/a-faster-heart-for-f-droid.html)** (⬆️ 260)
-3. **[FediMeteo: A €4 FreeBSD VPS Became a Global Weather Service](https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/)** (⬆️ 221)
+1. **[Akin's Laws of Spacecraft Design [pdf]](https://www.ece.uvic.ca/~elec399/201409/Akin%27s%20Laws%20of%20Spacecraft%20Design.pdf)** (⬆️ 44)
+2. **[Show HN: Use Claude Code to Query 600 GB Indexes over Hacker News, ArXiv, etc.](https://exopriors.com/scry)** (⬆️ 100)
+3. **[The rise of industrial software](https://chrisloy.dev/post/2025/12/30/the-rise-of-industrial-software)** (⬆️ 111)
 <!-- AUTO-UPDATE-END -->
