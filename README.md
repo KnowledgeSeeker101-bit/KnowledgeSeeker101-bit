@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-01-01 01:54 UTC_
+_Last updated: 2026-01-01 12:43 UTC_
 
 ### 🔬 Latest AI Research
-**[Training AI Co-Scientists Using Rubric Rewards](http://arxiv.org/abs/2512.23707v1)**  
-_AI co-scientists are emerging as a tool to assist human researchers in achieving their research goals. A crucial feature of these AI co-scientists is the ability to generate a research plan given a se..._
+**[SpaceTimePilot: Generative Rendering of Dynamic Scenes Across Space and Time](http://arxiv.org/abs/2512.25075v1)**  
+_We present SpaceTimePilot, a video diffusion model that disentangles space and time for controllable generative rendering. Given a monocular video, SpaceTimePilot can independently alter the camera vi..._
 
 ### 💻 Trending Tech
-1. **[2025: The Year in LLMs](https://simonwillison.net/2025/Dec/31/the-year-in-llms/)** (⬆️ 68)
-2. **[Nerd: The first programming language not built for humans](https://www.nerd-lang.org/about)** (⬆️ 21)
-3. **[Scientists unlock brain's natural clean-up system for new treatments for stroke](https://www.monash.edu/pharm/about/news/news-listing/latest/scientists-unlock-brains-natural-clean-up-system-to-develop-new-treatments-for-stroke-and-other-neurological-diseases)** (⬆️ 56)
+1. **[Bluetooth Headphone Jacking: A Key to Your Phone [video]](https://media.ccc.de/v/39c3-bluetooth-headphone-jacking-a-key-to-your-phone)** (⬆️ 14)
+2. **[2025: The Year in LLMs](https://simonwillison.net/2025/Dec/31/the-year-in-llms/)** (⬆️ 602)
+3. **[Rust–: Rust without the borrow checker](https://github.com/buyukakyuz/rustmm)** (⬆️ 52)
 <!-- AUTO-UPDATE-END -->
