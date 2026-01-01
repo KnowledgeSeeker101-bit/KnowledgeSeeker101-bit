@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2025-12-31 12:43 UTC_
+_Last updated: 2026-01-01 01:54 UTC_
 
 ### 🔬 Latest AI Research
 **[Training AI Co-Scientists Using Rubric Rewards](http://arxiv.org/abs/2512.23707v1)**  
 _AI co-scientists are emerging as a tool to assist human researchers in achieving their research goals. A crucial feature of these AI co-scientists is the ability to generate a research plan given a se..._
 
 ### 💻 Trending Tech
-1. **[Akin's Laws of Spacecraft Design [pdf]](https://www.ece.uvic.ca/~elec399/201409/Akin%27s%20Laws%20of%20Spacecraft%20Design.pdf)** (⬆️ 44)
-2. **[Show HN: Use Claude Code to Query 600 GB Indexes over Hacker News, ArXiv, etc.](https://exopriors.com/scry)** (⬆️ 100)
-3. **[The rise of industrial software](https://chrisloy.dev/post/2025/12/30/the-rise-of-industrial-software)** (⬆️ 111)
+1. **[2025: The Year in LLMs](https://simonwillison.net/2025/Dec/31/the-year-in-llms/)** (⬆️ 68)
+2. **[Nerd: The first programming language not built for humans](https://www.nerd-lang.org/about)** (⬆️ 21)
+3. **[Scientists unlock brain's natural clean-up system for new treatments for stroke](https://www.monash.edu/pharm/about/news/news-listing/latest/scientists-unlock-brains-natural-clean-up-system-to-develop-new-treatments-for-stroke-and-other-neurological-diseases)** (⬆️ 56)
 <!-- AUTO-UPDATE-END -->
