@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-01-02 01:45 UTC_
+_Last updated: 2026-01-02 12:41 UTC_
 
 ### 🔬 Latest AI Research
 **[SpaceTimePilot: Generative Rendering of Dynamic Scenes Across Space and Time](http://arxiv.org/abs/2512.25075v1)**  
 _We present SpaceTimePilot, a video diffusion model that disentangles space and time for controllable generative rendering. Given a monocular video, SpaceTimePilot can independently alter the camera vi..._
 
 ### 💻 Trending Tech
-1. **[A website to destroy all websites](https://henry.codes/writing/a-website-to-destroy-all-websites/)** (⬆️ 318)
-2. **[Can Bundler be as fast as uv?](https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/)** (⬆️ 144)
-3. **[Finland detains ship and its crew after critical undersea cable damaged](https://www.cnn.com/2025/12/31/europe/finland-estonia-undersea-cable-ship-detained-intl)** (⬆️ 263)
+1. **[10 years of personal finances in plain text files](https://sgoel.dev/posts/10-years-of-personal-finances-in-plain-text-files/)** (⬆️ 72)
+2. **[Standard Ebooks: Public Domain Day 2026 in Literature](https://standardebooks.org/blog/public-domain-day-2026)** (⬆️ 141)
+3. **[One Number I Trust: Plain-Text Accounting for a Multi-Currency Household](https://lalitm.com/post/one-number-i-trust/)** (⬆️ 24)
 <!-- AUTO-UPDATE-END -->
