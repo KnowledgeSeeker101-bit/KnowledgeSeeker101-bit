@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-01-01 12:43 UTC_
+_Last updated: 2026-01-02 01:45 UTC_
 
 ### 🔬 Latest AI Research
 **[SpaceTimePilot: Generative Rendering of Dynamic Scenes Across Space and Time](http://arxiv.org/abs/2512.25075v1)**  
 _We present SpaceTimePilot, a video diffusion model that disentangles space and time for controllable generative rendering. Given a monocular video, SpaceTimePilot can independently alter the camera vi..._
 
 ### 💻 Trending Tech
-1. **[Bluetooth Headphone Jacking: A Key to Your Phone [video]](https://media.ccc.de/v/39c3-bluetooth-headphone-jacking-a-key-to-your-phone)** (⬆️ 14)
-2. **[2025: The Year in LLMs](https://simonwillison.net/2025/Dec/31/the-year-in-llms/)** (⬆️ 602)
-3. **[Rust–: Rust without the borrow checker](https://github.com/buyukakyuz/rustmm)** (⬆️ 52)
+1. **[A website to destroy all websites](https://henry.codes/writing/a-website-to-destroy-all-websites/)** (⬆️ 318)
+2. **[Can Bundler be as fast as uv?](https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/)** (⬆️ 144)
+3. **[Finland detains ship and its crew after critical undersea cable damaged](https://www.cnn.com/2025/12/31/europe/finland-estonia-undersea-cable-ship-detained-intl)** (⬆️ 263)
 <!-- AUTO-UPDATE-END -->
