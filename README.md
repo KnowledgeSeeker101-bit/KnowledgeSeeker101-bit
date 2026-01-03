@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-01-02 12:41 UTC_
+_Last updated: 2026-01-03 01:40 UTC_
 
 ### 🔬 Latest AI Research
 **[SpaceTimePilot: Generative Rendering of Dynamic Scenes Across Space and Time](http://arxiv.org/abs/2512.25075v1)**  
 _We present SpaceTimePilot, a video diffusion model that disentangles space and time for controllable generative rendering. Given a monocular video, SpaceTimePilot can independently alter the camera vi..._
 
 ### 💻 Trending Tech
-1. **[10 years of personal finances in plain text files](https://sgoel.dev/posts/10-years-of-personal-finances-in-plain-text-files/)** (⬆️ 72)
-2. **[Standard Ebooks: Public Domain Day 2026 in Literature](https://standardebooks.org/blog/public-domain-day-2026)** (⬆️ 141)
-3. **[One Number I Trust: Plain-Text Accounting for a Multi-Currency Household](https://lalitm.com/post/one-number-i-trust/)** (⬆️ 24)
+1. **[2026 will be my year of the Linux desktop](https://xeiaso.net/notes/2026/year-linux-desktop/)** (⬆️ 177)
+2. **[Publish on your own site, syndicate elsewhere](https://indieweb.org/POSSE#)** (⬆️ 347)
+3. **[Daft Punk Easter Egg in the BPM Tempo of Harder, Better, Faster, Stronger?](https://www.madebywindmill.com/tempi/blog/hbfs-bpm/)** (⬆️ 224)
 <!-- AUTO-UPDATE-END -->
