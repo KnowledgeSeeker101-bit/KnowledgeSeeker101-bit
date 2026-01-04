@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-01-04 01:54 UTC_
+_Last updated: 2026-01-04 12:40 UTC_
 
 ### 🔬 Latest AI Research
 **[SpaceTimePilot: Generative Rendering of Dynamic Scenes Across Space and Time](http://arxiv.org/abs/2512.25075v1)**  
 _We present SpaceTimePilot, a video diffusion model that disentangles space and time for controllable generative rendering. Given a monocular video, SpaceTimePilot can independently alter the camera vi..._
 
 ### 💻 Trending Tech
-1. **[Total monthly number of StackOverflow questions over time](https://data.stackexchange.com/stackoverflow/query/1926661#graph)** (⬆️ 487)
-2. **[The suck is why we're here](https://nik.art/the-suck-is-why-were-here/)** (⬆️ 70)
-3. **[Swift on Android: Full Native App Development Now Possible](https://docs.swifdroid.com/app/)** (⬆️ 84)
+1. **[Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)** (⬆️ 396)
+2. **[The Gentle Seduction](http://www.skyhunter.com/marcs/GentleSeduction.html)** (⬆️ 106)
+3. **[FreeBSD Home NAS, part 3: WireGuard VPN, routing, and Linux peers](https://rtfm.co.ua/en/freebsd-home-nas-part-3-wireguard-vpn-linux-peer-and-routing/)** (⬆️ 8)
 <!-- AUTO-UPDATE-END -->
