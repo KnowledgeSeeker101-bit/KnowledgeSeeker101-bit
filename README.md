@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-01-05 01:54 UTC_
+_Last updated: 2026-01-05 12:47 UTC_
 
 ### 🔬 Latest AI Research
-**[SpaceTimePilot: Generative Rendering of Dynamic Scenes Across Space and Time](http://arxiv.org/abs/2512.25075v1)**  
-_We present SpaceTimePilot, a video diffusion model that disentangles space and time for controllable generative rendering. Given a monocular video, SpaceTimePilot can independently alter the camera vi..._
+**[Two Deep Learning Approaches for Automated Segmentation of Left Ventricle in Cine Cardiac MRI](http://arxiv.org/abs/2601.00794v1)**  
+_Left ventricle (LV) segmentation is critical for clinical quantification and diagnosis of cardiac images. In this work, we propose two novel deep learning architectures called LNU-Net and IBU-Net for ..._
 
 ### 💻 Trending Tech
-1. **[Show HN: Terminal UI for AWS](https://github.com/huseyinbabal/taws)** (⬆️ 182)
-2. **[Lessons from 14 Years at Google](https://addyosmani.com/blog/21-lessons/)** (⬆️ 817)
-3. **[Why does a least squares fit appear to have a bias when applied to simple data?](https://stats.stackexchange.com/questions/674129/why-does-a-linear-least-squares-fit-appear-to-have-a-bias-when-applied-to-simple)** (⬆️ 127)
+1. **[It's hard to justify Tahoe icons](https://tonsky.me/blog/tahoe-icons/)** (⬆️ 161)
+2. **[Databases in 2025: A Year in Review](https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html)** (⬆️ 174)
+3. **[Decorative Cryptography](https://www.dlp.rip/decorative-cryptography)** (⬆️ 107)
 <!-- AUTO-UPDATE-END -->
