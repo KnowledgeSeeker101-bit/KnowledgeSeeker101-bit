@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-01-04 12:40 UTC_
+_Last updated: 2026-01-05 01:54 UTC_
 
 ### 🔬 Latest AI Research
 **[SpaceTimePilot: Generative Rendering of Dynamic Scenes Across Space and Time](http://arxiv.org/abs/2512.25075v1)**  
 _We present SpaceTimePilot, a video diffusion model that disentangles space and time for controllable generative rendering. Given a monocular video, SpaceTimePilot can independently alter the camera vi..._
 
 ### 💻 Trending Tech
-1. **[Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)** (⬆️ 396)
-2. **[The Gentle Seduction](http://www.skyhunter.com/marcs/GentleSeduction.html)** (⬆️ 106)
-3. **[FreeBSD Home NAS, part 3: WireGuard VPN, routing, and Linux peers](https://rtfm.co.ua/en/freebsd-home-nas-part-3-wireguard-vpn-linux-peer-and-routing/)** (⬆️ 8)
+1. **[Show HN: Terminal UI for AWS](https://github.com/huseyinbabal/taws)** (⬆️ 182)
+2. **[Lessons from 14 Years at Google](https://addyosmani.com/blog/21-lessons/)** (⬆️ 817)
+3. **[Why does a least squares fit appear to have a bias when applied to simple data?](https://stats.stackexchange.com/questions/674129/why-does-a-linear-least-squares-fit-appear-to-have-a-bias-when-applied-to-simple)** (⬆️ 127)
 <!-- AUTO-UPDATE-END -->
