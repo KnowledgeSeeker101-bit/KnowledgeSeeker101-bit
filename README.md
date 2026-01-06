@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-01-05 12:47 UTC_
+_Last updated: 2026-01-06 01:46 UTC_
 
 ### 🔬 Latest AI Research
 **[Two Deep Learning Approaches for Automated Segmentation of Left Ventricle in Cine Cardiac MRI](http://arxiv.org/abs/2601.00794v1)**  
 _Left ventricle (LV) segmentation is critical for clinical quantification and diagnosis of cardiac images. In this work, we propose two novel deep learning architectures called LNU-Net and IBU-Net for ..._
 
 ### 💻 Trending Tech
-1. **[It's hard to justify Tahoe icons](https://tonsky.me/blog/tahoe-icons/)** (⬆️ 161)
-2. **[Databases in 2025: A Year in Review](https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html)** (⬆️ 174)
-3. **[Decorative Cryptography](https://www.dlp.rip/decorative-cryptography)** (⬆️ 107)
+1. **[There were BGP anomalies during the Venezuela blackout](https://loworbitsecurity.com/radar/radar16/)** (⬆️ 461)
+2. **[Worlds's first all-solid-state battery ready to power up production vehicles now](https://www.donutlab.com/ces-battery-announcement/)** (⬆️ 111)
+3. **[Six-decade math puzzle solved by Korean mathematician](https://www.koreaherald.com/article/10648326)** (⬆️ 68)
 <!-- AUTO-UPDATE-END -->
