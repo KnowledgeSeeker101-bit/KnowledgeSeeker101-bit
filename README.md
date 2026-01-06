@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-01-06 01:46 UTC_
+_Last updated: 2026-01-06 12:45 UTC_
 
 ### 🔬 Latest AI Research
-**[Two Deep Learning Approaches for Automated Segmentation of Left Ventricle in Cine Cardiac MRI](http://arxiv.org/abs/2601.00794v1)**  
-_Left ventricle (LV) segmentation is critical for clinical quantification and diagnosis of cardiac images. In this work, we propose two novel deep learning architectures called LNU-Net and IBU-Net for ..._
+**[Heterogeneous Low-Bandwidth Pre-Training of LLMs](http://arxiv.org/abs/2601.02360v1)**  
+_Pre-training large language models (LLMs) increasingly requires distributed compute, yet bandwidth constraints make it difficult to scale beyond well-provisioned datacenters-especially when model para..._
 
 ### 💻 Trending Tech
-1. **[There were BGP anomalies during the Venezuela blackout](https://loworbitsecurity.com/radar/radar16/)** (⬆️ 461)
-2. **[Worlds's first all-solid-state battery ready to power up production vehicles now](https://www.donutlab.com/ces-battery-announcement/)** (⬆️ 111)
-3. **[Six-decade math puzzle solved by Korean mathematician](https://www.koreaherald.com/article/10648326)** (⬆️ 68)
+1. **[enclose.horse](https://enclose.horse/)** (⬆️ 480)
+2. **[AWS raises GPU prices 15% on a Saturday, hopes you weren't paying attention](https://www.theregister.com/2026/01/05/aws_price_increase/)** (⬆️ 101)
+3. **[SCiZE's Classic Warez Collection](https://scenelist.org/)** (⬆️ 53)
 <!-- AUTO-UPDATE-END -->
