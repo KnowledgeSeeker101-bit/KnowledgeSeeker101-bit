@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-01-07 01:45 UTC_
+_Last updated: 2026-01-07 12:46 UTC_
 
 ### 🔬 Latest AI Research
-**[Heterogeneous Low-Bandwidth Pre-Training of LLMs](http://arxiv.org/abs/2601.02360v1)**  
-_Pre-training large language models (LLMs) increasingly requires distributed compute, yet bandwidth constraints make it difficult to scale beyond well-provisioned datacenters-especially when model para..._
+**[Self-Supervised Learning from Noisy and Incomplete Data](http://arxiv.org/abs/2601.03244v1)**  
+_Many important problems in science and engineering involve inferring a signal from noisy and/or incomplete observations, where the observation process is known. Historically, this problem has been tac..._
 
 ### 💻 Trending Tech
-1. **[Spherical Snake](https://kevinalbs.com/spherical_snake/)** (⬆️ 503)
-2. **[Stop Doom Scrolling, Start Doom Coding: Build via the terminal from your phone](https://github.com/rberg27/doom-coding)** (⬆️ 266)
-3. **[Hyundai Introduces Its Next-Gen Atlas Robot at CES 2026 [video]](https://www.youtube.com/watch?v=9e0SQn9uUlw)** (⬆️ 33)
+1. **[Stop Designing Languages. Write Libraries Instead](https://lbstanza.org/purpose_of_programming_languages.html)** (⬆️ 13)
+2. **[The Eric and Wendy Schmidt Observatory System](https://www.schmidtsciences.org/schmidt-observatory-system/)** (⬆️ 9)
+3. **[Sergey Brin's Unretirement](https://www.inc.com/jessica-stillman/google-co-founder-sergey-brins-unretirement-is-a-lesson-for-the-rest-of-us/91280208)** (⬆️ 230)
 <!-- AUTO-UPDATE-END -->
