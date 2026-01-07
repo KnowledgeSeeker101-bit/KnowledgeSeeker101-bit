@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-01-06 12:45 UTC_
+_Last updated: 2026-01-07 01:45 UTC_
 
 ### 🔬 Latest AI Research
 **[Heterogeneous Low-Bandwidth Pre-Training of LLMs](http://arxiv.org/abs/2601.02360v1)**  
 _Pre-training large language models (LLMs) increasingly requires distributed compute, yet bandwidth constraints make it difficult to scale beyond well-provisioned datacenters-especially when model para..._
 
 ### 💻 Trending Tech
-1. **[enclose.horse](https://enclose.horse/)** (⬆️ 480)
-2. **[AWS raises GPU prices 15% on a Saturday, hopes you weren't paying attention](https://www.theregister.com/2026/01/05/aws_price_increase/)** (⬆️ 101)
-3. **[SCiZE's Classic Warez Collection](https://scenelist.org/)** (⬆️ 53)
+1. **[Spherical Snake](https://kevinalbs.com/spherical_snake/)** (⬆️ 503)
+2. **[Stop Doom Scrolling, Start Doom Coding: Build via the terminal from your phone](https://github.com/rberg27/doom-coding)** (⬆️ 266)
+3. **[Hyundai Introduces Its Next-Gen Atlas Robot at CES 2026 [video]](https://www.youtube.com/watch?v=9e0SQn9uUlw)** (⬆️ 33)
 <!-- AUTO-UPDATE-END -->
