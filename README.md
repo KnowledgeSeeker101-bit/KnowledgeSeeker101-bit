@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-01-07 12:46 UTC_
+_Last updated: 2026-01-09 01:46 UTC_
 
 ### 🔬 Latest AI Research
-**[Self-Supervised Learning from Noisy and Incomplete Data](http://arxiv.org/abs/2601.03244v1)**  
-_Many important problems in science and engineering involve inferring a signal from noisy and/or incomplete observations, where the observation process is known. Historically, this problem has been tac..._
+**[Embedding Autonomous Agents in Resource-Constrained Robotic Platforms](http://arxiv.org/abs/2601.04191v1)**  
+_Many embedded devices operate under resource constraints and in dynamic environments, requiring local decision-making capabilities. Enabling devices to make independent decisions in such environments ..._
 
 ### 💻 Trending Tech
-1. **[Stop Designing Languages. Write Libraries Instead](https://lbstanza.org/purpose_of_programming_languages.html)** (⬆️ 13)
-2. **[The Eric and Wendy Schmidt Observatory System](https://www.schmidtsciences.org/schmidt-observatory-system/)** (⬆️ 9)
-3. **[Sergey Brin's Unretirement](https://www.inc.com/jessica-stillman/google-co-founder-sergey-brins-unretirement-is-a-lesson-for-the-rest-of-us/91280208)** (⬆️ 230)
+1. **[How to Code Claude Code in 200 Lines of Code](https://www.mihaileric.com/The-Emperor-Has-No-Clothes/)** (⬆️ 313)
+2. **[Embassy: Modern embedded framework, using Rust and async](https://github.com/embassy-rs/embassy)** (⬆️ 83)
+3. **[Sopro TTS: A 169M model with zero-shot voice cloning that runs on the CPU](https://github.com/samuel-vitorino/sopro)** (⬆️ 134)
 <!-- AUTO-UPDATE-END -->
