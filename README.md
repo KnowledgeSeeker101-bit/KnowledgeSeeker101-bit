@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-01-09 12:45 UTC_
+_Last updated: 2026-01-10 12:40 UTC_
 
 ### 🔬 Latest AI Research
 **[Optimal Lower Bounds for Online Multicalibration](http://arxiv.org/abs/2601.05245v1)**  
 _We prove tight lower bounds for online multicalibration, establishing an information-theoretic separation from marginal calibration.   In the general setting where group functions can depend on both c..._
 
 ### 💻 Trending Tech
-1. **[Mathematics for Computer Science (2018) [pdf]](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf)** (⬆️ 153)
-2. **[Linux Runs on Raspberry Pi RP2350's Hazard3 RISC-V Cores (2024)](https://www.hackster.io/news/jesse-taube-gets-linux-up-and-running-on-the-raspberry-pi-rp2350-s-hazard3-risc-v-cores-19088b87bb2c)** (⬆️ 28)
-3. **[How to Code Claude Code in 200 Lines of Code](https://www.mihaileric.com/The-Emperor-Has-No-Clothes/)** (⬆️ 568)
+1. **[“Erdos problem #728 was solved more or less autonomously by AI”](https://mathstodon.xyz/@tao/115855840223258103)** (⬆️ 505)
+2. **[Changes to Android Open Source Project](https://source.android.com/)** (⬆️ 173)
+3. **[JavaScript Demos in 140 Characters](https://beta.dwitter.net)** (⬆️ 271)
 <!-- AUTO-UPDATE-END -->
