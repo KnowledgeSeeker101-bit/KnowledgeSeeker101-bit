@@ -109,14 +109,13 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-01-10 12:40 UTC_
+_Last updated: 2026-01-11 01:54 UTC_
 
 ### 🔬 Latest AI Research
 **[Optimal Lower Bounds for Online Multicalibration](http://arxiv.org/abs/2601.05245v1)**  
 _We prove tight lower bounds for online multicalibration, establishing an information-theoretic separation from marginal calibration.   In the general setting where group functions can depend on both c..._
 
 ### 💻 Trending Tech
-1. **[“Erdos problem #728 was solved more or less autonomously by AI”](https://mathstodon.xyz/@tao/115855840223258103)** (⬆️ 505)
-2. **[Changes to Android Open Source Project](https://source.android.com/)** (⬆️ 173)
-3. **[JavaScript Demos in 140 Characters](https://beta.dwitter.net)** (⬆️ 271)
+1. **[Private equity firms acquired more than 500 autism centers in past decade: study](https://www.brown.edu/news/2026-01-07/private-equity-autism-centers)** (⬆️ 168)
+2. **[Finding and fixing Ghostty's largest memory leak](https://mitchellh.com/writing/ghostty-memory-leak-fix)** (⬆️ 232)
 <!-- AUTO-UPDATE-END -->
