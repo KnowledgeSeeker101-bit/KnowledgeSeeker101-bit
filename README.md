@@ -109,13 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-01-11 01:54 UTC_
+_Last updated: 2026-01-11 12:41 UTC_
 
 ### 🔬 Latest AI Research
 **[Optimal Lower Bounds for Online Multicalibration](http://arxiv.org/abs/2601.05245v1)**  
 _We prove tight lower bounds for online multicalibration, establishing an information-theoretic separation from marginal calibration.   In the general setting where group functions can depend on both c..._
 
 ### 💻 Trending Tech
-1. **[Private equity firms acquired more than 500 autism centers in past decade: study](https://www.brown.edu/news/2026-01-07/private-equity-autism-centers)** (⬆️ 168)
-2. **[Finding and fixing Ghostty's largest memory leak](https://mitchellh.com/writing/ghostty-memory-leak-fix)** (⬆️ 232)
+1. **[C++ std::move doesn't move anything: A deep dive into Value Categories](https://0xghost.dev/blog/std-move-deep-dive/)** (⬆️ 104)
+2. **[The Concise TypeScript Book](https://github.com/gibbok/typescript-book)** (⬆️ 113)
+3. **[More than one hundred years of Film Sizes](https://wichm.home.xs4all.nl/filmsize.html)** (⬆️ 41)
 <!-- AUTO-UPDATE-END -->
