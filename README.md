@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-01-11 12:41 UTC_
+_Last updated: 2026-01-12 01:51 UTC_
 
 ### 🔬 Latest AI Research
 **[Optimal Lower Bounds for Online Multicalibration](http://arxiv.org/abs/2601.05245v1)**  
 _We prove tight lower bounds for online multicalibration, establishing an information-theoretic separation from marginal calibration.   In the general setting where group functions can depend on both c..._
 
 ### 💻 Trending Tech
-1. **[C++ std::move doesn't move anything: A deep dive into Value Categories](https://0xghost.dev/blog/std-move-deep-dive/)** (⬆️ 104)
-2. **[The Concise TypeScript Book](https://github.com/gibbok/typescript-book)** (⬆️ 113)
-3. **[More than one hundred years of Film Sizes](https://wichm.home.xs4all.nl/filmsize.html)** (⬆️ 41)
+1. **[The struggle of resizing windows on macOS Tahoe](https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/)** (⬆️ 802)
+2. **[CLI agents like Claude Code make self-hosting on a home server easier and fun](https://fulghum.io/self-hosting)** (⬆️ 261)
+3. **[This game is a single 13 KiB file that runs on Windows, Linux and in the Browser](https://iczelia.net/posts/snake-polyglot/)** (⬆️ 78)
 <!-- AUTO-UPDATE-END -->
