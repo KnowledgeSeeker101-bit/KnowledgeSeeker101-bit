@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-01-12 01:51 UTC_
+_Last updated: 2026-01-12 12:48 UTC_
 
 ### 🔬 Latest AI Research
-**[Optimal Lower Bounds for Online Multicalibration](http://arxiv.org/abs/2601.05245v1)**  
-_We prove tight lower bounds for online multicalibration, establishing an information-theoretic separation from marginal calibration.   In the general setting where group functions can depend on both c..._
+**[Manifold limit for the training of shallow graph convolutional neural networks](http://arxiv.org/abs/2601.06025v1)**  
+_We study the discrete-to-continuum consistency of the training of shallow graph convolutional neural networks (GCNNs) on proximity graphs of sampled point clouds under a manifold assumption. Graph con..._
 
 ### 💻 Trending Tech
-1. **[The struggle of resizing windows on macOS Tahoe](https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/)** (⬆️ 802)
-2. **[CLI agents like Claude Code make self-hosting on a home server easier and fun](https://fulghum.io/self-hosting)** (⬆️ 261)
-3. **[This game is a single 13 KiB file that runs on Windows, Linux and in the Browser](https://iczelia.net/posts/snake-polyglot/)** (⬆️ 78)
+1. **[The struggle of resizing windows on macOS Tahoe](https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/)** (⬆️ 1938)
+2. **[Lightpanda migrate DOM implementation to Zig](https://lightpanda.io/blog/posts/migrating-our-dom-to-zig)** (⬆️ 76)
+3. **[Fossil versus Git](https://fossil-scm.org/home/doc/trunk/www/fossil-v-git.wiki)** (⬆️ 52)
 <!-- AUTO-UPDATE-END -->
