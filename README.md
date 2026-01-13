@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-01-12 12:48 UTC_
+_Last updated: 2026-01-13 01:43 UTC_
 
 ### 🔬 Latest AI Research
 **[Manifold limit for the training of shallow graph convolutional neural networks](http://arxiv.org/abs/2601.06025v1)**  
 _We study the discrete-to-continuum consistency of the training of shallow graph convolutional neural networks (GCNNs) on proximity graphs of sampled point clouds under a manifold assumption. Graph con..._
 
 ### 💻 Trending Tech
-1. **[The struggle of resizing windows on macOS Tahoe](https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/)** (⬆️ 1938)
-2. **[Lightpanda migrate DOM implementation to Zig](https://lightpanda.io/blog/posts/migrating-our-dom-to-zig)** (⬆️ 76)
-3. **[Fossil versus Git](https://fossil-scm.org/home/doc/trunk/www/fossil-v-git.wiki)** (⬆️ 52)
+1. **[Cowork: Claude Code for the rest of your work](https://claude.com/blog/cowork-research-preview)** (⬆️ 607)
+2. **[TimeCapsuleLLM: LLM trained only on data from 1800-1875](https://github.com/haykgrigo3/TimeCapsuleLLM)** (⬆️ 477)
+3. **[Postal Arbitrage](https://walzr.com/postal-arbitrage)** (⬆️ 260)
 <!-- AUTO-UPDATE-END -->
