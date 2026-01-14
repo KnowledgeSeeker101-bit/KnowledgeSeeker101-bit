@@ -109,14 +109,13 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-01-13 12:48 UTC_
+_Last updated: 2026-01-14 01:50 UTC_
 
 ### 🔬 Latest AI Research
 **[A Complete Decomposition of Stochastic Differential Equations](http://arxiv.org/abs/2601.07834v1)**  
 _We show that any stochastic differential equation with prescribed time-dependent marginal distributions admits a decomposition into three components: a unique scalar field governing marginal evolution..._
 
 ### 💻 Trending Tech
-1. **[Network of Scottish X accounts go dark amid Iran blackout](https://www.heraldscotland.com/news/25759181.network-scottish-x-accounts-go-dark-amid-iran-blackout/)** (⬆️ 134)
-2. **[FOSS in times of war, scarcity and (adversarial) AI [video]](https://fosdem.org/2026/schedule/event/FE7ULY-foss-in-times-of-war-scarcity-and-ai/)** (⬆️ 49)
-3. **[Cowork: Claude Code for the rest of your work](https://claude.com/blog/cowork-research-preview)** (⬆️ 1036)
+1. **[A 40-line fix eliminated a 400x performance gap](https://questdb.com/blog/jvm-current-thread-user-time/)** (⬆️ 106)
+2. **[Every GitHub object has two IDs](https://www.greptile.com/blog/github-ids)** (⬆️ 86)
 <!-- AUTO-UPDATE-END -->
