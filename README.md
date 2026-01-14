@@ -109,13 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-01-14 01:50 UTC_
+_Last updated: 2026-01-14 12:47 UTC_
 
 ### 🔬 Latest AI Research
-**[A Complete Decomposition of Stochastic Differential Equations](http://arxiv.org/abs/2601.07834v1)**  
-_We show that any stochastic differential equation with prescribed time-dependent marginal distributions admits a decomposition into three components: a unique scalar field governing marginal evolution..._
+**[Modeling LLM Agent Reviewer Dynamics in Elo-Ranked Review System](http://arxiv.org/abs/2601.08829v1)**  
+_In this work, we explore the Large Language Model (LLM) agent reviewer dynamics in an Elo-ranked review system using real-world conference paper submissions. Multiple LLM agent reviewers with differen..._
 
 ### 💻 Trending Tech
-1. **[A 40-line fix eliminated a 400x performance gap](https://questdb.com/blog/jvm-current-thread-user-time/)** (⬆️ 106)
-2. **[Every GitHub object has two IDs](https://www.greptile.com/blog/github-ids)** (⬆️ 86)
+1. **[Servo 2025 Stats](https://blogs.igalia.com/mrego/servo-2025-stats/)** (⬆️ 38)
+2. **[There's a ridiculous amount of tech in a disposable vape](https://blog.jgc.org/2026/01/theres-ridiculous-amount-of-tech-in.html)** (⬆️ 474)
+3. **[I Love You, Redis, but I'm Leaving You for SolidQueue](https://www.simplethread.com/redis-solidqueue/)** (⬆️ 113)
 <!-- AUTO-UPDATE-END -->
