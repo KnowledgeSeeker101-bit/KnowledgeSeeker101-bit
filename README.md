@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-01-14 12:47 UTC_
+_Last updated: 2026-01-15 01:45 UTC_
 
 ### 🔬 Latest AI Research
 **[Modeling LLM Agent Reviewer Dynamics in Elo-Ranked Review System](http://arxiv.org/abs/2601.08829v1)**  
 _In this work, we explore the Large Language Model (LLM) agent reviewer dynamics in an Elo-ranked review system using real-world conference paper submissions. Multiple LLM agent reviewers with differen..._
 
 ### 💻 Trending Tech
-1. **[Servo 2025 Stats](https://blogs.igalia.com/mrego/servo-2025-stats/)** (⬆️ 38)
-2. **[There's a ridiculous amount of tech in a disposable vape](https://blog.jgc.org/2026/01/theres-ridiculous-amount-of-tech-in.html)** (⬆️ 474)
-3. **[I Love You, Redis, but I'm Leaving You for SolidQueue](https://www.simplethread.com/redis-solidqueue/)** (⬆️ 113)
+1. **[Claude Cowork Exfiltrates Files](https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files)** (⬆️ 431)
+2. **[Furiosa: 3.5x efficiency over H100s](https://furiosa.ai/blog/introducing-rngd-server-efficient-ai-inference-at-data-center-scale)** (⬆️ 38)
+3. **[Anthropic Explicitly Blocking OpenCode](https://gist.github.com/R44VC0RP/bd391f6a23185c0fed6c6b5fb2bac50e)** (⬆️ 97)
 <!-- AUTO-UPDATE-END -->
