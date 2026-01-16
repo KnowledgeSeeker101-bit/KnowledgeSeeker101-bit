@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-01-16 01:47 UTC_
+_Last updated: 2026-01-16 12:45 UTC_
 
 ### 🔬 Latest AI Research
-**[Fast-ThinkAct: Efficient Vision-Language-Action Reasoning via Verbalizable Latent Planning](http://arxiv.org/abs/2601.09708v1)**  
-_Vision-Language-Action (VLA) tasks require reasoning over complex visual scenes and executing adaptive actions in dynamic environments. While recent studies on reasoning VLAs show that explicit chain-..._
+**[DInf-Grid: A Neural Differential Equation Solver with Differentiable Feature Grids](http://arxiv.org/abs/2601.10715v1)**  
+_We present a novel differentiable grid-based representation for efficiently solving differential equations (DEs). Widely used architectures for neural solvers, such as sinusoidal neural networks, are ..._
 
 ### 💻 Trending Tech
-1. **[Apple is fighting for TSMC capacity as Nvidia takes center stage](https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc)** (⬆️ 559)
-2. **[Pocket TTS: A high quality TTS that gives your CPU a voice](https://kyutai.org/blog/2026-01-13-pocket-tts)** (⬆️ 179)
-3. **[Inside The Internet Archive's Infrastructure](https://hackernoon.com/the-long-now-of-the-web-inside-the-internet-archives-fight-against-forgetting)** (⬆️ 242)
+1. **[Just the Browser](https://justthebrowser.com/)** (⬆️ 17)
+2. **[OpenBSD-current now runs as guest under Apple Hypervisor](https://www.undeadly.org/cgi?action=article;sid=20260115203619)** (⬆️ 301)
+3. **[List of individual trees](https://en.wikipedia.org/wiki/List_of_individual_trees)** (⬆️ 177)
 <!-- AUTO-UPDATE-END -->
