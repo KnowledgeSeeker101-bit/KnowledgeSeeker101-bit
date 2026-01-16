@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-01-15 12:47 UTC_
+_Last updated: 2026-01-16 01:47 UTC_
 
 ### 🔬 Latest AI Research
 **[Fast-ThinkAct: Efficient Vision-Language-Action Reasoning via Verbalizable Latent Planning](http://arxiv.org/abs/2601.09708v1)**  
 _Vision-Language-Action (VLA) tasks require reasoning over complex visual scenes and executing adaptive actions in dynamic environments. While recent studies on reasoning VLAs show that explicit chain-..._
 
 ### 💻 Trending Tech
-1. **[The URL shortener that makes your links look as suspicious as possible](https://creepylink.com/)** (⬆️ 463)
-2. **[A letter to those who fired tech writers because of AI](https://passo.uno/letter-those-who-fired-tech-writers-ai/)** (⬆️ 102)
-3. **[Raspberry Pi's New AI Hat Adds 8GB of RAM for Local LLMs](https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/)** (⬆️ 122)
+1. **[Apple is fighting for TSMC capacity as Nvidia takes center stage](https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc)** (⬆️ 559)
+2. **[Pocket TTS: A high quality TTS that gives your CPU a voice](https://kyutai.org/blog/2026-01-13-pocket-tts)** (⬆️ 179)
+3. **[Inside The Internet Archive's Infrastructure](https://hackernoon.com/the-long-now-of-the-web-inside-the-internet-archives-fight-against-forgetting)** (⬆️ 242)
 <!-- AUTO-UPDATE-END -->
