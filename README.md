@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-01-17 01:41 UTC_
+_Last updated: 2026-01-17 12:39 UTC_
 
 ### 🔬 Latest AI Research
 **[DInf-Grid: A Neural Differential Equation Solver with Differentiable Feature Grids](http://arxiv.org/abs/2601.10715v1)**  
 _We present a novel differentiable grid-based representation for efficiently solving differential equations (DEs). Widely used architectures for neural solvers, such as sinusoidal neural networks, are ..._
 
 ### 💻 Trending Tech
-1. **[East Germany balloon escape](https://en.wikipedia.org/wiki/East_Germany_balloon_escape)** (⬆️ 296)
-2. **[Cloudflare acquires Astro](https://astro.build/blog/joining-cloudflare/)** (⬆️ 706)
-3. **[Releasing rainbow tables to accelerate Net-NTLMv1 protocol deprecation](https://cloud.google.com/blog/topics/threat-intelligence/net-ntlmv1-deprecation-rainbow-tables)** (⬆️ 71)
+1. **[ASCII characters are not pixels: a deep dive into ASCII rendering](https://alexharri.com/blog/ascii-rendering)** (⬆️ 75)
+2. **[ClickHouse acquires Langfuse](https://langfuse.com/blog/joining-clickhouse)** (⬆️ 82)
+3. **[The 600-year-old origins of the word 'hello'](https://www.bbc.com/culture/article/20260113-hello-hiya-aloha-what-our-greetings-reveal)** (⬆️ 14)
 <!-- AUTO-UPDATE-END -->
