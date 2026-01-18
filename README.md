@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-01-18 01:53 UTC_
+_Last updated: 2026-01-18 12:40 UTC_
 
 ### 🔬 Latest AI Research
 **[DInf-Grid: A Neural Differential Equation Solver with Differentiable Feature Grids](http://arxiv.org/abs/2601.10715v1)**  
 _We present a novel differentiable grid-based representation for efficiently solving differential equations (DEs). Widely used architectures for neural solvers, such as sinusoidal neural networks, are ..._
 
 ### 💻 Trending Tech
-1. **[If you put Apple icons in reverse it looks like someone getting good at design](https://www.threads.com/@heliographe.studio/post/DTeOwAykwQ1)** (⬆️ 122)
-2. **[A programming language based on grammatical cases of Turkish](https://github.com/kip-dili/kip)** (⬆️ 118)
-3. **[ASCII characters are not pixels: a deep dive into ASCII rendering](https://alexharri.com/blog/ascii-rendering)** (⬆️ 825)
+1. **[Iconify: Library of Open Source Icons](https://icon-sets.iconify.design/)** (⬆️ 288)
+2. **[Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic)** (⬆️ 84)
+3. **[ThinkNext Design](https://thinknextdesign.com/home.html)** (⬆️ 118)
 <!-- AUTO-UPDATE-END -->
