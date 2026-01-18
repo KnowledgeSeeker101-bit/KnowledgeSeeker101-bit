@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-01-17 12:39 UTC_
+_Last updated: 2026-01-18 01:53 UTC_
 
 ### 🔬 Latest AI Research
 **[DInf-Grid: A Neural Differential Equation Solver with Differentiable Feature Grids](http://arxiv.org/abs/2601.10715v1)**  
 _We present a novel differentiable grid-based representation for efficiently solving differential equations (DEs). Widely used architectures for neural solvers, such as sinusoidal neural networks, are ..._
 
 ### 💻 Trending Tech
-1. **[ASCII characters are not pixels: a deep dive into ASCII rendering](https://alexharri.com/blog/ascii-rendering)** (⬆️ 75)
-2. **[ClickHouse acquires Langfuse](https://langfuse.com/blog/joining-clickhouse)** (⬆️ 82)
-3. **[The 600-year-old origins of the word 'hello'](https://www.bbc.com/culture/article/20260113-hello-hiya-aloha-what-our-greetings-reveal)** (⬆️ 14)
+1. **[If you put Apple icons in reverse it looks like someone getting good at design](https://www.threads.com/@heliographe.studio/post/DTeOwAykwQ1)** (⬆️ 122)
+2. **[A programming language based on grammatical cases of Turkish](https://github.com/kip-dili/kip)** (⬆️ 118)
+3. **[ASCII characters are not pixels: a deep dive into ASCII rendering](https://alexharri.com/blog/ascii-rendering)** (⬆️ 825)
 <!-- AUTO-UPDATE-END -->
