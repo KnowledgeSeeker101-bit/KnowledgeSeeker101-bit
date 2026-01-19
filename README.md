@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-01-19 01:51 UTC_
+_Last updated: 2026-01-19 12:50 UTC_
 
 ### 🔬 Latest AI Research
-**[DInf-Grid: A Neural Differential Equation Solver with Differentiable Feature Grids](http://arxiv.org/abs/2601.10715v1)**  
-_We present a novel differentiable grid-based representation for efficiently solving differential equations (DEs). Widely used architectures for neural solvers, such as sinusoidal neural networks, are ..._
+**[Do explanations generalize across large reasoning models?](http://arxiv.org/abs/2601.11517v1)**  
+_Large reasoning models (LRMs) produce a textual chain of thought (CoT) in the process of solving a problem, which serves as a potentially powerful tool to understand the problem by surfacing a human-r..._
 
 ### 💻 Trending Tech
-1. **[Gaussian Splatting – A$AP Rocky "Helicopter" music video](https://radiancefields.com/a-ap-rocky-releases-helicopter-music-video-featuring-gaussian-splatting)** (⬆️ 438)
-2. **[Flux 2 Klein pure C inference](https://github.com/antirez/flux2.c)** (⬆️ 218)
-3. **[Fil-Qt: A Qt Base build with Fil-C experience](https://git.qt.io/cradam/fil-qt)** (⬆️ 21)
+1. **[Radboud University selects Fairphone as standard smartphone for employees](https://www.ru.nl/en/staff/news/radboud-university-selects-fairphone-as-standard-smartphone-for-employees)** (⬆️ 222)
+2. **[A decentralized peer-to-peer messaging application that operates over Bluetooth](https://bitchat.free/)** (⬆️ 270)
+3. **[Nuclear elements detected in West Philippine Sea](https://www.philstar.com/headlines/2026/01/18/2501750/nuclear-elements-detected-west-philippine-sea)** (⬆️ 14)
 <!-- AUTO-UPDATE-END -->
