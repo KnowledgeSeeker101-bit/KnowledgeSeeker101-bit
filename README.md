@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-01-20 01:46 UTC_
+_Last updated: 2026-01-20 12:51 UTC_
 
 ### 🔬 Latest AI Research
 **[Do explanations generalize across large reasoning models?](http://arxiv.org/abs/2601.11517v1)**  
 _Large reasoning models (LRMs) produce a textual chain of thought (CoT) in the process of solving a problem, which serves as a potentially powerful tool to understand the problem by surfacing a human-r..._
 
 ### 💻 Trending Tech
-1. **[Porsche Sold More Electrified Cars in Europe in 2025 Than Pure Gas-Powered Cars](https://newsroom.porsche.com/en/2026/company/porsche-deliveries-2025-41516.html)** (⬆️ 35)
-2. **[Level S4 solar radiation event](https://www.swpc.noaa.gov/news/g4-severe-geomagnetic-storm-levels-reached-19-jan-2026)** (⬆️ 227)
-3. **[Harvard legal scholars debate the state of the U.S. constitution](https://www.harvardmagazine.com/social-sciences/is-the-constitution-broken)** (⬆️ 22)
+1. **[Running Claude Code dangerously (safely)](https://blog.emilburzo.com/2026/01/running-claude-code-dangerously-safely/)** (⬆️ 10)
+2. **[Linux kernel framework for PCIe device emulation, in userspace](https://github.com/cakehonolulu/pciem)** (⬆️ 88)
+3. **[Level S4 solar radiation event](https://www.swpc.noaa.gov/news/g4-severe-geomagnetic-storm-levels-reached-19-jan-2026)** (⬆️ 487)
 <!-- AUTO-UPDATE-END -->
