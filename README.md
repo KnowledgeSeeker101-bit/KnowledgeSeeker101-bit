@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-01-20 12:51 UTC_
+_Last updated: 2026-01-21 01:49 UTC_
 
 ### 🔬 Latest AI Research
 **[Do explanations generalize across large reasoning models?](http://arxiv.org/abs/2601.11517v1)**  
 _Large reasoning models (LRMs) produce a textual chain of thought (CoT) in the process of solving a problem, which serves as a potentially powerful tool to understand the problem by surfacing a human-r..._
 
 ### 💻 Trending Tech
-1. **[Running Claude Code dangerously (safely)](https://blog.emilburzo.com/2026/01/running-claude-code-dangerously-safely/)** (⬆️ 10)
-2. **[Linux kernel framework for PCIe device emulation, in userspace](https://github.com/cakehonolulu/pciem)** (⬆️ 88)
-3. **[Level S4 solar radiation event](https://www.swpc.noaa.gov/news/g4-severe-geomagnetic-storm-levels-reached-19-jan-2026)** (⬆️ 487)
+1. **[A 26,000-year astronomical monument hidden in plain sight (2019)](https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/)** (⬆️ 350)
+2. **[Claude Chill: Fix Claude Code's Flickering in Terminal](https://github.com/davidbeesley/claude-chill)** (⬆️ 54)
+3. **[California is free of drought for the first time in 25 years](https://www.latimes.com/california/story/2026-01-09/california-has-no-areas-of-dryness-first-time-in-25-years)** (⬆️ 231)
 <!-- AUTO-UPDATE-END -->
