@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-01-21 01:49 UTC_
+_Last updated: 2026-01-21 12:51 UTC_
 
 ### 🔬 Latest AI Research
-**[Do explanations generalize across large reasoning models?](http://arxiv.org/abs/2601.11517v1)**  
-_Large reasoning models (LRMs) produce a textual chain of thought (CoT) in the process of solving a problem, which serves as a potentially powerful tool to understand the problem by surfacing a human-r..._
+**[VideoMaMa: Mask-Guided Video Matting via Generative Prior](http://arxiv.org/abs/2601.14255v1)**  
+_Generalizing video matting models to real-world videos remains a significant challenge due to the scarcity of labeled data. To address this, we present Video Mask-to-Matte Model (VideoMaMa) that conve..._
 
 ### 💻 Trending Tech
-1. **[A 26,000-year astronomical monument hidden in plain sight (2019)](https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/)** (⬆️ 350)
-2. **[Claude Chill: Fix Claude Code's Flickering in Terminal](https://github.com/davidbeesley/claude-chill)** (⬆️ 54)
-3. **[California is free of drought for the first time in 25 years](https://www.latimes.com/california/story/2026-01-09/california-has-no-areas-of-dryness-first-time-in-25-years)** (⬆️ 231)
+1. **[EU–INC – One Europe. One Standard. – Pan-European Legal Entity](https://www.eu-inc.org/)** (⬆️ 180)
+2. **[The super-slow conversion of the U.S. to metric (2025)](https://www.thefabricator.com/thefabricator/blog/testingmeasuring/the-super-slow-conversion-of-the-us-to-metric)** (⬆️ 30)
+3. **[Batmobile: 10-20x Faster CUDA Kernels for Equivariant Graph Neural Networks](https://elliotarledge.com/blog/batmobile)** (⬆️ 27)
 <!-- AUTO-UPDATE-END -->
