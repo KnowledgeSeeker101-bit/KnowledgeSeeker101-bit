@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-01-21 12:51 UTC_
+_Last updated: 2026-01-22 01:49 UTC_
 
 ### 🔬 Latest AI Research
 **[VideoMaMa: Mask-Guided Video Matting via Generative Prior](http://arxiv.org/abs/2601.14255v1)**  
 _Generalizing video matting models to real-world videos remains a significant challenge due to the scarcity of labeled data. To address this, we present Video Mask-to-Matte Model (VideoMaMa) that conve..._
 
 ### 💻 Trending Tech
-1. **[EU–INC – One Europe. One Standard. – Pan-European Legal Entity](https://www.eu-inc.org/)** (⬆️ 180)
-2. **[The super-slow conversion of the U.S. to metric (2025)](https://www.thefabricator.com/thefabricator/blog/testingmeasuring/the-super-slow-conversion-of-the-us-to-metric)** (⬆️ 30)
-3. **[Batmobile: 10-20x Faster CUDA Kernels for Equivariant Graph Neural Networks](https://elliotarledge.com/blog/batmobile)** (⬆️ 27)
+1. **[Internet voting is insecure and should not be used in public elections](https://blog.citp.princeton.edu/2026/01/16/internet-voting-is-insecure-and-should-not-be-used-in-public-elections/)** (⬆️ 77)
+2. **[Significant US Farm Losses Persist, Despite Federal Assistance](https://www.fb.org/market-intel/significant-farm-losses-persist-despite-federal-assistance)** (⬆️ 34)
+3. **[Take potentially dangerous PDFs, and convert them to safe PDFs](https://github.com/freedomofpress/dangerzone)** (⬆️ 78)
 <!-- AUTO-UPDATE-END -->
