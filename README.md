@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-01-22 01:49 UTC_
+_Last updated: 2026-01-22 12:51 UTC_
 
 ### 🔬 Latest AI Research
-**[VideoMaMa: Mask-Guided Video Matting via Generative Prior](http://arxiv.org/abs/2601.14255v1)**  
-_Generalizing video matting models to real-world videos remains a significant challenge due to the scarcity of labeled data. To address this, we present Video Mask-to-Matte Model (VideoMaMa) that conve..._
+**[Iterative Refinement Improves Compositional Image Generation](http://arxiv.org/abs/2601.15286v1)**  
+_Text-to-image (T2I) models have achieved remarkable progress, yet they continue to struggle with complex prompts that require simultaneously handling multiple objects, relations, and attributes. Exist..._
 
 ### 💻 Trending Tech
-1. **[Internet voting is insecure and should not be used in public elections](https://blog.citp.princeton.edu/2026/01/16/internet-voting-is-insecure-and-should-not-be-used-in-public-elections/)** (⬆️ 77)
-2. **[Significant US Farm Losses Persist, Despite Federal Assistance](https://www.fb.org/market-intel/significant-farm-losses-persist-despite-federal-assistance)** (⬆️ 34)
-3. **[Take potentially dangerous PDFs, and convert them to safe PDFs](https://github.com/freedomofpress/dangerzone)** (⬆️ 78)
+1. **[We will ban you and ridicule you in public if you waste our time on crap reports](https://curl.se/.well-known/security.txt)** (⬆️ 312)
+2. **[Show HN: Sweep, Open-weights 1.5B model for next-edit autocomplete](https://huggingface.co/sweepai/sweep-next-edit-1.5B)** (⬆️ 369)
+3. **[In Praise of APL (1977)](https://www.jsoftware.com/papers/perlis77.htm)** (⬆️ 42)
 <!-- AUTO-UPDATE-END -->
