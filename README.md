@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-01-22 12:51 UTC_
+_Last updated: 2026-01-23 12:48 UTC_
 
 ### 🔬 Latest AI Research
-**[Iterative Refinement Improves Compositional Image Generation](http://arxiv.org/abs/2601.15286v1)**  
-_Text-to-image (T2I) models have achieved remarkable progress, yet they continue to struggle with complex prompts that require simultaneously handling multiple objects, relations, and attributes. Exist..._
+**[Why Can't I Open My Drawer? Mitigating Object-Driven Shortcuts in Zero-Shot Compositional Action Recognition](http://arxiv.org/abs/2601.16211v1)**  
+_We study Compositional Video Understanding (CVU), where models must recognize verbs and objects and compose them to generalize to unseen combinations. We find that existing Zero-Shot Compositional Act..._
 
 ### 💻 Trending Tech
-1. **[We will ban you and ridicule you in public if you waste our time on crap reports](https://curl.se/.well-known/security.txt)** (⬆️ 312)
-2. **[Show HN: Sweep, Open-weights 1.5B model for next-edit autocomplete](https://huggingface.co/sweepai/sweep-next-edit-1.5B)** (⬆️ 369)
-3. **[In Praise of APL (1977)](https://www.jsoftware.com/papers/perlis77.htm)** (⬆️ 42)
+1. **[Ghostty's AI Policy](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)** (⬆️ 174)
+2. **[I built a light that reacts to radio waves [video]](https://www.youtube.com/watch?v=moBCOEiqiPs)** (⬆️ 237)
+3. **[Replacing Protobuf with Rust to go 5 times faster](https://pgdog.dev/blog/replace-protobuf-with-rust)** (⬆️ 57)
 <!-- AUTO-UPDATE-END -->
