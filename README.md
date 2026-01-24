@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-01-23 12:48 UTC_
+_Last updated: 2026-01-24 01:44 UTC_
 
 ### 🔬 Latest AI Research
 **[Why Can't I Open My Drawer? Mitigating Object-Driven Shortcuts in Zero-Shot Compositional Action Recognition](http://arxiv.org/abs/2601.16211v1)**  
 _We study Compositional Video Understanding (CVU), where models must recognize verbs and objects and compose them to generalize to unseen combinations. We find that existing Zero-Shot Compositional Act..._
 
 ### 💻 Trending Tech
-1. **[Ghostty's AI Policy](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)** (⬆️ 174)
-2. **[I built a light that reacts to radio waves [video]](https://www.youtube.com/watch?v=moBCOEiqiPs)** (⬆️ 237)
-3. **[Replacing Protobuf with Rust to go 5 times faster](https://pgdog.dev/blog/replace-protobuf-with-rust)** (⬆️ 57)
+1. **[Unrolling the Codex agent loop](https://openai.com/index/unrolling-the-codex-agent-loop/)** (⬆️ 201)
+2. **[New YC homepage](https://www.ycombinator.com/)** (⬆️ 158)
+3. **[Gas Town's agent patterns, design bottlenecks, and vibecoding at scale](https://maggieappleton.com/gastown)** (⬆️ 252)
 <!-- AUTO-UPDATE-END -->
