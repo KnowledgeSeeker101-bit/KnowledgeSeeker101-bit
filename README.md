@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-01-24 12:41 UTC_
+_Last updated: 2026-01-25 01:56 UTC_
 
 ### 🔬 Latest AI Research
 **[Why Can't I Open My Drawer? Mitigating Object-Driven Shortcuts in Zero-Shot Compositional Action Recognition](http://arxiv.org/abs/2601.16211v1)**  
 _We study Compositional Video Understanding (CVU), where models must recognize verbs and objects and compose them to generalize to unseen combinations. We find that existing Zero-Shot Compositional Act..._
 
 ### 💻 Trending Tech
-1. **[Doing gigabit Ethernet over my British phone wires](https://thehftguy.com/2026/01/22/doing-gigabit-ethernet-over-my-british-phone-wires/)** (⬆️ 123)
-2. **[Show HN: I built a space travel calculator using Vanilla JavaScript](https://cosmic-odometer.vercel.app/)** (⬆️ 37)
-3. **[Internet Archive's Storage](https://blog.dshr.org/2026/01/internet-archives-storage.html)** (⬆️ 182)
+1. **[BirdyChat becomes first European chat app that is interoperable with WhatsApp](https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp)** (⬆️ 397)
+2. **[We X-Rayed a Suspicious FTDI USB Cable](https://eclypsium.com/blog/xray-counterfeit-usb-cable/)** (⬆️ 47)
+3. **[Adoption of EVs tied to real-world reductions in air pollution: study](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)** (⬆️ 21)
 <!-- AUTO-UPDATE-END -->
