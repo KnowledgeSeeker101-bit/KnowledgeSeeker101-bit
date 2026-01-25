@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-01-25 01:56 UTC_
+_Last updated: 2026-01-25 12:42 UTC_
 
 ### 🔬 Latest AI Research
 **[Why Can't I Open My Drawer? Mitigating Object-Driven Shortcuts in Zero-Shot Compositional Action Recognition](http://arxiv.org/abs/2601.16211v1)**  
 _We study Compositional Video Understanding (CVU), where models must recognize verbs and objects and compose them to generalize to unseen combinations. We find that existing Zero-Shot Compositional Act..._
 
 ### 💻 Trending Tech
-1. **[BirdyChat becomes first European chat app that is interoperable with WhatsApp](https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp)** (⬆️ 397)
-2. **[We X-Rayed a Suspicious FTDI USB Cable](https://eclypsium.com/blog/xray-counterfeit-usb-cable/)** (⬆️ 47)
-3. **[Adoption of EVs tied to real-world reductions in air pollution: study](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)** (⬆️ 21)
+1. **[Deutsche Telekom is violating Net Neutrality](https://netzbremse.de/en/)** (⬆️ 292)
+2. **[This paper has been cited more than 6k times. It's fatally flawed.](https://statmodeling.stat.columbia.edu/2026/01/22/aking/)** (⬆️ 153)
+3. **[Introduction to PostgreSQL Indexes](https://dlt.github.io/blog/posts/introduction-to-postgresql-indexes/)** (⬆️ 64)
 <!-- AUTO-UPDATE-END -->
