@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-01-26 01:56 UTC_
+_Last updated: 2026-01-26 12:49 UTC_
 
 ### 🔬 Latest AI Research
-**[Why Can't I Open My Drawer? Mitigating Object-Driven Shortcuts in Zero-Shot Compositional Action Recognition](http://arxiv.org/abs/2601.16211v1)**  
-_We study Compositional Video Understanding (CVU), where models must recognize verbs and objects and compose them to generalize to unseen combinations. We find that existing Zero-Shot Compositional Act..._
+**[AnyView: Synthesizing Any Novel View in Dynamic Scenes](http://arxiv.org/abs/2601.16982v1)**  
+_Modern generative video models excel at producing convincing, high-quality outputs, but struggle to maintain multi-view and spatiotemporal consistency in highly dynamic real-world environments. In thi..._
 
 ### 💻 Trending Tech
-1. **[Over 36,500 killed in Iran's deadliest massacre, documents reveal](https://www.iranintl.com/en/202601255198)** (⬆️ 128)
-2. **[Clawdbot - open source personal AI assistant](https://github.com/clawdbot/clawdbot)** (⬆️ 70)
-3. **[First, make me care](https://gwern.net/blog/2026/make-me-care)** (⬆️ 328)
+1. **[MapLibre Tile: a modern and efficient vector tile format](https://maplibre.org/news/2026-01-23-mlt-release/)** (⬆️ 105)
+2. **[The New Dark Ages](https://yabirgb.com/posts/dark-age/)** (⬆️ 5)
+3. **[Things I've learned in my 10 years as an engineering manager](https://www.jampa.dev/p/lessons-learned-after-10-years-as)** (⬆️ 219)
 <!-- AUTO-UPDATE-END -->
