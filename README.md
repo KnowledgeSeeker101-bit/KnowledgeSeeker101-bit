@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-01-25 12:42 UTC_
+_Last updated: 2026-01-26 01:56 UTC_
 
 ### 🔬 Latest AI Research
 **[Why Can't I Open My Drawer? Mitigating Object-Driven Shortcuts in Zero-Shot Compositional Action Recognition](http://arxiv.org/abs/2601.16211v1)**  
 _We study Compositional Video Understanding (CVU), where models must recognize verbs and objects and compose them to generalize to unseen combinations. We find that existing Zero-Shot Compositional Act..._
 
 ### 💻 Trending Tech
-1. **[Deutsche Telekom is violating Net Neutrality](https://netzbremse.de/en/)** (⬆️ 292)
-2. **[This paper has been cited more than 6k times. It's fatally flawed.](https://statmodeling.stat.columbia.edu/2026/01/22/aking/)** (⬆️ 153)
-3. **[Introduction to PostgreSQL Indexes](https://dlt.github.io/blog/posts/introduction-to-postgresql-indexes/)** (⬆️ 64)
+1. **[Over 36,500 killed in Iran's deadliest massacre, documents reveal](https://www.iranintl.com/en/202601255198)** (⬆️ 128)
+2. **[Clawdbot - open source personal AI assistant](https://github.com/clawdbot/clawdbot)** (⬆️ 70)
+3. **[First, make me care](https://gwern.net/blog/2026/make-me-care)** (⬆️ 328)
 <!-- AUTO-UPDATE-END -->
