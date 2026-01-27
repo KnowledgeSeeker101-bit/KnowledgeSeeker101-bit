@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-01-26 12:49 UTC_
+_Last updated: 2026-01-27 01:52 UTC_
 
 ### 🔬 Latest AI Research
 **[AnyView: Synthesizing Any Novel View in Dynamic Scenes](http://arxiv.org/abs/2601.16982v1)**  
 _Modern generative video models excel at producing convincing, high-quality outputs, but struggle to maintain multi-view and spatiotemporal consistency in highly dynamic real-world environments. In thi..._
 
 ### 💻 Trending Tech
-1. **[MapLibre Tile: a modern and efficient vector tile format](https://maplibre.org/news/2026-01-23-mlt-release/)** (⬆️ 105)
-2. **[The New Dark Ages](https://yabirgb.com/posts/dark-age/)** (⬆️ 5)
-3. **[Things I've learned in my 10 years as an engineering manager](https://www.jampa.dev/p/lessons-learned-after-10-years-as)** (⬆️ 219)
+1. **[Television is 100 years old today](https://diamondgeezer.blogspot.com/2026/01/tv100.html)** (⬆️ 498)
+2. **[ChatGPT Containers can now run bash, pip/npm install packages and download files](https://simonwillison.net/2026/Jan/26/chatgpt-containers/)** (⬆️ 159)
+3. **[AI code and software craft](https://alexwennerberg.com/blog/2026-01-25-slop.html)** (⬆️ 73)
 <!-- AUTO-UPDATE-END -->
