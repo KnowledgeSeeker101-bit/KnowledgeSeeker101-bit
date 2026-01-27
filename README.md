@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-01-27 01:52 UTC_
+_Last updated: 2026-01-27 12:51 UTC_
 
 ### 🔬 Latest AI Research
-**[AnyView: Synthesizing Any Novel View in Dynamic Scenes](http://arxiv.org/abs/2601.16982v1)**  
-_Modern generative video models excel at producing convincing, high-quality outputs, but struggle to maintain multi-view and spatiotemporal consistency in highly dynamic real-world environments. In thi..._
+**[ctELM: Decoding and Manipulating Embeddings of Clinical Trials with Embedding Language Models](http://arxiv.org/abs/2601.18796v1)**  
+_Text embeddings have become an essential part of a variety of language applications. However, methods for interpreting, exploring and reversing embedding spaces are limited, reducing transparency and ..._
 
 ### 💻 Trending Tech
-1. **[Television is 100 years old today](https://diamondgeezer.blogspot.com/2026/01/tv100.html)** (⬆️ 498)
-2. **[ChatGPT Containers can now run bash, pip/npm install packages and download files](https://simonwillison.net/2026/Jan/26/chatgpt-containers/)** (⬆️ 159)
-3. **[AI code and software craft](https://alexwennerberg.com/blog/2026-01-25-slop.html)** (⬆️ 73)
+1. **[I made my own Git](https://tonystr.net/blog/git_immitation)** (⬆️ 51)
+2. **[Heathrow scraps liquid container limit](https://www.bbc.com/news/articles/c1evvx89559o)** (⬆️ 364)
+3. **[Velox: A Port of Tauri to Swift by Miguel de Icaza](https://github.com/velox-apps/velox)** (⬆️ 51)
 <!-- AUTO-UPDATE-END -->
