@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-01-27 12:51 UTC_
+_Last updated: 2026-01-28 01:49 UTC_
 
 ### 🔬 Latest AI Research
 **[ctELM: Decoding and Manipulating Embeddings of Clinical Trials with Embedding Language Models](http://arxiv.org/abs/2601.18796v1)**  
 _Text embeddings have become an essential part of a variety of language applications. However, methods for interpreting, exploring and reversing embedding spaces are limited, reducing transparency and ..._
 
 ### 💻 Trending Tech
-1. **[I made my own Git](https://tonystr.net/blog/git_immitation)** (⬆️ 51)
-2. **[Heathrow scraps liquid container limit](https://www.bbc.com/news/articles/c1evvx89559o)** (⬆️ 364)
-3. **[Velox: A Port of Tauri to Swift by Miguel de Icaza](https://github.com/velox-apps/velox)** (⬆️ 51)
+1. **[Prism](https://openai.com/index/introducing-prism)** (⬆️ 426)
+2. **[430k-year-old well-preserved wooden tools are the oldest ever found](https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html)** (⬆️ 348)
+3. **[Rust’s Standard Library on the GPU](https://www.vectorware.com/blog/rust-std-on-gpu/)** (⬆️ 67)
 <!-- AUTO-UPDATE-END -->
