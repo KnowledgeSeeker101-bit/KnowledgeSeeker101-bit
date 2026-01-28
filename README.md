@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-01-28 01:49 UTC_
+_Last updated: 2026-01-28 12:51 UTC_
 
 ### 🔬 Latest AI Research
-**[ctELM: Decoding and Manipulating Embeddings of Clinical Trials with Embedding Language Models](http://arxiv.org/abs/2601.18796v1)**  
-_Text embeddings have become an essential part of a variety of language applications. However, methods for interpreting, exploring and reversing embedding spaces are limited, reducing transparency and ..._
+**[Self-Distillation Enables Continual Learning](http://arxiv.org/abs/2601.19897v1)**  
+_Continual learning, enabling models to acquire new skills and knowledge without degrading existing capabilities, remains a fundamental challenge for foundation models. While on-policy reinforcement le..._
 
 ### 💻 Trending Tech
-1. **[Prism](https://openai.com/index/introducing-prism)** (⬆️ 426)
-2. **[430k-year-old well-preserved wooden tools are the oldest ever found](https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html)** (⬆️ 348)
-3. **[Rust’s Standard Library on the GPU](https://www.vectorware.com/blog/rust-std-on-gpu/)** (⬆️ 67)
+1. **[ICE and Palantir: US agents using health data to hunt illegal immigrants](https://www.bmj.com/content/392/bmj.s168)** (⬆️ 60)
+2. **[Show HN: The HN Arcade](https://andrewgy8.github.io/hnarcade/)** (⬆️ 75)
+3. **[If You Tax Them, Will They Leave?](https://www.theatlantic.com/economy/2026/01/california-wealth-tax-billionaire-migration/685779/)** (⬆️ 6)
 <!-- AUTO-UPDATE-END -->
