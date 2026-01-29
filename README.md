@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-01-29 02:02 UTC_
+_Last updated: 2026-01-29 12:58 UTC_
 
 ### 🔬 Latest AI Research
-**[REASON: Accelerating Probabilistic Logical Reasoning for Scalable Neuro-Symbolic Intelligence](http://arxiv.org/abs/2601.20784v1)**  
-_Neuro-symbolic AI systems integrate neural perception with symbolic reasoning to enable data-efficient, interpretable, and robust intelligence beyond purely neural models. Although this compositional ..._
+**[Evolutionary Strategies lead to Catastrophic Forgetting in LLMs](http://arxiv.org/abs/2601.20861v1)**  
+_One of the biggest missing capabilities in current AI systems is the ability to learn continuously after deployment. Implementing such continually learning systems have several challenges, one of whic..._
 
 ### 💻 Trending Tech
-1. **[Somebody used spoofed ADSB signals to raster the meme of JD Vance](https://alecmuffett.com/article/143548)** (⬆️ 359)
-2. **[Ross Stevens Donates $100M to Pay Every US Olympian and Paralympian $200k](https://www.townandcountrymag.com/leisure/sporting/a70171886/ross-stevens-american-olympians-donation/)** (⬆️ 79)
-3. **[The UK paid £4.1M for a bookmarks site](https://mahadk.com/posts/ai-skills-hub)** (⬆️ 199)
+1. **[Europe’s next-generation weather satellite sends back first images](https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images)** (⬆️ 328)
+2. **[Vitamin D and Omega-3 have a larger effect on depression than antidepressants](https://blog.ncase.me/on-depression/)** (⬆️ 287)
+3. **[The tech market is fundamentally fucked up and AI is just a scapegoat](https://bayramovanar.substack.com/p/tech-market-is-fucked-up)** (⬆️ 78)
 <!-- AUTO-UPDATE-END -->
