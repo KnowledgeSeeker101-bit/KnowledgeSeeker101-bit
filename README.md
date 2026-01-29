@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-01-28 12:51 UTC_
+_Last updated: 2026-01-29 02:02 UTC_
 
 ### 🔬 Latest AI Research
-**[Self-Distillation Enables Continual Learning](http://arxiv.org/abs/2601.19897v1)**  
-_Continual learning, enabling models to acquire new skills and knowledge without degrading existing capabilities, remains a fundamental challenge for foundation models. While on-policy reinforcement le..._
+**[REASON: Accelerating Probabilistic Logical Reasoning for Scalable Neuro-Symbolic Intelligence](http://arxiv.org/abs/2601.20784v1)**  
+_Neuro-symbolic AI systems integrate neural perception with symbolic reasoning to enable data-efficient, interpretable, and robust intelligence beyond purely neural models. Although this compositional ..._
 
 ### 💻 Trending Tech
-1. **[ICE and Palantir: US agents using health data to hunt illegal immigrants](https://www.bmj.com/content/392/bmj.s168)** (⬆️ 60)
-2. **[Show HN: The HN Arcade](https://andrewgy8.github.io/hnarcade/)** (⬆️ 75)
-3. **[If You Tax Them, Will They Leave?](https://www.theatlantic.com/economy/2026/01/california-wealth-tax-billionaire-migration/685779/)** (⬆️ 6)
+1. **[Somebody used spoofed ADSB signals to raster the meme of JD Vance](https://alecmuffett.com/article/143548)** (⬆️ 359)
+2. **[Ross Stevens Donates $100M to Pay Every US Olympian and Paralympian $200k](https://www.townandcountrymag.com/leisure/sporting/a70171886/ross-stevens-american-olympians-donation/)** (⬆️ 79)
+3. **[The UK paid £4.1M for a bookmarks site](https://mahadk.com/posts/ai-skills-hub)** (⬆️ 199)
 <!-- AUTO-UPDATE-END -->
