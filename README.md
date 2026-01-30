@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-01-29 12:58 UTC_
+_Last updated: 2026-01-30 02:02 UTC_
 
 ### 🔬 Latest AI Research
-**[Evolutionary Strategies lead to Catastrophic Forgetting in LLMs](http://arxiv.org/abs/2601.20861v1)**  
-_One of the biggest missing capabilities in current AI systems is the ability to learn continuously after deployment. Implementing such continually learning systems have several challenges, one of whic..._
+**[Zero-Shot Statistical Downscaling via Diffusion Posterior Sampling](http://arxiv.org/abs/2601.21760v1)**  
+_Conventional supervised climate downscaling struggles to generalize to Global Climate Models (GCMs) due to the lack of paired training data and inherent domain gaps relative to reanalysis. Meanwhile, ..._
 
 ### 💻 Trending Tech
-1. **[Europe’s next-generation weather satellite sends back first images](https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images)** (⬆️ 328)
-2. **[Vitamin D and Omega-3 have a larger effect on depression than antidepressants](https://blog.ncase.me/on-depression/)** (⬆️ 287)
-3. **[The tech market is fundamentally fucked up and AI is just a scapegoat](https://bayramovanar.substack.com/p/tech-market-is-fucked-up)** (⬆️ 78)
+1. **[Grid: Forever free, local-first, browser-based 3D printing/CNC/laser slicer](https://grid.space/stem/)** (⬆️ 111)
+2. **[PlayStation 2 Recompilation Project Is Absolutely Incredible](https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/)** (⬆️ 278)
+3. **[Project Genie: Experimenting with infinite, interactive worlds](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/)** (⬆️ 452)
 <!-- AUTO-UPDATE-END -->
