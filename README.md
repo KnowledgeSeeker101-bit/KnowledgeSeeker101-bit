@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-01-30 02:02 UTC_
+_Last updated: 2026-01-30 12:56 UTC_
 
 ### 🔬 Latest AI Research
-**[Zero-Shot Statistical Downscaling via Diffusion Posterior Sampling](http://arxiv.org/abs/2601.21760v1)**  
-_Conventional supervised climate downscaling struggles to generalize to Global Climate Models (GCMs) due to the lack of paired training data and inherent domain gaps relative to reanalysis. Meanwhile, ..._
+**[RedSage: A Cybersecurity Generalist LLM](http://arxiv.org/abs/2601.22159v1)**  
+_Cybersecurity operations demand assistant LLMs that support diverse workflows without exposing sensitive data. Existing solutions either rely on proprietary APIs with privacy risks or on open models l..._
 
 ### 💻 Trending Tech
-1. **[Grid: Forever free, local-first, browser-based 3D printing/CNC/laser slicer](https://grid.space/stem/)** (⬆️ 111)
-2. **[PlayStation 2 Recompilation Project Is Absolutely Incredible](https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/)** (⬆️ 278)
-3. **[Project Genie: Experimenting with infinite, interactive worlds](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/)** (⬆️ 452)
+1. **[Moltbook](https://www.moltbook.com/)** (⬆️ 572)
+2. **[Software Pump and Dump](http://tautvilas.lt/software-pump-and-dump/)** (⬆️ 152)
+3. **[Netflix Animation Studios Joins the Blender Development Fund as Corporate Patron](https://www.blender.org/press/netflix-animation-studios-joins-the-blender-development-fund-as-corporate-patron/)** (⬆️ 135)
 <!-- AUTO-UPDATE-END -->
