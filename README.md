@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-01-30 12:56 UTC_
+_Last updated: 2026-01-31 01:58 UTC_
 
 ### 🔬 Latest AI Research
 **[RedSage: A Cybersecurity Generalist LLM](http://arxiv.org/abs/2601.22159v1)**  
 _Cybersecurity operations demand assistant LLMs that support diverse workflows without exposing sensitive data. Existing solutions either rely on proprietary APIs with privacy risks or on open models l..._
 
 ### 💻 Trending Tech
-1. **[Moltbook](https://www.moltbook.com/)** (⬆️ 572)
-2. **[Software Pump and Dump](http://tautvilas.lt/software-pump-and-dump/)** (⬆️ 152)
-3. **[Netflix Animation Studios Joins the Blender Development Fund as Corporate Patron](https://www.blender.org/press/netflix-animation-studios-joins-the-blender-development-fund-as-corporate-patron/)** (⬆️ 135)
+1. **[Antirender: remove the glossy shine on architectural renderings](https://antirender.com/)** (⬆️ 767)
+2. **[Show HN: I trained a 9M speech model to fix my Mandarin tones](https://simedw.com/2026/01/31/ear-pronunication-via-ctc/)** (⬆️ 44)
+3. **[Peerweb: Decentralized website hosting via WebTorrent](https://peerweb.lol/)** (⬆️ 171)
 <!-- AUTO-UPDATE-END -->
