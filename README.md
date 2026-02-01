@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-01-31 12:48 UTC_
+_Last updated: 2026-02-01 02:27 UTC_
 
 ### 🔬 Latest AI Research
 **[RedSage: A Cybersecurity Generalist LLM](http://arxiv.org/abs/2601.22159v1)**  
 _Cybersecurity operations demand assistant LLMs that support diverse workflows without exposing sensitive data. Existing solutions either rely on proprietary APIs with privacy risks or on open models l..._
 
 ### 💻 Trending Tech
-1. **[Antirender: remove the glossy shine on architectural renderings](https://antirender.com/)** (⬆️ 1369)
-2. **[Euro firms must ditch Uncle Sam's clouds and go EU-native](https://www.theregister.com/2026/01/30/euro_firms_must_ditch_us/)** (⬆️ 170)
-3. **[Sumerian Star Map Recorded the Impact of an Asteroid (2024)](https://archaeologyworlds.com/5500-year-old-sumerian-star-map-recorded/)** (⬆️ 65)
+1. **[Mobile carriers can get your GPS location](https://an.dywa.ng/carrier-gnss.html)** (⬆️ 460)
+2. **[Scientist who helped eradicate smallpox dies at age 89](https://www.scientificamerican.com/article/smallpox-eradication-champion-william-foege-dies-at-89/)** (⬆️ 111)
+3. **[Generative AI and Wikipedia editing: What we learned in 2025](https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/)** (⬆️ 86)
 <!-- AUTO-UPDATE-END -->
