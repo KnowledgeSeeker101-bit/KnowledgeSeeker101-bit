@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-02-01 02:27 UTC_
+_Last updated: 2026-02-01 12:50 UTC_
 
 ### 🔬 Latest AI Research
 **[RedSage: A Cybersecurity Generalist LLM](http://arxiv.org/abs/2601.22159v1)**  
 _Cybersecurity operations demand assistant LLMs that support diverse workflows without exposing sensitive data. Existing solutions either rely on proprietary APIs with privacy risks or on open models l..._
 
 ### 💻 Trending Tech
-1. **[Mobile carriers can get your GPS location](https://an.dywa.ng/carrier-gnss.html)** (⬆️ 460)
-2. **[Scientist who helped eradicate smallpox dies at age 89](https://www.scientificamerican.com/article/smallpox-eradication-champion-william-foege-dies-at-89/)** (⬆️ 111)
-3. **[Generative AI and Wikipedia editing: What we learned in 2025](https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/)** (⬆️ 86)
+1. **[Netbird a German Tailscale alternative (P2P WireGuard-based overlay network)](https://netbird.io/)** (⬆️ 268)
+2. **[What I learned building an opinionated and minimal coding agent](https://mariozechner.at/posts/2025-11-30-pi-coding-agent/)** (⬆️ 89)
+3. **[The Book of PF, 4th edition](https://nostarch.com/book-of-pf-4th-edition)** (⬆️ 93)
 <!-- AUTO-UPDATE-END -->
