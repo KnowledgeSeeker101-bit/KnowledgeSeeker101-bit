@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-02-01 12:50 UTC_
+_Last updated: 2026-02-02 02:10 UTC_
 
 ### 🔬 Latest AI Research
-**[RedSage: A Cybersecurity Generalist LLM](http://arxiv.org/abs/2601.22159v1)**  
-_Cybersecurity operations demand assistant LLMs that support diverse workflows without exposing sensitive data. Existing solutions either rely on proprietary APIs with privacy risks or on open models l..._
+**[CATTO: Balancing Preferences and Confidence in Language Models](http://arxiv.org/abs/2601.23096v1)**  
+_Large language models (LLMs) often make accurate next token predictions but their confidence in these predictions can be poorly calibrated: high-confidence predictions are frequently wrong, and low-co..._
 
 ### 💻 Trending Tech
-1. **[Netbird a German Tailscale alternative (P2P WireGuard-based overlay network)](https://netbird.io/)** (⬆️ 268)
-2. **[What I learned building an opinionated and minimal coding agent](https://mariozechner.at/posts/2025-11-30-pi-coding-agent/)** (⬆️ 89)
-3. **[The Book of PF, 4th edition](https://nostarch.com/book-of-pf-4th-edition)** (⬆️ 93)
+1. **[Defeating a 40-year-old copy protection dongle](https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle)** (⬆️ 241)
+2. **[Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation](https://github.com/gavrielc/nanoclaw)** (⬆️ 170)
+3. **[Treasures found on HS2 route stored in secret warehouse](https://www.bbc.com/news/articles/c93v21q5xdvo)** (⬆️ 26)
 <!-- AUTO-UPDATE-END -->
