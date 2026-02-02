@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-02-02 02:10 UTC_
+_Last updated: 2026-02-02 13:00 UTC_
 
 ### 🔬 Latest AI Research
-**[CATTO: Balancing Preferences and Confidence in Language Models](http://arxiv.org/abs/2601.23096v1)**  
-_Large language models (LLMs) often make accurate next token predictions but their confidence in these predictions can be poorly calibrated: high-confidence predictions are frequently wrong, and low-co..._
+**[VideoGPA: Distilling Geometry Priors for 3D-Consistent Video Generation](http://arxiv.org/abs/2601.23286v1)**  
+_While recent video diffusion models (VDMs) produce visually impressive results, they fundamentally struggle to maintain 3D structural consistency, often resulting in object deformation or spatial drif..._
 
 ### 💻 Trending Tech
-1. **[Defeating a 40-year-old copy protection dongle](https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle)** (⬆️ 241)
-2. **[Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation](https://github.com/gavrielc/nanoclaw)** (⬆️ 170)
-3. **[Treasures found on HS2 route stored in secret warehouse](https://www.bbc.com/news/articles/c93v21q5xdvo)** (⬆️ 26)
+1. **[Termux](https://github.com/termux/termux-app)** (⬆️ 63)
+2. **[Defeating a 40-year-old copy protection dongle](https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle)** (⬆️ 636)
+3. **[My (very) fast zero-allocation webserver using OxCaml](https://anil.recoil.org/notes/oxcaml-httpz)** (⬆️ 13)
 <!-- AUTO-UPDATE-END -->
