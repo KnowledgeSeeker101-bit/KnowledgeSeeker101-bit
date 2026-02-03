@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-02-02 13:00 UTC_
+_Last updated: 2026-02-03 02:08 UTC_
 
 ### 🔬 Latest AI Research
-**[VideoGPA: Distilling Geometry Priors for 3D-Consistent Video Generation](http://arxiv.org/abs/2601.23286v1)**  
-_While recent video diffusion models (VDMs) produce visually impressive results, they fundamentally struggle to maintain 3D structural consistency, often resulting in object deformation or spatial drif..._
+**[How RLHF Amplifies Sycophancy](http://arxiv.org/abs/2602.01002v1)**  
+_Large language models often exhibit increased sycophantic behavior after preference-based post-training, showing a stronger tendency to affirm a user's stated or implied belief even when this conflict..._
 
 ### 💻 Trending Tech
-1. **[Termux](https://github.com/termux/termux-app)** (⬆️ 63)
-2. **[Defeating a 40-year-old copy protection dongle](https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle)** (⬆️ 636)
-3. **[My (very) fast zero-allocation webserver using OxCaml](https://anil.recoil.org/notes/oxcaml-httpz)** (⬆️ 13)
+1. **[How does misalignment scale with model intelligence and task complexity?](https://alignment.anthropic.com/2026/hot-mess-of-ai/)** (⬆️ 70)
+2. **[The Codex App](https://openai.com/index/introducing-the-codex-app/)** (⬆️ 520)
+3. **[Anki ownership transferred to AnkiHub](https://forums.ankiweb.net/t/ankis-growing-up/68610)** (⬆️ 219)
 <!-- AUTO-UPDATE-END -->
