@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-02-03 13:01 UTC_
+_Last updated: 2026-02-04 02:04 UTC_
 
 ### 🔬 Latest AI Research
-**[Reward-free Alignment for Conflicting Objectives](http://arxiv.org/abs/2602.02495v1)**  
-_Direct alignment methods are increasingly used to align large language models (LLMs) with human preferences. However, many real-world alignment problems involve multiple conflicting objectives, where ..._
+**[Lookahead Path Likelihood Optimization for Diffusion LLMs](http://arxiv.org/abs/2602.03496v1)**  
+_Diffusion Large Language Models (dLLMs) support arbitrary-order generation, yet their inference performance critically depends on the unmasking order. Existing strategies rely on heuristics that greed..._
 
 ### 💻 Trending Tech
-1. **[What's up with all those equals signs anyway?](https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/)** (⬆️ 197)
-2. **[Floppinux – An Embedded Linux on a Single Floppy, 2025 Edition](https://krzysztofjankowski.com/floppinux/floppinux-2025.html)** (⬆️ 173)
-3. **[Show HN: Minikv – Distributed key-value and object store in Rust (Raft, S3 API)](https://github.com/whispem/minikv)** (⬆️ 24)
+1. **[Lessons learned shipping 500 units of my first hardware product](https://www.simonberens.com/p/lessons-learned-shipping-500-units)** (⬆️ 308)
+2. **[Data centers in space makes no sense](https://civai.org/blog/space-data-centers)** (⬆️ 214)
+3. **[Show HN: Craftplan – I built my wife a production management tool for her bakery](https://github.com/puemos/craftplan)** (⬆️ 82)
 <!-- AUTO-UPDATE-END -->
