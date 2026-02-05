@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-02-04 02:04 UTC_
+_Last updated: 2026-02-05 02:05 UTC_
 
 ### 🔬 Latest AI Research
-**[Lookahead Path Likelihood Optimization for Diffusion LLMs](http://arxiv.org/abs/2602.03496v1)**  
-_Diffusion Large Language Models (dLLMs) support arbitrary-order generation, yet their inference performance critically depends on the unmasking order. Existing strategies rely on heuristics that greed..._
+**[Knowledge Distillation for mmWave Beam Prediction Using Sub-6 GHz Channels](http://arxiv.org/abs/2602.04703v1)**  
+_Beamforming in millimeter-wave (mmWave) high-mobility environments typically incurs substantial training overhead. While prior studies suggest that sub-6 GHz channels can be exploited to predict optim..._
 
 ### 💻 Trending Tech
-1. **[Lessons learned shipping 500 units of my first hardware product](https://www.simonberens.com/p/lessons-learned-shipping-500-units)** (⬆️ 308)
-2. **[Data centers in space makes no sense](https://civai.org/blog/space-data-centers)** (⬆️ 214)
-3. **[Show HN: Craftplan – I built my wife a production management tool for her bakery](https://github.com/puemos/craftplan)** (⬆️ 82)
+1. **[OpenClaw Is What Apple Intelligence Should Have Been](https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been)** (⬆️ 91)
+2. **[Voxtral Transcribe 2](https://mistral.ai/news/voxtral-transcribe-2)** (⬆️ 729)
+3. **[Sqldef: Idempotent schema management tool for MySQL, PostgreSQL, SQLite](https://sqldef.github.io/)** (⬆️ 56)
 <!-- AUTO-UPDATE-END -->
