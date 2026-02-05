@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-02-05 02:05 UTC_
+_Last updated: 2026-02-05 13:02 UTC_
 
 ### 🔬 Latest AI Research
-**[Knowledge Distillation for mmWave Beam Prediction Using Sub-6 GHz Channels](http://arxiv.org/abs/2602.04703v1)**  
-_Beamforming in millimeter-wave (mmWave) high-mobility environments typically incurs substantial training overhead. While prior studies suggest that sub-6 GHz channels can be exploited to predict optim..._
+**[Reinforced Attention Learning](http://arxiv.org/abs/2602.04884v1)**  
+_Post-training with Reinforcement Learning (RL) has substantially improved reasoning in Large Language Models (LLMs) via test-time scaling. However, extending this paradigm to Multimodal LLMs (MLLMs) t..._
 
 ### 💻 Trending Tech
-1. **[OpenClaw Is What Apple Intelligence Should Have Been](https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been)** (⬆️ 91)
-2. **[Voxtral Transcribe 2](https://mistral.ai/news/voxtral-transcribe-2)** (⬆️ 729)
-3. **[Sqldef: Idempotent schema management tool for MySQL, PostgreSQL, SQLite](https://sqldef.github.io/)** (⬆️ 56)
+1. **[Don't rent the cloud, own instead](https://blog.comma.ai/datacenter/)** (⬆️ 449)
+2. **[When internal hostnames are leaked to the clown](https://rachelbythebay.com/w/2026/02/03/badnas/)** (⬆️ 248)
+3. **[Nanobot: Ultra-Lightweight Alternative to OpenClaw](https://github.com/HKUDS/nanobot)** (⬆️ 52)
 <!-- AUTO-UPDATE-END -->
