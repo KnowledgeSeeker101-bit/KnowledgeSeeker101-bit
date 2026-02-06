@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-02-05 13:02 UTC_
+_Last updated: 2026-02-06 13:00 UTC_
 
 ### 🔬 Latest AI Research
-**[Reinforced Attention Learning](http://arxiv.org/abs/2602.04884v1)**  
-_Post-training with Reinforcement Learning (RL) has substantially improved reasoning in Large Language Models (LLMs) via test-time scaling. However, extending this paradigm to Multimodal LLMs (MLLMs) t..._
+**[Shared LoRA Subspaces for almost Strict Continual Learning](http://arxiv.org/abs/2602.06043v1)**  
+_Adapting large pretrained models to new tasks efficiently and continually is crucial for real-world deployment but remains challenging due to catastrophic forgetting and the high cost of retraining. W..._
 
 ### 💻 Trending Tech
-1. **[Don't rent the cloud, own instead](https://blog.comma.ai/datacenter/)** (⬆️ 449)
-2. **[When internal hostnames are leaked to the clown](https://rachelbythebay.com/w/2026/02/03/badnas/)** (⬆️ 248)
-3. **[Nanobot: Ultra-Lightweight Alternative to OpenClaw](https://github.com/HKUDS/nanobot)** (⬆️ 52)
+1. **[I Now Assume That All Ads on Apple News Are Scams](https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/)** (⬆️ 76)
+2. **[A new bill in New York would require disclaimers on AI-generated news content](https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/)** (⬆️ 182)
+3. **[Show HN: Agent Arena – Test How Manipulation-Proof Your AI Agent Is](https://wiz.jock.pl/experiments/agent-arena/)** (⬆️ 17)
 <!-- AUTO-UPDATE-END -->
