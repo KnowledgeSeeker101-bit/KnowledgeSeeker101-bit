@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-02-06 13:00 UTC_
+_Last updated: 2026-02-08 02:34 UTC_
 
 ### 🔬 Latest AI Research
 **[Shared LoRA Subspaces for almost Strict Continual Learning](http://arxiv.org/abs/2602.06043v1)**  
 _Adapting large pretrained models to new tasks efficiently and continually is crucial for real-world deployment but remains challenging due to catastrophic forgetting and the high cost of retraining. W..._
 
 ### 💻 Trending Tech
-1. **[I Now Assume That All Ads on Apple News Are Scams](https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/)** (⬆️ 76)
-2. **[A new bill in New York would require disclaimers on AI-generated news content](https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/)** (⬆️ 182)
-3. **[Show HN: Agent Arena – Test How Manipulation-Proof Your AI Agent Is](https://wiz.jock.pl/experiments/agent-arena/)** (⬆️ 17)
+1. **[Tiny C Compiler](https://bellard.org/tcc/)** (⬆️ 132)
+2. **[Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory](https://github.com/localgpt-app/localgpt)** (⬆️ 14)
+3. **[SectorC: A C Compiler in 512 bytes](https://xorvoid.com/sectorc.html)** (⬆️ 218)
 <!-- AUTO-UPDATE-END -->
