@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-02-08 02:34 UTC_
+_Last updated: 2026-02-09 13:10 UTC_
 
 ### 🔬 Latest AI Research
-**[Shared LoRA Subspaces for almost Strict Continual Learning](http://arxiv.org/abs/2602.06043v1)**  
-_Adapting large pretrained models to new tasks efficiently and continually is crucial for real-world deployment but remains challenging due to catastrophic forgetting and the high cost of retraining. W..._
+**[Learning a Generative Meta-Model of LLM Activations](http://arxiv.org/abs/2602.06964v1)**  
+_Existing approaches for analyzing neural network activations, such as PCA and sparse autoencoders, rely on strong structural assumptions. Generative models offer an alternative: they can uncover struc..._
 
 ### 💻 Trending Tech
-1. **[Tiny C Compiler](https://bellard.org/tcc/)** (⬆️ 132)
-2. **[Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory](https://github.com/localgpt-app/localgpt)** (⬆️ 14)
-3. **[SectorC: A C Compiler in 512 bytes](https://xorvoid.com/sectorc.html)** (⬆️ 218)
+1. **[Show HN: Algorithmically Finding the Longest Line of Sight on Earth](https://alltheviews.world)** (⬆️ 98)
+2. **[Show HN: Browse Internet Infrastructure](https://www.wirewiki.com)** (⬆️ 17)
+3. **[Art of Roads in Games](https://sandboxspirit.com/blog/art-of-roads-in-games/)** (⬆️ 417)
 <!-- AUTO-UPDATE-END -->
