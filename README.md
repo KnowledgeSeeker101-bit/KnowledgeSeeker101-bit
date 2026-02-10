@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-02-10 02:28 UTC_
+_Last updated: 2026-02-10 13:14 UTC_
 
 ### 🔬 Latest AI Research
-**[Rethinking Latency Denial-of-Service: Attacking the LLM Serving Framework, Not the Model](http://arxiv.org/abs/2602.07878v1)**  
-_Large Language Models face an emerging and critical threat known as latency attacks. Because LLM inference is inherently expensive, even modest slowdowns can translate into substantial operating costs..._
+**[Robustness Is a Function, Not a Number: A Factorized Comprehensive Study of OOD Robustness in Vision-Based Driving](http://arxiv.org/abs/2602.09018v1)**  
+_Out of distribution (OOD) robustness in autonomous driving is often reduced to a single number, hiding what breaks a policy. We decompose environments along five axes: scene (rural/urban), season, wea..._
 
 ### 💻 Trending Tech
-1. **[Discord will require a face scan or ID for full access next month](https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out)** (⬆️ 1244)
-2. **[The shadowy world of abandoned oil tankers](https://www.bbc.com/news/articles/cddg885344do)** (⬆️ 71)
-3. **[What Functional Programmers Get Wrong About Systems](https://www.iankduncan.com/engineering/2026-02-09-what-functional-programmers-get-wrong-about-systems/)** (⬆️ 57)
+1. **[Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs](https://arxiv.org/abs/2512.20798)** (⬆️ 371)
+2. **[Show HN: Pipelock – All-in-one security harness for AI coding agents](https://github.com/luckyPipewrench/pipelock)** (⬆️ 25)
+3. **[Australian author's erotic novel is child sex abuse material, judge finds](https://www.bbc.com/news/articles/ckgzv529v5no)** (⬆️ 25)
 <!-- AUTO-UPDATE-END -->
