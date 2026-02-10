@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-02-09 13:10 UTC_
+_Last updated: 2026-02-10 02:28 UTC_
 
 ### 🔬 Latest AI Research
-**[Learning a Generative Meta-Model of LLM Activations](http://arxiv.org/abs/2602.06964v1)**  
-_Existing approaches for analyzing neural network activations, such as PCA and sparse autoencoders, rely on strong structural assumptions. Generative models offer an alternative: they can uncover struc..._
+**[Rethinking Latency Denial-of-Service: Attacking the LLM Serving Framework, Not the Model](http://arxiv.org/abs/2602.07878v1)**  
+_Large Language Models face an emerging and critical threat known as latency attacks. Because LLM inference is inherently expensive, even modest slowdowns can translate into substantial operating costs..._
 
 ### 💻 Trending Tech
-1. **[Show HN: Algorithmically Finding the Longest Line of Sight on Earth](https://alltheviews.world)** (⬆️ 98)
-2. **[Show HN: Browse Internet Infrastructure](https://www.wirewiki.com)** (⬆️ 17)
-3. **[Art of Roads in Games](https://sandboxspirit.com/blog/art-of-roads-in-games/)** (⬆️ 417)
+1. **[Discord will require a face scan or ID for full access next month](https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out)** (⬆️ 1244)
+2. **[The shadowy world of abandoned oil tankers](https://www.bbc.com/news/articles/cddg885344do)** (⬆️ 71)
+3. **[What Functional Programmers Get Wrong About Systems](https://www.iankduncan.com/engineering/2026-02-09-what-functional-programmers-get-wrong-about-systems/)** (⬆️ 57)
 <!-- AUTO-UPDATE-END -->
