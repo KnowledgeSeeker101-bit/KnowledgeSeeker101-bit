@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-02-10 13:14 UTC_
+_Last updated: 2026-02-11 02:25 UTC_
 
 ### 🔬 Latest AI Research
-**[Robustness Is a Function, Not a Number: A Factorized Comprehensive Study of OOD Robustness in Vision-Based Driving](http://arxiv.org/abs/2602.09018v1)**  
-_Out of distribution (OOD) robustness in autonomous driving is often reduced to a single number, hiding what breaks a policy. We decompose environments along five axes: scene (rural/urban), season, wea..._
+**[Statistical benchmarking of transformer models in low signal-to-noise time-series forecasting](http://arxiv.org/abs/2602.09869v1)**  
+_We study the performance of transformer architectures for multivariate time-series forecasting in low-data regimes consisting of only a few years of daily observations. Using synthetically generated p..._
 
 ### 💻 Trending Tech
-1. **[Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs](https://arxiv.org/abs/2512.20798)** (⬆️ 371)
-2. **[Show HN: Pipelock – All-in-one security harness for AI coding agents](https://github.com/luckyPipewrench/pipelock)** (⬆️ 25)
-3. **[Australian author's erotic novel is child sex abuse material, judge finds](https://www.bbc.com/news/articles/ckgzv529v5no)** (⬆️ 25)
+1. **[The Day the Telnet Died](https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/)** (⬆️ 195)
+2. **[The Feynman Lectures on Physics (1961-1964)](https://www.feynmanlectures.caltech.edu/)** (⬆️ 102)
+3. **[The Singularity will occur on a Tuesday](https://campedersen.com/singularity)** (⬆️ 842)
 <!-- AUTO-UPDATE-END -->
