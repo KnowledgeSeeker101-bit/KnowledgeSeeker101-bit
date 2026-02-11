@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-02-11 02:25 UTC_
+_Last updated: 2026-02-11 13:11 UTC_
 
 ### 🔬 Latest AI Research
-**[Statistical benchmarking of transformer models in low signal-to-noise time-series forecasting](http://arxiv.org/abs/2602.09869v1)**  
-_We study the performance of transformer architectures for multivariate time-series forecasting in low-data regimes consisting of only a few years of daily observations. Using synthetically generated p..._
+**[Biases in the Blind Spot: Detecting What LLMs Fail to Mention](http://arxiv.org/abs/2602.10117v1)**  
+_Large Language Models (LLMs) often provide chain-of-thought (CoT) reasoning traces that appear plausible, but may hide internal biases. We call these *unverbalized biases*. Monitoring models via their..._
 
 ### 💻 Trending Tech
-1. **[The Day the Telnet Died](https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/)** (⬆️ 195)
-2. **[The Feynman Lectures on Physics (1961-1964)](https://www.feynmanlectures.caltech.edu/)** (⬆️ 102)
-3. **[The Singularity will occur on a Tuesday](https://campedersen.com/singularity)** (⬆️ 842)
+1. **[Chrome extensions spying on 37M users' browsing data](https://qcontinuum.substack.com/p/spying-chrome-extensions-287-extensions-495)** (⬆️ 124)
+2. **[It's all a blur](https://lcamtuf.substack.com/p/its-all-a-blur)** (⬆️ 107)
+3. **[Windows Notepad App Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-20841)** (⬆️ 404)
 <!-- AUTO-UPDATE-END -->
