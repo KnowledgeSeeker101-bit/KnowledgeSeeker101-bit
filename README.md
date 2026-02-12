@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-02-12 02:12 UTC_
+_Last updated: 2026-02-12 13:08 UTC_
 
 ### 🔬 Latest AI Research
-**[From Buffers to Registers: Unlocking Fine-Grained FlashAttention with Hybrid-Bonded 3D NPU Co-Design](http://arxiv.org/abs/2602.11016v1)**  
-_Transformer-based models dominate modern AI workloads but exacerbate memory bottlenecks due to their quadratic attention complexity and ever-growing model sizes. Existing accelerators, such as Groq an..._
+**[Diffusion-Pretrained Dense and Contextual Embeddings](http://arxiv.org/abs/2602.11151v1)**  
+_In this report, we introduce pplx-embed, a family of multilingual embedding models that employ multi-stage contrastive learning on a diffusion-pretrained language model backbone for web-scale retrieva..._
 
 ### 💻 Trending Tech
-1. **[Discord/Twitch/Snapchat age verification bypass](https://age-verifier.kibty.town/)** (⬆️ 321)
-2. **[GPT-5 outperforms federal judges 100% to 52% in legal reasoning experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6155012)** (⬆️ 141)
-3. **[Fluorite – A console-grade game engine fully integrated with Flutter](https://fluorite.game/)** (⬆️ 400)
+1. **[The "Crown of Nobles" Noble Gas Tube Display](https://theshamblog.com/the-crown-of-nobles-noble-gas-tube-display/)** (⬆️ 27)
+2. **[Warcraft III Peon Voice Notifications for Claude Code](https://github.com/tonyyont/peon-ping)** (⬆️ 540)
+3. **[Discord/Twitch/Snapchat age verification bypass](https://age-verifier.kibty.town/)** (⬆️ 808)
 <!-- AUTO-UPDATE-END -->
