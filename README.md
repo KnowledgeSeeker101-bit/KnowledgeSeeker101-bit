@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-02-11 13:11 UTC_
+_Last updated: 2026-02-12 02:12 UTC_
 
 ### 🔬 Latest AI Research
-**[Biases in the Blind Spot: Detecting What LLMs Fail to Mention](http://arxiv.org/abs/2602.10117v1)**  
-_Large Language Models (LLMs) often provide chain-of-thought (CoT) reasoning traces that appear plausible, but may hide internal biases. We call these *unverbalized biases*. Monitoring models via their..._
+**[From Buffers to Registers: Unlocking Fine-Grained FlashAttention with Hybrid-Bonded 3D NPU Co-Design](http://arxiv.org/abs/2602.11016v1)**  
+_Transformer-based models dominate modern AI workloads but exacerbate memory bottlenecks due to their quadratic attention complexity and ever-growing model sizes. Existing accelerators, such as Groq an..._
 
 ### 💻 Trending Tech
-1. **[Chrome extensions spying on 37M users' browsing data](https://qcontinuum.substack.com/p/spying-chrome-extensions-287-extensions-495)** (⬆️ 124)
-2. **[It's all a blur](https://lcamtuf.substack.com/p/its-all-a-blur)** (⬆️ 107)
-3. **[Windows Notepad App Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-20841)** (⬆️ 404)
+1. **[Discord/Twitch/Snapchat age verification bypass](https://age-verifier.kibty.town/)** (⬆️ 321)
+2. **[GPT-5 outperforms federal judges 100% to 52% in legal reasoning experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6155012)** (⬆️ 141)
+3. **[Fluorite – A console-grade game engine fully integrated with Flutter](https://fluorite.game/)** (⬆️ 400)
 <!-- AUTO-UPDATE-END -->
