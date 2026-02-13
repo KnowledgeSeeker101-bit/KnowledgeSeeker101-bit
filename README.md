@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-02-12 13:08 UTC_
+_Last updated: 2026-02-13 02:21 UTC_
 
 ### 🔬 Latest AI Research
-**[Diffusion-Pretrained Dense and Contextual Embeddings](http://arxiv.org/abs/2602.11151v1)**  
-_In this report, we introduce pplx-embed, a family of multilingual embedding models that employ multi-stage contrastive learning on a diffusion-pretrained language model backbone for web-scale retrieva..._
+**[Learning beyond Teacher: Generalized On-Policy Distillation with Reward Extrapolation](http://arxiv.org/abs/2602.12125v1)**  
+_On-policy distillation (OPD), which aligns the student with the teacher's logit distribution on student-generated trajectories, has demonstrated strong empirical gains in improving student performance..._
 
 ### 💻 Trending Tech
-1. **[The "Crown of Nobles" Noble Gas Tube Display](https://theshamblog.com/the-crown-of-nobles-noble-gas-tube-display/)** (⬆️ 27)
-2. **[Warcraft III Peon Voice Notifications for Claude Code](https://github.com/tonyyont/peon-ping)** (⬆️ 540)
-3. **[Discord/Twitch/Snapchat age verification bypass](https://age-verifier.kibty.town/)** (⬆️ 808)
+1. **[Resizing windows on macOS Tahoe – the saga continues](https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/)** (⬆️ 148)
+2. **[GPT‑5.3‑Codex‑Spark](https://openai.com/index/introducing-gpt-5-3-codex-spark/)** (⬆️ 554)
+3. **[AWS Adds support for nested virtualization](https://github.com/aws/aws-sdk-go-v2/commit/3dca5e45d5ad05460b93410087833cbaa624754e)** (⬆️ 70)
 <!-- AUTO-UPDATE-END -->
