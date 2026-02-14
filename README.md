@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-02-13 02:21 UTC_
+_Last updated: 2026-02-14 02:03 UTC_
 
 ### 🔬 Latest AI Research
-**[Learning beyond Teacher: Generalized On-Policy Distillation with Reward Extrapolation](http://arxiv.org/abs/2602.12125v1)**  
-_On-policy distillation (OPD), which aligns the student with the teacher's logit distribution on student-generated trajectories, has demonstrated strong empirical gains in improving student performance..._
+**[Scaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment](http://arxiv.org/abs/2602.12281v1)**  
+_The long-standing vision of general-purpose robots hinges on their ability to understand and act upon natural language instructions. Vision-Language-Action (VLA) models have made remarkable progress t..._
 
 ### 💻 Trending Tech
-1. **[Resizing windows on macOS Tahoe – the saga continues](https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/)** (⬆️ 148)
-2. **[GPT‑5.3‑Codex‑Spark](https://openai.com/index/introducing-gpt-5-3-codex-spark/)** (⬆️ 554)
-3. **[AWS Adds support for nested virtualization](https://github.com/aws/aws-sdk-go-v2/commit/3dca5e45d5ad05460b93410087833cbaa624754e)** (⬆️ 70)
+1. **[An AI Agent Published a Hit Piece on Me – More Things Have Happened](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)** (⬆️ 91)
+2. **[Gradient.horse](https://gradient.horse)** (⬆️ 80)
+3. **[GPT-5.2 derives a new result in theoretical physics](https://openai.com/index/new-result-theoretical-physics/)** (⬆️ 372)
 <!-- AUTO-UPDATE-END -->
