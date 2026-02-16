@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-02-15 12:51 UTC_
+_Last updated: 2026-02-16 02:10 UTC_
 
 ### 🔬 Latest AI Research
-**[Scaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment](http://arxiv.org/abs/2602.12281v1)**  
-_The long-standing vision of general-purpose robots hinges on their ability to understand and act upon natural language instructions. Vision-Language-Action (VLA) models have made remarkable progress t..._
+**[Imitating What Works: Simulation-Filtered Modular Policy Learning from Human Videos](http://arxiv.org/abs/2602.13197v1)**  
+_The ability to learn manipulation skills by watching videos of humans has the potential to unlock a new source of highly scalable data for robot learning. Here, we tackle prehensile manipulation, in w..._
 
 ### 💻 Trending Tech
-1. **[I love the work of the ArchWiki maintainers](https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/)** (⬆️ 546)
-2. **[Flashpoint Archive – Over 200k web games and animations preserved](https://flashpointarchive.org)** (⬆️ 155)
-3. **[Two different tricks for fast LLM inference](https://www.seangoedecke.com/fast-llm-inference/)** (⬆️ 51)
+1. **[I’m joining OpenAI](https://steipete.me/posts/2026/openclaw)** (⬆️ 536)
+2. **[Magnus Carlsen Wins the Freestyle (Chess960) World Championship](https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/)** (⬆️ 125)
+3. **[Pink noise reduces REM sleep and may harm sleep quality](https://www.pennmedicine.org/news/pink-noise-reduces-rem-sleep-and-may-harm-sleep-quality)** (⬆️ 37)
 <!-- AUTO-UPDATE-END -->
