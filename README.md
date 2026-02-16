@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-02-16 02:10 UTC_
+_Last updated: 2026-02-16 13:04 UTC_
 
 ### 🔬 Latest AI Research
 **[Imitating What Works: Simulation-Filtered Modular Policy Learning from Human Videos](http://arxiv.org/abs/2602.13197v1)**  
 _The ability to learn manipulation skills by watching videos of humans has the potential to unlock a new source of highly scalable data for robot learning. Here, we tackle prehensile manipulation, in w..._
 
 ### 💻 Trending Tech
-1. **[I’m joining OpenAI](https://steipete.me/posts/2026/openclaw)** (⬆️ 536)
-2. **[Magnus Carlsen Wins the Freestyle (Chess960) World Championship](https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/)** (⬆️ 125)
-3. **[Pink noise reduces REM sleep and may harm sleep quality](https://www.pennmedicine.org/news/pink-noise-reduces-rem-sleep-and-may-harm-sleep-quality)** (⬆️ 37)
+1. **[MessageFormat: Unicode standard for localizable message strings](https://github.com/unicode-org/message-format-wg)** (⬆️ 62)
+2. **[I’m joining OpenAI](https://steipete.me/posts/2026/openclaw)** (⬆️ 1149)
+3. **[I want to wash my car. The car wash is 50 meters away. Should I walk or drive?](https://mastodon.world/@knowmadd/116072773118828295)** (⬆️ 711)
 <!-- AUTO-UPDATE-END -->
