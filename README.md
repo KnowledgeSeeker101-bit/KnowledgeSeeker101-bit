@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-02-17 02:07 UTC_
+_Last updated: 2026-02-17 13:04 UTC_
 
 ### 🔬 Latest AI Research
-**[Learning Part-Aware Dense 3D Feature Field for Generalizable Articulated Object Manipulation](http://arxiv.org/abs/2602.14193v1)**  
-_Articulated object manipulation is essential for various real-world robotic tasks, yet generalizing across diverse objects remains a major challenge. A key to generalization lies in understanding func..._
+**[Symmetry in language statistics shapes the geometry of model representations](http://arxiv.org/abs/2602.15029v1)**  
+_Although learned representations underlie neural networks' success, their fundamental properties remain poorly understood. A striking example is the emergence of simple geometric structures in LLM rep..._
 
 ### 💻 Trending Tech
-1. **[Dark web agent spotted bedroom wall clue to rescue girl from abuse](https://www.bbc.com/news/articles/cx2gn239exlo)** (⬆️ 101)
-2. **[Study: Self-generated Agent Skills are useless](https://arxiv.org/abs/2602.12670)** (⬆️ 254)
-3. **[14-year-old Miles Wu folded origami pattern that holds 10k times its own weight](https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/)** (⬆️ 408)
+1. **[GrapheneOS – Break Free from Google and Apple](https://blog.tomaszdunia.pl/grapheneos-eng/)** (⬆️ 284)
+2. **[Four Column ASCII (2017)](https://garbagecollected.org/2017/01/31/four-column-ascii/)** (⬆️ 210)
+3. **[14-year-old Miles Wu folded origami pattern that holds 10k times its own weight](https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/)** (⬆️ 749)
 <!-- AUTO-UPDATE-END -->
