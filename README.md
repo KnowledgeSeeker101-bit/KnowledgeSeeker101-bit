@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-02-16 13:04 UTC_
+_Last updated: 2026-02-17 02:07 UTC_
 
 ### 🔬 Latest AI Research
-**[Imitating What Works: Simulation-Filtered Modular Policy Learning from Human Videos](http://arxiv.org/abs/2602.13197v1)**  
-_The ability to learn manipulation skills by watching videos of humans has the potential to unlock a new source of highly scalable data for robot learning. Here, we tackle prehensile manipulation, in w..._
+**[Learning Part-Aware Dense 3D Feature Field for Generalizable Articulated Object Manipulation](http://arxiv.org/abs/2602.14193v1)**  
+_Articulated object manipulation is essential for various real-world robotic tasks, yet generalizing across diverse objects remains a major challenge. A key to generalization lies in understanding func..._
 
 ### 💻 Trending Tech
-1. **[MessageFormat: Unicode standard for localizable message strings](https://github.com/unicode-org/message-format-wg)** (⬆️ 62)
-2. **[I’m joining OpenAI](https://steipete.me/posts/2026/openclaw)** (⬆️ 1149)
-3. **[I want to wash my car. The car wash is 50 meters away. Should I walk or drive?](https://mastodon.world/@knowmadd/116072773118828295)** (⬆️ 711)
+1. **[Dark web agent spotted bedroom wall clue to rescue girl from abuse](https://www.bbc.com/news/articles/cx2gn239exlo)** (⬆️ 101)
+2. **[Study: Self-generated Agent Skills are useless](https://arxiv.org/abs/2602.12670)** (⬆️ 254)
+3. **[14-year-old Miles Wu folded origami pattern that holds 10k times its own weight](https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/)** (⬆️ 408)
 <!-- AUTO-UPDATE-END -->
