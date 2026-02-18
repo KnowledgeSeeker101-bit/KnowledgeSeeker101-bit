@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-02-17 13:04 UTC_
+_Last updated: 2026-02-18 13:04 UTC_
 
 ### 🔬 Latest AI Research
-**[Symmetry in language statistics shapes the geometry of model representations](http://arxiv.org/abs/2602.15029v1)**  
-_Although learned representations underlie neural networks' success, their fundamental properties remain poorly understood. A striking example is the emergence of simple geometric structures in LLM rep..._
+**[Ensemble-size-dependence of deep-learning post-processing methods that minimize an (un)fair score: motivating examples and a proof-of-concept solution](http://arxiv.org/abs/2602.15830v1)**  
+_Fair scores reward ensemble forecast members that behave like samples from the same distribution as the verifying observations. They are therefore an attractive choice as loss functions to train data-..._
 
 ### 💻 Trending Tech
-1. **[GrapheneOS – Break Free from Google and Apple](https://blog.tomaszdunia.pl/grapheneos-eng/)** (⬆️ 284)
-2. **[Four Column ASCII (2017)](https://garbagecollected.org/2017/01/31/four-column-ascii/)** (⬆️ 210)
-3. **[14-year-old Miles Wu folded origami pattern that holds 10k times its own weight](https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/)** (⬆️ 749)
+1. **[Terminals should generate the 256-color palette](https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783)** (⬆️ 233)
+2. **[Native FreeBSD Kerberos/LDAP with FreeIPA/IDM](https://vermaden.wordpress.com/2026/02/18/native-freebsd-kerberos-ldap-with-freeipa-idm/)** (⬆️ 35)
+3. **[Claude Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6)** (⬆️ 1168)
 <!-- AUTO-UPDATE-END -->
