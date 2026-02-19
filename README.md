@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-02-19 02:09 UTC_
+_Last updated: 2026-02-19 13:06 UTC_
 
 ### 🔬 Latest AI Research
 **[Knowledge-Embedded Latent Projection for Robust Representation Learning](http://arxiv.org/abs/2602.16709v1)**  
 _Latent space models are widely used for analyzing high-dimensional discrete data matrices, such as patient-feature matrices in electronic health records (EHRs), by capturing complex dependence structu..._
 
 ### 💻 Trending Tech
-1. **[Sizing chaos](https://pudding.cool/2026/02/womens-sizing/)** (⬆️ 278)
-2. **[Ladybird: Closing this as we are no longer pursuing Swift adoption](https://github.com/LadybirdBrowser/ladybird/issues/933)** (⬆️ 183)
-3. **[27-year-old Apple iBooks can connect to Wi-Fi and download official updates](https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/)** (⬆️ 141)
+1. **[Don't Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails](https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails)** (⬆️ 59)
+2. **[Show HN: An encrypted, local, cross-platform journaling app](https://github.com/fjrevoredo/mini-diarium)** (⬆️ 31)
+3. **[Coding Tricks Used in the C64 Game Seawolves](https://kodiak64.co.uk/blog/seawolves-technical-tricks)** (⬆️ 7)
 <!-- AUTO-UPDATE-END -->
