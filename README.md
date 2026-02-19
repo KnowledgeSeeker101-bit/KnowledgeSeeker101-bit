@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-02-18 13:04 UTC_
+_Last updated: 2026-02-19 02:09 UTC_
 
 ### 🔬 Latest AI Research
-**[Ensemble-size-dependence of deep-learning post-processing methods that minimize an (un)fair score: motivating examples and a proof-of-concept solution](http://arxiv.org/abs/2602.15830v1)**  
-_Fair scores reward ensemble forecast members that behave like samples from the same distribution as the verifying observations. They are therefore an attractive choice as loss functions to train data-..._
+**[Knowledge-Embedded Latent Projection for Robust Representation Learning](http://arxiv.org/abs/2602.16709v1)**  
+_Latent space models are widely used for analyzing high-dimensional discrete data matrices, such as patient-feature matrices in electronic health records (EHRs), by capturing complex dependence structu..._
 
 ### 💻 Trending Tech
-1. **[Terminals should generate the 256-color palette](https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783)** (⬆️ 233)
-2. **[Native FreeBSD Kerberos/LDAP with FreeIPA/IDM](https://vermaden.wordpress.com/2026/02/18/native-freebsd-kerberos-ldap-with-freeipa-idm/)** (⬆️ 35)
-3. **[Claude Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6)** (⬆️ 1168)
+1. **[Sizing chaos](https://pudding.cool/2026/02/womens-sizing/)** (⬆️ 278)
+2. **[Ladybird: Closing this as we are no longer pursuing Swift adoption](https://github.com/LadybirdBrowser/ladybird/issues/933)** (⬆️ 183)
+3. **[27-year-old Apple iBooks can connect to Wi-Fi and download official updates](https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/)** (⬆️ 141)
 <!-- AUTO-UPDATE-END -->
