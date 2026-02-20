@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-02-20 02:05 UTC_
+_Last updated: 2026-02-20 12:59 UTC_
 
 ### 🔬 Latest AI Research
 **[Sink-Aware Pruning for Diffusion Language Models](http://arxiv.org/abs/2602.17664v1)**  
 _Diffusion Language Models (DLMs) incur high inference cost due to iterative denoising, motivating efficient pruning. Existing pruning heuristics largely inherited from autoregressive (AR) LLMs, typica..._
 
 ### 💻 Trending Tech
-1. **[Gemini 3.1 Pro](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/)** (⬆️ 532)
-2. **[Show HN: Micasa – track your house from the terminal](https://micasa.dev)** (⬆️ 450)
-3. **[Micropayments as a reality check for news sites](https://blog.zgp.org/micropayments-as-a-reality-check-for-news-sites/)** (⬆️ 116)
+1. **[The path to ubiquitous AI (17k tokens/sec)](https://taalas.com/the-path-to-ubiquitous-ai/)** (⬆️ 213)
+2. **[I used Claude Code and GSD to build the accessibility tool I've always wanted](https://blakewatson.com/journal/i-used-claude-code-and-gsd-to-build-the-accessibility-tool-ive-always-wanted/)** (⬆️ 12)
+3. **[Untapped Way to Learn a Codebase: Build a Visualizer](https://jimmyhmiller.com/learn-codebase-visualizer)** (⬆️ 52)
 <!-- AUTO-UPDATE-END -->
