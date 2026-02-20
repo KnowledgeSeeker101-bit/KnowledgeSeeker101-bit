@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-02-19 13:06 UTC_
+_Last updated: 2026-02-20 02:05 UTC_
 
 ### 🔬 Latest AI Research
-**[Knowledge-Embedded Latent Projection for Robust Representation Learning](http://arxiv.org/abs/2602.16709v1)**  
-_Latent space models are widely used for analyzing high-dimensional discrete data matrices, such as patient-feature matrices in electronic health records (EHRs), by capturing complex dependence structu..._
+**[Sink-Aware Pruning for Diffusion Language Models](http://arxiv.org/abs/2602.17664v1)**  
+_Diffusion Language Models (DLMs) incur high inference cost due to iterative denoising, motivating efficient pruning. Existing pruning heuristics largely inherited from autoregressive (AR) LLMs, typica..._
 
 ### 💻 Trending Tech
-1. **[Don't Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails](https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails)** (⬆️ 59)
-2. **[Show HN: An encrypted, local, cross-platform journaling app](https://github.com/fjrevoredo/mini-diarium)** (⬆️ 31)
-3. **[Coding Tricks Used in the C64 Game Seawolves](https://kodiak64.co.uk/blog/seawolves-technical-tricks)** (⬆️ 7)
+1. **[Gemini 3.1 Pro](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/)** (⬆️ 532)
+2. **[Show HN: Micasa – track your house from the terminal](https://micasa.dev)** (⬆️ 450)
+3. **[Micropayments as a reality check for news sites](https://blog.zgp.org/micropayments-as-a-reality-check-for-news-sites/)** (⬆️ 116)
 <!-- AUTO-UPDATE-END -->
