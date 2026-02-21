@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-02-20 12:59 UTC_
+_Last updated: 2026-02-21 12:48 UTC_
 
 ### 🔬 Latest AI Research
 **[Sink-Aware Pruning for Diffusion Language Models](http://arxiv.org/abs/2602.17664v1)**  
 _Diffusion Language Models (DLMs) incur high inference cost due to iterative denoising, motivating efficient pruning. Existing pruning heuristics largely inherited from autoregressive (AR) LLMs, typica..._
 
 ### 💻 Trending Tech
-1. **[The path to ubiquitous AI (17k tokens/sec)](https://taalas.com/the-path-to-ubiquitous-ai/)** (⬆️ 213)
-2. **[I used Claude Code and GSD to build the accessibility tool I've always wanted](https://blakewatson.com/journal/i-used-claude-code-and-gsd-to-build-the-accessibility-tool-ive-always-wanted/)** (⬆️ 12)
-3. **[Untapped Way to Learn a Codebase: Build a Visualizer](https://jimmyhmiller.com/learn-codebase-visualizer)** (⬆️ 52)
+1. **[Keep Android Open](https://f-droid.org/2026/02/20/twif.html)** (⬆️ 1628)
+2. **[I Verified My LinkedIn Identity. Here's What I Handed Over](https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/)** (⬆️ 161)
+3. **[Andrej Karpathy talks about "Claws"](https://simonwillison.net/2026/Feb/21/claws/)** (⬆️ 113)
 <!-- AUTO-UPDATE-END -->
