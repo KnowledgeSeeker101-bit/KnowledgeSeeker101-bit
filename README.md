@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-02-21 12:48 UTC_
+_Last updated: 2026-02-22 02:10 UTC_
 
 ### 🔬 Latest AI Research
 **[Sink-Aware Pruning for Diffusion Language Models](http://arxiv.org/abs/2602.17664v1)**  
 _Diffusion Language Models (DLMs) incur high inference cost due to iterative denoising, motivating efficient pruning. Existing pruning heuristics largely inherited from autoregressive (AR) LLMs, typica..._
 
 ### 💻 Trending Tech
-1. **[Keep Android Open](https://f-droid.org/2026/02/20/twif.html)** (⬆️ 1628)
-2. **[I Verified My LinkedIn Identity. Here's What I Handed Over](https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/)** (⬆️ 161)
-3. **[Andrej Karpathy talks about "Claws"](https://simonwillison.net/2026/Feb/21/claws/)** (⬆️ 113)
+1. **[How I use Claude Code: Separation of planning and execution](https://boristane.com/blog/how-i-use-claude-code/)** (⬆️ 93)
+2. **[Are compilers deterministic?](https://blog.onepatchdown.net/2026/02/22/are-compilers-deterministic-nerd-version/)** (⬆️ 32)
+3. **[Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU](https://github.com/xaskasdf/ntransformer)** (⬆️ 100)
 <!-- AUTO-UPDATE-END -->
