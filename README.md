@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-02-22 02:10 UTC_
+_Last updated: 2026-02-22 12:50 UTC_
 
 ### 🔬 Latest AI Research
 **[Sink-Aware Pruning for Diffusion Language Models](http://arxiv.org/abs/2602.17664v1)**  
 _Diffusion Language Models (DLMs) incur high inference cost due to iterative denoising, motivating efficient pruning. Existing pruning heuristics largely inherited from autoregressive (AR) LLMs, typica..._
 
 ### 💻 Trending Tech
-1. **[How I use Claude Code: Separation of planning and execution](https://boristane.com/blog/how-i-use-claude-code/)** (⬆️ 93)
-2. **[Are compilers deterministic?](https://blog.onepatchdown.net/2026/02/22/are-compilers-deterministic-nerd-version/)** (⬆️ 32)
-3. **[Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU](https://github.com/xaskasdf/ntransformer)** (⬆️ 100)
+1. **[Back to FreeBSD: Part 1](https://hypha.pub/back-to-freebsd-part-1)** (⬆️ 81)
+2. **[Show HN: Elecxzy – A lightweight, Lisp-free Emacs-like editor in Electron](https://github.com/kurouna/elecxzy)** (⬆️ 16)
+3. **[How Taalas “prints” LLM onto a chip?](https://www.anuragk.com/blog/posts/Taalas.html)** (⬆️ 195)
 <!-- AUTO-UPDATE-END -->
