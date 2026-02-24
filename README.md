@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-02-24 02:07 UTC_
+_Last updated: 2026-02-24 13:06 UTC_
 
 ### 🔬 Latest AI Research
-**[Smooth Gate Functions for Soft Advantage Policy Optimization](http://arxiv.org/abs/2602.19345v1)**  
-_Group Relative Policy Optimization (GRPO) has significantly advanced the training of large language models and enhanced their reasoning capabilities, while it remains susceptible to instability due to..._
+**[A Very Big Video Reasoning Suite](http://arxiv.org/abs/2602.20159v1)**  
+_Rapid progress in video models has largely focused on visual quality, leaving their reasoning capabilities underexplored. Video reasoning grounds intelligence in spatiotemporally consistent visual env..._
 
 ### 💻 Trending Tech
-1. **[Shatner is making an album with 35 metal icons](https://www.guitarworld.com/artists/guitarists/william-shatner-announces-all-star-metal-album)** (⬆️ 63)
-2. **[I Ported Coreboot to the ThinkPad X270](https://dork.dev/posts/2026-02-20-ported-coreboot/)** (⬆️ 43)
-3. **[FreeBSD doesn't have Wi-Fi driver for my old MacBook. AI build one for me](https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/)** (⬆️ 252)
+1. **[Show HN: SNKV – SQLite's B-tree as a key-value store (C/C++ and Python bindings)](https://github.com/hash-anu/snkv)** (⬆️ 8)
+2. **[Diode – Build, program, and simulate hardware](https://www.withdiode.com/)** (⬆️ 176)
+3. **[λProlog: Logic programming in higher-order logic](https://www.lix.polytechnique.fr/Labo/Dale.Miller/lProlog/)** (⬆️ 44)
 <!-- AUTO-UPDATE-END -->
