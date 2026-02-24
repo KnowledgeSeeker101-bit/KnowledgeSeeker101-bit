@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-02-23 02:10 UTC_
+_Last updated: 2026-02-24 02:07 UTC_
 
 ### 🔬 Latest AI Research
-**[Assigning Confidence: K-partition Ensembles](http://arxiv.org/abs/2602.18435v1)**  
-_Clustering is widely used for unsupervised structure discovery, yet it offers limited insight into how reliable each individual assignment is. Diagnostics, such as convergence behavior or objective va..._
+**[Smooth Gate Functions for Soft Advantage Policy Optimization](http://arxiv.org/abs/2602.19345v1)**  
+_Group Relative Policy Optimization (GRPO) has significantly advanced the training of large language models and enhanced their reasoning capabilities, while it remains susceptible to instability due to..._
 
 ### 💻 Trending Tech
-1. **[I built Timeframe, our family e-paper dashboard](https://hawksley.org/2026/02/17/timeframe.html)** (⬆️ 613)
-2. **[Google restricting Google AI Pro/Ultra subscribers for using OpenClaw](https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778)** (⬆️ 254)
-3. **[The surprising power of daily rituals](https://www.bbc.com/future/article/20210914-how-rituals-help-us-to-deal-with-uncertainty-and-stress)** (⬆️ 10)
+1. **[Shatner is making an album with 35 metal icons](https://www.guitarworld.com/artists/guitarists/william-shatner-announces-all-star-metal-album)** (⬆️ 63)
+2. **[I Ported Coreboot to the ThinkPad X270](https://dork.dev/posts/2026-02-20-ported-coreboot/)** (⬆️ 43)
+3. **[FreeBSD doesn't have Wi-Fi driver for my old MacBook. AI build one for me](https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/)** (⬆️ 252)
 <!-- AUTO-UPDATE-END -->
