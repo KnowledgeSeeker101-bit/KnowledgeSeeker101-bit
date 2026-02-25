@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-02-24 13:06 UTC_
+_Last updated: 2026-02-25 02:09 UTC_
 
 ### 🔬 Latest AI Research
-**[A Very Big Video Reasoning Suite](http://arxiv.org/abs/2602.20159v1)**  
-_Rapid progress in video models has largely focused on visual quality, leaving their reasoning capabilities underexplored. Video reasoning grounds intelligence in spatiotemporally consistent visual env..._
+**[Scaling Vision Transformers: Evaluating DeepSpeed for Image-Centric Workloads](http://arxiv.org/abs/2602.21081v1)**  
+_Vision Transformers (ViTs) have demonstrated remarkable potential in image processing tasks by utilizing self-attention mechanisms to capture global relationships within data. However, their scalabili..._
 
 ### 💻 Trending Tech
-1. **[Show HN: SNKV – SQLite's B-tree as a key-value store (C/C++ and Python bindings)](https://github.com/hash-anu/snkv)** (⬆️ 8)
-2. **[Diode – Build, program, and simulate hardware](https://www.withdiode.com/)** (⬆️ 176)
-3. **[λProlog: Logic programming in higher-order logic](https://www.lix.polytechnique.fr/Labo/Dale.Miller/lProlog/)** (⬆️ 44)
+1. **[I'm helping my dog vibe code games](https://www.calebleak.com/posts/dog-game/)** (⬆️ 626)
+2. **[Show HN: Moonshine Open-Weights STT models – higher accuracy than WhisperLargev3](https://github.com/moonshine-ai/moonshine)** (⬆️ 127)
+3. **[Mercury 2: The fastest reasoning LLM, powered by diffusion](https://www.inceptionlabs.ai/blog/introducing-mercury-2)** (⬆️ 63)
 <!-- AUTO-UPDATE-END -->
