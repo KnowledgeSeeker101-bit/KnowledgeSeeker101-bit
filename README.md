@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-02-25 02:09 UTC_
+_Last updated: 2026-02-25 13:05 UTC_
 
 ### 🔬 Latest AI Research
-**[Scaling Vision Transformers: Evaluating DeepSpeed for Image-Centric Workloads](http://arxiv.org/abs/2602.21081v1)**  
-_Vision Transformers (ViTs) have demonstrated remarkable potential in image processing tasks by utilizing self-attention mechanisms to capture global relationships within data. However, their scalabili..._
+**[Test-Time Training with KV Binding Is Secretly Linear Attention](http://arxiv.org/abs/2602.21204v1)**  
+_Test-time training (TTT) with KV binding as sequence modeling layer is commonly interpreted as a form of online meta-learning that memorizes a key-value mapping at test time. However, our analysis rev..._
 
 ### 💻 Trending Tech
-1. **[I'm helping my dog vibe code games](https://www.calebleak.com/posts/dog-game/)** (⬆️ 626)
-2. **[Show HN: Moonshine Open-Weights STT models – higher accuracy than WhisperLargev3](https://github.com/moonshine-ai/moonshine)** (⬆️ 127)
-3. **[Mercury 2: The fastest reasoning LLM, powered by diffusion](https://www.inceptionlabs.ai/blog/introducing-mercury-2)** (⬆️ 63)
+1. **[Danish government agency to ditch Microsoft software (2025)](https://therecord.media/denmark-digital-agency-microsoft-digital-independence)** (⬆️ 260)
+2. **[Show HN: A real-time strategy game that AI agents can play](https://llmskirmish.com/)** (⬆️ 81)
+3. **[I'm helping my dog vibe code games](https://www.calebleak.com/posts/dog-game/)** (⬆️ 969)
 <!-- AUTO-UPDATE-END -->
