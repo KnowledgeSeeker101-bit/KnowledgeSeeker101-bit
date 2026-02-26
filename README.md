@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-02-26 02:05 UTC_
+_Last updated: 2026-02-26 13:06 UTC_
 
 ### 🔬 Latest AI Research
-**[TG-ASR: Translation-Guided Learning with Parallel Gated Cross Attention for Low-Resource Automatic Speech Recognition](http://arxiv.org/abs/2602.22039v1)**  
-_Low-resource automatic speech recognition (ASR) continues to pose significant challenges, primarily due to the limited availability of transcribed data for numerous languages. While a wealth of spoken..._
+**[Recovered in Translation: Efficient Pipeline for Automated Translation of Benchmarks and Datasets](http://arxiv.org/abs/2602.22207v1)**  
+_The reliability of multilingual Large Language Model (LLM) evaluation is currently compromised by the inconsistent quality of translated benchmarks. Existing resources often suffer from semantic drift..._
 
 ### 💻 Trending Tech
-1. **[Jane Street Hit with Terra $40B Insider Trading Suit](https://www.disruptionbanking.com/2026/02/24/jane-street-hit-with-terra-40b-insider-trading-suit/)** (⬆️ 42)
-2. **[Jimi Hendrix was a systems engineer](https://spectrum.ieee.org/jimi-hendrix-systems-engineer)** (⬆️ 307)
-3. **[First Website](https://info.cern.ch)** (⬆️ 92)
+1. **[Show HN: Terminal Phone – E2EE Walkie Talkie from the Command Line](https://gitlab.com/here_forawhile/terminalphone)** (⬆️ 90)
+2. **[Google API keys weren't secrets, but then Gemini changed the rules](https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules)** (⬆️ 822)
+3. **[Fentanyl makeover: Core structural redesign could lead to safer pain medications](https://www.scripps.edu/news-and-events/press-room/2026/20260211-janda-molecule.html)** (⬆️ 8)
 <!-- AUTO-UPDATE-END -->
