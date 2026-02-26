@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-02-25 13:05 UTC_
+_Last updated: 2026-02-26 02:05 UTC_
 
 ### 🔬 Latest AI Research
-**[Test-Time Training with KV Binding Is Secretly Linear Attention](http://arxiv.org/abs/2602.21204v1)**  
-_Test-time training (TTT) with KV binding as sequence modeling layer is commonly interpreted as a form of online meta-learning that memorizes a key-value mapping at test time. However, our analysis rev..._
+**[TG-ASR: Translation-Guided Learning with Parallel Gated Cross Attention for Low-Resource Automatic Speech Recognition](http://arxiv.org/abs/2602.22039v1)**  
+_Low-resource automatic speech recognition (ASR) continues to pose significant challenges, primarily due to the limited availability of transcribed data for numerous languages. While a wealth of spoken..._
 
 ### 💻 Trending Tech
-1. **[Danish government agency to ditch Microsoft software (2025)](https://therecord.media/denmark-digital-agency-microsoft-digital-independence)** (⬆️ 260)
-2. **[Show HN: A real-time strategy game that AI agents can play](https://llmskirmish.com/)** (⬆️ 81)
-3. **[I'm helping my dog vibe code games](https://www.calebleak.com/posts/dog-game/)** (⬆️ 969)
+1. **[Jane Street Hit with Terra $40B Insider Trading Suit](https://www.disruptionbanking.com/2026/02/24/jane-street-hit-with-terra-40b-insider-trading-suit/)** (⬆️ 42)
+2. **[Jimi Hendrix was a systems engineer](https://spectrum.ieee.org/jimi-hendrix-systems-engineer)** (⬆️ 307)
+3. **[First Website](https://info.cern.ch)** (⬆️ 92)
 <!-- AUTO-UPDATE-END -->
