@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-02-27 02:04 UTC_
+_Last updated: 2026-02-27 12:59 UTC_
 
 ### 🔬 Latest AI Research
-**[Risk-Aware World Model Predictive Control for Generalizable End-to-End Autonomous Driving](http://arxiv.org/abs/2602.23259v1)**  
-_With advances in imitation learning (IL) and large-scale driving datasets, end-to-end autonomous driving (E2E-AD) has made great progress recently. Currently, IL-based methods have become a mainstream..._
+**[Model Agreement via Anchoring](http://arxiv.org/abs/2602.23360v1)**  
+_Numerous lines of aim to control $	extit{model disagreement}$ -- the extent to which two machine learning models disagree in their predictions. We adopt a simple and standard notion of model disagree..._
 
 ### 💻 Trending Tech
-1. **[Statement from Dario Amodei on Our Discussions with the Department of War](https://www.anthropic.com/news/statement-department-of-war)** (⬆️ 849)
-2. **[Layoffs at Block](https://twitter.com/jack/status/2027129697092731343)** (⬆️ 448)
-3. **[AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]](https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf)** (⬆️ 318)
+1. **[Statement from Dario Amodei on our discussions with the Department of War](https://www.anthropic.com/news/statement-department-of-war)** (⬆️ 2137)
+2. **[Can you reverse engineer our neural network?](https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/)** (⬆️ 77)
+3. **[F-Droid Board of Directors nominations 2026](https://f-droid.org/2026/02/26/board-of-directors-nominations.html)** (⬆️ 48)
 <!-- AUTO-UPDATE-END -->
