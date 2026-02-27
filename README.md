@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-02-26 13:06 UTC_
+_Last updated: 2026-02-27 02:04 UTC_
 
 ### 🔬 Latest AI Research
-**[Recovered in Translation: Efficient Pipeline for Automated Translation of Benchmarks and Datasets](http://arxiv.org/abs/2602.22207v1)**  
-_The reliability of multilingual Large Language Model (LLM) evaluation is currently compromised by the inconsistent quality of translated benchmarks. Existing resources often suffer from semantic drift..._
+**[Risk-Aware World Model Predictive Control for Generalizable End-to-End Autonomous Driving](http://arxiv.org/abs/2602.23259v1)**  
+_With advances in imitation learning (IL) and large-scale driving datasets, end-to-end autonomous driving (E2E-AD) has made great progress recently. Currently, IL-based methods have become a mainstream..._
 
 ### 💻 Trending Tech
-1. **[Show HN: Terminal Phone – E2EE Walkie Talkie from the Command Line](https://gitlab.com/here_forawhile/terminalphone)** (⬆️ 90)
-2. **[Google API keys weren't secrets, but then Gemini changed the rules](https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules)** (⬆️ 822)
-3. **[Fentanyl makeover: Core structural redesign could lead to safer pain medications](https://www.scripps.edu/news-and-events/press-room/2026/20260211-janda-molecule.html)** (⬆️ 8)
+1. **[Statement from Dario Amodei on Our Discussions with the Department of War](https://www.anthropic.com/news/statement-department-of-war)** (⬆️ 849)
+2. **[Layoffs at Block](https://twitter.com/jack/status/2027129697092731343)** (⬆️ 448)
+3. **[AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]](https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf)** (⬆️ 318)
 <!-- AUTO-UPDATE-END -->
