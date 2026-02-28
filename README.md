@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-02-27 12:59 UTC_
+_Last updated: 2026-02-28 01:54 UTC_
 
 ### 🔬 Latest AI Research
 **[Model Agreement via Anchoring](http://arxiv.org/abs/2602.23360v1)**  
 _Numerous lines of aim to control $	extit{model disagreement}$ -- the extent to which two machine learning models disagree in their predictions. We adopt a simple and standard notion of model disagree..._
 
 ### 💻 Trending Tech
-1. **[Statement from Dario Amodei on our discussions with the Department of War](https://www.anthropic.com/news/statement-department-of-war)** (⬆️ 2137)
-2. **[Can you reverse engineer our neural network?](https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/)** (⬆️ 77)
-3. **[F-Droid Board of Directors nominations 2026](https://f-droid.org/2026/02/26/board-of-directors-nominations.html)** (⬆️ 48)
+1. **[We Will Not Be Divided](https://notdivided.org)** (⬆️ 288)
+2. **[Statement on the comments from Secretary of War Pete Hegseth](https://www.anthropic.com/news/statement-comments-secretary-war)** (⬆️ 93)
+3. **[I am directing the Department of War to designate Anthropic a supply-chain risk](https://twitter.com/secwar/status/2027507717469049070)** (⬆️ 1019)
 <!-- AUTO-UPDATE-END -->
