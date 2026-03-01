@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-03-01 02:23 UTC_
+_Last updated: 2026-03-01 12:49 UTC_
 
 ### 🔬 Latest AI Research
 **[Model Agreement via Anchoring](http://arxiv.org/abs/2602.23360v1)**  
 _Numerous lines of aim to control $	extit{model disagreement}$ -- the extent to which two machine learning models disagree in their predictions. We adopt a simple and standard notion of model disagree..._
 
 ### 💻 Trending Tech
-1. **[We do not think Anthropic should be designated as a supply chain risk](https://twitter.com/OpenAI/status/2027846016423321831)** (⬆️ 261)
-2. **[The Windows 95 user interface: A case study in usability engineering (1996)](https://dl.acm.org/doi/fullHtml/10.1145/238386.238611)** (⬆️ 139)
-3. **[Microgpt](http://karpathy.github.io/2026/02/12/microgpt/)** (⬆️ 18)
+1. **[Microgpt](http://karpathy.github.io/2026/02/12/microgpt/)** (⬆️ 1046)
+2. **[Decision trees – the unreasonable power of nested decision rules](https://mlu-explain.github.io/decision-tree/)** (⬆️ 138)
+3. **[We do not think Anthropic should be designated as a supply chain risk](https://twitter.com/OpenAI/status/2027846016423321831)** (⬆️ 596)
 <!-- AUTO-UPDATE-END -->
