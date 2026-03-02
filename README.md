@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-03-01 12:49 UTC_
+_Last updated: 2026-03-02 02:07 UTC_
 
 ### 🔬 Latest AI Research
-**[Model Agreement via Anchoring](http://arxiv.org/abs/2602.23360v1)**  
-_Numerous lines of aim to control $	extit{model disagreement}$ -- the extent to which two machine learning models disagree in their predictions. We adopt a simple and standard notion of model disagree..._
+**[SafeGen-LLM: Enhancing Safety Generalization in Task Planning for Robotic Systems](http://arxiv.org/abs/2602.24235v1)**  
+_Safety-critical task planning in robotic systems remains challenging: classical planners suffer from poor scalability, Reinforcement Learning (RL)-based methods generalize poorly, and base Large Langu..._
 
 ### 💻 Trending Tech
-1. **[Microgpt](http://karpathy.github.io/2026/02/12/microgpt/)** (⬆️ 1046)
-2. **[Decision trees – the unreasonable power of nested decision rules](https://mlu-explain.github.io/decision-tree/)** (⬆️ 138)
-3. **[We do not think Anthropic should be designated as a supply chain risk](https://twitter.com/OpenAI/status/2027846016423321831)** (⬆️ 596)
+1. **[How to talk to anyone, and why you should](https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should)** (⬆️ 435)
+2. **[WebMCP is available for early preview](https://developer.chrome.com/blog/webmcp-epp)** (⬆️ 120)
+3. **[Tove Jansson's criticized illustrations of The Hobbit](https://tovejansson.com/hobbit-tolkien/)** (⬆️ 79)
 <!-- AUTO-UPDATE-END -->
