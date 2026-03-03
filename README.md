@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-03-03 02:08 UTC_
+_Last updated: 2026-03-03 12:58 UTC_
 
 ### 🔬 Latest AI Research
-**[Curvature-Weighted Capacity Allocation: A Minimum Description Length Framework for Layer-Adaptive Large Language Model Optimization](http://arxiv.org/abs/2603.00910v1)**  
-_Layer-wise capacity in large language models is highly non-uniform: some layers contribute disproportionately to loss reduction while others are near-redundant. Existing methods for exploiting this no..._
+**[Partial Causal Structure Learning for Valid Selective Conformal Inference under Interventions](http://arxiv.org/abs/2603.02204v1)**  
+_Selective conformal prediction can yield substantially tighter uncertainty sets when we can identify calibration examples that are exchangeable with the test example. In interventional settings, such ..._
 
 ### 💻 Trending Tech
-1. **[The workers behind Meta’s smart glasses can see everything](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)** (⬆️ 532)
-2. **[Seed of Might Color Correction Process (2023) [pdf]](https://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf)** (⬆️ 66)
-3. **[Closure of the Weatheradio Service in Canada](https://www.rac.ca/rac-responds-to-the-closure-of-the-weatherradio-service-in-canada/)** (⬆️ 61)
+1. **[The beauty and terror of modding Windows](https://windowsread.me/p/windhawk-explained)** (⬆️ 45)
+2. **[The Xkcd thing, now interactive](https://editor.p5js.org/isohedral/full/vJa5RiZWs)** (⬆️ 190)
+3. **[Meta’s AI smart glasses and data privacy concerns](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)** (⬆️ 1189)
 <!-- AUTO-UPDATE-END -->
