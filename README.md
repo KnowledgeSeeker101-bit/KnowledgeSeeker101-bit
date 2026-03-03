@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-03-02 12:59 UTC_
+_Last updated: 2026-03-03 02:08 UTC_
 
 ### 🔬 Latest AI Research
-**[Mode Seeking meets Mean Seeking for Fast Long Video Generation](http://arxiv.org/abs/2602.24289v1)**  
-_Scaling video generation from seconds to minutes faces a critical bottleneck: while short-video data is abundant and high-fidelity, coherent long-form data is scarce and limited to narrow domains. To ..._
+**[Curvature-Weighted Capacity Allocation: A Minimum Description Length Framework for Layer-Adaptive Large Language Model Optimization](http://arxiv.org/abs/2603.00910v1)**  
+_Layer-wise capacity in large language models is highly non-uniform: some layers contribute disproportionately to loss reduction while others are near-redundant. Existing methods for exploiting this no..._
 
 ### 💻 Trending Tech
-1. **[Motorola announces a partnership with GrapheneOS Foundation](https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/)** (⬆️ 883)
-2. **[/e/OS is a complete "deGoogled", mobile ecosystem](https://e.foundation/e-os/)** (⬆️ 263)
-3. **[Claude Code LSP](https://karanbansal.in/blog/claude-code-lsp/)** (⬆️ 51)
+1. **[The workers behind Meta’s smart glasses can see everything](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)** (⬆️ 532)
+2. **[Seed of Might Color Correction Process (2023) [pdf]](https://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf)** (⬆️ 66)
+3. **[Closure of the Weatheradio Service in Canada](https://www.rac.ca/rac-responds-to-the-closure-of-the-weatherradio-service-in-canada/)** (⬆️ 61)
 <!-- AUTO-UPDATE-END -->
