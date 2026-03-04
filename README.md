@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-03-04 02:02 UTC_
+_Last updated: 2026-03-04 12:57 UTC_
 
 ### 🔬 Latest AI Research
-**[Beyond Task Completion: Revealing Corrupt Success in LLM Agents through Procedure-Aware Evaluation](http://arxiv.org/abs/2603.03116v1)**  
-_Large Language Model (LLM)-based agents are increasingly adopted in high-stakes settings, but current benchmarks evaluate mainly whether a task was completed, not how. We introduce Procedure-Aware Eva..._
+**[CFG-Ctrl: Control-Based Classifier-Free Diffusion Guidance](http://arxiv.org/abs/2603.03281v1)**  
+_Classifier-Free Guidance (CFG) has emerged as a central approach for enhancing semantic alignment in flow-based diffusion models. In this paper, we explore a unified framework called CFG-Ctrl, which r..._
 
 ### 💻 Trending Tech
-1. **[MacBook Pro with M5 Pro and M5 Max](https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/)** (⬆️ 666)
-2. **[Lenovo's New ThinkPads Score 10/10 for Repairability](https://www.ifixit.com/News/115827/new-thinkpads-score-perfect-10-repairability)** (⬆️ 178)
-3. **[Voxile: A ray-traced game made in its own engine and programming language](https://elbowgreasegames.substack.com/p/voxray-games-pushes-major-update)** (⬆️ 102)
+1. **[Motorola GrapheneOS devices will be bootloader unlockable/relockable](https://grapheneos.social/@GrapheneOS/116160393783585567)** (⬆️ 870)
+2. **[RFC 9849. TLS Encrypted Client Hello](https://www.rfc-editor.org/rfc/rfc9849.html)** (⬆️ 128)
+3. **[Agentic Engineering Patterns](https://simonwillison.net/guides/agentic-engineering-patterns/)** (⬆️ 228)
 <!-- AUTO-UPDATE-END -->
