@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-03-03 12:58 UTC_
+_Last updated: 2026-03-04 02:02 UTC_
 
 ### 🔬 Latest AI Research
-**[Partial Causal Structure Learning for Valid Selective Conformal Inference under Interventions](http://arxiv.org/abs/2603.02204v1)**  
-_Selective conformal prediction can yield substantially tighter uncertainty sets when we can identify calibration examples that are exchangeable with the test example. In interventional settings, such ..._
+**[Beyond Task Completion: Revealing Corrupt Success in LLM Agents through Procedure-Aware Evaluation](http://arxiv.org/abs/2603.03116v1)**  
+_Large Language Model (LLM)-based agents are increasingly adopted in high-stakes settings, but current benchmarks evaluate mainly whether a task was completed, not how. We introduce Procedure-Aware Eva..._
 
 ### 💻 Trending Tech
-1. **[The beauty and terror of modding Windows](https://windowsread.me/p/windhawk-explained)** (⬆️ 45)
-2. **[The Xkcd thing, now interactive](https://editor.p5js.org/isohedral/full/vJa5RiZWs)** (⬆️ 190)
-3. **[Meta’s AI smart glasses and data privacy concerns](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)** (⬆️ 1189)
+1. **[MacBook Pro with M5 Pro and M5 Max](https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/)** (⬆️ 666)
+2. **[Lenovo's New ThinkPads Score 10/10 for Repairability](https://www.ifixit.com/News/115827/new-thinkpads-score-perfect-10-repairability)** (⬆️ 178)
+3. **[Voxile: A ray-traced game made in its own engine and programming language](https://elbowgreasegames.substack.com/p/voxray-games-pushes-major-update)** (⬆️ 102)
 <!-- AUTO-UPDATE-END -->
