@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-03-04 12:57 UTC_
+_Last updated: 2026-03-05 02:06 UTC_
 
 ### 🔬 Latest AI Research
-**[CFG-Ctrl: Control-Based Classifier-Free Diffusion Guidance](http://arxiv.org/abs/2603.03281v1)**  
-_Classifier-Free Guidance (CFG) has emerged as a central approach for enhancing semantic alignment in flow-based diffusion models. In this paper, we explore a unified framework called CFG-Ctrl, which r..._
+**[Reducing hyperparameter sensitivity in measurement-feedback based Ising machines](http://arxiv.org/abs/2603.04093v1)**  
+_Analog Ising machines have been proposed as heuristic hardware solvers for combinatorial optimization problems, with the potential to outperform conventional approaches, provided that their hyperparam..._
 
 ### 💻 Trending Tech
-1. **[Motorola GrapheneOS devices will be bootloader unlockable/relockable](https://grapheneos.social/@GrapheneOS/116160393783585567)** (⬆️ 870)
-2. **[RFC 9849. TLS Encrypted Client Hello](https://www.rfc-editor.org/rfc/rfc9849.html)** (⬆️ 128)
-3. **[Agentic Engineering Patterns](https://simonwillison.net/guides/agentic-engineering-patterns/)** (⬆️ 228)
+1. **[MacBook Neo](https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/)** (⬆️ 1559)
+2. **[Building a new Flash](https://bill.newgrounds.com/news/post/1607118)** (⬆️ 318)
+3. **[Googleworkspace/CLI](https://github.com/googleworkspace/cli)** (⬆️ 45)
 <!-- AUTO-UPDATE-END -->
