@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-03-05 02:06 UTC_
+_Last updated: 2026-03-05 13:01 UTC_
 
 ### 🔬 Latest AI Research
-**[Reducing hyperparameter sensitivity in measurement-feedback based Ising machines](http://arxiv.org/abs/2603.04093v1)**  
-_Analog Ising machines have been proposed as heuristic hardware solvers for combinatorial optimization problems, with the potential to outperform conventional approaches, provided that their hyperparam..._
+**[SimpliHuMoN: Simplifying Human Motion Prediction](http://arxiv.org/abs/2603.04399v1)**  
+_Human motion prediction combines the tasks of trajectory forecasting and human pose prediction. For each of the two tasks, specialized models have been developed. Combining these models for holistic h..._
 
 ### 💻 Trending Tech
-1. **[MacBook Neo](https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/)** (⬆️ 1559)
-2. **[Building a new Flash](https://bill.newgrounds.com/news/post/1607118)** (⬆️ 318)
-3. **[Googleworkspace/CLI](https://github.com/googleworkspace/cli)** (⬆️ 45)
+1. **[Nvidia PersonaPlex 7B on Apple Silicon: Full-Duplex Speech-to-Speech in Swift](https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23)** (⬆️ 172)
+2. **[Google Workspace CLI](https://github.com/googleworkspace/cli)** (⬆️ 675)
+3. **[The L in "LLM" Stands for Lying](https://acko.net/blog/the-l-in-llm-stands-for-lying/)** (⬆️ 301)
 <!-- AUTO-UPDATE-END -->
