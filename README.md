@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-03-05 13:01 UTC_
+_Last updated: 2026-03-06 12:56 UTC_
 
 ### 🔬 Latest AI Research
-**[SimpliHuMoN: Simplifying Human Motion Prediction](http://arxiv.org/abs/2603.04399v1)**  
-_Human motion prediction combines the tasks of trajectory forecasting and human pose prediction. For each of the two tasks, specialized models have been developed. Combining these models for holistic h..._
+**[RoboPocket: Improve Robot Policies Instantly with Your Phone](http://arxiv.org/abs/2603.05504v1)**  
+_Scaling imitation learning is fundamentally constrained by the efficiency of data collection. While handheld interfaces have emerged as a scalable solution for in-the-wild data acquisition, they predo..._
 
 ### 💻 Trending Tech
-1. **[Nvidia PersonaPlex 7B on Apple Silicon: Full-Duplex Speech-to-Speech in Swift](https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23)** (⬆️ 172)
-2. **[Google Workspace CLI](https://github.com/googleworkspace/cli)** (⬆️ 675)
-3. **[The L in "LLM" Stands for Lying](https://acko.net/blog/the-l-in-llm-stands-for-lying/)** (⬆️ 301)
+1. **[LibreSprite – open-source pixel art editor](https://libresprite.github.io/)** (⬆️ 71)
+2. **[System76 on Age Verification Laws](https://blog.system76.com/post/system76-on-age-verification/)** (⬆️ 499)
+3. **[GPL upgrades via section 14 proxy delegation](https://runxiyu.org/comp/gplproxy/)** (⬆️ 67)
 <!-- AUTO-UPDATE-END -->
