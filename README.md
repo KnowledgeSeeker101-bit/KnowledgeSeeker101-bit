@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-03-06 12:56 UTC_
+_Last updated: 2026-03-07 01:58 UTC_
 
 ### 🔬 Latest AI Research
 **[RoboPocket: Improve Robot Policies Instantly with Your Phone](http://arxiv.org/abs/2603.05504v1)**  
 _Scaling imitation learning is fundamentally constrained by the efficiency of data collection. While handheld interfaces have emerged as a scalable solution for in-the-wild data acquisition, they predo..._
 
 ### 💻 Trending Tech
-1. **[LibreSprite – open-source pixel art editor](https://libresprite.github.io/)** (⬆️ 71)
-2. **[System76 on Age Verification Laws](https://blog.system76.com/post/system76-on-age-verification/)** (⬆️ 499)
-3. **[GPL upgrades via section 14 proxy delegation](https://runxiyu.org/comp/gplproxy/)** (⬆️ 67)
+1. **[Plasma Bigscreen – 10-foot interface for KDE plasma](https://plasma-bigscreen.org)** (⬆️ 133)
+2. **[this css proves me human](https://will-keleher.com/posts/this-css-makes-me-human/)** (⬆️ 158)
+3. **[C# strings silently kill your SQL Server indexes in Dapper](https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap)** (⬆️ 50)
 <!-- AUTO-UPDATE-END -->
