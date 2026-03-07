@@ -109,14 +109,13 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-03-07 01:58 UTC_
+_Last updated: 2026-03-07 12:48 UTC_
 
 ### 🔬 Latest AI Research
 **[RoboPocket: Improve Robot Policies Instantly with Your Phone](http://arxiv.org/abs/2603.05504v1)**  
 _Scaling imitation learning is fundamentally constrained by the efficiency of data collection. While handheld interfaces have emerged as a scalable solution for in-the-wild data acquisition, they predo..._
 
 ### 💻 Trending Tech
-1. **[Plasma Bigscreen – 10-foot interface for KDE plasma](https://plasma-bigscreen.org)** (⬆️ 133)
-2. **[this css proves me human](https://will-keleher.com/posts/this-css-makes-me-human/)** (⬆️ 158)
-3. **[C# strings silently kill your SQL Server indexes in Dapper](https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap)** (⬆️ 50)
+1. **[Ki Editor - an editor that operates on the AST](https://ki-editor.org/)** (⬆️ 37)
+2. **[Plasma Bigscreen – 10-foot interface for KDE plasma](https://plasma-bigscreen.org)** (⬆️ 485)
 <!-- AUTO-UPDATE-END -->
