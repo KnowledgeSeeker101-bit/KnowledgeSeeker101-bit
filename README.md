@@ -109,13 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-03-07 12:48 UTC_
+_Last updated: 2026-03-08 02:07 UTC_
 
 ### 🔬 Latest AI Research
 **[RoboPocket: Improve Robot Policies Instantly with Your Phone](http://arxiv.org/abs/2603.05504v1)**  
 _Scaling imitation learning is fundamentally constrained by the efficiency of data collection. While handheld interfaces have emerged as a scalable solution for in-the-wild data acquisition, they predo..._
 
 ### 💻 Trending Tech
-1. **[Ki Editor - an editor that operates on the AST](https://ki-editor.org/)** (⬆️ 37)
-2. **[Plasma Bigscreen – 10-foot interface for KDE plasma](https://plasma-bigscreen.org)** (⬆️ 485)
+1. **[Cloud VM benchmarks 2026: performance/price for 44 VM types over 7 providers](https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html)** (⬆️ 43)
+2. **[CasNum](https://github.com/0x0mer/CasNum)** (⬆️ 191)
+3. **[Science Fiction Is Dying. Long Live Post Sci-Fi?](https://www.typebarmagazine.com/science-fiction-is-dying-long-live-post-sci-fi/)** (⬆️ 25)
 <!-- AUTO-UPDATE-END -->
