@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-03-09 02:09 UTC_
+_Last updated: 2026-03-09 13:04 UTC_
 
 ### 🔬 Latest AI Research
 **[BEVLM: Distilling Semantic Knowledge from LLMs into Bird's-Eye View Representations](http://arxiv.org/abs/2603.06576v1)**  
 _The integration of Large Language Models (LLMs) into autonomous driving has attracted growing interest for their strong reasoning and semantic understanding abilities, which are essential for handling..._
 
 ### 💻 Trending Tech
-1. **[Agent Safehouse – macOS-native sandboxing for local agents](https://agent-safehouse.dev/)** (⬆️ 325)
-2. **[Microscopes can see video on a laserdisc](https://www.youtube.com/watch?v=qZuR-772cks)** (⬆️ 240)
-3. **[PCB devboard the size of a USB-C plug](https://github.com/Dieu-de-l-elec/AngstromIO-devboard)** (⬆️ 55)
+1. **[US Court of Appeals: TOS may be updated by email, use can imply consent [pdf]](https://cdn.ca9.uscourts.gov/datastore/memoranda/2026/03/03/25-403.pdf)** (⬆️ 279)
+2. **[Fontcrafter: Turn Your Handwriting into a Real Font](https://arcade.pirillo.com/fontcrafter.html)** (⬆️ 114)
+3. **[Ireland shuts last coal plant, becomes 15th coal-free country in Europe (2025)](https://www.pv-magazine.com/2025/06/20/ireland-coal-free-ends-coal-power-generation-moneypoint/)** (⬆️ 209)
 <!-- AUTO-UPDATE-END -->
