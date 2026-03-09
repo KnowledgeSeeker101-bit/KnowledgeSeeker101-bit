@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-03-08 12:50 UTC_
+_Last updated: 2026-03-09 02:09 UTC_
 
 ### 🔬 Latest AI Research
-**[RoboPocket: Improve Robot Policies Instantly with Your Phone](http://arxiv.org/abs/2603.05504v1)**  
-_Scaling imitation learning is fundamentally constrained by the efficiency of data collection. While handheld interfaces have emerged as a scalable solution for in-the-wild data acquisition, they predo..._
+**[BEVLM: Distilling Semantic Knowledge from LLMs into Bird's-Eye View Representations](http://arxiv.org/abs/2603.06576v1)**  
+_The integration of Large Language Models (LLMs) into autonomous driving has attracted growing interest for their strong reasoning and semantic understanding abilities, which are essential for handling..._
 
 ### 💻 Trending Tech
-1. **[SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI](https://arxiv.org/abs/2603.03823)** (⬆️ 69)
-2. **[Notes on Writing WASM](https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm)** (⬆️ 40)
-3. **[The Collective Ambition Behind Odysseus, a Game-Changing Sci-Fi Larp](https://mssv.net/2025/03/19/the-collective-ambition-behind-odysseus/)** (⬆️ 26)
+1. **[Agent Safehouse – macOS-native sandboxing for local agents](https://agent-safehouse.dev/)** (⬆️ 325)
+2. **[Microscopes can see video on a laserdisc](https://www.youtube.com/watch?v=qZuR-772cks)** (⬆️ 240)
+3. **[PCB devboard the size of a USB-C plug](https://github.com/Dieu-de-l-elec/AngstromIO-devboard)** (⬆️ 55)
 <!-- AUTO-UPDATE-END -->
