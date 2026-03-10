@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-03-09 13:04 UTC_
+_Last updated: 2026-03-10 02:01 UTC_
 
 ### 🔬 Latest AI Research
-**[BEVLM: Distilling Semantic Knowledge from LLMs into Bird's-Eye View Representations](http://arxiv.org/abs/2603.06576v1)**  
-_The integration of Large Language Models (LLMs) into autonomous driving has attracted growing interest for their strong reasoning and semantic understanding abilities, which are essential for handling..._
+**[Revisiting Gradient Staleness: Evaluating Distance Metrics for Asynchronous Federated Learning Aggregation](http://arxiv.org/abs/2603.08211v1)**  
+_In asynchronous federated learning (FL), client devices send updates to a central server at varying times based on their computational speed, often using stale versions of the global model. This stale..._
 
 ### 💻 Trending Tech
-1. **[US Court of Appeals: TOS may be updated by email, use can imply consent [pdf]](https://cdn.ca9.uscourts.gov/datastore/memoranda/2026/03/03/25-403.pdf)** (⬆️ 279)
-2. **[Fontcrafter: Turn Your Handwriting into a Real Font](https://arcade.pirillo.com/fontcrafter.html)** (⬆️ 114)
-3. **[Ireland shuts last coal plant, becomes 15th coal-free country in Europe (2025)](https://www.pv-magazine.com/2025/06/20/ireland-coal-free-ends-coal-power-generation-moneypoint/)** (⬆️ 209)
+1. **[Two Years of Emacs Solo: 35 Modules, Zero External Packages, and a Full Refactor](https://www.rahuljuliato.com/posts/emacs-solo-two-years)** (⬆️ 67)
+2. **[It looks like the “JVG algorithm” only wins on tiny numbers](https://scottaaronson.blog/?p=9615)** (⬆️ 22)
+3. **[Building a Procedural Hex Map with Wave Function Collapse](https://felixturner.github.io/hex-map-wfc/article/)** (⬆️ 391)
 <!-- AUTO-UPDATE-END -->
