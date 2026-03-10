@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-03-10 02:01 UTC_
+_Last updated: 2026-03-10 13:01 UTC_
 
 ### 🔬 Latest AI Research
-**[Revisiting Gradient Staleness: Evaluating Distance Metrics for Asynchronous Federated Learning Aggregation](http://arxiv.org/abs/2603.08211v1)**  
-_In asynchronous federated learning (FL), client devices send updates to a central server at varying times based on their computational speed, often using stale versions of the global model. This stale..._
+**[Scale Space Diffusion](http://arxiv.org/abs/2603.08709v1)**  
+_Diffusion models degrade images through noise, and reversing this process reveals an information hierarchy across timesteps. Scale-space theory exhibits a similar hierarchy via low-pass filtering. We ..._
 
 ### 💻 Trending Tech
-1. **[Two Years of Emacs Solo: 35 Modules, Zero External Packages, and a Full Refactor](https://www.rahuljuliato.com/posts/emacs-solo-two-years)** (⬆️ 67)
-2. **[It looks like the “JVG algorithm” only wins on tiny numbers](https://scottaaronson.blog/?p=9615)** (⬆️ 22)
-3. **[Building a Procedural Hex Map with Wave Function Collapse](https://felixturner.github.io/hex-map-wfc/article/)** (⬆️ 391)
+1. **[I put my whole life into a single database](https://howisfelix.today/)** (⬆️ 139)
+2. **[Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy](https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md)** (⬆️ 219)
+3. **[FreeBSD 14.4-Release Announcement](https://www.freebsd.org/releases/14.4R/announce/)** (⬆️ 30)
 <!-- AUTO-UPDATE-END -->
