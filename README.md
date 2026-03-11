@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-03-10 13:01 UTC_
+_Last updated: 2026-03-11 02:01 UTC_
 
 ### 🔬 Latest AI Research
-**[Scale Space Diffusion](http://arxiv.org/abs/2603.08709v1)**  
-_Diffusion models degrade images through noise, and reversing this process reveals an information hierarchy across timesteps. Scale-space theory exhibits a similar hierarchy via low-pass filtering. We ..._
+**[Task Aware Modulation Using Representation Learning for Upsaling of Terrestrial Carbon Fluxes](http://arxiv.org/abs/2603.09974v1)**  
+_Accurately upscaling terrestrial carbon fluxes is central to estimating the global carbon budget, yet remains challenging due to the sparse and regionally biased distribution of ground measurements. E..._
 
 ### 💻 Trending Tech
-1. **[I put my whole life into a single database](https://howisfelix.today/)** (⬆️ 139)
-2. **[Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy](https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md)** (⬆️ 219)
-3. **[FreeBSD 14.4-Release Announcement](https://www.freebsd.org/releases/14.4R/announce/)** (⬆️ 30)
+1. **[Tony Hoare has died](https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html)** (⬆️ 1505)
+2. **[U+237C ⍼ Is Azimuth](https://ionathan.ch/2026/02/16/angzarr.html)** (⬆️ 135)
+3. **[Cloudflare crawl endpoint](https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/)** (⬆️ 121)
 <!-- AUTO-UPDATE-END -->
