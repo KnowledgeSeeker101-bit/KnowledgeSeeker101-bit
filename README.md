@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-03-11 02:01 UTC_
+_Last updated: 2026-03-12 02:07 UTC_
 
 ### 🔬 Latest AI Research
-**[Task Aware Modulation Using Representation Learning for Upsaling of Terrestrial Carbon Fluxes](http://arxiv.org/abs/2603.09974v1)**  
-_Accurately upscaling terrestrial carbon fluxes is central to estimating the global carbon budget, yet remains challenging due to the sparse and regionally biased distribution of ground measurements. E..._
+**[COMIC: Agentic Sketch Comedy Generation](http://arxiv.org/abs/2603.11048v1)**  
+_We propose a fully automated AI system that produces short comedic videos similar to sketch shows such as Saturday Night Live. Starting with character references, the system employs a population of ag..._
 
 ### 💻 Trending Tech
-1. **[Tony Hoare has died](https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html)** (⬆️ 1505)
-2. **[U+237C ⍼ Is Azimuth](https://ionathan.ch/2026/02/16/angzarr.html)** (⬆️ 135)
-3. **[Cloudflare crawl endpoint](https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/)** (⬆️ 121)
+1. **[Temporal: A nine-year journey to fix time in JavaScript](https://bloomberg.github.io/js-blog/post/temporal/)** (⬆️ 525)
+2. **[Many SWE-bench-Passing PRs would not be merged](https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/)** (⬆️ 140)
+3. **[Don't post generated/AI-edited comments. HN is for conversation between humans.](https://news.ycombinator.com/newsguidelines.html#generated)** (⬆️ 2798)
 <!-- AUTO-UPDATE-END -->
