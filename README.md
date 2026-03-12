@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-03-12 02:07 UTC_
+_Last updated: 2026-03-12 13:00 UTC_
 
 ### 🔬 Latest AI Research
 **[COMIC: Agentic Sketch Comedy Generation](http://arxiv.org/abs/2603.11048v1)**  
 _We propose a fully automated AI system that produces short comedic videos similar to sketch shows such as Saturday Night Live. Starting with character references, the system employs a population of ag..._
 
 ### 💻 Trending Tech
-1. **[Temporal: A nine-year journey to fix time in JavaScript](https://bloomberg.github.io/js-blog/post/temporal/)** (⬆️ 525)
-2. **[Many SWE-bench-Passing PRs would not be merged](https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/)** (⬆️ 140)
-3. **[Don't post generated/AI-edited comments. HN is for conversation between humans.](https://news.ycombinator.com/newsguidelines.html#generated)** (⬆️ 2798)
+1. **[Big Data on the Cheapest MacBook](https://duckdb.org/2026/03/11/big-data-on-the-cheapest-macbook)** (⬆️ 67)
+2. **[Dolphin Progress Release 2603](https://dolphin-emu.org/blog/2026/03/12/dolphin-progress-report-release-2603/)** (⬆️ 86)
+3. **[3D-Knitting: The Ultimate Guide](https://www.oliver-charles.com/pages/3d-knitting)** (⬆️ 120)
 <!-- AUTO-UPDATE-END -->
