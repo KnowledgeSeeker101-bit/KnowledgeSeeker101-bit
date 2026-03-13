@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-03-12 13:00 UTC_
+_Last updated: 2026-03-13 02:05 UTC_
 
 ### 🔬 Latest AI Research
-**[COMIC: Agentic Sketch Comedy Generation](http://arxiv.org/abs/2603.11048v1)**  
-_We propose a fully automated AI system that produces short comedic videos similar to sketch shows such as Saturday Night Live. Starting with character references, the system employs a population of ag..._
+**[The Latent Color Subspace: Emergent Order in High-Dimensional Chaos](http://arxiv.org/abs/2603.12261v1)**  
+_Text-to-image generation models have advanced rapidly, yet achieving fine-grained control over generated images remains difficult, largely due to limited understanding of how semantic information is e..._
 
 ### 💻 Trending Tech
-1. **[Big Data on the Cheapest MacBook](https://duckdb.org/2026/03/11/big-data-on-the-cheapest-macbook)** (⬆️ 67)
-2. **[Dolphin Progress Release 2603](https://dolphin-emu.org/blog/2026/03/12/dolphin-progress-report-release-2603/)** (⬆️ 86)
-3. **[3D-Knitting: The Ultimate Guide](https://www.oliver-charles.com/pages/3d-knitting)** (⬆️ 120)
+1. **[Shall I implement it? No](https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0)** (⬆️ 826)
+2. **[Malus – Clean Room as a Service](https://malus.sh)** (⬆️ 1042)
+3. **[Bubble Sorted Amen Break](https://parametricavocado.itch.io/amen-sorting)** (⬆️ 261)
 <!-- AUTO-UPDATE-END -->
