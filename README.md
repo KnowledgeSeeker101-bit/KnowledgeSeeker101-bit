@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-03-14 02:02 UTC_
+_Last updated: 2026-03-14 12:52 UTC_
 
 ### 🔬 Latest AI Research
 **[The Latent Color Subspace: Emergent Order in High-Dimensional Chaos](http://arxiv.org/abs/2603.12261v1)**  
 _Text-to-image generation models have advanced rapidly, yet achieving fine-grained control over generated images remains difficult, largely due to limited understanding of how semantic information is e..._
 
 ### 💻 Trending Tech
-1. **[1M context is now generally available for Opus 4.6 and Sonnet 4.6](https://claude.com/blog/1m-context-ga)** (⬆️ 226)
-2. **[I Found 39 Algolia Admin Keys Exposed Across Open Source Documentation Sites](https://benzimmermann.dev/blog/algolia-docsearch-admin-keys)** (⬆️ 76)
-3. **[An investigation of the forces behind the age-verification bills](https://lwn.net/Articles/1062779/)** (⬆️ 17)
+1. **[XML Is a Cheap DSL](https://unplannedobsolescence.com/blog/xml-cheap-dsl/)** (⬆️ 25)
+2. **[1M context is now generally available for Opus 4.6 and Sonnet 4.6](https://claude.com/blog/1m-context-ga)** (⬆️ 822)
+3. **[Claude Code conducts A/B tests on core features](https://backnotprop.com/blog/do-not-ab-test-my-workflow/)** (⬆️ 92)
 <!-- AUTO-UPDATE-END -->
