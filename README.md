@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-03-13 12:59 UTC_
+_Last updated: 2026-03-14 02:02 UTC_
 
 ### 🔬 Latest AI Research
 **[The Latent Color Subspace: Emergent Order in High-Dimensional Chaos](http://arxiv.org/abs/2603.12261v1)**  
 _Text-to-image generation models have advanced rapidly, yet achieving fine-grained control over generated images remains difficult, largely due to limited understanding of how semantic information is e..._
 
 ### 💻 Trending Tech
-1. **[Bucketsquatting is (finally) dead](https://onecloudplease.com/blog/bucketsquatting-is-finally-dead)** (⬆️ 154)
-2. **[I traced $2B in grants and 45 states' lobbying behind age‑verification bills](https://old.reddit.com/r/linux/comments/1rshc1f/i_traced_2_billion_in_nonprofit_grants_and_45/)** (⬆️ 313)
-3. **[Prompt-caching – auto-injects Anthropic cache breakpoints (90% token savings)](https://prompt-caching.ai/)** (⬆️ 29)
+1. **[1M context is now generally available for Opus 4.6 and Sonnet 4.6](https://claude.com/blog/1m-context-ga)** (⬆️ 226)
+2. **[I Found 39 Algolia Admin Keys Exposed Across Open Source Documentation Sites](https://benzimmermann.dev/blog/algolia-docsearch-admin-keys)** (⬆️ 76)
+3. **[An investigation of the forces behind the age-verification bills](https://lwn.net/Articles/1062779/)** (⬆️ 17)
 <!-- AUTO-UPDATE-END -->
