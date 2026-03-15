@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-03-14 12:52 UTC_
+_Last updated: 2026-03-15 02:27 UTC_
 
 ### 🔬 Latest AI Research
 **[The Latent Color Subspace: Emergent Order in High-Dimensional Chaos](http://arxiv.org/abs/2603.12261v1)**  
 _Text-to-image generation models have advanced rapidly, yet achieving fine-grained control over generated images remains difficult, largely due to limited understanding of how semantic information is e..._
 
 ### 💻 Trending Tech
-1. **[XML Is a Cheap DSL](https://unplannedobsolescence.com/blog/xml-cheap-dsl/)** (⬆️ 25)
-2. **[1M context is now generally available for Opus 4.6 and Sonnet 4.6](https://claude.com/blog/1m-context-ga)** (⬆️ 822)
-3. **[Claude Code conducts A/B tests on core features](https://backnotprop.com/blog/do-not-ab-test-my-workflow/)** (⬆️ 92)
+1. **[Ageless Linux – Software for humans of indeterminate age](https://agelesslinux.org/)** (⬆️ 323)
+2. **[Airbus is preparing two uncrewed combat aircraft](https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european)** (⬆️ 61)
+3. **[Federal Surveillance Tech Becomes Mandatory in New Cars by 2027](https://www.gadgetreview.com/federal-surveillance-tech-becomes-mandatory-in-new-cars-by-2027)** (⬆️ 58)
 <!-- AUTO-UPDATE-END -->
