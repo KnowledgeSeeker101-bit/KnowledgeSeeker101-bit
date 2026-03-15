@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-03-15 02:27 UTC_
+_Last updated: 2026-03-15 12:53 UTC_
 
 ### 🔬 Latest AI Research
 **[The Latent Color Subspace: Emergent Order in High-Dimensional Chaos](http://arxiv.org/abs/2603.12261v1)**  
 _Text-to-image generation models have advanced rapidly, yet achieving fine-grained control over generated images remains difficult, largely due to limited understanding of how semantic information is e..._
 
 ### 💻 Trending Tech
-1. **[Ageless Linux – Software for humans of indeterminate age](https://agelesslinux.org/)** (⬆️ 323)
-2. **[Airbus is preparing two uncrewed combat aircraft](https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european)** (⬆️ 61)
-3. **[Federal Surveillance Tech Becomes Mandatory in New Cars by 2027](https://www.gadgetreview.com/federal-surveillance-tech-becomes-mandatory-in-new-cars-by-2027)** (⬆️ 58)
+1. **[$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket)** (⬆️ 132)
+2. **[A Visual Introduction to Machine Learning](https://r2d3.us/visual-intro-to-machine-learning-part-1/)** (⬆️ 81)
+3. **[Generating All 32-Bit Primes (Part I)](https://hnlyman.github.io/pages/prime32_I.html)** (⬆️ 17)
 <!-- AUTO-UPDATE-END -->
