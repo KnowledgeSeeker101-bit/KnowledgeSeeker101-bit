@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-03-15 12:53 UTC_
+_Last updated: 2026-03-16 02:28 UTC_
 
 ### 🔬 Latest AI Research
-**[The Latent Color Subspace: Emergent Order in High-Dimensional Chaos](http://arxiv.org/abs/2603.12261v1)**  
-_Text-to-image generation models have advanced rapidly, yet achieving fine-grained control over generated images remains difficult, largely due to limited understanding of how semantic information is e..._
+**[PhysMoDPO: Physically-Plausible Humanoid Motion with Preference Optimization](http://arxiv.org/abs/2603.13228v1)**  
+_Recent progress in text-conditioned human motion generation has been largely driven by diffusion models trained on large-scale human motion data. Building on this progress, recent methods attempt to t..._
 
 ### 💻 Trending Tech
-1. **[$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket)** (⬆️ 132)
-2. **[A Visual Introduction to Machine Learning](https://r2d3.us/visual-intro-to-machine-learning-part-1/)** (⬆️ 81)
-3. **[Generating All 32-Bit Primes (Part I)](https://hnlyman.github.io/pages/prime32_I.html)** (⬆️ 17)
+1. **[Canada's bill C-22 mandates mass metadata surveillance of Canadians](https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/)** (⬆️ 370)
+2. **[Chrome DevTools MCP](https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session)** (⬆️ 357)
+3. **[The 49MB web page](https://thatshubham.com/blog/news-audit)** (⬆️ 322)
 <!-- AUTO-UPDATE-END -->
