@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-03-16 02:28 UTC_
+_Last updated: 2026-03-16 13:13 UTC_
 
 ### 🔬 Latest AI Research
 **[PhysMoDPO: Physically-Plausible Humanoid Motion with Preference Optimization](http://arxiv.org/abs/2603.13228v1)**  
 _Recent progress in text-conditioned human motion generation has been largely driven by diffusion models trained on large-scale human motion data. Building on this progress, recent methods attempt to t..._
 
 ### 💻 Trending Tech
-1. **[Canada's bill C-22 mandates mass metadata surveillance of Canadians](https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/)** (⬆️ 370)
-2. **[Chrome DevTools MCP](https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session)** (⬆️ 357)
-3. **[The 49MB web page](https://thatshubham.com/blog/news-audit)** (⬆️ 322)
+1. **[Corruption erodes social trust more in democracies than in autocracies](https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1779810/full)** (⬆️ 93)
+2. **[Polymarket gamblers threaten to kill me over Iran missile story](https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/)** (⬆️ 239)
+3. **[Canada's bill C-22 mandates mass metadata surveillance](https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/)** (⬆️ 812)
 <!-- AUTO-UPDATE-END -->
