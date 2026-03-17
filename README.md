@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-03-17 02:07 UTC_
+_Last updated: 2026-03-17 13:12 UTC_
 
 ### 🔬 Latest AI Research
-**[Lightweight User-Personalization Method for Closed Split Computing](http://arxiv.org/abs/2603.14958v1)**  
-_Split Computing enables collaborative inference between edge devices and the cloud by partitioning a deep neural network into an edge-side head and a server-side tail, reducing latency and limiting ex..._
+**[Mixture-of-Depths Attention](http://arxiv.org/abs/2603.15619v1)**  
+_Scaling depth is a key driver for large language models (LLMs). Yet, as LLMs become deeper, they often suffer from signal degradation: informative features formed in shallow layers are gradually dilut..._
 
 ### 💻 Trending Tech
-1. **[US SEC preparing to scrap quarterly reporting requirement](https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/)** (⬆️ 252)
-2. **[Leanstral: Open-source agent for trustworthy coding and formal proof engineering](https://mistral.ai/news/leanstral)** (⬆️ 306)
-3. **[Meta’s renewed commitment to jemalloc](https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/)** (⬆️ 343)
+1. **[Kagi Small Web](https://kagi.com/smallweb/)** (⬆️ 290)
+2. **[Kagi Translate now supports LinkedIn Speak as an output language](https://translate.kagi.com/?from=en&to=LinkedIn+speak)** (⬆️ 853)
+3. **[Reddit User Uncovers Who Is Behind Meta's $2B Lobbying for Age Verification Tech](https://www.gadgetreview.com/reddit-user-uncovers-who-is-behind-metas-2b-lobbying-for-invasive-age-verification-tech)** (⬆️ 337)
 <!-- AUTO-UPDATE-END -->
