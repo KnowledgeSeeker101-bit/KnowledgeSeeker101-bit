@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-03-18 02:11 UTC_
+_Last updated: 2026-03-18 13:13 UTC_
 
 ### 🔬 Latest AI Research
 **[Demystifing Video Reasoning](http://arxiv.org/abs/2603.16870v1)**  
 _Recent advances in video generation have revealed an unexpected phenomenon: diffusion-based video models exhibit non-trivial reasoning capabilities. Prior work attributes this to a Chain-of-Frames (Co..._
 
 ### 💻 Trending Tech
-1. **[A Decade of Slug](https://terathon.com/blog/decade-slug.html)** (⬆️ 425)
-2. **[Python 3.15's JIT is now back on track](https://fidget-spinner.github.io/posts/jit-on-track.html)** (⬆️ 271)
-3. **[Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'](https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level)** (⬆️ 546)
+1. **[Rob Pike's 5 Rules of Programming](https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html)** (⬆️ 253)
+2. **[JPEG Compression](https://www.sophielwang.com/blog/jpeg)** (⬆️ 279)
+3. **[Nightingale – open-source karaoke app that works with any song on your computer](https://nightingale.cafe/)** (⬆️ 153)
 <!-- AUTO-UPDATE-END -->
