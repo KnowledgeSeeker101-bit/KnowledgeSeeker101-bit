@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-03-17 13:12 UTC_
+_Last updated: 2026-03-18 02:11 UTC_
 
 ### 🔬 Latest AI Research
-**[Mixture-of-Depths Attention](http://arxiv.org/abs/2603.15619v1)**  
-_Scaling depth is a key driver for large language models (LLMs). Yet, as LLMs become deeper, they often suffer from signal degradation: informative features formed in shallow layers are gradually dilut..._
+**[Demystifing Video Reasoning](http://arxiv.org/abs/2603.16870v1)**  
+_Recent advances in video generation have revealed an unexpected phenomenon: diffusion-based video models exhibit non-trivial reasoning capabilities. Prior work attributes this to a Chain-of-Frames (Co..._
 
 ### 💻 Trending Tech
-1. **[Kagi Small Web](https://kagi.com/smallweb/)** (⬆️ 290)
-2. **[Kagi Translate now supports LinkedIn Speak as an output language](https://translate.kagi.com/?from=en&to=LinkedIn+speak)** (⬆️ 853)
-3. **[Reddit User Uncovers Who Is Behind Meta's $2B Lobbying for Age Verification Tech](https://www.gadgetreview.com/reddit-user-uncovers-who-is-behind-metas-2b-lobbying-for-invasive-age-verification-tech)** (⬆️ 337)
+1. **[A Decade of Slug](https://terathon.com/blog/decade-slug.html)** (⬆️ 425)
+2. **[Python 3.15's JIT is now back on track](https://fidget-spinner.github.io/posts/jit-on-track.html)** (⬆️ 271)
+3. **[Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'](https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level)** (⬆️ 546)
 <!-- AUTO-UPDATE-END -->
