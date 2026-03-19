@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-03-19 02:12 UTC_
+_Last updated: 2026-03-19 13:05 UTC_
 
 ### 🔬 Latest AI Research
 **[Unified Spatio-Temporal Token Scoring for Efficient Video VLMs](http://arxiv.org/abs/2603.18004v1)**  
 _Token pruning is essential for enhancing the computational efficiency of vision-language models (VLMs), particularly for video-based tasks where temporal redundancy is prevalent. Prior approaches typi..._
 
 ### 💻 Trending Tech
-1. **[Austin’s surge of new housing construction drove down rents](https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents)** (⬆️ 244)
-2. **[Autoresearch for SAT Solvers](https://github.com/iliazintchenko/agent-sat)** (⬆️ 30)
-3. **[Warranty Void If Regenerated](https://nearzero.software/p/warranty-void-if-regenerated)** (⬆️ 199)
+1. **[Afroman found not liable in defamation case brought by Ohio cops who raided home](https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/)** (⬆️ 239)
+2. **[Conway's Game of Life, in real life](https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life)** (⬆️ 197)
+3. **[Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe](https://gitlab.com/IsolatedOctopi/nvidia_greenboost)** (⬆️ 388)
 <!-- AUTO-UPDATE-END -->
