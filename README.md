@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-03-18 13:13 UTC_
+_Last updated: 2026-03-19 02:12 UTC_
 
 ### 🔬 Latest AI Research
-**[Demystifing Video Reasoning](http://arxiv.org/abs/2603.16870v1)**  
-_Recent advances in video generation have revealed an unexpected phenomenon: diffusion-based video models exhibit non-trivial reasoning capabilities. Prior work attributes this to a Chain-of-Frames (Co..._
+**[Unified Spatio-Temporal Token Scoring for Efficient Video VLMs](http://arxiv.org/abs/2603.18004v1)**  
+_Token pruning is essential for enhancing the computational efficiency of vision-language models (VLMs), particularly for video-based tasks where temporal redundancy is prevalent. Prior approaches typi..._
 
 ### 💻 Trending Tech
-1. **[Rob Pike's 5 Rules of Programming](https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html)** (⬆️ 253)
-2. **[JPEG Compression](https://www.sophielwang.com/blog/jpeg)** (⬆️ 279)
-3. **[Nightingale – open-source karaoke app that works with any song on your computer](https://nightingale.cafe/)** (⬆️ 153)
+1. **[Austin’s surge of new housing construction drove down rents](https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents)** (⬆️ 244)
+2. **[Autoresearch for SAT Solvers](https://github.com/iliazintchenko/agent-sat)** (⬆️ 30)
+3. **[Warranty Void If Regenerated](https://nearzero.software/p/warranty-void-if-regenerated)** (⬆️ 199)
 <!-- AUTO-UPDATE-END -->
