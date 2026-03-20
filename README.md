@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-03-20 02:06 UTC_
+_Last updated: 2026-03-20 13:00 UTC_
 
 ### 🔬 Latest AI Research
 **[NavTrust: Benchmarking Trustworthiness for Embodied Navigation](http://arxiv.org/abs/2603.19229v1)**  
 _There are two major categories of embodied navigation: Vision-Language Navigation (VLN), where agents navigate by following natural language instructions; and Object-Goal Navigation (OGN), where agent..._
 
 ### 💻 Trending Tech
-1. **[Claude Code: Channels](https://code.claude.com/docs/en/channels)** (⬆️ 152)
-2. **[Wayland set the Linux Desktop back by 10 years](https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years)** (⬆️ 138)
-3. **[Astral to Join OpenAI](https://astral.sh/blog/openai)** (⬆️ 1222)
+1. **[ArXiv Declares Independence from Cornell](https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell)** (⬆️ 414)
+2. **[Entso-E final report on Iberian 2025 blackout](https://www.entsoe.eu/publications/blackout/28-april-2025-iberian-blackout/)** (⬆️ 45)
+3. **[Flash-KMeans: Fast and Memory-Efficient Exact K-Means](https://arxiv.org/abs/2603.09229)** (⬆️ 65)
 <!-- AUTO-UPDATE-END -->
