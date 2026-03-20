@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-03-19 13:05 UTC_
+_Last updated: 2026-03-20 02:06 UTC_
 
 ### 🔬 Latest AI Research
-**[Unified Spatio-Temporal Token Scoring for Efficient Video VLMs](http://arxiv.org/abs/2603.18004v1)**  
-_Token pruning is essential for enhancing the computational efficiency of vision-language models (VLMs), particularly for video-based tasks where temporal redundancy is prevalent. Prior approaches typi..._
+**[NavTrust: Benchmarking Trustworthiness for Embodied Navigation](http://arxiv.org/abs/2603.19229v1)**  
+_There are two major categories of embodied navigation: Vision-Language Navigation (VLN), where agents navigate by following natural language instructions; and Object-Goal Navigation (OGN), where agent..._
 
 ### 💻 Trending Tech
-1. **[Afroman found not liable in defamation case brought by Ohio cops who raided home](https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/)** (⬆️ 239)
-2. **[Conway's Game of Life, in real life](https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life)** (⬆️ 197)
-3. **[Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe](https://gitlab.com/IsolatedOctopi/nvidia_greenboost)** (⬆️ 388)
+1. **[Claude Code: Channels](https://code.claude.com/docs/en/channels)** (⬆️ 152)
+2. **[Wayland set the Linux Desktop back by 10 years](https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years)** (⬆️ 138)
+3. **[Astral to Join OpenAI](https://astral.sh/blog/openai)** (⬆️ 1222)
 <!-- AUTO-UPDATE-END -->
