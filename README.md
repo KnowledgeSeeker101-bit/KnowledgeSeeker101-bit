@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-03-21 02:00 UTC_
+_Last updated: 2026-03-21 12:50 UTC_
 
 ### 🔬 Latest AI Research
 **[NavTrust: Benchmarking Trustworthiness for Embodied Navigation](http://arxiv.org/abs/2603.19229v1)**  
 _There are two major categories of embodied navigation: Vision-Language Navigation (VLN), where agents navigate by following natural language instructions; and Object-Goal Navigation (OGN), where agent..._
 
 ### 💻 Trending Tech
-1. **[OpenCode – Open source AI coding agent](https://opencode.ai/)** (⬆️ 436)
-2. **[Our commitment to Windows quality](https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/)** (⬆️ 406)
-3. **[We rewrote our Rust WASM Parser in TypeScript – and it got 3x Faster](https://www.openui.com/blog/rust-wasm-parser)** (⬆️ 102)
+1. **[OpenCode – Open source AI coding agent](https://opencode.ai/)** (⬆️ 907)
+2. **[Mamba-3](https://www.together.ai/blog/mamba-3)** (⬆️ 167)
+3. **[FFmpeg 101 (2024)](https://blogs.igalia.com/llepage/ffmpeg-101/)** (⬆️ 119)
 <!-- AUTO-UPDATE-END -->
