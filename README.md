@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-03-22 02:20 UTC_
+_Last updated: 2026-03-22 12:52 UTC_
 
 ### 🔬 Latest AI Research
 **[NavTrust: Benchmarking Trustworthiness for Embodied Navigation](http://arxiv.org/abs/2603.19229v1)**  
 _There are two major categories of embodied navigation: Vision-Language Navigation (VLN), where agents navigate by following natural language instructions; and Object-Goal Navigation (OGN), where agent..._
 
 ### 💻 Trending Tech
-1. **[Tinybox – Offline AI device 120B parameters](https://tinygrad.org/#tinybox)** (⬆️ 332)
-2. **[Professional video editing, right in the browser with WebGPU and WASM](https://tooscut.app/)** (⬆️ 143)
-3. **[Some things just take time](https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/)** (⬆️ 524)
+1. **[Flash-Moe: Running a 397B Parameter Model on a Mac with 48GB RAM](https://github.com/danveloper/flash-moe)** (⬆️ 59)
+2. **[Hormuz Minesweeper – Are you tired of winning?](https://hormuz.pythonic.ninja/)** (⬆️ 327)
+3. **[25 Years of Eggs](https://www.john-rush.com/posts/eggs-25-years-20260219.html)** (⬆️ 82)
 <!-- AUTO-UPDATE-END -->
