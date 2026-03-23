@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-03-22 12:52 UTC_
+_Last updated: 2026-03-23 02:21 UTC_
 
 ### 🔬 Latest AI Research
-**[NavTrust: Benchmarking Trustworthiness for Embodied Navigation](http://arxiv.org/abs/2603.19229v1)**  
-_There are two major categories of embodied navigation: Vision-Language Navigation (VLN), where agents navigate by following natural language instructions; and Object-Goal Navigation (OGN), where agent..._
+**[From Masks to Pixels and Meaning: A New Taxonomy, Benchmark, and Metrics for VLM Image Tampering](http://arxiv.org/abs/2603.20193v1)**  
+_Existing tampering detection benchmarks largely rely on object masks, which severely misalign with the true edit signal: many pixels inside a mask are untouched or only trivially modified, while subtl..._
 
 ### 💻 Trending Tech
-1. **[Flash-Moe: Running a 397B Parameter Model on a Mac with 48GB RAM](https://github.com/danveloper/flash-moe)** (⬆️ 59)
-2. **[Hormuz Minesweeper – Are you tired of winning?](https://hormuz.pythonic.ninja/)** (⬆️ 327)
-3. **[25 Years of Eggs](https://www.john-rush.com/posts/eggs-25-years-20260219.html)** (⬆️ 82)
+1. **[PC Gamer recommends RSS readers in a 37mb article that just keeps downloading](https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/)** (⬆️ 343)
+2. **[The gold standard of optimization: A look under the hood of RollerCoaster Tycoon](https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/)** (⬆️ 210)
+3. **[Intuitions for Tranformer Circuits](https://www.connorjdavis.com/p/intuitions-for-transformer-circuits)** (⬆️ 11)
 <!-- AUTO-UPDATE-END -->
