@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-03-23 02:21 UTC_
+_Last updated: 2026-03-23 13:08 UTC_
 
 ### 🔬 Latest AI Research
 **[From Masks to Pixels and Meaning: A New Taxonomy, Benchmark, and Metrics for VLM Image Tampering](http://arxiv.org/abs/2603.20193v1)**  
 _Existing tampering detection benchmarks largely rely on object masks, which severely misalign with the true edit signal: many pixels inside a mask are untouched or only trivially modified, while subtl..._
 
 ### 💻 Trending Tech
-1. **[PC Gamer recommends RSS readers in a 37mb article that just keeps downloading](https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/)** (⬆️ 343)
-2. **[The gold standard of optimization: A look under the hood of RollerCoaster Tycoon](https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/)** (⬆️ 210)
-3. **[Intuitions for Tranformer Circuits](https://www.connorjdavis.com/p/intuitions-for-transformer-circuits)** (⬆️ 11)
+1. **[Migrating to the EU](https://rz01.org/eu-migration/)** (⬆️ 313)
+2. **[POSSE – Publish on your Own Site, Syndicate Elsewhere](https://indieweb.org/POSSE)** (⬆️ 208)
+3. **[GitHub appears to be struggling with measly three nines availability](https://www.theregister.com/2026/02/10/github_outages/)** (⬆️ 121)
 <!-- AUTO-UPDATE-END -->
