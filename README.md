@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-03-24 02:06 UTC_
+_Last updated: 2026-03-24 13:12 UTC_
 
 ### 🔬 Latest AI Research
-**[ROM: Real-time Overthinking Mitigation via Streaming Detection and Intervention](http://arxiv.org/abs/2603.22016v1)**  
-_Large Reasoning Models (LRMs) achieve strong accuracy on challenging tasks by generating long Chain-of-Thought traces, but suffer from overthinking. Even after reaching the correct answer, they contin..._
+**[WorldCache: Content-Aware Caching for Accelerated Video World Models](http://arxiv.org/abs/2603.22286v1)**  
+_Diffusion Transformers (DiTs) power high-fidelity video world models but remain computationally expensive due to sequential denoising and costly spatio-temporal attention. Training-free feature cachin..._
 
 ### 💻 Trending Tech
-1. **[Windows 3.1 tiled background .bmp archive](https://github.com/andreasjansson/win-3.1-backgrounds)** (⬆️ 148)
-2. **[FCC Updates Covered List to Include Foreign-Made Consumer Routers](https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers)** (⬆️ 177)
-3. **[Autoresearch on an old research idea](https://ykumar.me/blog/eclip-autoresearch/)** (⬆️ 275)
+1. **[Microsoft's "Fix" for Windows 11: Flowers After the Beating](https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/)** (⬆️ 406)
+2. **[LiteLLM Python package compromised by supply-chain attack](https://github.com/BerriAI/litellm/issues/24512)** (⬆️ 25)
+3. **[Missile Defense Is NP-Complete](https://smu160.github.io/posts/missile-defense-is-np-complete/)** (⬆️ 8)
 <!-- AUTO-UPDATE-END -->
