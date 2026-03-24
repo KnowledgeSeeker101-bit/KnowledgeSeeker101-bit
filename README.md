@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-03-23 13:08 UTC_
+_Last updated: 2026-03-24 02:06 UTC_
 
 ### 🔬 Latest AI Research
-**[From Masks to Pixels and Meaning: A New Taxonomy, Benchmark, and Metrics for VLM Image Tampering](http://arxiv.org/abs/2603.20193v1)**  
-_Existing tampering detection benchmarks largely rely on object masks, which severely misalign with the true edit signal: many pixels inside a mask are untouched or only trivially modified, while subtl..._
+**[ROM: Real-time Overthinking Mitigation via Streaming Detection and Intervention](http://arxiv.org/abs/2603.22016v1)**  
+_Large Reasoning Models (LRMs) achieve strong accuracy on challenging tasks by generating long Chain-of-Thought traces, but suffer from overthinking. Even after reaching the correct answer, they contin..._
 
 ### 💻 Trending Tech
-1. **[Migrating to the EU](https://rz01.org/eu-migration/)** (⬆️ 313)
-2. **[POSSE – Publish on your Own Site, Syndicate Elsewhere](https://indieweb.org/POSSE)** (⬆️ 208)
-3. **[GitHub appears to be struggling with measly three nines availability](https://www.theregister.com/2026/02/10/github_outages/)** (⬆️ 121)
+1. **[Windows 3.1 tiled background .bmp archive](https://github.com/andreasjansson/win-3.1-backgrounds)** (⬆️ 148)
+2. **[FCC Updates Covered List to Include Foreign-Made Consumer Routers](https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers)** (⬆️ 177)
+3. **[Autoresearch on an old research idea](https://ykumar.me/blog/eclip-autoresearch/)** (⬆️ 275)
 <!-- AUTO-UPDATE-END -->
