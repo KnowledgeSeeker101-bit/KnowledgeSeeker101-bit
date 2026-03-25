@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-03-24 13:12 UTC_
+_Last updated: 2026-03-25 02:11 UTC_
 
 ### 🔬 Latest AI Research
-**[WorldCache: Content-Aware Caching for Accelerated Video World Models](http://arxiv.org/abs/2603.22286v1)**  
-_Diffusion Transformers (DiTs) power high-fidelity video world models but remain computationally expensive due to sequential denoising and costly spatio-temporal attention. Training-free feature cachin..._
+**[MedObvious: Exposing the Medical Moravec's Paradox in VLMs via Clinical Triage](http://arxiv.org/abs/2603.23501v1)**  
+_Vision Language Models (VLMs) are increasingly used for tasks like medical report generation and visual question answering. However, fluent diagnostic text does not guarantee safe visual understanding..._
 
 ### 💻 Trending Tech
-1. **[Microsoft's "Fix" for Windows 11: Flowers After the Beating](https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/)** (⬆️ 406)
-2. **[LiteLLM Python package compromised by supply-chain attack](https://github.com/BerriAI/litellm/issues/24512)** (⬆️ 25)
-3. **[Missile Defense Is NP-Complete](https://smu160.github.io/posts/missile-defense-is-np-complete/)** (⬆️ 8)
+1. **[In Edison’s Revenge, Data Centers Are Transitioning From AC to DC](https://spectrum.ieee.org/data-center-dc)** (⬆️ 47)
+2. **[Flighty Airports](https://flighty.com/airports)** (⬆️ 69)
+3. **[Goodbye to Sora](https://twitter.com/soraofficialapp/status/2036532795984715896)** (⬆️ 384)
 <!-- AUTO-UPDATE-END -->
