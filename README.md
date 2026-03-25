@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-03-25 02:11 UTC_
+_Last updated: 2026-03-25 13:11 UTC_
 
 ### 🔬 Latest AI Research
 **[MedObvious: Exposing the Medical Moravec's Paradox in VLMs via Clinical Triage](http://arxiv.org/abs/2603.23501v1)**  
 _Vision Language Models (VLMs) are increasingly used for tasks like medical report generation and visual question answering. However, fluent diagnostic text does not guarantee safe visual understanding..._
 
 ### 💻 Trending Tech
-1. **[In Edison’s Revenge, Data Centers Are Transitioning From AC to DC](https://spectrum.ieee.org/data-center-dc)** (⬆️ 47)
-2. **[Flighty Airports](https://flighty.com/airports)** (⬆️ 69)
-3. **[Goodbye to Sora](https://twitter.com/soraofficialapp/status/2036532795984715896)** (⬆️ 384)
+1. **[Meta told to pay $375M for misleading users over child safety](https://www.bbc.com/news/articles/cql75dn07n2o)** (⬆️ 193)
+2. **[TurboQuant: Redefining AI efficiency with extreme compression](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)** (⬆️ 253)
+3. **[Goodbye to Sora](https://twitter.com/soraofficialapp/status/2036532795984715896)** (⬆️ 819)
 <!-- AUTO-UPDATE-END -->
