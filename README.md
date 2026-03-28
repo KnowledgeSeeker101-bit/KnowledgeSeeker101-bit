@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-03-25 13:11 UTC_
+_Last updated: 2026-03-28 02:09 UTC_
 
 ### 🔬 Latest AI Research
-**[MedObvious: Exposing the Medical Moravec's Paradox in VLMs via Clinical Triage](http://arxiv.org/abs/2603.23501v1)**  
-_Vision Language Models (VLMs) are increasingly used for tasks like medical report generation and visual question answering. However, fluent diagnostic text does not guarantee safe visual understanding..._
+**[Vega: Learning to Drive with Natural Language Instructions](http://arxiv.org/abs/2603.25741v1)**  
+_Vision-language-action models have reshaped autonomous driving to incorporate languages into the decision-making process. However, most existing pipelines only utilize the language modality for scene ..._
 
 ### 💻 Trending Tech
-1. **[Meta told to pay $375M for misleading users over child safety](https://www.bbc.com/news/articles/cql75dn07n2o)** (⬆️ 193)
-2. **[TurboQuant: Redefining AI efficiency with extreme compression](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)** (⬆️ 253)
-3. **[Goodbye to Sora](https://twitter.com/soraofficialapp/status/2036532795984715896)** (⬆️ 819)
+1. **[Make macOS consistently bad (unironically)](https://lr0.org/blog/p/macos/)** (⬆️ 306)
+2. **[Fear and denial in Silicon Valley over social media addiction trial](https://www.bbc.com/news/articles/c86e3eglv2go)** (⬆️ 10)
+3. **[Don't YOLO your file system](https://jai.scs.stanford.edu/)** (⬆️ 33)
 <!-- AUTO-UPDATE-END -->
