@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-03-31 02:26 UTC_
+_Last updated: 2026-03-31 13:19 UTC_
 
 ### 🔬 Latest AI Research
-**[Why Aggregate Accuracy is Inadequate for Evaluating Fairness in Law Enforcement Facial Recognition Systems](http://arxiv.org/abs/2603.28675v1)**  
-_Facial recognition systems are increasingly deployed in law enforcement and security contexts, where algorithmic decisions can carry significant societal consequences. Despite high reported accuracy, ..._
+**[Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds](http://arxiv.org/abs/2603.28764v1)**  
+_Similarity measures are widely used to interpret the representational geometries used by neural networks to solve tasks. Yet, because existing methods compare the extrinsic geometry of representations..._
 
 ### 💻 Trending Tech
-1. **[Universal Claude.md – cut Claude output tokens by 63%](https://github.com/drona23/claude-token-efficient)** (⬆️ 54)
-2. **[Fedware: Government apps that spy harder than the apps they ban](https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/)** (⬆️ 434)
-3. **[Android Developer Verification](https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html)** (⬆️ 152)
+1. **[Axios compromised on NPM – Malicious versions drop remote access trojan](https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan)** (⬆️ 1146)
+2. **[Ollama is now powered by MLX on Apple Silicon in preview](https://ollama.com/blog/mlx)** (⬆️ 394)
+3. **[Artemis II is not safe to fly](https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm)** (⬆️ 483)
 <!-- AUTO-UPDATE-END -->
