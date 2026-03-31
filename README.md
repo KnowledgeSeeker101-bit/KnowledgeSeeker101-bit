@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-03-28 12:56 UTC_
+_Last updated: 2026-03-31 02:26 UTC_
 
 ### 🔬 Latest AI Research
-**[Vega: Learning to Drive with Natural Language Instructions](http://arxiv.org/abs/2603.25741v1)**  
-_Vision-language-action models have reshaped autonomous driving to incorporate languages into the decision-making process. However, most existing pipelines only utilize the language modality for scene ..._
+**[Why Aggregate Accuracy is Inadequate for Evaluating Fairness in Law Enforcement Facial Recognition Systems](http://arxiv.org/abs/2603.28675v1)**  
+_Facial recognition systems are increasingly deployed in law enforcement and security contexts, where algorithmic decisions can carry significant societal consequences. Despite high reported accuracy, ..._
 
 ### 💻 Trending Tech
-1. **[I put all 8,642 Spanish laws in Git – every reform is a commit](https://github.com/EnriqueLop/legalize-es)** (⬆️ 101)
-2. **[Britain today generating 90%+ of electricity from renewables](https://grid.iamkate.com/)** (⬆️ 47)
-3. **[Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly](https://github.com/J-x-Z/cocoa-way)** (⬆️ 102)
+1. **[Universal Claude.md – cut Claude output tokens by 63%](https://github.com/drona23/claude-token-efficient)** (⬆️ 54)
+2. **[Fedware: Government apps that spy harder than the apps they ban](https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/)** (⬆️ 434)
+3. **[Android Developer Verification](https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html)** (⬆️ 152)
 <!-- AUTO-UPDATE-END -->
