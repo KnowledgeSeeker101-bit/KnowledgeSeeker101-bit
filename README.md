@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-03-31 13:19 UTC_
+_Last updated: 2026-04-01 13:22 UTC_
 
 ### 🔬 Latest AI Research
-**[Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds](http://arxiv.org/abs/2603.28764v1)**  
-_Similarity measures are widely used to interpret the representational geometries used by neural networks to solve tasks. Yet, because existing methods compare the extrinsic geometry of representations..._
+**[Automatic Identification of Parallelizable Loops Using Transformer-Based Source Code Representations](http://arxiv.org/abs/2603.30040v1)**  
+_Automatic parallelization remains a challenging problem in software engineering, particularly in identifying code regions where loops can be safely executed in parallel on modern multi-core architectu..._
 
 ### 💻 Trending Tech
-1. **[Axios compromised on NPM – Malicious versions drop remote access trojan](https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan)** (⬆️ 1146)
-2. **[Ollama is now powered by MLX on Apple Silicon in preview](https://ollama.com/blog/mlx)** (⬆️ 394)
-3. **[Artemis II is not safe to fly](https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm)** (⬆️ 483)
+1. **[Claude Code Unpacked : A visual guide](https://ccunpacked.dev/)** (⬆️ 661)
+2. **[CERN levels up with new superconducting karts](https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts)** (⬆️ 210)
+3. **[Show HN: Sycamore – next gen Rust UI library powered by fine-grained reactivity](https://sycamore.dev)** (⬆️ 17)
 <!-- AUTO-UPDATE-END -->
