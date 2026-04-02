@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-04-01 13:22 UTC_
+_Last updated: 2026-04-02 02:23 UTC_
 
 ### 🔬 Latest AI Research
-**[Automatic Identification of Parallelizable Loops Using Transformer-Based Source Code Representations](http://arxiv.org/abs/2603.30040v1)**  
-_Automatic parallelization remains a challenging problem in software engineering, particularly in identifying code regions where loops can be safely executed in parallel on modern multi-core architectu..._
+**[HippoCamp: Benchmarking Contextual Agents on Personal Computers](http://arxiv.org/abs/2604.01221v1)**  
+_We present HippoCamp, a new benchmark designed to evaluate agents' capabilities on multimodal file management. Unlike existing agent benchmarks that focus on tasks like web interaction, tool use, or s..._
 
 ### 💻 Trending Tech
-1. **[Claude Code Unpacked : A visual guide](https://ccunpacked.dev/)** (⬆️ 661)
-2. **[CERN levels up with new superconducting karts](https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts)** (⬆️ 210)
-3. **[Show HN: Sycamore – next gen Rust UI library powered by fine-grained reactivity](https://sycamore.dev)** (⬆️ 17)
+1. **[Live: Artemis II Launch Day Updates](https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/)** (⬆️ 654)
+2. **[A new C++ back end for ocamlc](https://github.com/ocaml/ocaml/pull/14701)** (⬆️ 96)
+3. **[Quantum computing bombshells that are not April Fools](https://scottaaronson.blog/?p=9665)** (⬆️ 31)
 <!-- AUTO-UPDATE-END -->
