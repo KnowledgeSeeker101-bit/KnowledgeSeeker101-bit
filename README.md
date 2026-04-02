@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-04-02 02:23 UTC_
+_Last updated: 2026-04-02 13:14 UTC_
 
 ### 🔬 Latest AI Research
 **[HippoCamp: Benchmarking Contextual Agents on Personal Computers](http://arxiv.org/abs/2604.01221v1)**  
 _We present HippoCamp, a new benchmark designed to evaluate agents' capabilities on multimodal file management. Unlike existing agent benchmarks that focus on tasks like web interaction, tool use, or s..._
 
 ### 💻 Trending Tech
-1. **[Live: Artemis II Launch Day Updates](https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/)** (⬆️ 654)
-2. **[A new C++ back end for ocamlc](https://github.com/ocaml/ocaml/pull/14701)** (⬆️ 96)
-3. **[Quantum computing bombshells that are not April Fools](https://scottaaronson.blog/?p=9665)** (⬆️ 31)
+1. **[Lemonade by AMD: a fast and open source local LLM server using GPU and NPU](https://lemonade-server.ai)** (⬆️ 67)
+2. **[Inside Nepal's Fake Rescue Racket](https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket)** (⬆️ 53)
+3. **[IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing)** (⬆️ 147)
 <!-- AUTO-UPDATE-END -->
