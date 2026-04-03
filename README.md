@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-04-02 13:14 UTC_
+_Last updated: 2026-04-03 02:24 UTC_
 
 ### 🔬 Latest AI Research
-**[HippoCamp: Benchmarking Contextual Agents on Personal Computers](http://arxiv.org/abs/2604.01221v1)**  
-_We present HippoCamp, a new benchmark designed to evaluate agents' capabilities on multimodal file management. Unlike existing agent benchmarks that focus on tasks like web interaction, tool use, or s..._
+**[ActionParty: Multi-Subject Action Binding in Generative Video Games](http://arxiv.org/abs/2604.02330v1)**  
+_Recent advances in video diffusion have enabled the development of "world models" capable of simulating interactive environments. However, these models are largely restricted to single-agent settings,..._
 
 ### 💻 Trending Tech
-1. **[Lemonade by AMD: a fast and open source local LLM server using GPU and NPU](https://lemonade-server.ai)** (⬆️ 67)
-2. **[Inside Nepal's Fake Rescue Racket](https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket)** (⬆️ 53)
-3. **[IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing)** (⬆️ 147)
+1. **[Google releases Gemma 4 open models](https://deepmind.google/models/gemma/gemma-4/)** (⬆️ 1173)
+2. **[Decisions that eroded trust in Azure – by a former Azure Core engineer](https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion)** (⬆️ 327)
+3. **[Tailscale's new macOS home](https://tailscale.com/blog/macos-notch-escape)** (⬆️ 332)
 <!-- AUTO-UPDATE-END -->
