@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-04-03 02:24 UTC_
+_Last updated: 2026-04-03 13:04 UTC_
 
 ### 🔬 Latest AI Research
 **[ActionParty: Multi-Subject Action Binding in Generative Video Games](http://arxiv.org/abs/2604.02330v1)**  
 _Recent advances in video diffusion have enabled the development of "world models" capable of simulating interactive environments. However, these models are largely restricted to single-agent settings,..._
 
 ### 💻 Trending Tech
-1. **[Google releases Gemma 4 open models](https://deepmind.google/models/gemma/gemma-4/)** (⬆️ 1173)
-2. **[Decisions that eroded trust in Azure – by a former Azure Core engineer](https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion)** (⬆️ 327)
-3. **[Tailscale's new macOS home](https://tailscale.com/blog/macos-notch-escape)** (⬆️ 332)
+1. **[Show HN: Apfel – The free AI already on your Mac](https://apfel.franzai.com)** (⬆️ 241)
+2. **[Show HN: I built a frontpage for personal blogs](https://text.blogosphere.app/)** (⬆️ 25)
+3. **[April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini](https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5)** (⬆️ 87)
 <!-- AUTO-UPDATE-END -->
