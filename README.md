@@ -109,14 +109,13 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-04-03 13:04 UTC_
+_Last updated: 2026-04-04 12:56 UTC_
 
 ### 🔬 Latest AI Research
 **[ActionParty: Multi-Subject Action Binding in Generative Video Games](http://arxiv.org/abs/2604.02330v1)**  
 _Recent advances in video diffusion have enabled the development of "world models" capable of simulating interactive environments. However, these models are largely restricted to single-agent settings,..._
 
 ### 💻 Trending Tech
-1. **[Show HN: Apfel – The free AI already on your Mac](https://apfel.franzai.com)** (⬆️ 241)
-2. **[Show HN: I built a frontpage for personal blogs](https://text.blogosphere.app/)** (⬆️ 25)
-3. **[April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini](https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5)** (⬆️ 87)
+1. **[Apple: Embarrassingly Simple Self-Distillation Improves Code Generation](https://arxiv.org/abs/2604.01193)** (⬆️ 138)
+2. **[The CMS is dead. Long live the CMS](https://next.jazzsequence.com/posts/the-cms-is-dead-long-live-the-cms)** (⬆️ 19)
 <!-- AUTO-UPDATE-END -->
