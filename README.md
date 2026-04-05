@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-04-05 02:31 UTC_
+_Last updated: 2026-04-05 12:58 UTC_
 
 ### 🔬 Latest AI Research
 **[ActionParty: Multi-Subject Action Binding in Generative Video Games](http://arxiv.org/abs/2604.02330v1)**  
 _Recent advances in video diffusion have enabled the development of "world models" capable of simulating interactive environments. However, these models are largely restricted to single-agent settings,..._
 
 ### 💻 Trending Tech
-1. **[Show HN: A game where you build a GPU](https://jaso1024.com/mvidia/)** (⬆️ 520)
-2. **[Introduction to Computer Music [pdf]](https://composerprogrammer.com/introductiontocomputermusic.pdf)** (⬆️ 9)
-3. **[OpenScreen is an open-source alternative to Screen Studio](https://github.com/siddharthvaddem/openscreen)** (⬆️ 106)
+1. **[The threat is comfortable drift toward not understanding what you're doing](https://ergosphere.blog/posts/the-machines-are-fine/)** (⬆️ 171)
+2. **[Talk like caveman](https://github.com/JuliusBrussee/caveman)** (⬆️ 165)
+3. **[Lisette a little language inspired by Rust that compiles to Go](https://lisette.run/)** (⬆️ 128)
 <!-- AUTO-UPDATE-END -->
