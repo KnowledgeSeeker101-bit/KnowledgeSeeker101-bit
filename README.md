@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-04-05 12:58 UTC_
+_Last updated: 2026-04-06 02:33 UTC_
 
 ### 🔬 Latest AI Research
-**[ActionParty: Multi-Subject Action Binding in Generative Video Games](http://arxiv.org/abs/2604.02330v1)**  
-_Recent advances in video diffusion have enabled the development of "world models" capable of simulating interactive environments. However, these models are largely restricted to single-agent settings,..._
+**[Enhancing Robustness of Federated Learning via Server Learning](http://arxiv.org/abs/2604.03226v1)**  
+_This paper explores the use of server learning for enhancing the robustness of federated learning against malicious attacks even when clients' training data are not independent and identically distrib..._
 
 ### 💻 Trending Tech
-1. **[The threat is comfortable drift toward not understanding what you're doing](https://ergosphere.blog/posts/the-machines-are-fine/)** (⬆️ 171)
-2. **[Talk like caveman](https://github.com/JuliusBrussee/caveman)** (⬆️ 165)
-3. **[Lisette a little language inspired by Rust that compiles to Go](https://lisette.run/)** (⬆️ 128)
+1. **[Show HN: YouTube search barely works, I made a search form with advanced filters](https://playlists.at/youtube/search/)** (⬆️ 68)
+2. **[Show HN: I built a tiny LLM to demystify how language models work](https://github.com/arman-bd/guppylm)** (⬆️ 57)
+3. **[Gemma 4 on iPhone](https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337)** (⬆️ 439)
 <!-- AUTO-UPDATE-END -->
