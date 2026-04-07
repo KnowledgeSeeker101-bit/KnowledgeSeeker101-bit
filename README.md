@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-04-06 02:33 UTC_
+_Last updated: 2026-04-07 02:27 UTC_
 
 ### 🔬 Latest AI Research
-**[Enhancing Robustness of Federated Learning via Server Learning](http://arxiv.org/abs/2604.03226v1)**  
-_This paper explores the use of server learning for enhancing the robustness of federated learning against malicious attacks even when clients' training data are not independent and identically distrib..._
+**[Early Stopping for Large Reasoning Models via Confidence Dynamics](http://arxiv.org/abs/2604.04930v1)**  
+_Large reasoning models rely on long chain-of-thought generation to solve complex problems, but extended reasoning often incurs substantial computational cost and can even degrade performance due to ov..._
 
 ### 💻 Trending Tech
-1. **[Show HN: YouTube search barely works, I made a search form with advanced filters](https://playlists.at/youtube/search/)** (⬆️ 68)
-2. **[Show HN: I built a tiny LLM to demystify how language models work](https://github.com/arman-bd/guppylm)** (⬆️ 57)
-3. **[Gemma 4 on iPhone](https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337)** (⬆️ 439)
+1. **[Netflix Void Model: Video Object and Interaction Deletion](https://github.com/Netflix/void-model)** (⬆️ 54)
+2. **[Solod – A Subset of Go That Translates to C](https://github.com/solod-dev/solod)** (⬆️ 26)
+3. **[Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS](https://github.com/matthartman/ghost-pepper)** (⬆️ 242)
 <!-- AUTO-UPDATE-END -->
