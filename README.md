@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-04-07 02:27 UTC_
+_Last updated: 2026-04-08 02:28 UTC_
 
 ### 🔬 Latest AI Research
-**[Early Stopping for Large Reasoning Models via Confidence Dynamics](http://arxiv.org/abs/2604.04930v1)**  
-_Large reasoning models rely on long chain-of-thought generation to solve complex problems, but extended reasoning often incurs substantial computational cost and can even degrade performance due to ov..._
+**[In-Place Test-Time Training](http://arxiv.org/abs/2604.06169v1)**  
+_The static ``train then deploy" paradigm fundamentally limits Large Language Models (LLMs) from dynamically adapting their weights in response to continuous streams of new information inherent in real..._
 
 ### 💻 Trending Tech
-1. **[Netflix Void Model: Video Object and Interaction Deletion](https://github.com/Netflix/void-model)** (⬆️ 54)
-2. **[Solod – A Subset of Go That Translates to C](https://github.com/solod-dev/solod)** (⬆️ 26)
-3. **[Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS](https://github.com/matthartman/ghost-pepper)** (⬆️ 242)
+1. **[Project Glasswing: Securing critical software for the AI era](https://www.anthropic.com/glasswing)** (⬆️ 934)
+2. **[Lunar Flyby](https://www.nasa.gov/gallery/lunar-flyby/)** (⬆️ 410)
+3. **[US and Iran agree to provisional ceasefire](https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire)** (⬆️ 202)
 <!-- AUTO-UPDATE-END -->
