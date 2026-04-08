@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-04-08 02:28 UTC_
+_Last updated: 2026-04-08 13:20 UTC_
 
 ### 🔬 Latest AI Research
 **[In-Place Test-Time Training](http://arxiv.org/abs/2604.06169v1)**  
 _The static ``train then deploy" paradigm fundamentally limits Large Language Models (LLMs) from dynamically adapting their weights in response to continuous streams of new information inherent in real..._
 
 ### 💻 Trending Tech
-1. **[Project Glasswing: Securing critical software for the AI era](https://www.anthropic.com/glasswing)** (⬆️ 934)
-2. **[Lunar Flyby](https://www.nasa.gov/gallery/lunar-flyby/)** (⬆️ 410)
-3. **[US and Iran agree to provisional ceasefire](https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire)** (⬆️ 202)
+1. **[Git commands I run before reading any code](https://piechowski.io/post/git-commands-before-reading-code/)** (⬆️ 518)
+2. **[Veracrypt project update](https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/)** (⬆️ 538)
+3. **[I've sold out](https://mariozechner.at/posts/2026-04-08-ive-sold-out/)** (⬆️ 175)
 <!-- AUTO-UPDATE-END -->
