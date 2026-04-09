@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-04-09 02:23 UTC_
+_Last updated: 2026-04-09 13:27 UTC_
 
 ### 🔬 Latest AI Research
 **[Fast Spatial Memory with Elastic Test-Time Training](http://arxiv.org/abs/2604.07350v1)**  
 _Large Chunk Test-Time Training (LaCT) has shown strong performance on long-context 3D reconstruction, but its fully plastic inference-time updates remain vulnerable to catastrophic forgetting and over..._
 
 ### 💻 Trending Tech
-1. **[LittleSnitch for Linux](https://obdev.at/products/littlesnitch-linux/index.html)** (⬆️ 163)
-2. **[I ported Mac OS X to the Nintendo Wii](https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html)** (⬆️ 1275)
-3. **[USB for Software Developers: An introduction to writing userspace USB drivers](https://werwolv.net/posts/usb_for_sw_devs/)** (⬆️ 190)
+1. **[Am I German or Autistic?](https://german.millermanschool.com/)** (⬆️ 22)
+2. **[LittleSnitch for Linux](https://obdev.at/products/littlesnitch-linux/index.html)** (⬆️ 947)
+3. **[Show HN: 41 years sea surface temperature anomalies](https://ssta.willhelps.org)** (⬆️ 21)
 <!-- AUTO-UPDATE-END -->
