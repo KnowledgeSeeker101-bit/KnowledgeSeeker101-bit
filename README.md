@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-04-08 13:20 UTC_
+_Last updated: 2026-04-09 02:23 UTC_
 
 ### 🔬 Latest AI Research
-**[In-Place Test-Time Training](http://arxiv.org/abs/2604.06169v1)**  
-_The static ``train then deploy" paradigm fundamentally limits Large Language Models (LLMs) from dynamically adapting their weights in response to continuous streams of new information inherent in real..._
+**[Fast Spatial Memory with Elastic Test-Time Training](http://arxiv.org/abs/2604.07350v1)**  
+_Large Chunk Test-Time Training (LaCT) has shown strong performance on long-context 3D reconstruction, but its fully plastic inference-time updates remain vulnerable to catastrophic forgetting and over..._
 
 ### 💻 Trending Tech
-1. **[Git commands I run before reading any code](https://piechowski.io/post/git-commands-before-reading-code/)** (⬆️ 518)
-2. **[Veracrypt project update](https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/)** (⬆️ 538)
-3. **[I've sold out](https://mariozechner.at/posts/2026-04-08-ive-sold-out/)** (⬆️ 175)
+1. **[LittleSnitch for Linux](https://obdev.at/products/littlesnitch-linux/index.html)** (⬆️ 163)
+2. **[I ported Mac OS X to the Nintendo Wii](https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html)** (⬆️ 1275)
+3. **[USB for Software Developers: An introduction to writing userspace USB drivers](https://werwolv.net/posts/usb_for_sw_devs/)** (⬆️ 190)
 <!-- AUTO-UPDATE-END -->
