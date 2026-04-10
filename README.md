@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-04-09 13:27 UTC_
+_Last updated: 2026-04-10 02:34 UTC_
 
 ### 🔬 Latest AI Research
-**[Fast Spatial Memory with Elastic Test-Time Training](http://arxiv.org/abs/2604.07350v1)**  
-_Large Chunk Test-Time Training (LaCT) has shown strong performance on long-context 3D reconstruction, but its fully plastic inference-time updates remain vulnerable to catastrophic forgetting and over..._
+**[Act Wisely: Cultivating Meta-Cognitive Tool Use in Agentic Multimodal Models](http://arxiv.org/abs/2604.08545v1)**  
+_The advent of agentic multimodal models has empowered systems to actively interact with external environments. However, current agents suffer from a profound meta-cognitive deficit: they struggle to a..._
 
 ### 💻 Trending Tech
-1. **[Am I German or Autistic?](https://german.millermanschool.com/)** (⬆️ 22)
-2. **[LittleSnitch for Linux](https://obdev.at/products/littlesnitch-linux/index.html)** (⬆️ 947)
-3. **[Show HN: 41 years sea surface temperature anomalies](https://ssta.willhelps.org)** (⬆️ 21)
+1. **[Native Instant Space Switching on macOS](https://arhan.sh/blog/native-instant-space-switching-on-macos/)** (⬆️ 332)
+2. **[How NASA built Artemis II’s fault-tolerant computer](https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/)** (⬆️ 100)
+3. **[Charcuterie – Visual similarity Unicode explorer](https://charcuterie.elastiq.ch/)** (⬆️ 136)
 <!-- AUTO-UPDATE-END -->
