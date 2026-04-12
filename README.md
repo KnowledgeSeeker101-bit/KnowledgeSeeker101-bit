@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-04-12 02:36 UTC_
+_Last updated: 2026-04-12 13:02 UTC_
 
 ### 🔬 Latest AI Research
 **[Act Wisely: Cultivating Meta-Cognitive Tool Use in Agentic Multimodal Models](http://arxiv.org/abs/2604.08545v1)**  
 _The advent of agentic multimodal models has empowered systems to actively interact with external environments. However, current agents suffer from a profound meta-cognitive deficit: they struggle to a..._
 
 ### 💻 Trending Tech
-1. **[Small models also found the vulnerabilities that Mythos found](https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier)** (⬆️ 861)
-2. **[The End of Eleventy](https://brennan.day/the-end-of-eleventy/)** (⬆️ 18)
-3. **[Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)](https://khronokernel.com/macos/2023/08/08/AS-VM.html)** (⬆️ 150)
+1. **[JVM Options Explorer](https://chriswhocodes.com/vm-options-explorer.html)** (⬆️ 54)
+2. **[Why weekends are under threat](https://thehustle.co/originals/why-weekends-are-under-threat)** (⬆️ 13)
+3. **[Happy Map](https://pudding.cool/2026/02/happy-map/)** (⬆️ 46)
 <!-- AUTO-UPDATE-END -->
