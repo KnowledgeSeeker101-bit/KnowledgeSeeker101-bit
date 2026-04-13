@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-04-13 02:41 UTC_
+_Last updated: 2026-04-13 13:26 UTC_
 
 ### 🔬 Latest AI Research
 **[Large Language Models Generate Harmful Content Using a Distinct, Unified Mechanism](http://arxiv.org/abs/2604.09544v1)**  
 _Large language models (LLMs) undergo alignment training to avoid harmful behaviors, yet the resulting safeguards remain brittle: jailbreaks routinely bypass them, and fine-tuning on narrow domains can..._
 
 ### 💻 Trending Tech
-1. **[Taking on CUDA with ROCm: 'One Step After Another'](https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/)** (⬆️ 66)
-2. **[Bring Back Idiomatic Design (2023)](https://essays.johnloeber.com/p/4-bring-back-idiomatic-design)** (⬆️ 472)
-3. **[DIY Soft Drinks](https://blinry.org/diy-soft-drinks/)** (⬆️ 267)
+1. **[Android now stops you sharing your location in photos](https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/)** (⬆️ 113)
+2. **[AI could be the end of the digital wave, not the next big thing](https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/)** (⬆️ 49)
+3. **[I went to America's worst national parks so you don't have to](https://substack.com/home/post/p-193626949)** (⬆️ 80)
 <!-- AUTO-UPDATE-END -->
