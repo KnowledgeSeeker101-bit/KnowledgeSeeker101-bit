@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-04-13 13:26 UTC_
+_Last updated: 2026-04-14 02:35 UTC_
 
 ### 🔬 Latest AI Research
-**[Large Language Models Generate Harmful Content Using a Distinct, Unified Mechanism](http://arxiv.org/abs/2604.09544v1)**  
-_Large language models (LLMs) undergo alignment training to avoid harmful behaviors, yet the resulting safeguards remain brittle: jailbreaks routinely bypass them, and fine-tuning on narrow domains can..._
+**[Computation of Least Trimmed Squares: A Branch-and-Bound framework with Hyperplane Arrangement Enhancements](http://arxiv.org/abs/2604.11584v1)**  
+_We study computational aspects of a key problem in robust statistics -- the penalized least trimmed squares (LTS) regression problem, a robust estimator that mitigates the influence of outliers in dat..._
 
 ### 💻 Trending Tech
-1. **[Android now stops you sharing your location in photos](https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/)** (⬆️ 113)
-2. **[AI could be the end of the digital wave, not the next big thing](https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/)** (⬆️ 49)
-3. **[I went to America's worst national parks so you don't have to](https://substack.com/home/post/p-193626949)** (⬆️ 80)
+1. **[Someone bought 30 WordPress plugins and planted a backdoor in all of them](https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/)** (⬆️ 714)
+2. **[GitHub Stacked PRs](https://github.github.com/gh-stack/)** (⬆️ 444)
+3. **[Lean proved this program correct; then I found a bug](https://kirancodes.me/posts/log-who-watches-the-watchers.html)** (⬆️ 99)
 <!-- AUTO-UPDATE-END -->
