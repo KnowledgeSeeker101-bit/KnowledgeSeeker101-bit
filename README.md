@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-04-14 02:35 UTC_
+_Last updated: 2026-04-14 13:26 UTC_
 
 ### 🔬 Latest AI Research
-**[Computation of Least Trimmed Squares: A Branch-and-Bound framework with Hyperplane Arrangement Enhancements](http://arxiv.org/abs/2604.11584v1)**  
-_We study computational aspects of a key problem in robust statistics -- the penalized least trimmed squares (LTS) regression problem, a robust estimator that mitigates the influence of outliers in dat..._
+**[Physics-Informed State Space Models for Reliable Solar Irradiance Forecasting in Off-Grid Systems](http://arxiv.org/abs/2604.11807v1)**  
+_The stable operation of autonomous off-grid photovoltaic systems dictates reliance on solar forecasting algorithms that respect atmospheric thermodynamics. Contemporary deep learning models consistent..._
 
 ### 💻 Trending Tech
-1. **[Someone bought 30 WordPress plugins and planted a backdoor in all of them](https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/)** (⬆️ 714)
-2. **[GitHub Stacked PRs](https://github.github.com/gh-stack/)** (⬆️ 444)
-3. **[Lean proved this program correct; then I found a bug](https://kirancodes.me/posts/log-who-watches-the-watchers.html)** (⬆️ 99)
+1. **[What is jj and why should I care?](https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html)** (⬆️ 136)
+2. **[DaVinci Resolve – Photo](https://www.blackmagicdesign.com/products/davinciresolve/photo)** (⬆️ 740)
+3. **[NimConf 2026: Dates Announced, Registrations Open](https://nim-lang.org/blog/2026/04/07/nimconf-2026.html)** (⬆️ 38)
 <!-- AUTO-UPDATE-END -->
