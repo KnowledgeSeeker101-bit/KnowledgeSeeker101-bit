@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-04-14 13:26 UTC_
+_Last updated: 2026-04-15 02:33 UTC_
 
 ### 🔬 Latest AI Research
-**[Physics-Informed State Space Models for Reliable Solar Irradiance Forecasting in Off-Grid Systems](http://arxiv.org/abs/2604.11807v1)**  
-_The stable operation of autonomous off-grid photovoltaic systems dictates reliance on solar forecasting algorithms that respect atmospheric thermodynamics. Contemporary deep learning models consistent..._
+**[Visual Preference Optimization with Rubric Rewards](http://arxiv.org/abs/2604.13029v1)**  
+_The effectiveness of Direct Preference Optimization (DPO) depends on preference data that reflect the quality differences that matter in multimodal tasks. Existing pipelines often rely on off-policy p..._
 
 ### 💻 Trending Tech
-1. **[What is jj and why should I care?](https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html)** (⬆️ 136)
-2. **[DaVinci Resolve – Photo](https://www.blackmagicdesign.com/products/davinciresolve/photo)** (⬆️ 740)
-3. **[NimConf 2026: Dates Announced, Registrations Open](https://nim-lang.org/blog/2026/04/07/nimconf-2026.html)** (⬆️ 38)
+1. **[Stop Flock](https://stopflock.com)** (⬆️ 260)
+2. **[Claude Code Routines](https://code.claude.com/docs/en/routines)** (⬆️ 441)
+3. **[Rare concert recordings are landing on the Internet Archive](https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/)** (⬆️ 537)
 <!-- AUTO-UPDATE-END -->
