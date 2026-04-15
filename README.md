@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-04-15 02:33 UTC_
+_Last updated: 2026-04-15 13:25 UTC_
 
 ### 🔬 Latest AI Research
 **[Visual Preference Optimization with Rubric Rewards](http://arxiv.org/abs/2604.13029v1)**  
 _The effectiveness of Direct Preference Optimization (DPO) depends on preference data that reflect the quality differences that matter in multimodal tasks. Existing pipelines often rely on off-policy p..._
 
 ### 💻 Trending Tech
-1. **[Stop Flock](https://stopflock.com)** (⬆️ 260)
-2. **[Claude Code Routines](https://code.claude.com/docs/en/routines)** (⬆️ 441)
-3. **[Rare concert recordings are landing on the Internet Archive](https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/)** (⬆️ 537)
+1. **[Want to Write a Compiler? Just Read These Two Papers (2008)](https://prog21.dadgum.com/30.html)** (⬆️ 202)
+2. **[Good Sleep, Good Learning (2012)](https://super-memory.com/articles/sleep.htm)** (⬆️ 136)
+3. **[Costasiella kuroshimae – Solar Powered animals, that do indirect photosynthesis](https://en.wikipedia.org/wiki/Costasiella_kuroshimae)** (⬆️ 60)
 <!-- AUTO-UPDATE-END -->
