@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-04-15 13:25 UTC_
+_Last updated: 2026-04-16 13:44 UTC_
 
 ### 🔬 Latest AI Research
-**[Visual Preference Optimization with Rubric Rewards](http://arxiv.org/abs/2604.13029v1)**  
-_The effectiveness of Direct Preference Optimization (DPO) depends on preference data that reflect the quality differences that matter in multimodal tasks. Existing pipelines often rely on off-policy p..._
+**[From $P(y|x)$ to $P(y)$: Investigating Reinforcement Learning in Pre-train Space](http://arxiv.org/abs/2604.14142v1)**  
+_While reinforcement learning with verifiable rewards (RLVR) significantly enhances LLM reasoning by optimizing the conditional distribution P(y|x), its potential is fundamentally bounded by the base m..._
 
 ### 💻 Trending Tech
-1. **[Want to Write a Compiler? Just Read These Two Papers (2008)](https://prog21.dadgum.com/30.html)** (⬆️ 202)
-2. **[Good Sleep, Good Learning (2012)](https://super-memory.com/articles/sleep.htm)** (⬆️ 136)
-3. **[Costasiella kuroshimae – Solar Powered animals, that do indirect photosynthesis](https://en.wikipedia.org/wiki/Costasiella_kuroshimae)** (⬆️ 60)
+1. **[€54k spike in 13h from unrestricted Firebase browser key accessing Gemini APIs](https://discuss.ai.google.dev/t/unexpected-54k-billing-spike-in-13-hours-firebase-browser-key-without-api-restrictions-used-for-gemini-requests/140262)** (⬆️ 208)
+2. **[IPv6 traffic crosses the 50% mark](https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197)** (⬆️ 495)
+3. **[Apple accelerates eco progress with highest-ever recycled materials](https://www.apple.com/newsroom/2026/04/apple-accelerates-progress-with-highest-ever-recycled-material-in-its-products/)** (⬆️ 44)
 <!-- AUTO-UPDATE-END -->
