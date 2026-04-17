@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-04-16 13:44 UTC_
+_Last updated: 2026-04-17 13:20 UTC_
 
 ### 🔬 Latest AI Research
-**[From $P(y|x)$ to $P(y)$: Investigating Reinforcement Learning in Pre-train Space](http://arxiv.org/abs/2604.14142v1)**  
-_While reinforcement learning with verifiable rewards (RLVR) significantly enhances LLM reasoning by optimizing the conditional distribution P(y|x), its potential is fundamentally bounded by the base m..._
+**[MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation](http://arxiv.org/abs/2604.15309v1)**  
+_The rapid progress of Artificial Intelligence Generated Content (AIGC) tools enables images, videos, and visualizations to be created on demand for webpage design, offering a flexible and increasingly..._
 
 ### 💻 Trending Tech
-1. **[€54k spike in 13h from unrestricted Firebase browser key accessing Gemini APIs](https://discuss.ai.google.dev/t/unexpected-54k-billing-spike-in-13-hours-firebase-browser-key-without-api-restrictions-used-for-gemini-requests/140262)** (⬆️ 208)
-2. **[IPv6 traffic crosses the 50% mark](https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197)** (⬆️ 495)
-3. **[Apple accelerates eco progress with highest-ever recycled materials](https://www.apple.com/newsroom/2026/04/apple-accelerates-progress-with-highest-ever-recycled-material-in-its-products/)** (⬆️ 44)
+1. **[Isaac Asimov: The Last Question](https://hex.ooo/library/last_question.html)** (⬆️ 78)
+2. **[Ada, Its Design, and the Language That Built the Languages](https://www.iqiipi.com/the-quiet-colossus.html)** (⬆️ 139)
+3. **[Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7)** (⬆️ 1829)
 <!-- AUTO-UPDATE-END -->
