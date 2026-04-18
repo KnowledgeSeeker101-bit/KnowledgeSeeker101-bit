@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-04-17 13:20 UTC_
+_Last updated: 2026-04-18 02:27 UTC_
 
 ### 🔬 Latest AI Research
 **[MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation](http://arxiv.org/abs/2604.15309v1)**  
 _The rapid progress of Artificial Intelligence Generated Content (AIGC) tools enables images, videos, and visualizations to be created on demand for webpage design, offering a flexible and increasingly..._
 
 ### 💻 Trending Tech
-1. **[Isaac Asimov: The Last Question](https://hex.ooo/library/last_question.html)** (⬆️ 78)
-2. **[Ada, Its Design, and the Language That Built the Languages](https://www.iqiipi.com/the-quiet-colossus.html)** (⬆️ 139)
-3. **[Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7)** (⬆️ 1829)
+1. **[Claude Design](https://www.anthropic.com/news/claude-design-anthropic-labs)** (⬆️ 856)
+2. **[A simplified model of Fil-C](https://www.corsix.org/content/simplified-model-of-fil-c)** (⬆️ 118)
+3. **[All 12 moonwalkers had "lunar hay fever" from dust smelling like gunpowder (2018)](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon)** (⬆️ 238)
 <!-- AUTO-UPDATE-END -->
