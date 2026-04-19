@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-04-18 13:03 UTC_
+_Last updated: 2026-04-19 02:41 UTC_
 
 ### 🔬 Latest AI Research
 **[MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation](http://arxiv.org/abs/2604.15309v1)**  
 _The rapid progress of Artificial Intelligence Generated Content (AIGC) tools enables images, videos, and visualizations to be created on demand for webpage design, offering a flexible and increasingly..._
 
 ### 💻 Trending Tech
-1. **[State of Kdenlive](https://kdenlive.org/news/2026/state-2026/)** (⬆️ 34)
-2. **[Michael Rabin Has Died](https://en.wikipedia.org/wiki/Michael_O._Rabin)** (⬆️ 166)
-3. **[Category Theory Illustrated – Orders](https://abuseofnotation.github.io/category-theory-illustrated/04_order/)** (⬆️ 129)
+1. **[NIST scientists create 'any wavelength' lasers](https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits)** (⬆️ 186)
+2. **[Anonymous request-token comparisons from Opus 4.6 and Opus 4.7](https://tokens.billchambers.me/leaderboard)** (⬆️ 435)
+3. **[Updating Gun Rocket through 10 years of Unity Engine](https://jackpritz.com/blog/updating-gun-rocket-through-10-years-of-unity-engine)** (⬆️ 22)
 <!-- AUTO-UPDATE-END -->
