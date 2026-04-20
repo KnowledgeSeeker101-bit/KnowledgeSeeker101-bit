@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-04-19 02:41 UTC_
+_Last updated: 2026-04-20 02:42 UTC_
 
 ### 🔬 Latest AI Research
-**[MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation](http://arxiv.org/abs/2604.15309v1)**  
-_The rapid progress of Artificial Intelligence Generated Content (AIGC) tools enables images, videos, and visualizations to be created on demand for webpage design, offering a flexible and increasingly..._
+**[ASMR-Bench: Auditing for Sabotage in ML Research](http://arxiv.org/abs/2604.16286v1)**  
+_As AI systems are increasingly used to conduct research autonomously, misaligned systems could introduce subtle flaws that produce misleading results while evading detection. We introduce ASMR-Bench (..._
 
 ### 💻 Trending Tech
-1. **[NIST scientists create 'any wavelength' lasers](https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits)** (⬆️ 186)
-2. **[Anonymous request-token comparisons from Opus 4.6 and Opus 4.7](https://tokens.billchambers.me/leaderboard)** (⬆️ 435)
-3. **[Updating Gun Rocket through 10 years of Unity Engine](https://jackpritz.com/blog/updating-gun-rocket-through-10-years-of-unity-engine)** (⬆️ 22)
+1. **[Show HN: TRELLIS.2 image-to-3D running on Mac Silicon – no Nvidia GPU needed](https://github.com/shivampkumar/trellis-mac)** (⬆️ 53)
+2. **[A Brief History of Fish Sauce](https://www.legalnomads.com/fish-sauce/)** (⬆️ 87)
+3. **[Vercel April 2026 security incident](https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/)** (⬆️ 560)
 <!-- AUTO-UPDATE-END -->
