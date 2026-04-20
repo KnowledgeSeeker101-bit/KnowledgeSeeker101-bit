@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-04-20 02:42 UTC_
+_Last updated: 2026-04-20 13:43 UTC_
 
 ### 🔬 Latest AI Research
 **[ASMR-Bench: Auditing for Sabotage in ML Research](http://arxiv.org/abs/2604.16286v1)**  
 _As AI systems are increasingly used to conduct research autonomously, misaligned systems could introduce subtle flaws that produce misleading results while evading detection. We introduce ASMR-Bench (..._
 
 ### 💻 Trending Tech
-1. **[Show HN: TRELLIS.2 image-to-3D running on Mac Silicon – no Nvidia GPU needed](https://github.com/shivampkumar/trellis-mac)** (⬆️ 53)
-2. **[A Brief History of Fish Sauce](https://www.legalnomads.com/fish-sauce/)** (⬆️ 87)
-3. **[Vercel April 2026 security incident](https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/)** (⬆️ 560)
+1. **[GitHub's Fake Star Economy](https://awesomeagents.ai/news/github-fake-stars-investigation/)** (⬆️ 337)
+2. **[ggsql: A Grammar of Graphics for SQL](https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/)** (⬆️ 53)
+3. **[M 7.4 earthquake – 100 km ENE of Miyako, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000sri7/)** (⬆️ 102)
 <!-- AUTO-UPDATE-END -->
