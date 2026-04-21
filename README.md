@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-04-20 13:43 UTC_
+_Last updated: 2026-04-21 02:36 UTC_
 
 ### 🔬 Latest AI Research
-**[ASMR-Bench: Auditing for Sabotage in ML Research](http://arxiv.org/abs/2604.16286v1)**  
-_As AI systems are increasingly used to conduct research autonomously, misaligned systems could introduce subtle flaws that produce misleading results while evading detection. We introduce ASMR-Bench (..._
+**[Towards Real-Time ECG and EMG Modeling on $μ$ NPUs](http://arxiv.org/abs/2604.18067v1)**  
+_The miniaturisation of neural processing units (NPUs) and other low-power accelerators has enabled their integration into microcontroller-scale wearable hardware, supporting near-real-time, offline, a..._
 
 ### 💻 Trending Tech
-1. **[GitHub's Fake Star Economy](https://awesomeagents.ai/news/github-fake-stars-investigation/)** (⬆️ 337)
-2. **[ggsql: A Grammar of Graphics for SQL](https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/)** (⬆️ 53)
-3. **[M 7.4 earthquake – 100 km ENE of Miyako, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000sri7/)** (⬆️ 102)
+1. **[John Ternus to become Apple CEO](https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/)** (⬆️ 1263)
+2. **[How to Make a Fast Dynamic Language Interpreter](https://zef-lang.dev/implementation)** (⬆️ 46)
+3. **[Jujutsu megamerges for fun and profit](https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit)** (⬆️ 142)
 <!-- AUTO-UPDATE-END -->
