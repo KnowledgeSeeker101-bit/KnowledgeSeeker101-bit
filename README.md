@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-04-22 02:35 UTC_
+_Last updated: 2026-04-22 13:27 UTC_
 
 ### 🔬 Latest AI Research
 **[Generalization at the Edge of Stability](http://arxiv.org/abs/2604.19740v1)**  
 _Training modern neural networks often relies on large learning rates, operating at the edge of stability, where the optimization dynamics exhibit oscillatory and chaotic behavior. Empirically, this re..._
 
 ### 💻 Trending Tech
-1. **[ChatGPT Images 2.0](https://openai.com/index/introducing-chatgpt-images-2-0/)** (⬆️ 480)
-2. **[Windows Server 2025 Runs Better on ARM](https://jasoneckert.github.io/myblog/server-2025-arm64/)** (⬆️ 54)
-3. **[SpaceX says it has agreement to acquire Cursor for $60B](https://twitter.com/spacex/status/2046713419978453374)** (⬆️ 293)
+1. **[Windows 9x Subsystem for Linux](https://social.hails.org/@hailey/116446826733136456)** (⬆️ 311)
+2. **[3.4M Solar Panels](https://tech.marksblogg.com/american-solar-farms-v2.html)** (⬆️ 72)
+3. **[GitHub CLI now collects pseudoanonymous telemetry](https://cli.github.com/telemetry)** (⬆️ 85)
 <!-- AUTO-UPDATE-END -->
