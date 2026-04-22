@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-04-21 02:36 UTC_
+_Last updated: 2026-04-22 02:35 UTC_
 
 ### 🔬 Latest AI Research
-**[Towards Real-Time ECG and EMG Modeling on $μ$ NPUs](http://arxiv.org/abs/2604.18067v1)**  
-_The miniaturisation of neural processing units (NPUs) and other low-power accelerators has enabled their integration into microcontroller-scale wearable hardware, supporting near-real-time, offline, a..._
+**[Generalization at the Edge of Stability](http://arxiv.org/abs/2604.19740v1)**  
+_Training modern neural networks often relies on large learning rates, operating at the edge of stability, where the optimization dynamics exhibit oscillatory and chaotic behavior. Empirically, this re..._
 
 ### 💻 Trending Tech
-1. **[John Ternus to become Apple CEO](https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/)** (⬆️ 1263)
-2. **[How to Make a Fast Dynamic Language Interpreter](https://zef-lang.dev/implementation)** (⬆️ 46)
-3. **[Jujutsu megamerges for fun and profit](https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit)** (⬆️ 142)
+1. **[ChatGPT Images 2.0](https://openai.com/index/introducing-chatgpt-images-2-0/)** (⬆️ 480)
+2. **[Windows Server 2025 Runs Better on ARM](https://jasoneckert.github.io/myblog/server-2025-arm64/)** (⬆️ 54)
+3. **[SpaceX says it has agreement to acquire Cursor for $60B](https://twitter.com/spacex/status/2046713419978453374)** (⬆️ 293)
 <!-- AUTO-UPDATE-END -->
