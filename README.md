@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-04-23 02:38 UTC_
+_Last updated: 2026-04-23 13:42 UTC_
 
 ### 🔬 Latest AI Research
 **[SpeechParaling-Bench: A Comprehensive Benchmark for Paralinguistic-Aware Speech Generation](http://arxiv.org/abs/2604.20842v1)**  
 _Paralinguistic cues are essential for natural human-computer interaction, yet their evaluation in Large Audio-Language Models (LALMs) remains limited by coarse feature coverage and the inherent subjec..._
 
 ### 💻 Trending Tech
-1. **[Alberta startup sells no-tech tractors for half price](https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/)** (⬆️ 1370)
-2. **[Apple fixes bug that cops used to extract deleted chat messages from iPhones](https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/)** (⬆️ 386)
-3. **[We found a stable Firefox identifier linking all your private Tor identities](https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/)** (⬆️ 459)
+1. **[Surveillance vendors caught abusing access to telcos to track people's locations](https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/)** (⬆️ 128)
+2. **[Show HN: Honker – Postgres NOTIFY/LISTEN Semantics for SQLite](https://github.com/russellromney/honker)** (⬆️ 63)
+3. **[Sneaky spam in conversational replies to blog posts](https://shkspr.mobi/blog/2026/04/sneaky-spam-in-conversational-replies-to-blog-posts/)** (⬆️ 44)
 <!-- AUTO-UPDATE-END -->
