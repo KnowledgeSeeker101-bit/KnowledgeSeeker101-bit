@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-04-22 13:27 UTC_
+_Last updated: 2026-04-23 02:38 UTC_
 
 ### 🔬 Latest AI Research
-**[Generalization at the Edge of Stability](http://arxiv.org/abs/2604.19740v1)**  
-_Training modern neural networks often relies on large learning rates, operating at the edge of stability, where the optimization dynamics exhibit oscillatory and chaotic behavior. Empirically, this re..._
+**[SpeechParaling-Bench: A Comprehensive Benchmark for Paralinguistic-Aware Speech Generation](http://arxiv.org/abs/2604.20842v1)**  
+_Paralinguistic cues are essential for natural human-computer interaction, yet their evaluation in Large Audio-Language Models (LALMs) remains limited by coarse feature coverage and the inherent subjec..._
 
 ### 💻 Trending Tech
-1. **[Windows 9x Subsystem for Linux](https://social.hails.org/@hailey/116446826733136456)** (⬆️ 311)
-2. **[3.4M Solar Panels](https://tech.marksblogg.com/american-solar-farms-v2.html)** (⬆️ 72)
-3. **[GitHub CLI now collects pseudoanonymous telemetry](https://cli.github.com/telemetry)** (⬆️ 85)
+1. **[Alberta startup sells no-tech tractors for half price](https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/)** (⬆️ 1370)
+2. **[Apple fixes bug that cops used to extract deleted chat messages from iPhones](https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/)** (⬆️ 386)
+3. **[We found a stable Firefox identifier linking all your private Tor identities](https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/)** (⬆️ 459)
 <!-- AUTO-UPDATE-END -->
