@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-04-24 13:24 UTC_
+_Last updated: 2026-04-25 02:28 UTC_
 
 ### 🔬 Latest AI Research
 **[Seeing Fast and Slow: Learning the Flow of Time in Videos](http://arxiv.org/abs/2604.21931v1)**  
 _How can we tell whether a video has been sped up or slowed down? How can we generate videos at different speeds? Although videos have been central to modern computer vision research, little attention ..._
 
 ### 💻 Trending Tech
-1. **[UK Biobank leak: Health details of 500 000 people are offered for sale](https://www.bmj.com/content/393/bmj.s781)** (⬆️ 121)
-2. **[The operating cost of adult and gambling startups](https://orchidfiles.com/stigma-is-a-tax-on-every-operational-decision/)** (⬆️ 37)
-3. **[S. Korea police arrest man over AI image of runaway wolf that misled authorities](https://www.bbc.com/news/articles/c4gx1n0dl9no)** (⬆️ 148)
+1. **[Google plans to invest up to $40B in Anthropic](https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic)** (⬆️ 361)
+2. **[My audio interface has SSH enabled by default](https://hhh.hn/rodecaster-duo-fw/)** (⬆️ 167)
+3. **[Iliad fragment found in Roman-era mummy](https://www.thehistoryblog.com/archives/75877)** (⬆️ 112)
 <!-- AUTO-UPDATE-END -->
