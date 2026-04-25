@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-04-25 02:28 UTC_
+_Last updated: 2026-04-25 13:04 UTC_
 
 ### 🔬 Latest AI Research
 **[Seeing Fast and Slow: Learning the Flow of Time in Videos](http://arxiv.org/abs/2604.21931v1)**  
 _How can we tell whether a video has been sped up or slowed down? How can we generate videos at different speeds? Although videos have been central to modern computer vision research, little attention ..._
 
 ### 💻 Trending Tech
-1. **[Google plans to invest up to $40B in Anthropic](https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic)** (⬆️ 361)
-2. **[My audio interface has SSH enabled by default](https://hhh.hn/rodecaster-duo-fw/)** (⬆️ 167)
-3. **[Iliad fragment found in Roman-era mummy](https://www.thehistoryblog.com/archives/75877)** (⬆️ 112)
+1. **[New 10 GbE USB adapters are cooler, smaller, cheaper](https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/)** (⬆️ 291)
+2. **[Google plans to invest up to $40B in Anthropic](https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic)** (⬆️ 644)
+3. **[How to Implement an FPS Counter](https://vplesko.com/posts/how_to_implement_an_fps_counter.html)** (⬆️ 58)
 <!-- AUTO-UPDATE-END -->
