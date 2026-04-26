@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-04-26 02:44 UTC_
+_Last updated: 2026-04-26 13:06 UTC_
 
 ### 🔬 Latest AI Research
 **[Seeing Fast and Slow: Learning the Flow of Time in Videos](http://arxiv.org/abs/2604.21931v1)**  
 _How can we tell whether a video has been sped up or slowed down? How can we generate videos at different speeds? Although videos have been central to modern computer vision research, little attention ..._
 
 ### 💻 Trending Tech
-1. **[Why has there been so little progress on Alzheimer's disease?](https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/)** (⬆️ 91)
-2. **[Amateur armed with ChatGPT solves an Erdős problem](https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/)** (⬆️ 35)
-3. **[USB Cheat Sheet (2022)](https://fabiensanglard.net/usbcheat/index.html)** (⬆️ 178)
+1. **[Asahi Linux Progress Linux 7.0](https://asahilinux.org/2026/04/progress-report-7-0/)** (⬆️ 107)
+2. **[Statecharts: hierarchical state machines](https://statecharts.dev/)** (⬆️ 86)
+3. **[Amateur armed with ChatGPT solves an Erdős problem](https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/)** (⬆️ 473)
 <!-- AUTO-UPDATE-END -->
