@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-04-25 13:04 UTC_
+_Last updated: 2026-04-26 02:44 UTC_
 
 ### 🔬 Latest AI Research
 **[Seeing Fast and Slow: Learning the Flow of Time in Videos](http://arxiv.org/abs/2604.21931v1)**  
 _How can we tell whether a video has been sped up or slowed down? How can we generate videos at different speeds? Although videos have been central to modern computer vision research, little attention ..._
 
 ### 💻 Trending Tech
-1. **[New 10 GbE USB adapters are cooler, smaller, cheaper](https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/)** (⬆️ 291)
-2. **[Google plans to invest up to $40B in Anthropic](https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic)** (⬆️ 644)
-3. **[How to Implement an FPS Counter](https://vplesko.com/posts/how_to_implement_an_fps_counter.html)** (⬆️ 58)
+1. **[Why has there been so little progress on Alzheimer's disease?](https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/)** (⬆️ 91)
+2. **[Amateur armed with ChatGPT solves an Erdős problem](https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/)** (⬆️ 35)
+3. **[USB Cheat Sheet (2022)](https://fabiensanglard.net/usbcheat/index.html)** (⬆️ 178)
 <!-- AUTO-UPDATE-END -->
