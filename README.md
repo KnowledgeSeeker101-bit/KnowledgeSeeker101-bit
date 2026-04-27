@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-04-26 13:06 UTC_
+_Last updated: 2026-04-27 02:47 UTC_
 
 ### 🔬 Latest AI Research
-**[Seeing Fast and Slow: Learning the Flow of Time in Videos](http://arxiv.org/abs/2604.21931v1)**  
-_How can we tell whether a video has been sped up or slowed down? How can we generate videos at different speeds? Although videos have been central to modern computer vision research, little attention ..._
+**[Spend Less, Fit Better: Budget-Efficient Scaling Law Fitting via Active Experiment Selection](http://arxiv.org/abs/2604.22753v1)**  
+_Scaling laws are used to plan multi-million-dollar training runs, but fitting those laws can itself cost millions. In modern large-scale workflows, assembling a sufficiently informative set of pilot e..._
 
 ### 💻 Trending Tech
-1. **[Asahi Linux Progress Linux 7.0](https://asahilinux.org/2026/04/progress-report-7-0/)** (⬆️ 107)
-2. **[Statecharts: hierarchical state machines](https://statecharts.dev/)** (⬆️ 86)
-3. **[Amateur armed with ChatGPT solves an Erdős problem](https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/)** (⬆️ 473)
+1. **[I bought Friendster for $30k – Here's what I'm doing with it](https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d)** (⬆️ 450)
+2. **[Self-updating screenshots](https://interblah.net/self-updating-screenshots)** (⬆️ 83)
+3. **[Three constraints before I build anything](https://jordanlord.co.uk/blog/3-constraints/)** (⬆️ 59)
 <!-- AUTO-UPDATE-END -->
