@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-04-27 02:47 UTC_
+_Last updated: 2026-04-27 13:53 UTC_
 
 ### 🔬 Latest AI Research
 **[Spend Less, Fit Better: Budget-Efficient Scaling Law Fitting via Active Experiment Selection](http://arxiv.org/abs/2604.22753v1)**  
 _Scaling laws are used to plan multi-million-dollar training runs, but fitting those laws can itself cost millions. In modern large-scale workflows, assembling a sufficiently informative set of pilot e..._
 
 ### 💻 Trending Tech
-1. **[I bought Friendster for $30k – Here's what I'm doing with it](https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d)** (⬆️ 450)
-2. **[Self-updating screenshots](https://interblah.net/self-updating-screenshots)** (⬆️ 83)
-3. **[Three constraints before I build anything](https://jordanlord.co.uk/blog/3-constraints/)** (⬆️ 59)
+1. **[Pgbackrest is no longer being maintained](https://github.com/pgbackrest/pgbackrest)** (⬆️ 204)
+2. **[Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview](https://github.com/dirac-run/dirac)** (⬆️ 60)
+3. **[The next phase of the Microsoft OpenAI partnership – OpenAI](https://openai.com/index/next-phase-of-microsoft-partnership/)** (⬆️ 20)
 <!-- AUTO-UPDATE-END -->
