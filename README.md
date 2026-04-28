@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-04-27 13:53 UTC_
+_Last updated: 2026-04-28 02:54 UTC_
 
 ### 🔬 Latest AI Research
-**[Spend Less, Fit Better: Budget-Efficient Scaling Law Fitting via Active Experiment Selection](http://arxiv.org/abs/2604.22753v1)**  
-_Scaling laws are used to plan multi-million-dollar training runs, but fitting those laws can itself cost millions. In modern large-scale workflows, assembling a sufficiently informative set of pilot e..._
+**[The Last Human-Written Paper: Agent-Native Research Artifacts](http://arxiv.org/abs/2604.24658v1)**  
+_Scientific publication compresses a branching, iterative research process into a linear narrative, discarding the majority of what was discovered along the way. This compilation imposes two structural..._
 
 ### 💻 Trending Tech
-1. **[Pgbackrest is no longer being maintained](https://github.com/pgbackrest/pgbackrest)** (⬆️ 204)
-2. **[Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview](https://github.com/dirac-run/dirac)** (⬆️ 60)
-3. **[The next phase of the Microsoft OpenAI partnership – OpenAI](https://openai.com/index/next-phase-of-microsoft-partnership/)** (⬆️ 20)
+1. **[Microsoft and OpenAI end their exclusive and revenue-sharing deal](https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai)** (⬆️ 771)
+2. **[Integrated by Design](https://vivianvoss.net/blog/integrated-by-design-launch)** (⬆️ 72)
+3. **[Talkie: a 13B vintage language model from 1930](https://talkie-lm.com/introducing-talkie)** (⬆️ 105)
 <!-- AUTO-UPDATE-END -->
