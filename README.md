@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-04-28 02:54 UTC_
+_Last updated: 2026-04-29 02:53 UTC_
 
 ### 🔬 Latest AI Research
-**[The Last Human-Written Paper: Agent-Native Research Artifacts](http://arxiv.org/abs/2604.24658v1)**  
-_Scientific publication compresses a branching, iterative research process into a linear narrative, discarding the majority of what was discovered along the way. This compilation imposes two structural..._
+**[Recursive Multi-Agent Systems](http://arxiv.org/abs/2604.25917v1)**  
+_Recursive or looped language models have recently emerged as a new scaling axis by iteratively refining the same model computation over latent states to deepen reasoning. We extend such scaling princi..._
 
 ### 💻 Trending Tech
-1. **[Microsoft and OpenAI end their exclusive and revenue-sharing deal](https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai)** (⬆️ 771)
-2. **[Integrated by Design](https://vivianvoss.net/blog/integrated-by-design-launch)** (⬆️ 72)
-3. **[Talkie: a 13B vintage language model from 1930](https://talkie-lm.com/introducing-talkie)** (⬆️ 105)
+1. **[Ghostty is leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github)** (⬆️ 1811)
+2. **[Claude system prompt bug wastes user money and bricks managed agents](https://github.com/anthropics/claude-code/issues/49363)** (⬆️ 134)
+3. **[How ChatGPT serves ads](https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/)** (⬆️ 175)
 <!-- AUTO-UPDATE-END -->
