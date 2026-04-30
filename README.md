@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-04-29 02:53 UTC_
+_Last updated: 2026-04-30 02:54 UTC_
 
 ### 🔬 Latest AI Research
-**[Recursive Multi-Agent Systems](http://arxiv.org/abs/2604.25917v1)**  
-_Recursive or looped language models have recently emerged as a new scaling axis by iteratively refining the same model computation over latent states to deepen reasoning. We extend such scaling princi..._
+**[Turning the TIDE: Cross-Architecture Distillation for Diffusion Large Language Models](http://arxiv.org/abs/2604.26951v1)**  
+_Diffusion large language models (dLLMs) offer parallel decoding and bidirectional context, but state-of-the-art dLLMs require billions of parameters for competitive performance. While existing distill..._
 
 ### 💻 Trending Tech
-1. **[Ghostty is leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github)** (⬆️ 1811)
-2. **[Claude system prompt bug wastes user money and bricks managed agents](https://github.com/anthropics/claude-code/issues/49363)** (⬆️ 134)
-3. **[How ChatGPT serves ads](https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/)** (⬆️ 175)
+1. **[Craig Venter has died](https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79)** (⬆️ 72)
+2. **[Zed 1.0](https://zed.dev/blog/zed-1-0)** (⬆️ 1578)
+3. **[Copy Fail](https://copy.fail/)** (⬆️ 642)
 <!-- AUTO-UPDATE-END -->
