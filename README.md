@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-05-01 03:25 UTC_
+_Last updated: 2026-05-01 13:18 UTC_
 
 ### 🔬 Latest AI Research
 **[Computing Equilibrium beyond Unilateral Deviation](http://arxiv.org/abs/2604.28186v1)**  
 _Most familiar equilibrium concepts, such as Nash and correlated equilibrium, guarantee only that no single player can improve their utility by deviating unilaterally. They offer no guarantees against ..._
 
 ### 💻 Trending Tech
-1. **[OpenWarp](https://openwarp.zerx.dev)** (⬆️ 43)
-2. **[How Mark Klein told the EFF about Room 641A [book excerpt]](https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/)** (⬆️ 464)
-3. **[Opus 4.7 knows the real Kelsey](https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously)** (⬆️ 208)
+1. **[Your Website Is Not for You](https://websmith.studio/blog/your-website-is-not-for-you/)** (⬆️ 87)
+2. **[Running Adobe's 1991 PostScript Interpreter in the Browser](https://www.pagetable.com/?p=1854)** (⬆️ 24)
+3. **[Show HN: Site Mogging](https://sitemogging.com)** (⬆️ 24)
 <!-- AUTO-UPDATE-END -->
