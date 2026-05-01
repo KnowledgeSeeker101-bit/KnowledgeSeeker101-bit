@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-04-30 02:54 UTC_
+_Last updated: 2026-05-01 03:25 UTC_
 
 ### 🔬 Latest AI Research
-**[Turning the TIDE: Cross-Architecture Distillation for Diffusion Large Language Models](http://arxiv.org/abs/2604.26951v1)**  
-_Diffusion large language models (dLLMs) offer parallel decoding and bidirectional context, but state-of-the-art dLLMs require billions of parameters for competitive performance. While existing distill..._
+**[Computing Equilibrium beyond Unilateral Deviation](http://arxiv.org/abs/2604.28186v1)**  
+_Most familiar equilibrium concepts, such as Nash and correlated equilibrium, guarantee only that no single player can improve their utility by deviating unilaterally. They offer no guarantees against ..._
 
 ### 💻 Trending Tech
-1. **[Craig Venter has died](https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79)** (⬆️ 72)
-2. **[Zed 1.0](https://zed.dev/blog/zed-1-0)** (⬆️ 1578)
-3. **[Copy Fail](https://copy.fail/)** (⬆️ 642)
+1. **[OpenWarp](https://openwarp.zerx.dev)** (⬆️ 43)
+2. **[How Mark Klein told the EFF about Room 641A [book excerpt]](https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/)** (⬆️ 464)
+3. **[Opus 4.7 knows the real Kelsey](https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously)** (⬆️ 208)
 <!-- AUTO-UPDATE-END -->
