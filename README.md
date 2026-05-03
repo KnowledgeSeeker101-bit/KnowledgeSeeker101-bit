@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-05-03 02:54 UTC_
+_Last updated: 2026-05-03 13:10 UTC_
 
 ### 🔬 Latest AI Research
 **[Computing Equilibrium beyond Unilateral Deviation](http://arxiv.org/abs/2604.28186v1)**  
 _Most familiar equilibrium concepts, such as Nash and correlated equilibrium, guarantee only that no single player can improve their utility by deviating unilaterally. They offer no guarantees against ..._
 
 ### 💻 Trending Tech
-1. **[VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage](https://github.com/microsoft/vscode/pull/310226)** (⬆️ 868)
-2. **[A Couple Million Lines of Haskell: Production Engineering at Mercury](https://blog.haskell.org/a-couple-million-lines-of-haskell/)** (⬆️ 67)
-3. **[This Month in Ladybird - April 2026](https://ladybird.org/newsletter/2026-04-30/)** (⬆️ 169)
+1. **[Show HN: Apple's Sharp Running in the Browser via ONNX Runtime Web](https://github.com/bring-shrubbery/ml-sharp-web)** (⬆️ 52)
+2. **[A couple million lines of Haskell: Production engineering at Mercury](https://blog.haskell.org/a-couple-million-lines-of-haskell/)** (⬆️ 299)
+3. **[This Month in Ladybird – April 2026](https://ladybird.org/newsletter/2026-04-30/)** (⬆️ 391)
 <!-- AUTO-UPDATE-END -->
