@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-05-02 13:12 UTC_
+_Last updated: 2026-05-03 02:54 UTC_
 
 ### 🔬 Latest AI Research
 **[Computing Equilibrium beyond Unilateral Deviation](http://arxiv.org/abs/2604.28186v1)**  
 _Most familiar equilibrium concepts, such as Nash and correlated equilibrium, guarantee only that no single player can improve their utility by deviating unilaterally. They offer no guarantees against ..._
 
 ### 💻 Trending Tech
-1. **[How fast is a macOS VM, and how small could it be?](https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/)** (⬆️ 76)
-2. **[Why does it take so long to release black fan versions?](https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions)** (⬆️ 365)
-3. **[Why are there both TMP and TEMP environment variables? (2015)](https://devblogs.microsoft.com/oldnewthing/20150417-00/?p=44213)** (⬆️ 77)
+1. **[VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage](https://github.com/microsoft/vscode/pull/310226)** (⬆️ 868)
+2. **[A Couple Million Lines of Haskell: Production Engineering at Mercury](https://blog.haskell.org/a-couple-million-lines-of-haskell/)** (⬆️ 67)
+3. **[This Month in Ladybird - April 2026](https://ladybird.org/newsletter/2026-04-30/)** (⬆️ 169)
 <!-- AUTO-UPDATE-END -->
