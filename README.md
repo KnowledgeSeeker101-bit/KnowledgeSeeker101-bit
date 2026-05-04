@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-05-04 02:52 UTC_
+_Last updated: 2026-05-04 14:01 UTC_
 
 ### 🔬 Latest AI Research
 **[HyCOP: Hybrid Composition Operators for Interpretable Learning of PDEs](http://arxiv.org/abs/2605.00820v1)**  
 _We introduce HyCOP, a modular framework that learns parametric PDE solution operators by composing simple modules (advection, diffusion, learned closures, boundary handling) in a query-conditioned way..._
 
 ### 💻 Trending Tech
-1. **[BYOMesh – New LoRa mesh radio offers 100x the bandwidth](https://partyon.xyz/@nullagent/116499715071759135)** (⬆️ 268)
-2. **[Using "underdrawings" for accurate text and numbers](https://samcollins.blog/underdrawings/)** (⬆️ 45)
-3. **[Let's Buy Spirit Air](https://letsbuyspiritair.com/)** (⬆️ 167)
+1. **[Talking to 35 Strangers at the Gym](https://thienantran.com/talking-to-35-strangers-at-the-gym/)** (⬆️ 226)
+2. **[GameStop makes $55.5B takeover offer for eBay](https://www.bbc.co.uk/news/articles/cn0p8yled1do)** (⬆️ 324)
+3. **[Newton's law of gravity passes its biggest test](https://www.science.org/content/article/newton-s-law-gravity-passes-its-biggest-test-ever)** (⬆️ 31)
 <!-- AUTO-UPDATE-END -->
