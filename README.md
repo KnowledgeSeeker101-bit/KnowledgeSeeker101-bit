@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-05-03 13:10 UTC_
+_Last updated: 2026-05-04 02:52 UTC_
 
 ### 🔬 Latest AI Research
-**[Computing Equilibrium beyond Unilateral Deviation](http://arxiv.org/abs/2604.28186v1)**  
-_Most familiar equilibrium concepts, such as Nash and correlated equilibrium, guarantee only that no single player can improve their utility by deviating unilaterally. They offer no guarantees against ..._
+**[HyCOP: Hybrid Composition Operators for Interpretable Learning of PDEs](http://arxiv.org/abs/2605.00820v1)**  
+_We introduce HyCOP, a modular framework that learns parametric PDE solution operators by composing simple modules (advection, diffusion, learned closures, boundary handling) in a query-conditioned way..._
 
 ### 💻 Trending Tech
-1. **[Show HN: Apple's Sharp Running in the Browser via ONNX Runtime Web](https://github.com/bring-shrubbery/ml-sharp-web)** (⬆️ 52)
-2. **[A couple million lines of Haskell: Production engineering at Mercury](https://blog.haskell.org/a-couple-million-lines-of-haskell/)** (⬆️ 299)
-3. **[This Month in Ladybird – April 2026](https://ladybird.org/newsletter/2026-04-30/)** (⬆️ 391)
+1. **[BYOMesh – New LoRa mesh radio offers 100x the bandwidth](https://partyon.xyz/@nullagent/116499715071759135)** (⬆️ 268)
+2. **[Using "underdrawings" for accurate text and numbers](https://samcollins.blog/underdrawings/)** (⬆️ 45)
+3. **[Let's Buy Spirit Air](https://letsbuyspiritair.com/)** (⬆️ 167)
 <!-- AUTO-UPDATE-END -->
