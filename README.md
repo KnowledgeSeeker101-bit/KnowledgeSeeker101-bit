@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-05-04 14:01 UTC_
+_Last updated: 2026-05-05 02:44 UTC_
 
 ### 🔬 Latest AI Research
-**[HyCOP: Hybrid Composition Operators for Interpretable Learning of PDEs](http://arxiv.org/abs/2605.00820v1)**  
-_We introduce HyCOP, a modular framework that learns parametric PDE solution operators by composing simple modules (advection, diffusion, learned closures, boundary handling) in a query-conditioned way..._
+**[Enhancing RL Generalizability in Robotics through SHAP Analysis of Algorithms and Hyperparameters](http://arxiv.org/abs/2605.02867v1)**  
+_Despite significant advances in Reinforcement Learning (RL), model performance remains highly sensitive to algorithm and hyperparameter configurations, while generalization gaps across environments co..._
 
 ### 💻 Trending Tech
-1. **[Talking to 35 Strangers at the Gym](https://thienantran.com/talking-to-35-strangers-at-the-gym/)** (⬆️ 226)
-2. **[GameStop makes $55.5B takeover offer for eBay](https://www.bbc.co.uk/news/articles/cn0p8yled1do)** (⬆️ 324)
-3. **[Newton's law of gravity passes its biggest test](https://www.science.org/content/article/newton-s-law-gravity-passes-its-biggest-test-ever)** (⬆️ 31)
+1. **[Bun is being ported from Zig to Rust](https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5)** (⬆️ 164)
+2. **[How OpenAI delivers low-latency voice AI at scale](https://openai.com/index/delivering-low-latency-voice-ai-at-scale/)** (⬆️ 301)
+3. **[Talking to strangers at the gym](https://thienantran.com/talking-to-35-strangers-at-the-gym/)** (⬆️ 1188)
 <!-- AUTO-UPDATE-END -->
