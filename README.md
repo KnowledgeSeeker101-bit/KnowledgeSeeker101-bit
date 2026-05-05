@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-05-05 02:44 UTC_
+_Last updated: 2026-05-05 13:54 UTC_
 
 ### 🔬 Latest AI Research
-**[Enhancing RL Generalizability in Robotics through SHAP Analysis of Algorithms and Hyperparameters](http://arxiv.org/abs/2605.02867v1)**  
-_Despite significant advances in Reinforcement Learning (RL), model performance remains highly sensitive to algorithm and hyperparameter configurations, while generalization gaps across environments co..._
+**[SpecKV: Adaptive Speculative Decoding with Compression-Aware Gamma Selection](http://arxiv.org/abs/2605.02888v1)**  
+_Speculative decoding accelerates large language model (LLM) inference by using a small draft model to propose candidate tokens that a larger target model verifies. A critical hyperparameter in this pr..._
 
 ### 💻 Trending Tech
-1. **[Bun is being ported from Zig to Rust](https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5)** (⬆️ 164)
-2. **[How OpenAI delivers low-latency voice AI at scale](https://openai.com/index/delivering-low-latency-voice-ai-at-scale/)** (⬆️ 301)
-3. **[Talking to strangers at the gym](https://thienantran.com/talking-to-35-strangers-at-the-gym/)** (⬆️ 1188)
+1. **[iOS 27 is adding a 'Create a Pass' button to Apple Wallet](https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/)** (⬆️ 106)
+2. **[AI Product Graveyard](https://tooldirectory.ai/ai-graveyard)** (⬆️ 73)
+3. **[Async Rust never left the MVP state](https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state)** (⬆️ 287)
 <!-- AUTO-UPDATE-END -->
