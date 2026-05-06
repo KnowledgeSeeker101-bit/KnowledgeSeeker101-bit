@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-05-05 13:54 UTC_
+_Last updated: 2026-05-06 02:50 UTC_
 
 ### 🔬 Latest AI Research
-**[SpecKV: Adaptive Speculative Decoding with Compression-Aware Gamma Selection](http://arxiv.org/abs/2605.02888v1)**  
-_Speculative decoding accelerates large language model (LLM) inference by using a small draft model to propose candidate tokens that a larger target model verifies. A critical hyperparameter in this pr..._
+**[A Closed-Form Adaptive-Landmark Kernel for Certified Point-Cloud and Graph Classification](http://arxiv.org/abs/2605.04046v1)**  
+_We introduce PALACE (Persistence Adaptive-Landmark Analytic Classification Engine), the data-adaptive companion to PLACE, paying a small cross-validation tier on three knobs (budget, radii, bandwidth;..._
 
 ### 💻 Trending Tech
-1. **[iOS 27 is adding a 'Create a Pass' button to Apple Wallet](https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/)** (⬆️ 106)
-2. **[AI Product Graveyard](https://tooldirectory.ai/ai-graveyard)** (⬆️ 73)
-3. **[Async Rust never left the MVP state](https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state)** (⬆️ 287)
+1. **[.de TLD offline due to DNSSEC?](https://dnssec-analyzer.verisignlabs.com/nic.de)** (⬆️ 547)
+2. **[StarFighter 16-Inch](https://us.starlabs.systems/pages/starfighter)** (⬆️ 23)
+3. **[Accelerating Gemma 4: faster inference with multi-token prediction drafters](https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/)** (⬆️ 467)
 <!-- AUTO-UPDATE-END -->
