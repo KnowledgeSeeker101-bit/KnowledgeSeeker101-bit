@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-05-07 02:51 UTC_
+_Last updated: 2026-05-07 14:08 UTC_
 
 ### 🔬 Latest AI Research
 **[Taming Outlier Tokens in Diffusion Transformers](http://arxiv.org/abs/2605.05206v1)**  
 _We study outlier tokens in Diffusion Transformers (DiTs) for image generation. Prior work has shown that Vision Transformers (ViTs) can produce a small number of high-norm tokens that attract dispropo..._
 
 ### 💻 Trending Tech
-1. **[Valve releases Steam Controller CAD files under Creative Commons license](https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license)** (⬆️ 1101)
-2. **[The Vatican's Website in Latin](https://www.vatican.va/latin/latin_index.html)** (⬆️ 46)
-3. **[Appearing productive in the workplace](https://nooneshappy.com/article/appearing-productive-in-the-workplace/)** (⬆️ 761)
+1. **[RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust](https://ratex.lites.dev/)** (⬆️ 49)
+2. **[Valve releases Steam Controller CAD files under Creative Commons license](https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license)** (⬆️ 1589)
+3. **[Indian matchbox labels as a visual archive](https://www.itsnicethat.com/features/the-view-from-mumbai-matchbook-graphic-design-130426)** (⬆️ 57)
 <!-- AUTO-UPDATE-END -->
