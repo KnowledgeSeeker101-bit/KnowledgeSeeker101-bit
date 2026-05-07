@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-05-06 02:50 UTC_
+_Last updated: 2026-05-07 02:51 UTC_
 
 ### 🔬 Latest AI Research
-**[A Closed-Form Adaptive-Landmark Kernel for Certified Point-Cloud and Graph Classification](http://arxiv.org/abs/2605.04046v1)**  
-_We introduce PALACE (Persistence Adaptive-Landmark Analytic Classification Engine), the data-adaptive companion to PLACE, paying a small cross-validation tier on three knobs (budget, radii, bandwidth;..._
+**[Taming Outlier Tokens in Diffusion Transformers](http://arxiv.org/abs/2605.05206v1)**  
+_We study outlier tokens in Diffusion Transformers (DiTs) for image generation. Prior work has shown that Vision Transformers (ViTs) can produce a small number of high-norm tokens that attract dispropo..._
 
 ### 💻 Trending Tech
-1. **[.de TLD offline due to DNSSEC?](https://dnssec-analyzer.verisignlabs.com/nic.de)** (⬆️ 547)
-2. **[StarFighter 16-Inch](https://us.starlabs.systems/pages/starfighter)** (⬆️ 23)
-3. **[Accelerating Gemma 4: faster inference with multi-token prediction drafters](https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/)** (⬆️ 467)
+1. **[Valve releases Steam Controller CAD files under Creative Commons license](https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license)** (⬆️ 1101)
+2. **[The Vatican's Website in Latin](https://www.vatican.va/latin/latin_index.html)** (⬆️ 46)
+3. **[Appearing productive in the workplace](https://nooneshappy.com/article/appearing-productive-in-the-workplace/)** (⬆️ 761)
 <!-- AUTO-UPDATE-END -->
