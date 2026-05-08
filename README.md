@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-05-07 14:08 UTC_
+_Last updated: 2026-05-08 02:54 UTC_
 
 ### 🔬 Latest AI Research
-**[Taming Outlier Tokens in Diffusion Transformers](http://arxiv.org/abs/2605.05206v1)**  
-_We study outlier tokens in Diffusion Transformers (DiTs) for image generation. Prior work has shown that Vision Transformers (ViTs) can produce a small number of high-norm tokens that attract dispropo..._
+**[ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation](http://arxiv.org/abs/2605.06667v1)**  
+_For artistic applications, video generation requires fine-grained control over both performance and cinematography, i.e., the actor's motion and the camera trajectory. We present ActCam, a zero-shot m..._
 
 ### 💻 Trending Tech
-1. **[RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust](https://ratex.lites.dev/)** (⬆️ 49)
-2. **[Valve releases Steam Controller CAD files under Creative Commons license](https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license)** (⬆️ 1589)
-3. **[Indian matchbox labels as a visual archive](https://www.itsnicethat.com/features/the-view-from-mumbai-matchbook-graphic-design-130426)** (⬆️ 57)
+1. **[Canvas is down as ShinyHunters threatens to leak schools’ data](https://www.theverge.com/tech/926458/canvas-shinyhunters-breach)** (⬆️ 294)
+2. **[Maybe you shouldn't install new software for a bit](https://xeiaso.net/blog/2026/abstain-from-install/)** (⬆️ 182)
+3. **[Dirtyfrag: Universal Linux LPE](https://www.openwall.com/lists/oss-security/2026/05/07/8)** (⬆️ 451)
 <!-- AUTO-UPDATE-END -->
