@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-05-09 02:50 UTC_
+_Last updated: 2026-05-09 13:17 UTC_
 
 ### 🔬 Latest AI Research
 **[ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation](http://arxiv.org/abs/2605.06667v1)**  
 _For artistic applications, video generation requires fine-grained control over both performance and cinematography, i.e., the actor's motion and the camera trajectory. We present ActCam, a zero-shot m..._
 
 ### 💻 Trending Tech
-1. **[Google broke reCAPTCHA for de-googled Android users](https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users)** (⬆️ 672)
-2. **[OpenAI's WebRTC problem](https://moq.dev/blog/webrtc-is-the-problem/)** (⬆️ 144)
-3. **[AI is breaking two vulnerability cultures](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures)** (⬆️ 259)
+1. **[Internet Archive Switzerland](https://internetarchive.ch/)** (⬆️ 69)
+2. **[Forking the Web](https://dillo-browser.org/lab/web-fork/)** (⬆️ 31)
+3. **[A recent experience with ChatGPT 5.5 Pro](https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/)** (⬆️ 416)
 <!-- AUTO-UPDATE-END -->
