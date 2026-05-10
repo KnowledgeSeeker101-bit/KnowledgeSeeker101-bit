@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-05-09 13:17 UTC_
+_Last updated: 2026-05-10 02:56 UTC_
 
 ### 🔬 Latest AI Research
 **[ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation](http://arxiv.org/abs/2605.06667v1)**  
 _For artistic applications, video generation requires fine-grained control over both performance and cinematography, i.e., the actor's motion and the camera trajectory. We present ActCam, a zero-shot m..._
 
 ### 💻 Trending Tech
-1. **[Internet Archive Switzerland](https://internetarchive.ch/)** (⬆️ 69)
-2. **[Forking the Web](https://dillo-browser.org/lab/web-fork/)** (⬆️ 31)
-3. **[A recent experience with ChatGPT 5.5 Pro](https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/)** (⬆️ 416)
+1. **[Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc](https://twitter.com/jarredsumner/status/2053047748191232310)** (⬆️ 442)
+2. **[Internet Archive Switzerland](https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/)** (⬆️ 552)
+3. **[Show HN: Rust but Lisp](https://github.com/ThatXliner/rust-but-lisp)** (⬆️ 92)
 <!-- AUTO-UPDATE-END -->
