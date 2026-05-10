@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-05-10 02:56 UTC_
+_Last updated: 2026-05-10 13:18 UTC_
 
 ### 🔬 Latest AI Research
 **[ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation](http://arxiv.org/abs/2605.06667v1)**  
 _For artistic applications, video generation requires fine-grained control over both performance and cinematography, i.e., the actor's motion and the camera trajectory. We present ActCam, a zero-shot m..._
 
 ### 💻 Trending Tech
-1. **[Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc](https://twitter.com/jarredsumner/status/2053047748191232310)** (⬆️ 442)
-2. **[Internet Archive Switzerland](https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/)** (⬆️ 552)
-3. **[Show HN: Rust but Lisp](https://github.com/ThatXliner/rust-but-lisp)** (⬆️ 92)
+1. **[Space Cadet Pinball on Linux](https://brennan.io/2026/05/09/pinball-and-escrow/)** (⬆️ 86)
+2. **[I returned to AWS, and was reminded why I left](http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html)** (⬆️ 94)
+3. **[Idempotency Is Easy Until the Second Request Is Different](https://blog.dochia.dev/blog/idempotency/)** (⬆️ 142)
 <!-- AUTO-UPDATE-END -->
