@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-05-10 13:18 UTC_
+_Last updated: 2026-05-11 03:32 UTC_
 
 ### 🔬 Latest AI Research
-**[ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation](http://arxiv.org/abs/2605.06667v1)**  
-_For artistic applications, video generation requires fine-grained control over both performance and cinematography, i.e., the actor's motion and the camera trajectory. We present ActCam, a zero-shot m..._
+**[Normalizing Trajectory Models](http://arxiv.org/abs/2605.08078v1)**  
+_Diffusion-based models decompose sampling into many small Gaussian denoising steps -- an assumption that breaks down when generation is compressed to a few coarse transitions. Existing few-step method..._
 
 ### 💻 Trending Tech
-1. **[Space Cadet Pinball on Linux](https://brennan.io/2026/05/09/pinball-and-escrow/)** (⬆️ 86)
-2. **[I returned to AWS, and was reminded why I left](http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html)** (⬆️ 94)
-3. **[Idempotency Is Easy Until the Second Request Is Different](https://blog.dochia.dev/blog/idempotency/)** (⬆️ 142)
+1. **[Hardware Attestation as Monopoly Enabler](https://grapheneos.social/@GrapheneOS/116550899908879585)** (⬆️ 1006)
+2. **[Local AI needs to be the norm](https://unix.foo/posts/local-ai-needs-to-be-norm/)** (⬆️ 693)
+3. **[I'm going back to writing code by hand](https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/)** (⬆️ 106)
 <!-- AUTO-UPDATE-END -->
