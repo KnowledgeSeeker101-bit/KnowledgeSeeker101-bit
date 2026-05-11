@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-05-11 03:32 UTC_
+_Last updated: 2026-05-11 14:51 UTC_
 
 ### 🔬 Latest AI Research
 **[Normalizing Trajectory Models](http://arxiv.org/abs/2605.08078v1)**  
 _Diffusion-based models decompose sampling into many small Gaussian denoising steps -- an assumption that breaks down when generation is compressed to a few coarse transitions. Existing few-step method..._
 
 ### 💻 Trending Tech
-1. **[Hardware Attestation as Monopoly Enabler](https://grapheneos.social/@GrapheneOS/116550899908879585)** (⬆️ 1006)
-2. **[Local AI needs to be the norm](https://unix.foo/posts/local-ai-needs-to-be-norm/)** (⬆️ 693)
-3. **[I'm going back to writing code by hand](https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/)** (⬆️ 106)
+1. **[Ratty – A terminal emulator with inline 3D graphics](https://ratty-term.org/)** (⬆️ 311)
+2. **[Killed by Apple](https://killedbyapple.theden.sh/)** (⬆️ 47)
+3. **[Hardware Attestation as Monopoly Enabler](https://grapheneos.social/@GrapheneOS/116550899908879585)** (⬆️ 1864)
 <!-- AUTO-UPDATE-END -->
