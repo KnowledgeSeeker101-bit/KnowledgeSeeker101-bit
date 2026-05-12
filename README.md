@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-05-11 14:51 UTC_
+_Last updated: 2026-05-12 14:25 UTC_
 
 ### 🔬 Latest AI Research
-**[Normalizing Trajectory Models](http://arxiv.org/abs/2605.08078v1)**  
-_Diffusion-based models decompose sampling into many small Gaussian denoising steps -- an assumption that breaks down when generation is compressed to a few coarse transitions. Existing few-step method..._
+**[ELF: Embedded Language Flows](http://arxiv.org/abs/2605.10938v1)**  
+_Diffusion and flow-based models have become the de facto approaches for generating continuous data, e.g., in domains such as images and videos. Their success has attracted growing interest in applying..._
 
 ### 💻 Trending Tech
-1. **[Ratty – A terminal emulator with inline 3D graphics](https://ratty-term.org/)** (⬆️ 311)
-2. **[Killed by Apple](https://killedbyapple.theden.sh/)** (⬆️ 47)
-3. **[Hardware Attestation as Monopoly Enabler](https://grapheneos.social/@GrapheneOS/116550899908879585)** (⬆️ 1864)
+1. **[Learning Software Architecture](https://matklad.github.io/2026/05/12/software-architecture.html)** (⬆️ 290)
+2. **[Rendering the Sky, Sunsets, and Planets](https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/)** (⬆️ 41)
+3. **[Screenshots of Old Desktop OSes](http://www.typewritten.org/Media/)** (⬆️ 416)
 <!-- AUTO-UPDATE-END -->
