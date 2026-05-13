@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-05-13 03:27 UTC_
+_Last updated: 2026-05-13 14:33 UTC_
 
 ### 🔬 Latest AI Research
 **[AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via Decompositional Verifiable Reward](http://arxiv.org/abs/2605.12495v1)**  
 _In this paper, we propose AlphaGRPO, a novel framework that applies Group Relative Policy Optimization (GRPO) to AR-Diffusion Unified Multimodal Models (UMMs) to enhance multimodal generation capabili..._
 
 ### 💻 Trending Tech
-1. **[Starship V3](https://www.spacex.com/updates#starship-v3)** (⬆️ 100)
-2. **[Restore full BambuNetwork support for Bambu Lab printers](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** (⬆️ 233)
-3. **[Googlebook](https://googlebook.google/)** (⬆️ 646)
+1. **[I Moved My Digital Stack to Europe](https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/)** (⬆️ 402)
+2. **[Why I'm leaving GitHub for Forgejo](https://jorijn.com/en/blog/leaving-github-for-forgejo/)** (⬆️ 165)
+3. **[An idiot's guide to lead optimisation for proteins](https://magnusross.github.io/posts/protein-lead-optimisation-1/)** (⬆️ 35)
 <!-- AUTO-UPDATE-END -->
