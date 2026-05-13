@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-05-12 14:25 UTC_
+_Last updated: 2026-05-13 03:27 UTC_
 
 ### 🔬 Latest AI Research
-**[ELF: Embedded Language Flows](http://arxiv.org/abs/2605.10938v1)**  
-_Diffusion and flow-based models have become the de facto approaches for generating continuous data, e.g., in domains such as images and videos. Their success has attracted growing interest in applying..._
+**[AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via Decompositional Verifiable Reward](http://arxiv.org/abs/2605.12495v1)**  
+_In this paper, we propose AlphaGRPO, a novel framework that applies Group Relative Policy Optimization (GRPO) to AR-Diffusion Unified Multimodal Models (UMMs) to enhance multimodal generation capabili..._
 
 ### 💻 Trending Tech
-1. **[Learning Software Architecture](https://matklad.github.io/2026/05/12/software-architecture.html)** (⬆️ 290)
-2. **[Rendering the Sky, Sunsets, and Planets](https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/)** (⬆️ 41)
-3. **[Screenshots of Old Desktop OSes](http://www.typewritten.org/Media/)** (⬆️ 416)
+1. **[Starship V3](https://www.spacex.com/updates#starship-v3)** (⬆️ 100)
+2. **[Restore full BambuNetwork support for Bambu Lab printers](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)** (⬆️ 233)
+3. **[Googlebook](https://googlebook.google/)** (⬆️ 646)
 <!-- AUTO-UPDATE-END -->
