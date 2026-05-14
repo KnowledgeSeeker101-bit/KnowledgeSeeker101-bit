@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-05-13 14:33 UTC_
+_Last updated: 2026-05-14 03:27 UTC_
 
 ### 🔬 Latest AI Research
-**[AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via Decompositional Verifiable Reward](http://arxiv.org/abs/2605.12495v1)**  
-_In this paper, we propose AlphaGRPO, a novel framework that applies Group Relative Policy Optimization (GRPO) to AR-Diffusion Unified Multimodal Models (UMMs) to enhance multimodal generation capabili..._
+**[WARDEN: Endangered Indigenous Language Transcription and Translation with 6 Hours of Training Data](http://arxiv.org/abs/2605.13846v1)**  
+_This paper introduces WARDEN, an early language model system capable of transcribing and translating Wardaman, an endangered Australian indigenous language into English. The significant challenge we f..._
 
 ### 💻 Trending Tech
-1. **[I Moved My Digital Stack to Europe](https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/)** (⬆️ 402)
-2. **[Why I'm leaving GitHub for Forgejo](https://jorijn.com/en/blog/leaving-github-for-forgejo/)** (⬆️ 165)
-3. **[An idiot's guide to lead optimisation for proteins](https://magnusross.github.io/posts/protein-lead-optimisation-1/)** (⬆️ 35)
+1. **[Scorched Earth 2000 is back](http://www.scorch2000.com/web/)** (⬆️ 134)
+2. **[Linux gaming is faster because Windows APIs are becoming Linux kernel features](https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/)** (⬆️ 575)
+3. **[Setting up a free *.city.state.us locality domain (2025)](https://fredchan.org/blog/locality-domains-guide/)** (⬆️ 517)
 <!-- AUTO-UPDATE-END -->
