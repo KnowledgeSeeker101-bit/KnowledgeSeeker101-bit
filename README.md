@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-05-14 03:27 UTC_
+_Last updated: 2026-05-15 03:31 UTC_
 
 ### 🔬 Latest AI Research
-**[WARDEN: Endangered Indigenous Language Transcription and Translation with 6 Hours of Training Data](http://arxiv.org/abs/2605.13846v1)**  
-_This paper introduces WARDEN, an early language model system capable of transcribing and translating Wardaman, an endangered Australian indigenous language into English. The significant challenge we f..._
+**[EntityBench: Towards Entity-Consistent Long-Range Multi-Shot Video Generation](http://arxiv.org/abs/2605.15199v1)**  
+_Multi-shot video generation extends single-shot generation to coherent visual narratives, yet maintaining consistent characters, objects, and locations across shots remains a challenge over long seque..._
 
 ### 💻 Trending Tech
-1. **[Scorched Earth 2000 is back](http://www.scorch2000.com/web/)** (⬆️ 134)
-2. **[Linux gaming is faster because Windows APIs are becoming Linux kernel features](https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/)** (⬆️ 575)
-3. **[Setting up a free *.city.state.us locality domain (2025)](https://fredchan.org/blog/locality-domains-guide/)** (⬆️ 517)
+1. **[Mullvad exit IPs are surprisingly identifying](https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/)** (⬆️ 66)
+2. **[Removing the modem and GPS from my 2024 RAV4 hybrid](https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/)** (⬆️ 669)
+3. **[A few words on DS4](https://antirez.com/news/165)** (⬆️ 192)
 <!-- AUTO-UPDATE-END -->
