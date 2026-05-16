@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-05-15 03:31 UTC_
+_Last updated: 2026-05-16 02:54 UTC_
 
 ### 🔬 Latest AI Research
 **[EntityBench: Towards Entity-Consistent Long-Range Multi-Shot Video Generation](http://arxiv.org/abs/2605.15199v1)**  
 _Multi-shot video generation extends single-shot generation to coherent visual narratives, yet maintaining consistent characters, objects, and locations across shots remains a challenge over long seque..._
 
 ### 💻 Trending Tech
-1. **[Mullvad exit IPs are surprisingly identifying](https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/)** (⬆️ 66)
-2. **[Removing the modem and GPS from my 2024 RAV4 hybrid](https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/)** (⬆️ 669)
-3. **[A few words on DS4](https://antirez.com/news/165)** (⬆️ 192)
+1. **[Project Gutenberg – keeps getting better](https://www.gutenberg.org/)** (⬆️ 740)
+2. **[I believe there are entire companies right now under AI psychosis](https://twitter.com/mitchellh/status/2055380239711457578)** (⬆️ 875)
+3. **[The bird eye was pushed to an evolutionary extreme](https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/)** (⬆️ 30)
 <!-- AUTO-UPDATE-END -->
