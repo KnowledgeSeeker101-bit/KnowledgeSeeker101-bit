@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-05-16 02:54 UTC_
+_Last updated: 2026-05-16 13:22 UTC_
 
 ### 🔬 Latest AI Research
 **[EntityBench: Towards Entity-Consistent Long-Range Multi-Shot Video Generation](http://arxiv.org/abs/2605.15199v1)**  
 _Multi-shot video generation extends single-shot generation to coherent visual narratives, yet maintaining consistent characters, objects, and locations across shots remains a challenge over long seque..._
 
 ### 💻 Trending Tech
-1. **[Project Gutenberg – keeps getting better](https://www.gutenberg.org/)** (⬆️ 740)
-2. **[I believe there are entire companies right now under AI psychosis](https://twitter.com/mitchellh/status/2055380239711457578)** (⬆️ 875)
-3. **[The bird eye was pushed to an evolutionary extreme](https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/)** (⬆️ 30)
+1. **[Δ-Mem: Efficient Online Memory for Large Language Models](https://arxiv.org/abs/2605.12357)** (⬆️ 95)
+2. **[Accelerando (2005)](https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html)** (⬆️ 50)
+3. **[SANA-WM, a 2.6B open-source world model for 1-minute 720p video](https://nvlabs.github.io/Sana/WM/)** (⬆️ 13)
 <!-- AUTO-UPDATE-END -->
