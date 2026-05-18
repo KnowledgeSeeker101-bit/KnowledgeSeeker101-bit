@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-05-17 03:27 UTC_
+_Last updated: 2026-05-18 15:32 UTC_
 
 ### 🔬 Latest AI Research
-**[EntityBench: Towards Entity-Consistent Long-Range Multi-Shot Video Generation](http://arxiv.org/abs/2605.15199v1)**  
-_Multi-shot video generation extends single-shot generation to coherent visual narratives, yet maintaining consistent characters, objects, and locations across shots remains a challenge over long seque..._
+**[IVGT: Implicit Visual Geometry Transformer for Neural Scene Representation](http://arxiv.org/abs/2605.16258v1)**  
+_Reconstructing coherent 3D geometry and appearance from unposed multi-view images is a fundamental yet challenging problem in computer vision. Most existing visual geometry foundation models predict e..._
 
 ### 💻 Trending Tech
-1. **[Zerostack – A Unix-inspired coding agent written in pure Rust](https://crates.io/crates/zerostack/1.0.0)** (⬆️ 207)
-2. **[Hosting a website on an 8-bit microcontroller](https://maurycyz.com/projects/mcusite/)** (⬆️ 38)
-3. **[A nicer voltmeter clock](https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock)** (⬆️ 84)
+1. **[Show HN: Files.md – Open-source alternative to Obsidian](https://github.com/zakirullin/files.md)** (⬆️ 181)
+2. **[1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries](https://github.com/2b2tplace/1m_release)** (⬆️ 33)
+3. **[The Quiet Renovation at Bitwarden](https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden)** (⬆️ 36)
 <!-- AUTO-UPDATE-END -->
