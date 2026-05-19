@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-05-18 15:32 UTC_
+_Last updated: 2026-05-19 15:21 UTC_
 
 ### 🔬 Latest AI Research
-**[IVGT: Implicit Visual Geometry Transformer for Neural Scene Representation](http://arxiv.org/abs/2605.16258v1)**  
-_Reconstructing coherent 3D geometry and appearance from unposed multi-view images is a fundamental yet challenging problem in computer vision. Most existing visual geometry foundation models predict e..._
+**[DashAttention: Differentiable and Adaptive Sparse Hierarchical Attention](http://arxiv.org/abs/2605.18753v1)**  
+_Current hierarchical attention methods, such as NSA and InfLLMv2, select the top-k relevant key-value (KV) blocks based on coarse attention scores and subsequently apply fine-grained softmax attention..._
 
 ### 💻 Trending Tech
-1. **[Show HN: Files.md – Open-source alternative to Obsidian](https://github.com/zakirullin/files.md)** (⬆️ 181)
-2. **[1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries](https://github.com/2b2tplace/1m_release)** (⬆️ 33)
-3. **[The Quiet Renovation at Bitwarden](https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden)** (⬆️ 36)
+1. **[OpenBSD 7.9 Released](https://www.openbsd.org/79.html)** (⬆️ 179)
+2. **[New accessibility features powered by Apple Intelligence](https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/)** (⬆️ 251)
+3. **[Gaussian Splat of a Strawberry](https://superspl.at/scene/84df8849)** (⬆️ 278)
 <!-- AUTO-UPDATE-END -->
