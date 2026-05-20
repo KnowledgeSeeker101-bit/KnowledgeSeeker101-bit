@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-05-19 15:21 UTC_
+_Last updated: 2026-05-20 15:19 UTC_
 
 ### 🔬 Latest AI Research
-**[DashAttention: Differentiable and Adaptive Sparse Hierarchical Attention](http://arxiv.org/abs/2605.18753v1)**  
-_Current hierarchical attention methods, such as NSA and InfLLMv2, select the top-k relevant key-value (KV) blocks based on coarse attention scores and subsequently apply fine-grained softmax attention..._
+**[Atoms of Thought: Universal EEG Representation Learning with Microstates](http://arxiv.org/abs/2605.20182v1)**  
+_Learning universal representations from electroencephalogram (EEG) signals is a cutting-edge approach in the field of neuroinformatics and brain-computer interfaces (BCIs). Conventionally, EEG is trea..._
 
 ### 💻 Trending Tech
-1. **[OpenBSD 7.9 Released](https://www.openbsd.org/79.html)** (⬆️ 179)
-2. **[New accessibility features powered by Apple Intelligence](https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/)** (⬆️ 251)
-3. **[Gaussian Splat of a Strawberry](https://superspl.at/scene/84df8849)** (⬆️ 278)
+1. **[Meta blocks human rights accounts from reaching audiences in Arabia and the UAE](https://www.alqst.org/ar/posts/1190)** (⬆️ 425)
+2. **[Goodbye Visa and Mastercard: 130M Europeans switching to sovereign payment](https://www.lesnumeriques.com/banque-en-ligne/adieu-visa-et-mastercard-130-millions-d-europeens-basculent-vers-un-paiement-100-souverain-des-2026-n250918.html)** (⬆️ 376)
+3. **[Qwen3.7-Max: The Agent Frontier](https://qwen.ai/blog?id=qwen3.7)** (⬆️ 273)
 <!-- AUTO-UPDATE-END -->
