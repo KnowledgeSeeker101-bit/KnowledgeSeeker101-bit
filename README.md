@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-05-21 03:41 UTC_
+_Last updated: 2026-05-21 15:26 UTC_
 
 ### 🔬 Latest AI Research
 **[Variance Reduction for Expectations with Diffusion Teachers](http://arxiv.org/abs/2605.21489v1)**  
 _Pretrained diffusion models serve as frozen teachers feeding downstream pipelines such as text-to-3D, single-step distillation, and data attribution. The teacher gradients these pipelines consume are ..._
 
 ### 💻 Trending Tech
-1. **[An OpenAI model has disproved a central conjecture in discrete geometry](https://openai.com/index/model-disproves-discrete-geometry-conjecture/)** (⬆️ 824)
-2. **[GitHub confirms breach of 3,800 repos via malicious VSCode extension](https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/)** (⬆️ 601)
-3. **[Show HN: I reverse engineered Apple's video wallpapers](https://github.com/kageroumado/phosphene)** (⬆️ 109)
+1. **[Flipper One – we need your help](https://blog.flipper.net/flipper-one-we-need-your-help/)** (⬆️ 536)
+2. **[Google's Antigravity Bait and Switch](https://www.0xsid.com/blog/antigravity-bait-n-switch)** (⬆️ 153)
+3. **[We're testing new ad formats in Search and expanding our Direct Offers pilot](https://blog.google/products/ads-commerce/google-marketing-live-search-ads/)** (⬆️ 405)
 <!-- AUTO-UPDATE-END -->
