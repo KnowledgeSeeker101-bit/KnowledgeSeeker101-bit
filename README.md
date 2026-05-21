@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-05-20 15:19 UTC_
+_Last updated: 2026-05-21 03:41 UTC_
 
 ### 🔬 Latest AI Research
-**[Atoms of Thought: Universal EEG Representation Learning with Microstates](http://arxiv.org/abs/2605.20182v1)**  
-_Learning universal representations from electroencephalogram (EEG) signals is a cutting-edge approach in the field of neuroinformatics and brain-computer interfaces (BCIs). Conventionally, EEG is trea..._
+**[Variance Reduction for Expectations with Diffusion Teachers](http://arxiv.org/abs/2605.21489v1)**  
+_Pretrained diffusion models serve as frozen teachers feeding downstream pipelines such as text-to-3D, single-step distillation, and data attribution. The teacher gradients these pipelines consume are ..._
 
 ### 💻 Trending Tech
-1. **[Meta blocks human rights accounts from reaching audiences in Arabia and the UAE](https://www.alqst.org/ar/posts/1190)** (⬆️ 425)
-2. **[Goodbye Visa and Mastercard: 130M Europeans switching to sovereign payment](https://www.lesnumeriques.com/banque-en-ligne/adieu-visa-et-mastercard-130-millions-d-europeens-basculent-vers-un-paiement-100-souverain-des-2026-n250918.html)** (⬆️ 376)
-3. **[Qwen3.7-Max: The Agent Frontier](https://qwen.ai/blog?id=qwen3.7)** (⬆️ 273)
+1. **[An OpenAI model has disproved a central conjecture in discrete geometry](https://openai.com/index/model-disproves-discrete-geometry-conjecture/)** (⬆️ 824)
+2. **[GitHub confirms breach of 3,800 repos via malicious VSCode extension](https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/)** (⬆️ 601)
+3. **[Show HN: I reverse engineered Apple's video wallpapers](https://github.com/kageroumado/phosphene)** (⬆️ 109)
 <!-- AUTO-UPDATE-END -->
