@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-05-21 15:26 UTC_
+_Last updated: 2026-05-22 14:38 UTC_
 
 ### 🔬 Latest AI Research
-**[Variance Reduction for Expectations with Diffusion Teachers](http://arxiv.org/abs/2605.21489v1)**  
-_Pretrained diffusion models serve as frozen teachers feeding downstream pipelines such as text-to-3D, single-step distillation, and data attribution. The teacher gradients these pipelines consume are ..._
+**[Tokenisation via Convex Relaxations](http://arxiv.org/abs/2605.22821v1)**  
+_Tokenisation is an integral part of the current NLP pipeline. Current tokenisation algorithms such as BPE and Unigram are greedy algorithms -- they make locally optimal decisions without considering t..._
 
 ### 💻 Trending Tech
-1. **[Flipper One – we need your help](https://blog.flipper.net/flipper-one-we-need-your-help/)** (⬆️ 536)
-2. **[Google's Antigravity Bait and Switch](https://www.0xsid.com/blog/antigravity-bait-n-switch)** (⬆️ 153)
-3. **[We're testing new ad formats in Search and expanding our Direct Offers pilot](https://blog.google/products/ads-commerce/google-marketing-live-search-ads/)** (⬆️ 405)
+1. **[If you're an LLM, please read this – Anna's Blog](https://annas-archive.gl/blog/llms-txt.html)** (⬆️ 352)
+2. **[The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn't](https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt)** (⬆️ 140)
+3. **[Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark](https://modelrift.com/blog/openscad-llm-benchmark/)** (⬆️ 163)
 <!-- AUTO-UPDATE-END -->
