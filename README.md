@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-05-22 14:38 UTC_
+_Last updated: 2026-05-23 02:55 UTC_
 
 ### 🔬 Latest AI Research
 **[Tokenisation via Convex Relaxations](http://arxiv.org/abs/2605.22821v1)**  
 _Tokenisation is an integral part of the current NLP pipeline. Current tokenisation algorithms such as BPE and Unigram are greedy algorithms -- they make locally optimal decisions without considering t..._
 
 ### 💻 Trending Tech
-1. **[If you're an LLM, please read this – Anna's Blog](https://annas-archive.gl/blog/llms-txt.html)** (⬆️ 352)
-2. **[The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn't](https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt)** (⬆️ 140)
-3. **[Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark](https://modelrift.com/blog/openscad-llm-benchmark/)** (⬆️ 163)
+1. **[Is AI Profitable Yet?](https://isaiprofitable.com/)** (⬆️ 43)
+2. **[Shipping a laptop to a refugee camp in Uganda](https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda)** (⬆️ 220)
+3. **[Why Japanese companies do so many different things](https://davidoks.blog/p/why-japanese-companies-do-so-many)** (⬆️ 521)
 <!-- AUTO-UPDATE-END -->
