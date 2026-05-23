@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-05-23 02:55 UTC_
+_Last updated: 2026-05-23 13:25 UTC_
 
 ### 🔬 Latest AI Research
 **[Tokenisation via Convex Relaxations](http://arxiv.org/abs/2605.22821v1)**  
 _Tokenisation is an integral part of the current NLP pipeline. Current tokenisation algorithms such as BPE and Unigram are greedy algorithms -- they make locally optimal decisions without considering t..._
 
 ### 💻 Trending Tech
-1. **[Is AI Profitable Yet?](https://isaiprofitable.com/)** (⬆️ 43)
-2. **[Shipping a laptop to a refugee camp in Uganda](https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda)** (⬆️ 220)
-3. **[Why Japanese companies do so many different things](https://davidoks.blog/p/why-japanese-companies-do-so-many)** (⬆️ 521)
+1. **[I Miss Terry Pratchett](https://www.mahl.me/blog/the-spell-that-wouldnt-leave/)** (⬆️ 81)
+2. **[80386 Microcode Disassembled](https://www.reenigne.org/blog/80386-microcode-disassembled/)** (⬆️ 54)
+3. **[Making Deep Learning Go Brrrr from First Principles](https://horace.io/brrr_intro.html)** (⬆️ 26)
 <!-- AUTO-UPDATE-END -->
