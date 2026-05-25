@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-05-24 13:25 UTC_
+_Last updated: 2026-05-25 03:50 UTC_
 
 ### 🔬 Latest AI Research
-**[Tokenisation via Convex Relaxations](http://arxiv.org/abs/2605.22821v1)**  
-_Tokenisation is an integral part of the current NLP pipeline. Current tokenisation algorithms such as BPE and Unigram are greedy algorithms -- they make locally optimal decisions without considering t..._
+**[SkillOpt: Executive Strategy for Self-Evolving Agent Skills](http://arxiv.org/abs/2605.23904v1)**  
+_Agent skills today are hand-crafted, generated one-shot, or evolved through loosely controlled self-revision, none of which behaves like a deep-learning optimizer for the skill, and none of which reli..._
 
 ### 💻 Trending Tech
-1. **[Mastering Dyalog APL](https://mastering.dyalog.com/README.html)** (⬆️ 31)
-2. **[Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI](https://fs.blog/knowledge-project-podcast/greg-brockman/)** (⬆️ 90)
-3. **[Childhood Computing](https://susam.net/childhood-computing.html)** (⬆️ 21)
+1. **[Show HN: Audiomass – a free, open-source multitrack audio editor for the web](https://audiomass.co/?multitrack=1)** (⬆️ 217)
+2. **[DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost](https://esengine.github.io/DeepSeek-Reasonix/)** (⬆️ 470)
+3. **[Migrating from Go to Rust](https://corrode.dev/learn/migration-guides/go-to-rust/)** (⬆️ 153)
 <!-- AUTO-UPDATE-END -->
