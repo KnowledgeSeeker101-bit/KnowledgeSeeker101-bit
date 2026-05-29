@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-05-28 03:36 UTC_
+_Last updated: 2026-05-29 15:31 UTC_
 
 ### 🔬 Latest AI Research
-**[PEFT-Arena: Understanding Parameter-Efficient Finetuning from a Stability-Plasticity Perspective](http://arxiv.org/abs/2605.28819v1)**  
-_Parameter-efficient finetuning (PEFT) has become the standard approach for adapting large language models, yet evaluations largely emphasize downstream accuracy while overlooking the retention of pret..._
+**[Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software](http://arxiv.org/abs/2605.30353v1)**  
+_Are AI agents tools, co-authors, or researchers? We present a quantified case study ($N=1$): a physicist supervising an AI coding agent (Claude Code, Sonnet and Opus models) over 12 work days and 57 s..._
 
 ### 💻 Trending Tech
-1. **[Can we have the day off?](https://mlsu.io/posts/day-off/)** (⬆️ 602)
-2. **[YouTube to automatically label AI-generated videos](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/)** (⬆️ 583)
-3. **[I think Anthropic and OpenAI have found product-market fit](https://simonwillison.net/2026/May/27/product-market-fit/)** (⬆️ 694)
+1. **[I Am Retiring from Tech to Live Offline](https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/)** (⬆️ 162)
+2. **[Please Use AI](https://shawnsmucker.substack.com/p/please-use-ai)** (⬆️ 533)
+3. **[It Will Never Be the Year of the Linux Desktop](https://unix.foo/posts/it-will-never-be-the-year-of-the-linux-desktop/)** (⬆️ 35)
 <!-- AUTO-UPDATE-END -->
