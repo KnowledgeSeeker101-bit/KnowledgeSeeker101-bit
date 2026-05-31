@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-05-30 13:38 UTC_
+_Last updated: 2026-05-31 13:44 UTC_
 
 ### 🔬 Latest AI Research
 **[Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software](http://arxiv.org/abs/2605.30353v1)**  
 _Are AI agents tools, co-authors, or researchers? We present a quantified case study ($N=1$): a physicist supervising an AI coding agent (Claude Code, Sonnet and Opus models) over 12 work days and 57 s..._
 
 ### 💻 Trending Tech
-1. **[Pandoc Templates](https://pandoc-templates.org/)** (⬆️ 174)
-2. **[Zig: Build System Reworked](https://ziglang.org/devlog/2026/#2026-05-26)** (⬆️ 166)
-3. **[Leo's first encyclical attacks technological messianism](https://www.economist.com/europe/2026/05/28/leos-first-encyclical-attacks-technological-messianism)** (⬆️ 44)
+1. **[Dav2d](https://jbkempf.com/blog/2026/dav2d/)** (⬆️ 152)
+2. **[The Website Specification](https://specification.website/)** (⬆️ 273)
+3. **[London's Free Roof Terraces](https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html)** (⬆️ 148)
 <!-- AUTO-UPDATE-END -->
