@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-06-01 04:04 UTC_
+_Last updated: 2026-06-01 17:42 UTC_
 
 ### 🔬 Latest AI Research
 **[Lumos-Nexus: Efficient Frequency Bridging with Homogeneous Latent Space for Video Unified Models](http://arxiv.org/abs/2605.31603v1)**  
 _Connector-based video unified models have demonstrated strong capability in instruction-grounded video synthesis, but integrating a large high-fidelity generator into the unified training loop is comp..._
 
 ### 💻 Trending Tech
-1. **[Cloudflare Turnstile requiring fingerprintable WebGL](https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting)** (⬆️ 554)
-2. **[Shift from a Leader-Follower to a Leader-Leader Approach](https://www.practicalengineering.management/p/shift-from-a-leader-follower-to-a)** (⬆️ 37)
-3. **[1-Bit Bonsai Image 4B Image Generation for Local Devices](https://prismml.com/news/bonsai-image-4b)** (⬆️ 317)
+1. **[The newest Instagram “exploit” is the goofiest I've seen](https://www.0xsid.com/blog/meta-account-takeover-fiasco)** (⬆️ 302)
+2. **[AI Agent Guidelines for CS336 at Stanford](https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md)** (⬆️ 56)
+3. **[Lifelike biochemistry continued to unfold in sterilized soil](https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/)** (⬆️ 93)
 <!-- AUTO-UPDATE-END -->
