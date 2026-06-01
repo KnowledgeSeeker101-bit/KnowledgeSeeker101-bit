@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-05-31 13:44 UTC_
+_Last updated: 2026-06-01 04:04 UTC_
 
 ### 🔬 Latest AI Research
-**[Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software](http://arxiv.org/abs/2605.30353v1)**  
-_Are AI agents tools, co-authors, or researchers? We present a quantified case study ($N=1$): a physicist supervising an AI coding agent (Claude Code, Sonnet and Opus models) over 12 work days and 57 s..._
+**[Lumos-Nexus: Efficient Frequency Bridging with Homogeneous Latent Space for Video Unified Models](http://arxiv.org/abs/2605.31603v1)**  
+_Connector-based video unified models have demonstrated strong capability in instruction-grounded video synthesis, but integrating a large high-fidelity generator into the unified training loop is comp..._
 
 ### 💻 Trending Tech
-1. **[Dav2d](https://jbkempf.com/blog/2026/dav2d/)** (⬆️ 152)
-2. **[The Website Specification](https://specification.website/)** (⬆️ 273)
-3. **[London's Free Roof Terraces](https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html)** (⬆️ 148)
+1. **[Cloudflare Turnstile requiring fingerprintable WebGL](https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting)** (⬆️ 554)
+2. **[Shift from a Leader-Follower to a Leader-Leader Approach](https://www.practicalengineering.management/p/shift-from-a-leader-follower-to-a)** (⬆️ 37)
+3. **[1-Bit Bonsai Image 4B Image Generation for Local Devices](https://prismml.com/news/bonsai-image-4b)** (⬆️ 317)
 <!-- AUTO-UPDATE-END -->
