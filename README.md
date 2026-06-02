@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-06-01 17:42 UTC_
+_Last updated: 2026-06-02 03:59 UTC_
 
 ### 🔬 Latest AI Research
-**[Lumos-Nexus: Efficient Frequency Bridging with Homogeneous Latent Space for Video Unified Models](http://arxiv.org/abs/2605.31603v1)**  
-_Connector-based video unified models have demonstrated strong capability in instruction-grounded video synthesis, but integrating a large high-fidelity generator into the unified training loop is comp..._
+**[Mitigating Perceptual Judgment Bias in Multimodal LLM-as-a-Judge via Perceptual Perturbation and Reward Modeling](http://arxiv.org/abs/2606.02578v1)**  
+_Recent multimodal large language models have demonstrated strong reasoning ability, yet their reliability as automated evaluators remains limited by a critical weakness: when visual evidence conflicts..._
 
 ### 💻 Trending Tech
-1. **[The newest Instagram “exploit” is the goofiest I've seen](https://www.0xsid.com/blog/meta-account-takeover-fiasco)** (⬆️ 302)
-2. **[AI Agent Guidelines for CS336 at Stanford](https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md)** (⬆️ 56)
-3. **[Lifelike biochemistry continued to unfold in sterilized soil](https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/)** (⬆️ 93)
+1. **[macOS needs its grid back](https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/)** (⬆️ 95)
+2. **[The newest Instagram “exploit” is the goofiest I've seen](https://www.0xsid.com/blog/meta-account-takeover-fiasco)** (⬆️ 1447)
+3. **[Can the stockmarket swallow Anthropic, SpaceX and OpenAI?](https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai)** (⬆️ 143)
 <!-- AUTO-UPDATE-END -->
