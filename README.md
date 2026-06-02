@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-06-02 03:59 UTC_
+_Last updated: 2026-06-02 16:24 UTC_
 
 ### 🔬 Latest AI Research
 **[Mitigating Perceptual Judgment Bias in Multimodal LLM-as-a-Judge via Perceptual Perturbation and Reward Modeling](http://arxiv.org/abs/2606.02578v1)**  
 _Recent multimodal large language models have demonstrated strong reasoning ability, yet their reliability as automated evaluators remains limited by a critical weakness: when visual evidence conflicts..._
 
 ### 💻 Trending Tech
-1. **[macOS needs its grid back](https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/)** (⬆️ 95)
-2. **[The newest Instagram “exploit” is the goofiest I've seen](https://www.0xsid.com/blog/meta-account-takeover-fiasco)** (⬆️ 1447)
-3. **[Can the stockmarket swallow Anthropic, SpaceX and OpenAI?](https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai)** (⬆️ 143)
+1. **[A walking tour of surveillance infrastructure in Seattle](https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/)** (⬆️ 114)
+2. **[Fidonet: Technology, Use, Tools, and History (1993)](https://www.fidonet.org/inet92_Randy_Bush.txt)** (⬆️ 69)
+3. **[Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai](https://blog.adafruit.com/)** (⬆️ 406)
 <!-- AUTO-UPDATE-END -->
