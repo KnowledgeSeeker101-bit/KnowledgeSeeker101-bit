@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-06-03 04:07 UTC_
+_Last updated: 2026-06-03 16:48 UTC_
 
 ### 🔬 Latest AI Research
 **[Neuron Populations Exhibit Divergent Selectivity with Scale](http://arxiv.org/abs/2606.03990v1)**  
 _We investigate whether neuron populations within neural networks evolve predictably with scale, extending scaling laws beyond macroscopic observables such as loss. To probe this question, we study Ros..._
 
 ### 💻 Trending Tech
-1. **[1-Click GitHub Token Stealing via a VSCode Bug](https://blog.ammaraskar.com/github-token-stealing/)** (⬆️ 95)
-2. **[Use your Nvidia GPU's VRAM as swap space on Linux](https://github.com/c0dejedi/nbd-vram)** (⬆️ 184)
-3. **[Agentic Mfw](https://agenticmotherfucking.website)** (⬆️ 36)
+1. **[Gemma 4 12B: A unified, encoder-free multimodal model](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/)** (⬆️ 74)
+2. **[DaVinci Resolve 21](https://www.blackmagicdesign.com/products/davinciresolve/whatsnew)** (⬆️ 171)
+3. **[Hacking your PC using your speaker without ever touching it](https://blog.nns.ee/2026/06/03/katana-badusb/)** (⬆️ 457)
 <!-- AUTO-UPDATE-END -->
