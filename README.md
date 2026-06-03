@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-06-02 16:24 UTC_
+_Last updated: 2026-06-03 04:07 UTC_
 
 ### 🔬 Latest AI Research
-**[Mitigating Perceptual Judgment Bias in Multimodal LLM-as-a-Judge via Perceptual Perturbation and Reward Modeling](http://arxiv.org/abs/2606.02578v1)**  
-_Recent multimodal large language models have demonstrated strong reasoning ability, yet their reliability as automated evaluators remains limited by a critical weakness: when visual evidence conflicts..._
+**[Neuron Populations Exhibit Divergent Selectivity with Scale](http://arxiv.org/abs/2606.03990v1)**  
+_We investigate whether neuron populations within neural networks evolve predictably with scale, extending scaling laws beyond macroscopic observables such as loss. To probe this question, we study Ros..._
 
 ### 💻 Trending Tech
-1. **[A walking tour of surveillance infrastructure in Seattle](https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/)** (⬆️ 114)
-2. **[Fidonet: Technology, Use, Tools, and History (1993)](https://www.fidonet.org/inet92_Randy_Bush.txt)** (⬆️ 69)
-3. **[Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai](https://blog.adafruit.com/)** (⬆️ 406)
+1. **[1-Click GitHub Token Stealing via a VSCode Bug](https://blog.ammaraskar.com/github-token-stealing/)** (⬆️ 95)
+2. **[Use your Nvidia GPU's VRAM as swap space on Linux](https://github.com/c0dejedi/nbd-vram)** (⬆️ 184)
+3. **[Agentic Mfw](https://agenticmotherfucking.website)** (⬆️ 36)
 <!-- AUTO-UPDATE-END -->
