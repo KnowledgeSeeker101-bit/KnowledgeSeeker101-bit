@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-06-03 16:48 UTC_
+_Last updated: 2026-06-05 14:50 UTC_
 
 ### 🔬 Latest AI Research
-**[Neuron Populations Exhibit Divergent Selectivity with Scale](http://arxiv.org/abs/2606.03990v1)**  
-_We investigate whether neuron populations within neural networks evolve predictably with scale, extending scaling laws beyond macroscopic observables such as loss. To probe this question, we study Ros..._
+**[TailLoR: Protecting Principal Components in Parameter-Efficient Continual Learning](http://arxiv.org/abs/2606.06494v1)**  
+_Parameter-efficient finetuning methods based on spectral decomposition have enabled progress in Continual Learning. In this paper we introduce TailLoR, which utilizes the singular bases U and V of the..._
 
 ### 💻 Trending Tech
-1. **[Gemma 4 12B: A unified, encoder-free multimodal model](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/)** (⬆️ 74)
-2. **[DaVinci Resolve 21](https://www.blackmagicdesign.com/products/davinciresolve/whatsnew)** (⬆️ 171)
-3. **[Hacking your PC using your speaker without ever touching it](https://blog.nns.ee/2026/06/03/katana-badusb/)** (⬆️ 457)
+1. **[Mouseless – keyboard-driven control of macOS/Linux/Windows](https://mouseless.click)** (⬆️ 142)
+2. **[Tracing a powerful GNSS interference source over Europe](https://arxiv.org/abs/2606.03673)** (⬆️ 227)
+3. **[Cooldown Support for Ruby Bundler](https://blog.rubygems.org/2026/06/03/cooldown-let-new-gems-be-vetted.html)** (⬆️ 24)
 <!-- AUTO-UPDATE-END -->
