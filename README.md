@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-06-06 13:42 UTC_
+_Last updated: 2026-06-07 03:56 UTC_
 
 ### 🔬 Latest AI Research
 **[TailLoR: Protecting Principal Components in Parameter-Efficient Continual Learning](http://arxiv.org/abs/2606.06494v1)**  
 _Parameter-efficient finetuning methods based on spectral decomposition have enabled progress in Continual Learning. In this paper we introduce TailLoR, which utilizes the singular bases U and V of the..._
 
 ### 💻 Trending Tech
-1. **[Nvidia is proposing a beast of a CPU system for Windows PCs](https://twitter.com/lemire/status/2062880075117113739)** (⬆️ 20)
-2. **[The new bibliomaniacs](https://engelsbergideas.com/notebook/the-new-bibliomaniacs/)** (⬆️ 12)
-3. **[How LLMs work](https://www.0xkato.xyz/how-llms-actually-work/)** (⬆️ 494)
+1. **[Field of clones: How horse replicas came to dominate polo](https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses)** (⬆️ 26)
+2. **[Valve P2P networking broken for more than 2 months](https://github.com/ValveSoftware/GameNetworkingSockets/issues/398)** (⬆️ 22)
+3. **[Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering](https://arxiv.org/abs/2601.14470)** (⬆️ 40)
 <!-- AUTO-UPDATE-END -->
