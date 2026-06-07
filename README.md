@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-06-07 03:56 UTC_
+_Last updated: 2026-06-07 13:52 UTC_
 
 ### 🔬 Latest AI Research
 **[TailLoR: Protecting Principal Components in Parameter-Efficient Continual Learning](http://arxiv.org/abs/2606.06494v1)**  
 _Parameter-efficient finetuning methods based on spectral decomposition have enabled progress in Continual Learning. In this paper we introduce TailLoR, which utilizes the singular bases U and V of the..._
 
 ### 💻 Trending Tech
-1. **[Field of clones: How horse replicas came to dominate polo](https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses)** (⬆️ 26)
-2. **[Valve P2P networking broken for more than 2 months](https://github.com/ValveSoftware/GameNetworkingSockets/issues/398)** (⬆️ 22)
-3. **[Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering](https://arxiv.org/abs/2601.14470)** (⬆️ 40)
+1. **[Anthropic, please ship an official Claude Desktop for Linux](https://github.com/anthropics/claude-code/issues/65697)** (⬆️ 40)
+2. **[LLMs are eroding my software engineering career and I don't know what to do](https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/)** (⬆️ 167)
+3. **[Anthropic/OpenAI may be spending more than $1000 for every $100 you pay them](https://ea.rna.nl/2026/06/07/anthropic-openai-may-be-spending-more-than-1000-for-every-100-you-pay-them/)** (⬆️ 30)
 <!-- AUTO-UPDATE-END -->
