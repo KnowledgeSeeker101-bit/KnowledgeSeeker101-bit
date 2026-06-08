@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-06-08 04:01 UTC_
+_Last updated: 2026-06-08 15:52 UTC_
 
 ### 🔬 Latest AI Research
 **[How reliable are LLMs when it comes to playing dice?](http://arxiv.org/abs/2606.07515v1)**  
 _We investigate the probabilistic reasoning capabilities of large language models through a controlled benchmarking study on discrete probability problems. We constructed two datasets, respectively a s..._
 
 ### 💻 Trending Tech
-1. **[APC–2 – A professional record cutter for producing original playback discs](https://teenage.engineering/products/apc-2)** (⬆️ 132)
-2. **[New drug 'functionally cures' many hepatitis B virus infections](https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08)** (⬆️ 50)
-3. **[The Smallest Brain You Can Build: A Perceptron in Python](https://ranpara.net/posts/perceptron-explained-from-scratch/)** (⬆️ 90)
+1. **[Show HN: Performative-UI – a react component library of design tropes](https://vorpus.github.io/performativeUI/)** (⬆️ 181)
+2. **[MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second](https://mimo.xiaomi.com/blog/mimo-tilert-1000tps)** (⬆️ 38)
+3. **[Zig by Example](https://github.com/boringcollege/zig-by-example)** (⬆️ 140)
 <!-- AUTO-UPDATE-END -->
