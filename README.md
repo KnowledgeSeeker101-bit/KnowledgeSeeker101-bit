@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-06-07 13:52 UTC_
+_Last updated: 2026-06-08 04:01 UTC_
 
 ### 🔬 Latest AI Research
-**[TailLoR: Protecting Principal Components in Parameter-Efficient Continual Learning](http://arxiv.org/abs/2606.06494v1)**  
-_Parameter-efficient finetuning methods based on spectral decomposition have enabled progress in Continual Learning. In this paper we introduce TailLoR, which utilizes the singular bases U and V of the..._
+**[How reliable are LLMs when it comes to playing dice?](http://arxiv.org/abs/2606.07515v1)**  
+_We investigate the probabilistic reasoning capabilities of large language models through a controlled benchmarking study on discrete probability problems. We constructed two datasets, respectively a s..._
 
 ### 💻 Trending Tech
-1. **[Anthropic, please ship an official Claude Desktop for Linux](https://github.com/anthropics/claude-code/issues/65697)** (⬆️ 40)
-2. **[LLMs are eroding my software engineering career and I don't know what to do](https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/)** (⬆️ 167)
-3. **[Anthropic/OpenAI may be spending more than $1000 for every $100 you pay them](https://ea.rna.nl/2026/06/07/anthropic-openai-may-be-spending-more-than-1000-for-every-100-you-pay-them/)** (⬆️ 30)
+1. **[APC–2 – A professional record cutter for producing original playback discs](https://teenage.engineering/products/apc-2)** (⬆️ 132)
+2. **[New drug 'functionally cures' many hepatitis B virus infections](https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08)** (⬆️ 50)
+3. **[The Smallest Brain You Can Build: A Perceptron in Python](https://ranpara.net/posts/perceptron-explained-from-scratch/)** (⬆️ 90)
 <!-- AUTO-UPDATE-END -->
