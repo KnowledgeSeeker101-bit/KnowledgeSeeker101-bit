@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-06-08 15:52 UTC_
+_Last updated: 2026-06-09 03:31 UTC_
 
 ### 🔬 Latest AI Research
-**[How reliable are LLMs when it comes to playing dice?](http://arxiv.org/abs/2606.07515v1)**  
-_We investigate the probabilistic reasoning capabilities of large language models through a controlled benchmarking study on discrete probability problems. We constructed two datasets, respectively a s..._
+**[OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics](http://arxiv.org/abs/2606.09826v1)**  
+_Vision-language model (VLM) agents are increasingly deployed in interactive game environments. Yet game benchmarks for VLM agents typically report a single first-attempt score per (agent, game) pair, ..._
 
 ### 💻 Trending Tech
-1. **[Show HN: Performative-UI – a react component library of design tropes](https://vorpus.github.io/performativeUI/)** (⬆️ 181)
-2. **[MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second](https://mimo.xiaomi.com/blog/mimo-tilert-1000tps)** (⬆️ 38)
-3. **[Zig by Example](https://github.com/boringcollege/zig-by-example)** (⬆️ 140)
+1. **[Apple reveals new AI architecture built around Google Gemini models](https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/)** (⬆️ 398)
+2. **[Siri AI](https://www.apple.com/apple-intelligence/)** (⬆️ 451)
+3. **[Show HN: Performative-UI – A react component library of design tropes](https://vorpus.github.io/performativeUI/)** (⬆️ 824)
 <!-- AUTO-UPDATE-END -->
