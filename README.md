@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-06-09 03:31 UTC_
+_Last updated: 2026-06-09 14:50 UTC_
 
 ### 🔬 Latest AI Research
 **[OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics](http://arxiv.org/abs/2606.09826v1)**  
 _Vision-language model (VLM) agents are increasingly deployed in interactive game environments. Yet game benchmarks for VLM agents typically report a single first-attempt score per (agent, game) pair, ..._
 
 ### 💻 Trending Tech
-1. **[Apple reveals new AI architecture built around Google Gemini models](https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/)** (⬆️ 398)
-2. **[Siri AI](https://www.apple.com/apple-intelligence/)** (⬆️ 451)
-3. **[Show HN: Performative-UI – A react component library of design tropes](https://vorpus.github.io/performativeUI/)** (⬆️ 824)
+1. **[Albania Is Not for Sale: Kushner's $4B Resort Triggers'Flamingo Revolution'](https://www.yacnews.com/albania-is-not-for-sale-kushners-4-billion-resort-triggers-flamingo-revolution-asset-freeze-and-an-eu-warning/)** (⬆️ 167)
+2. **[Making Graphics Like it's 1993](https://staniks.github.io/articles/catlantean-3d-blog-1/)** (⬆️ 303)
+3. **[WWDC 2026: Apple is Folding](https://cupertinolens.com/2026/06/09/wwdc-2026-apple-is-folding/)** (⬆️ 61)
 <!-- AUTO-UPDATE-END -->
