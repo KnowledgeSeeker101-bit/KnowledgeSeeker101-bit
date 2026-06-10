@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-06-09 14:50 UTC_
+_Last updated: 2026-06-10 03:42 UTC_
 
 ### 🔬 Latest AI Research
-**[OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics](http://arxiv.org/abs/2606.09826v1)**  
-_Vision-language model (VLM) agents are increasingly deployed in interactive game environments. Yet game benchmarks for VLM agents typically report a single first-attempt score per (agent, game) pair, ..._
+**[When to Align, When to Predict: A Phase Diagram for Multimodal Learning](http://arxiv.org/abs/2606.11190v1)**  
+_Cross-modal alignment (CA) and cross-modal prediction (CP) are the dominant paradigms for multimodal representation learning, yet there is no systematic understanding of when each succeeds, when each ..._
 
 ### 💻 Trending Tech
-1. **[Albania Is Not for Sale: Kushner's $4B Resort Triggers'Flamingo Revolution'](https://www.yacnews.com/albania-is-not-for-sale-kushners-4-billion-resort-triggers-flamingo-revolution-asset-freeze-and-an-eu-warning/)** (⬆️ 167)
-2. **[Making Graphics Like it's 1993](https://staniks.github.io/articles/catlantean-3d-blog-1/)** (⬆️ 303)
-3. **[WWDC 2026: Apple is Folding](https://cupertinolens.com/2026/06/09/wwdc-2026-apple-is-folding/)** (⬆️ 61)
+1. **[macOS Container Machines](https://github.com/apple/container/blob/main/docs/container-machine.md)** (⬆️ 320)
+2. **[Claude Fable 5](https://www.anthropic.com/news/claude-fable-5-mythos-5)** (⬆️ 1879)
+3. **[Rich Sutton on AI creativity and discovery](https://twitter.com/RichardSSutton/status/2061216087744946656)** (⬆️ 33)
 <!-- AUTO-UPDATE-END -->
