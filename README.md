@@ -109,14 +109,13 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-06-10 03:42 UTC_
+_Last updated: 2026-06-10 15:34 UTC_
 
 ### 🔬 Latest AI Research
 **[When to Align, When to Predict: A Phase Diagram for Multimodal Learning](http://arxiv.org/abs/2606.11190v1)**  
 _Cross-modal alignment (CA) and cross-modal prediction (CP) are the dominant paradigms for multimodal representation learning, yet there is no systematic understanding of when each succeeds, when each ..._
 
 ### 💻 Trending Tech
-1. **[macOS Container Machines](https://github.com/apple/container/blob/main/docs/container-machine.md)** (⬆️ 320)
-2. **[Claude Fable 5](https://www.anthropic.com/news/claude-fable-5-mythos-5)** (⬆️ 1879)
-3. **[Rich Sutton on AI creativity and discovery](https://twitter.com/RichardSSutton/status/2061216087744946656)** (⬆️ 33)
+1. **[Building an HTML-first site doubled our users overnight](https://mohkohn.co.uk/writing/html-first/)** (⬆️ 373)
+2. **[PgDog is funded and coming to a database near you](https://pgdog.dev/blog/our-funding-announcement)** (⬆️ 86)
 <!-- AUTO-UPDATE-END -->
