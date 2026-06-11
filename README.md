@@ -109,13 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-06-10 15:34 UTC_
+_Last updated: 2026-06-11 03:58 UTC_
 
 ### 🔬 Latest AI Research
-**[When to Align, When to Predict: A Phase Diagram for Multimodal Learning](http://arxiv.org/abs/2606.11190v1)**  
-_Cross-modal alignment (CA) and cross-modal prediction (CP) are the dominant paradigms for multimodal representation learning, yet there is no systematic understanding of when each succeeds, when each ..._
+**[Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Language Models](http://arxiv.org/abs/2606.12412v1)**  
+_Vision-language models (VLMs) project images into hundreds to thousands of visual tokens, making decoder inference expensive in both attention computation and KV-cache memory. Existing visual-token re..._
 
 ### 💻 Trending Tech
-1. **[Building an HTML-first site doubled our users overnight](https://mohkohn.co.uk/writing/html-first/)** (⬆️ 373)
-2. **[PgDog is funded and coming to a database near you](https://pgdog.dev/blog/our-funding-announcement)** (⬆️ 86)
+1. **[AI agent runs amok in Fedora and elsewhere](https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/)** (⬆️ 190)
+2. **[Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable](https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/)** (⬆️ 285)
+3. **[πFS](https://github.com/philipl/pifs)** (⬆️ 566)
 <!-- AUTO-UPDATE-END -->
