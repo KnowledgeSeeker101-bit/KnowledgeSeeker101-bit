@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-06-11 03:58 UTC_
+_Last updated: 2026-06-11 16:00 UTC_
 
 ### 🔬 Latest AI Research
 **[Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Language Models](http://arxiv.org/abs/2606.12412v1)**  
 _Vision-language models (VLMs) project images into hundreds to thousands of visual tokens, making decoder inference expensive in both attention computation and KV-cache memory. Existing visual-token re..._
 
 ### 💻 Trending Tech
-1. **[AI agent runs amok in Fedora and elsewhere](https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/)** (⬆️ 190)
-2. **[Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable](https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/)** (⬆️ 285)
-3. **[πFS](https://github.com/philipl/pifs)** (⬆️ 566)
+1. **[MiMo Code Is Now Released and Open-Source](https://mimo.xiaomi.com/mimocode)** (⬆️ 116)
+2. **[Lines of Code Got a Better Publicist](https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/)** (⬆️ 205)
+3. **[MapComplete – Contibute to OpenStreetMaps](https://mapcomplete.org/)** (⬆️ 88)
 <!-- AUTO-UPDATE-END -->
