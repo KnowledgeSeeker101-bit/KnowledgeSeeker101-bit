@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-06-12 03:58 UTC_
+_Last updated: 2026-06-12 14:58 UTC_
 
 ### 🔬 Latest AI Research
 **[Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning](http://arxiv.org/abs/2606.13680v1)**  
 _Retrieval-augmented generation (RAG) has become a standard mechanism for grounding language models in external knowledge, yet conventional retrieval based on lexical or semantic similarity is poorly s..._
 
 ### 💻 Trending Tech
-1. **[Nobody ever gets credit for fixing problems that never happened (2001) [pdf]](https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf)** (⬆️ 184)
-2. **[Claude Fable is relentlessly proactive](https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/)** (⬆️ 179)
-3. **[Show HN: Homebrew 6.0.0](https://brew.sh/2026/06/11/homebrew-6.0.0/)** (⬆️ 1048)
+1. **[WASI 0.3.0 Released](https://github.com/WebAssembly/WASI/releases/tag/v0.3.0)** (⬆️ 68)
+2. **[AI agent bankrupted their operator while trying to scan DN42](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/)** (⬆️ 1088)
+3. **[Maxproof](https://arxiv.org/abs/2606.13473)** (⬆️ 75)
 <!-- AUTO-UPDATE-END -->
