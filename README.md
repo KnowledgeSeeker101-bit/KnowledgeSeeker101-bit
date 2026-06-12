@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-06-11 16:00 UTC_
+_Last updated: 2026-06-12 03:58 UTC_
 
 ### 🔬 Latest AI Research
-**[Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Language Models](http://arxiv.org/abs/2606.12412v1)**  
-_Vision-language models (VLMs) project images into hundreds to thousands of visual tokens, making decoder inference expensive in both attention computation and KV-cache memory. Existing visual-token re..._
+**[Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning](http://arxiv.org/abs/2606.13680v1)**  
+_Retrieval-augmented generation (RAG) has become a standard mechanism for grounding language models in external knowledge, yet conventional retrieval based on lexical or semantic similarity is poorly s..._
 
 ### 💻 Trending Tech
-1. **[MiMo Code Is Now Released and Open-Source](https://mimo.xiaomi.com/mimocode)** (⬆️ 116)
-2. **[Lines of Code Got a Better Publicist](https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/)** (⬆️ 205)
-3. **[MapComplete – Contibute to OpenStreetMaps](https://mapcomplete.org/)** (⬆️ 88)
+1. **[Nobody ever gets credit for fixing problems that never happened (2001) [pdf]](https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf)** (⬆️ 184)
+2. **[Claude Fable is relentlessly proactive](https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/)** (⬆️ 179)
+3. **[Show HN: Homebrew 6.0.0](https://brew.sh/2026/06/11/homebrew-6.0.0/)** (⬆️ 1048)
 <!-- AUTO-UPDATE-END -->
