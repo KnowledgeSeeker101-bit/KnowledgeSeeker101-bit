@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-06-12 14:58 UTC_
+_Last updated: 2026-06-13 03:43 UTC_
 
 ### 🔬 Latest AI Research
 **[Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning](http://arxiv.org/abs/2606.13680v1)**  
 _Retrieval-augmented generation (RAG) has become a standard mechanism for grounding language models in external knowledge, yet conventional retrieval based on lexical or semantic similarity is poorly s..._
 
 ### 💻 Trending Tech
-1. **[WASI 0.3.0 Released](https://github.com/WebAssembly/WASI/releases/tag/v0.3.0)** (⬆️ 68)
-2. **[AI agent bankrupted their operator while trying to scan DN42](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/)** (⬆️ 1088)
-3. **[Maxproof](https://arxiv.org/abs/2606.13473)** (⬆️ 75)
+1. **[Open Source AI Must Win](https://opensourceaimustwin.com/?share=v2)** (⬆️ 289)
+2. **[US Government directive to suspend access to Fable 5 and Mythos 5](https://www.anthropic.com/news/fable-mythos-access)** (⬆️ 1245)
+3. **[We've suspended access to Claude Mythos 5 and Claude Fable 5](https://status.claude.com/incidents/s9w82lp9dcn9)** (⬆️ 136)
 <!-- AUTO-UPDATE-END -->
