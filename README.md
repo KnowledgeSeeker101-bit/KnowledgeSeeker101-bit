@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-06-13 13:59 UTC_
+_Last updated: 2026-06-15 04:17 UTC_
 
 ### 🔬 Latest AI Research
-**[Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning](http://arxiv.org/abs/2606.13680v1)**  
-_Retrieval-augmented generation (RAG) has become a standard mechanism for grounding language models in external knowledge, yet conventional retrieval based on lexical or semantic similarity is poorly s..._
+**[Gaze Heads: How VLMs Look at What They Describe](http://arxiv.org/abs/2606.14703v1)**  
+_How a vision-language model internally solves the task of describing an image is far from obvious. We find that the model develops a specific mechanism for this: a small set of attention heads in its ..._
 
 ### 💻 Trending Tech
-1. **[AI OSS tool repo goes archived over night after raising $7.3M Seed](https://github.com/tensorzero/tensorzero)** (⬆️ 53)
-2. **[A low-carbon computing platform from your retired phones](https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/)** (⬆️ 102)
-3. **[An Interview with Intel's Kira Boyko: Xeon 6's Product Director](https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko)** (⬆️ 19)
+1. **[Your ePub Is fine](https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/)** (⬆️ 282)
+2. **[Even more batteries included with Emacs](https://karthinks.com/software/even-more-batteries-included-with-emacs/)** (⬆️ 32)
+3. **[Show HN: Kage – Shadow any website to a single binary for offline viewing](https://github.com/tamnd/kage)** (⬆️ 452)
 <!-- AUTO-UPDATE-END -->
