@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-06-15 04:17 UTC_
+_Last updated: 2026-06-15 17:13 UTC_
 
 ### 🔬 Latest AI Research
 **[Gaze Heads: How VLMs Look at What They Describe](http://arxiv.org/abs/2606.14703v1)**  
 _How a vision-language model internally solves the task of describing an image is far from obvious. We find that the model develops a specific mechanism for this: a small set of attention heads in its ..._
 
 ### 💻 Trending Tech
-1. **[Your ePub Is fine](https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/)** (⬆️ 282)
-2. **[Even more batteries included with Emacs](https://karthinks.com/software/even-more-batteries-included-with-emacs/)** (⬆️ 32)
-3. **[Show HN: Kage – Shadow any website to a single binary for offline viewing](https://github.com/tamnd/kage)** (⬆️ 452)
+1. **[Iroh 1.0](https://www.iroh.computer/blog/v1)** (⬆️ 334)
+2. **[TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)](https://tinywind.io)** (⬆️ 48)
+3. **[Making glass-to-metal seals for home­made vacuum tubes](https://maurycyz.com/projects/glass/1/)** (⬆️ 43)
 <!-- AUTO-UPDATE-END -->
