@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-06-15 17:13 UTC_
+_Last updated: 2026-06-16 04:07 UTC_
 
 ### 🔬 Latest AI Research
-**[Gaze Heads: How VLMs Look at What They Describe](http://arxiv.org/abs/2606.14703v1)**  
-_How a vision-language model internally solves the task of describing an image is far from obvious. We find that the model develops a specific mechanism for this: a small set of attention heads in its ..._
+**[Exact Posterior Score Estimation for Solving Linear Inverse Problems](http://arxiv.org/abs/2606.17048v1)**  
+_Diffusion and flow-based models learn powerful data priors by training a denoiser to reverse Gaussian corruption. To use this prior to solve a linear inverse problem, one needs to sample from the post..._
 
 ### 💻 Trending Tech
-1. **[Iroh 1.0](https://www.iroh.computer/blog/v1)** (⬆️ 334)
-2. **[TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)](https://tinywind.io)** (⬆️ 48)
-3. **[Making glass-to-metal seals for home­made vacuum tubes](https://maurycyz.com/projects/glass/1/)** (⬆️ 43)
+1. **[Microsoft turns to AWS as GitHub faces AI capacity crunch](https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch)** (⬆️ 93)
+2. **[A backdoor in a LinkedIn job offer](https://roman.pt/posts/linkedin-backdoor/)** (⬆️ 829)
+3. **[Banned Book Library in a Wi-Fi Smart Light Bulb](https://www.richardosgood.com/posts/banned-book-library/)** (⬆️ 222)
 <!-- AUTO-UPDATE-END -->
