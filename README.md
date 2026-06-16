@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-06-16 04:07 UTC_
+_Last updated: 2026-06-16 16:51 UTC_
 
 ### 🔬 Latest AI Research
 **[Exact Posterior Score Estimation for Solving Linear Inverse Problems](http://arxiv.org/abs/2606.17048v1)**  
 _Diffusion and flow-based models learn powerful data priors by training a denoiser to reverse Gaussian corruption. To use this prior to solve a linear inverse problem, one needs to sample from the post..._
 
 ### 💻 Trending Tech
-1. **[Microsoft turns to AWS as GitHub faces AI capacity crunch](https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch)** (⬆️ 93)
-2. **[A backdoor in a LinkedIn job offer](https://roman.pt/posts/linkedin-backdoor/)** (⬆️ 829)
-3. **[Banned Book Library in a Wi-Fi Smart Light Bulb](https://www.richardosgood.com/posts/banned-book-library/)** (⬆️ 222)
+1. **[Running local models is good now](https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/)** (⬆️ 311)
+2. **[SpaceX to buy Cursor for $60B](https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/)** (⬆️ 316)
+3. **[Mechanical Watch (2022)](https://ciechanow.ski/mechanical-watch/)** (⬆️ 458)
 <!-- AUTO-UPDATE-END -->
