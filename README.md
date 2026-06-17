@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-06-16 16:51 UTC_
+_Last updated: 2026-06-17 15:29 UTC_
 
 ### 🔬 Latest AI Research
-**[Exact Posterior Score Estimation for Solving Linear Inverse Problems](http://arxiv.org/abs/2606.17048v1)**  
-_Diffusion and flow-based models learn powerful data priors by training a denoiser to reverse Gaussian corruption. To use this prior to solve a linear inverse problem, one needs to sample from the post..._
+**[Visual Verification Enables Inference-time Steering and Autonomous Policy Improvement](http://arxiv.org/abs/2606.18247v1)**  
+_Robots deployed in the real world should learn from their experience and improve over time. This requires a mechanism of practicing and learning from feedback. In this paper, we propose VERITAS, a gen..._
 
 ### 💻 Trending Tech
-1. **[Running local models is good now](https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/)** (⬆️ 311)
-2. **[SpaceX to buy Cursor for $60B](https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/)** (⬆️ 316)
-3. **[Mechanical Watch (2022)](https://ciechanow.ski/mechanical-watch/)** (⬆️ 458)
+1. **[Want your images back? Sure... That'll be $5!](https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars)** (⬆️ 339)
+2. **[Epic Games announces Lore version control system](https://lore.org/)** (⬆️ 148)
+3. **[GLM-5.2 is the new leading open weights model on Artificial Analysis](https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index)** (⬆️ 480)
 <!-- AUTO-UPDATE-END -->
