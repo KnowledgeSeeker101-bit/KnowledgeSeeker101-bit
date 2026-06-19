@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-06-18 15:23 UTC_
+_Last updated: 2026-06-19 04:18 UTC_
 
 ### 🔬 Latest AI Research
-**[Freeing the Law with LOCUS: A Local Ordinance Corpus for the United States](http://arxiv.org/abs/2606.19334v1)**  
-_Progress in legal AI increasingly depends on access to authoritative legal text at scale. Yet one of the most consequential layers of American law remains largely absent from existing machine-readable..._
+**[How Transparent is DiffusionGemma?](http://arxiv.org/abs/2606.20560v1)**  
+_LLM reasoning transparency is a critical affordance for understanding model decisions, mitigating misuse and misalignment, and debugging surprising model behaviors. However, DiffusionGemma performs a ..._
 
 ### 💻 Trending Tech
-1. **[Emacs 31 Is Around the Corner: The Changes I'm Daily Driving](https://www.rahuljuliato.com/posts/emacs-31-around-the-corner)** (⬆️ 216)
-2. **[Ubiquiti: Enterprise NAS, Built on ZFS](https://blog.ui.com/article/introducing-enterprise-nas)** (⬆️ 50)
-3. **[Migrate from OpenClaw](https://hermes-agent.nousresearch.com/docs/guides/migrate-from-openclaw)** (⬆️ 48)
+1. **[To study how chips work, MIT researchers built their own operating system](https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610)** (⬆️ 79)
+2. **[How Japan's railways stayed one while splitting apart](https://arun.is/blog/jr-logo/)** (⬆️ 61)
+3. **[Zero-Touch OAuth for MCP](https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/)** (⬆️ 136)
 <!-- AUTO-UPDATE-END -->
