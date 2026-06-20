@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-06-19 15:16 UTC_
+_Last updated: 2026-06-20 14:03 UTC_
 
 ### 🔬 Latest AI Research
 **[How Transparent is DiffusionGemma?](http://arxiv.org/abs/2606.20560v1)**  
 _LLM reasoning transparency is a critical affordance for understanding model decisions, mitigating misuse and misalignment, and debugging surprising model behaviors. However, DiffusionGemma performs a ..._
 
 ### 💻 Trending Tech
-1. **[Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28](https://www.jvm-weekly.com/p/project-valhalla-explained-how-a)** (⬆️ 355)
-2. **[DuckDB Internals: Why Is DuckDB Fast? (Part 1)](https://www.greybeam.ai/blog/duckdb-internals-part-1)** (⬆️ 302)
-3. **[Zen and the Art of Machine Learning Research](https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning)** (⬆️ 146)
+1. **[CSSQuake](https://cssquake.com/)** (⬆️ 145)
+2. **[I Stored a Website in a Favicon](https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/)** (⬆️ 209)
+3. **[Where to Find the Colors Your Screen Can't Show You](https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/)** (⬆️ 252)
 <!-- AUTO-UPDATE-END -->
