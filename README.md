@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-06-21 04:13 UTC_
+_Last updated: 2026-06-22 04:14 UTC_
 
 ### 🔬 Latest AI Research
 **[How Transparent is DiffusionGemma?](http://arxiv.org/abs/2606.20560v1)**  
 _LLM reasoning transparency is a critical affordance for understanding model decisions, mitigating misuse and misalignment, and debugging surprising model behaviors. However, DiffusionGemma performs a ..._
 
 ### 💻 Trending Tech
-1. **[Renting a sewing machine from the library](https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland)** (⬆️ 143)
-2. **[Epoll vs. io_uring in Linux](https://sibexi.co/posts/epoll-vs-io_uring/)** (⬆️ 79)
-3. **[Show HN: TownSquare, a tiny presence layer for websites](https://townsquare.cauenapier.com/)** (⬆️ 105)
+1. **[Did my old job only exist because of fraud?](https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/)** (⬆️ 313)
+2. **[Apertus – Open Foundation Model for Sovereign AI](https://apertvs.ai/)** (⬆️ 262)
+3. **[Help I accidentally a wigglegram](https://lmao.center/blog/wiggle-accidents/)** (⬆️ 48)
 <!-- AUTO-UPDATE-END -->
