@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-06-23 03:34 UTC_
+_Last updated: 2026-06-23 14:48 UTC_
 
 ### 🔬 Latest AI Research
-**[PaperClaw: Harnessing Agents for Autonomous Research and Human-in-the-Loop Refinement](http://arxiv.org/abs/2606.22610v1)**  
-_Large language models have become capable reasoners and tool users that write and run code and search the literature, which makes automating the research process itself a realistic goal. We present PA..._
+**[AutoDex: An Automated Real-World System for Dexterous Grasping Data Collection](http://arxiv.org/abs/2606.23689v1)**  
+_Learning robust dexterous grasping requires real-world data that records the physical outcomes of grasp attempts. Such data is hard to obtain at scale: teleoperation yields valid physical outcomes but..._
 
 ### 💻 Trending Tech
-1. **[Steam Machine launches today](https://store.steampowered.com/news/group/45479024/view/685257114654870245)** (⬆️ 1300)
-2. **[In praise of memcached](https://jchri.st/blog/in-praise-of-memcached/)** (⬆️ 65)
-3. **[Runing GLM-5.2 on local hardware](https://unsloth.ai/docs/models/glm-5.2)** (⬆️ 224)
+1. **[Elevated error rate across multiple models](https://status.claude.com/incidents/jbhf20wjmzrf)** (⬆️ 103)
+2. **[Unlimited OCR: One-Shot Long-Horizon Parsing](https://github.com/baidu/Unlimited-OCR)** (⬆️ 197)
+3. **[Spying on kids to save kids from spying is stupid](https://pluralistic.net/2026/06/23/destroy-the-village/)** (⬆️ 72)
 <!-- AUTO-UPDATE-END -->
