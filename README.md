@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-06-22 16:56 UTC_
+_Last updated: 2026-06-23 03:34 UTC_
 
 ### 🔬 Latest AI Research
-**[How Transparent is DiffusionGemma?](http://arxiv.org/abs/2606.20560v1)**  
-_LLM reasoning transparency is a critical affordance for understanding model decisions, mitigating misuse and misalignment, and debugging surprising model behaviors. However, DiffusionGemma performs a ..._
+**[PaperClaw: Harnessing Agents for Autonomous Research and Human-in-the-Loop Refinement](http://arxiv.org/abs/2606.22610v1)**  
+_Large language models have become capable reasoners and tool users that write and run code and search the literature, which makes automating the research process itself a realistic goal. We present PA..._
 
 ### 💻 Trending Tech
-1. **[Never Give Them Your Face](https://nevergivethemyourface.com/)** (⬆️ 523)
-2. **[Pledging Another $400k to the Zig Software Foundation](https://mitchellh.com/writing/zig-donation-2026)** (⬆️ 468)
-3. **[Claude Code's "extended thinking" is a summary- not authentic thinking](https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/)** (⬆️ 136)
+1. **[Steam Machine launches today](https://store.steampowered.com/news/group/45479024/view/685257114654870245)** (⬆️ 1300)
+2. **[In praise of memcached](https://jchri.st/blog/in-praise-of-memcached/)** (⬆️ 65)
+3. **[Runing GLM-5.2 on local hardware](https://unsloth.ai/docs/models/glm-5.2)** (⬆️ 224)
 <!-- AUTO-UPDATE-END -->
