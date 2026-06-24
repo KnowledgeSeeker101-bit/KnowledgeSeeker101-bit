@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-06-23 14:48 UTC_
+_Last updated: 2026-06-24 14:30 UTC_
 
 ### 🔬 Latest AI Research
-**[AutoDex: An Automated Real-World System for Dexterous Grasping Data Collection](http://arxiv.org/abs/2606.23689v1)**  
-_Learning robust dexterous grasping requires real-world data that records the physical outcomes of grasp attempts. Such data is hard to obtain at scale: teleoperation yields valid physical outcomes but..._
+**[InSight: Self-Guided Skill Acquisition via Steerable VLAs](http://arxiv.org/abs/2606.24884v1)**  
+_Vision-language-action (VLA) models can learn manipulation skills from demonstrations, but their capabilities are bounded by the skills in the training data. We present InSight, a framework that unloc..._
 
 ### 💻 Trending Tech
-1. **[Elevated error rate across multiple models](https://status.claude.com/incidents/jbhf20wjmzrf)** (⬆️ 103)
-2. **[Unlimited OCR: One-Shot Long-Horizon Parsing](https://github.com/baidu/Unlimited-OCR)** (⬆️ 197)
-3. **[Spying on kids to save kids from spying is stupid](https://pluralistic.net/2026/06/23/destroy-the-village/)** (⬆️ 72)
+1. **[We're making Bunny DNS free: because a faster internet won't build itself](https://bunny.net/blog/were-making-bunny-dns-free/)** (⬆️ 467)
+2. **[Minimus container images are now free](https://images.minimus.io/)** (⬆️ 69)
+3. **[Krea 2 Technical Report](https://www.krea.ai/blog/krea-2-technical-report)** (⬆️ 87)
 <!-- AUTO-UPDATE-END -->
