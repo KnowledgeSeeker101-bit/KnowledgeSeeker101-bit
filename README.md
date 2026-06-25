@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-06-25 03:33 UTC_
+_Last updated: 2026-06-25 14:32 UTC_
 
 ### 🔬 Latest AI Research
 **[Learning Action Priors for Cross-embodiment Robot Manipulation](http://arxiv.org/abs/2606.26095v1)**  
 _Most Vision-Language-Action (VLA) models build on a Vision-Language Model (VLM) backbone by attaching an action module and optimizing the full policy jointly. This design inherits strong visual and li..._
 
 ### 💻 Trending Tech
-1. **[OpenAI unveils its first custom chip, built by Broadcom](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/)** (⬆️ 571)
-2. **[LuaJIT 3.0 proposed syntax extensions](https://github.com/LuaJIT/LuaJIT/issues/1475)** (⬆️ 83)
-3. **[Anthropic says Alibaba illicitly extracted Claude AI model capabilities](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/)** (⬆️ 127)
+1. **[You can't unit test for taste](https://dev.karltryggvason.com/you-cant-unit-test-for-taste/)** (⬆️ 90)
+2. **[Half-Life 2 in a Browser](https://hl2.slqnt.dev/)** (⬆️ 446)
+3. **[Anthropic says Alibaba illicitly extracted Claude AI model capabilities](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/)** (⬆️ 599)
 <!-- AUTO-UPDATE-END -->
