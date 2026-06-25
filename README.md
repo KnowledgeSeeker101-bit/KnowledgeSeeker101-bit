@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-06-24 14:30 UTC_
+_Last updated: 2026-06-25 03:33 UTC_
 
 ### 🔬 Latest AI Research
-**[InSight: Self-Guided Skill Acquisition via Steerable VLAs](http://arxiv.org/abs/2606.24884v1)**  
-_Vision-language-action (VLA) models can learn manipulation skills from demonstrations, but their capabilities are bounded by the skills in the training data. We present InSight, a framework that unloc..._
+**[Learning Action Priors for Cross-embodiment Robot Manipulation](http://arxiv.org/abs/2606.26095v1)**  
+_Most Vision-Language-Action (VLA) models build on a Vision-Language Model (VLM) backbone by attaching an action module and optimizing the full policy jointly. This design inherits strong visual and li..._
 
 ### 💻 Trending Tech
-1. **[We're making Bunny DNS free: because a faster internet won't build itself](https://bunny.net/blog/were-making-bunny-dns-free/)** (⬆️ 467)
-2. **[Minimus container images are now free](https://images.minimus.io/)** (⬆️ 69)
-3. **[Krea 2 Technical Report](https://www.krea.ai/blog/krea-2-technical-report)** (⬆️ 87)
+1. **[OpenAI unveils its first custom chip, built by Broadcom](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/)** (⬆️ 571)
+2. **[LuaJIT 3.0 proposed syntax extensions](https://github.com/LuaJIT/LuaJIT/issues/1475)** (⬆️ 83)
+3. **[Anthropic says Alibaba illicitly extracted Claude AI model capabilities](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/)** (⬆️ 127)
 <!-- AUTO-UPDATE-END -->
