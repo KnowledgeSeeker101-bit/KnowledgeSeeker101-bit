@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-06-26 03:40 UTC_
+_Last updated: 2026-06-26 14:24 UTC_
 
 ### 🔬 Latest AI Research
 **[DanceOPD: On-Policy Generative Field Distillation](http://arxiv.org/abs/2606.27377v1)**  
 _Modern image generation demands a single model that unifies diverse capabilities, including text-to-image (T2I), local editing, and global editing. However, these capabilities are rarely naturally ali..._
 
 ### 💻 Trending Tech
-1. **[Om Malik has died](https://om.co/2026/06/24/1966-2026/)** (⬆️ 580)
-2. **[An entire Herculaneum scroll has been read for the first time](https://scrollprize.org/firstscroll)** (⬆️ 1051)
-3. **[Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line](https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true)** (⬆️ 123)
+1. **[Incident CVE-2026-LGTM](https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html)** (⬆️ 45)
+2. **[Why have papers by one of history's most famous physicists been retracted?](https://www.science.org/content/article/why-have-papers-one-history-s-most-famous-physicists-been-retracted)** (⬆️ 5)
+3. **[Om Malik has died](https://om.co/2026/06/24/1966-2026/)** (⬆️ 1086)
 <!-- AUTO-UPDATE-END -->
