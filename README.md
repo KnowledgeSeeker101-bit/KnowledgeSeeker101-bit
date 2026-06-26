@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-06-25 14:32 UTC_
+_Last updated: 2026-06-26 03:40 UTC_
 
 ### 🔬 Latest AI Research
-**[Learning Action Priors for Cross-embodiment Robot Manipulation](http://arxiv.org/abs/2606.26095v1)**  
-_Most Vision-Language-Action (VLA) models build on a Vision-Language Model (VLM) backbone by attaching an action module and optimizing the full policy jointly. This design inherits strong visual and li..._
+**[DanceOPD: On-Policy Generative Field Distillation](http://arxiv.org/abs/2606.27377v1)**  
+_Modern image generation demands a single model that unifies diverse capabilities, including text-to-image (T2I), local editing, and global editing. However, these capabilities are rarely naturally ali..._
 
 ### 💻 Trending Tech
-1. **[You can't unit test for taste](https://dev.karltryggvason.com/you-cant-unit-test-for-taste/)** (⬆️ 90)
-2. **[Half-Life 2 in a Browser](https://hl2.slqnt.dev/)** (⬆️ 446)
-3. **[Anthropic says Alibaba illicitly extracted Claude AI model capabilities](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/)** (⬆️ 599)
+1. **[Om Malik has died](https://om.co/2026/06/24/1966-2026/)** (⬆️ 580)
+2. **[An entire Herculaneum scroll has been read for the first time](https://scrollprize.org/firstscroll)** (⬆️ 1051)
+3. **[Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line](https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true)** (⬆️ 123)
 <!-- AUTO-UPDATE-END -->
