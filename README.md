@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-06-26 14:24 UTC_
+_Last updated: 2026-06-27 03:27 UTC_
 
 ### 🔬 Latest AI Research
 **[DanceOPD: On-Policy Generative Field Distillation](http://arxiv.org/abs/2606.27377v1)**  
 _Modern image generation demands a single model that unifies diverse capabilities, including text-to-image (T2I), local editing, and global editing. However, these capabilities are rarely naturally ali..._
 
 ### 💻 Trending Tech
-1. **[Incident CVE-2026-LGTM](https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html)** (⬆️ 45)
-2. **[Why have papers by one of history's most famous physicists been retracted?](https://www.science.org/content/article/why-have-papers-one-history-s-most-famous-physicists-been-retracted)** (⬆️ 5)
-3. **[Om Malik has died](https://om.co/2026/06/24/1966-2026/)** (⬆️ 1086)
+1. **[U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations](https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies)** (⬆️ 258)
+2. **[Previewing GPT‑5.6 Sol: a next-generation model](https://openai.com/index/previewing-gpt-5-6-sol/)** (⬆️ 879)
+3. **[Why does kinetic energy increase quadratically, not linearly, with speed? (2011)](https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed)** (⬆️ 123)
 <!-- AUTO-UPDATE-END -->
