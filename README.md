@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-06-28 03:50 UTC_
+_Last updated: 2026-06-28 13:45 UTC_
 
 ### 🔬 Latest AI Research
 **[DanceOPD: On-Policy Generative Field Distillation](http://arxiv.org/abs/2606.27377v1)**  
 _Modern image generation demands a single model that unifies diverse capabilities, including text-to-image (T2I), local editing, and global editing. However, these capabilities are rarely naturally ali..._
 
 ### 💻 Trending Tech
-1. **[Marfa Public Radio Puts You to Sleep](https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep)** (⬆️ 60)
-2. **[Show HN: Decomp Academy – Learn to decompile GameCube games into matching C](https://decomp-academy.dev)** (⬆️ 53)
-3. **[AMD Strix Halo RDMA Cluster Setup Guide](https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md)** (⬆️ 63)
+1. **[A way to exclude sensitive files issue still open for OpenAI Codex](https://github.com/openai/codex/issues/2847)** (⬆️ 33)
+2. **[Marfa Public Radio Puts You to Sleep](https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep)** (⬆️ 308)
+3. **[Kids act would require age checks to get online](https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online)** (⬆️ 72)
 <!-- AUTO-UPDATE-END -->
