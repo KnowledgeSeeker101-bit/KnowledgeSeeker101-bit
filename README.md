@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-06-28 13:45 UTC_
+_Last updated: 2026-06-29 03:55 UTC_
 
 ### 🔬 Latest AI Research
-**[DanceOPD: On-Policy Generative Field Distillation](http://arxiv.org/abs/2606.27377v1)**  
-_Modern image generation demands a single model that unifies diverse capabilities, including text-to-image (T2I), local editing, and global editing. However, these capabilities are rarely naturally ali..._
+**[DexCompose: Reusing Dexterous Policies for Multi-Task Manipulation with a Single Hand](http://arxiv.org/abs/2606.28323v1)**  
+_Dexterous manipulation policies can solve individual skills, but composing them to perform multiple tasks with a single hand remains challenging. Adding a new task on top of an existing manipulation s..._
 
 ### 💻 Trending Tech
-1. **[A way to exclude sensitive files issue still open for OpenAI Codex](https://github.com/openai/codex/issues/2847)** (⬆️ 33)
-2. **[Marfa Public Radio Puts You to Sleep](https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep)** (⬆️ 308)
-3. **[Kids act would require age checks to get online](https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online)** (⬆️ 72)
+1. **[GLM 5.2 beats Claude in our benchmarks](https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/)** (⬆️ 563)
+2. **[Age verification is just a precursor to automated attribution of speech](https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026)** (⬆️ 5)
+3. **[Historical memory prices 1960-2026](https://dam.stanford.edu/memory-prices.html)** (⬆️ 219)
 <!-- AUTO-UPDATE-END -->
