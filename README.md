@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-06-29 03:55 UTC_
+_Last updated: 2026-06-29 15:46 UTC_
 
 ### 🔬 Latest AI Research
 **[DexCompose: Reusing Dexterous Policies for Multi-Task Manipulation with a Single Hand](http://arxiv.org/abs/2606.28323v1)**  
 _Dexterous manipulation policies can solve individual skills, but composing them to perform multiple tasks with a single hand remains challenging. Adding a new task on top of an existing manipulation s..._
 
 ### 💻 Trending Tech
-1. **[GLM 5.2 beats Claude in our benchmarks](https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/)** (⬆️ 563)
-2. **[Age verification is just a precursor to automated attribution of speech](https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026)** (⬆️ 5)
-3. **[Historical memory prices 1960-2026](https://dam.stanford.edu/memory-prices.html)** (⬆️ 219)
+1. **[Rocketlab acquires Iridium](https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully)** (⬆️ 66)
+2. **[What happens when you run a CUDA kernel?](https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/)** (⬆️ 63)
+3. **[Building Principia for Windows XP](https://voxelmanip.se/2026/06/28/building-principia-for-windows-xp/)** (⬆️ 60)
 <!-- AUTO-UPDATE-END -->
