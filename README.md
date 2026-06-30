@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-06-30 03:38 UTC_
+_Last updated: 2026-06-30 14:17 UTC_
 
 ### 🔬 Latest AI Research
-**[Hybrid Active-Online Learning Framework for Label-Efficient Concept Drift Adaptation in Optical Network Failure Detection](http://arxiv.org/abs/2606.30322v1)**  
-_We propose a hybrid active-online learning framework for label-efficient concept drift adaptation in optical network failure detection. Using margin-based selective labeling, our method achieves nearc..._
+**[VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes](http://arxiv.org/abs/2606.30645v1)**  
+_Perception-based humanoid loco-manipulation requires connecting egocentric observations and task instructions to whole-body motion. Learning this mapping requires synchronized egocentric images, langu..._
 
 ### 💻 Trending Tech
-1. **[Qwen 3.6 27B is the sweet spot for local development](https://quesma.com/blog/qwen-36-is-awesome/)** (⬆️ 680)
-2. **[.self: A new top-level domain designed to support self-hosting](https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/)** (⬆️ 371)
-3. **[Free the Icons](https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/)** (⬆️ 277)
+1. **[The US ambassador had Belgian police stop our reporting](https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting)** (⬆️ 430)
+2. **[European digital ID wallets rely on safety services of Google and Apple](https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/)** (⬆️ 445)
+3. **[Building a custom octocopter from scratch with no prior hardware experience](https://karolina.mgdubiel.com/drone/)** (⬆️ 165)
 <!-- AUTO-UPDATE-END -->
