@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-06-29 15:46 UTC_
+_Last updated: 2026-06-30 03:38 UTC_
 
 ### 🔬 Latest AI Research
-**[DexCompose: Reusing Dexterous Policies for Multi-Task Manipulation with a Single Hand](http://arxiv.org/abs/2606.28323v1)**  
-_Dexterous manipulation policies can solve individual skills, but composing them to perform multiple tasks with a single hand remains challenging. Adding a new task on top of an existing manipulation s..._
+**[Hybrid Active-Online Learning Framework for Label-Efficient Concept Drift Adaptation in Optical Network Failure Detection](http://arxiv.org/abs/2606.30322v1)**  
+_We propose a hybrid active-online learning framework for label-efficient concept drift adaptation in optical network failure detection. Using margin-based selective labeling, our method achieves nearc..._
 
 ### 💻 Trending Tech
-1. **[Rocketlab acquires Iridium](https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully)** (⬆️ 66)
-2. **[What happens when you run a CUDA kernel?](https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/)** (⬆️ 63)
-3. **[Building Principia for Windows XP](https://voxelmanip.se/2026/06/28/building-principia-for-windows-xp/)** (⬆️ 60)
+1. **[Qwen 3.6 27B is the sweet spot for local development](https://quesma.com/blog/qwen-36-is-awesome/)** (⬆️ 680)
+2. **[.self: A new top-level domain designed to support self-hosting](https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/)** (⬆️ 371)
+3. **[Free the Icons](https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/)** (⬆️ 277)
 <!-- AUTO-UPDATE-END -->
