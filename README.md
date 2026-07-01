@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-06-30 14:17 UTC_
+_Last updated: 2026-07-01 14:34 UTC_
 
 ### 🔬 Latest AI Research
-**[VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes](http://arxiv.org/abs/2606.30645v1)**  
-_Perception-based humanoid loco-manipulation requires connecting egocentric observations and task instructions to whole-body motion. Learning this mapping requires synchronized egocentric images, langu..._
+**[Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despite Fixed Supervision](http://arxiv.org/abs/2606.32038v1)**  
+_When does training language models (LMs) to generate explanations of their predictions yield faithful introspection, rather than superficial imitation? We study LMs trained to explain which features o..._
 
 ### 💻 Trending Tech
-1. **[The US ambassador had Belgian police stop our reporting](https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting)** (⬆️ 430)
-2. **[European digital ID wallets rely on safety services of Google and Apple](https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/)** (⬆️ 445)
-3. **[Building a custom octocopter from scratch with no prior hardware experience](https://karolina.mgdubiel.com/drone/)** (⬆️ 165)
+1. **[Why I Stopped Arguing with People](https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html)** (⬆️ 210)
+2. **[Asahi Linux 7.1 Progress Report](https://asahilinux.org/2026/06/progress-report-7-1/)** (⬆️ 346)
+3. **[Single Dose of Frog-Derived Gut Bacterium Eradicates 100% of Tumors in Mice](https://www.thefocalpoints.com/p/new-study-frog-derived-gut-bacterium)** (⬆️ 256)
 <!-- AUTO-UPDATE-END -->
