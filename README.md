@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-07-02 03:34 UTC_
+_Last updated: 2026-07-02 13:59 UTC_
 
 ### 🔬 Latest AI Research
 **[Measuring the Gap Between Human and LLM Research Ideas](http://arxiv.org/abs/2607.01233v1)**  
 _LLMs are increasingly used to brainstorm research ideas, but existing evaluations mostly judge individual ideas by novelty, feasibility, or expert preference. We instead ask: how far are current LLM-g..._
 
 ### 💻 Trending Tech
-1. **[ZCode – Harness for GLM-5.2](https://zcode.z.ai/en)** (⬆️ 250)
-2. **[Building an Open-Source Robot Vacuum – Meet Oomwoo](https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/)** (⬆️ 78)
-3. **[Show HN: Searchable directory of 22k+ products from worker-owned co-ops](https://www.workerowned.info/)** (⬆️ 262)
+1. **[Vite+ Beta](https://voidzero.dev/posts/announcing-vite-plus-beta)** (⬆️ 110)
+2. **[AI fake news complaining about how AI fake news is the death of real news](https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/)** (⬆️ 68)
+3. **[Android Developer Verification: Threat masquerading as Protection](https://f-droid.org/2026/07/01/adv-malware.html)** (⬆️ 993)
 <!-- AUTO-UPDATE-END -->
