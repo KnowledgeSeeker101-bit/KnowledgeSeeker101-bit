@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-07-01 14:34 UTC_
+_Last updated: 2026-07-02 03:34 UTC_
 
 ### 🔬 Latest AI Research
-**[Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despite Fixed Supervision](http://arxiv.org/abs/2606.32038v1)**  
-_When does training language models (LMs) to generate explanations of their predictions yield faithful introspection, rather than superficial imitation? We study LMs trained to explain which features o..._
+**[Measuring the Gap Between Human and LLM Research Ideas](http://arxiv.org/abs/2607.01233v1)**  
+_LLMs are increasingly used to brainstorm research ideas, but existing evaluations mostly judge individual ideas by novelty, feasibility, or expert preference. We instead ask: how far are current LLM-g..._
 
 ### 💻 Trending Tech
-1. **[Why I Stopped Arguing with People](https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html)** (⬆️ 210)
-2. **[Asahi Linux 7.1 Progress Report](https://asahilinux.org/2026/06/progress-report-7-1/)** (⬆️ 346)
-3. **[Single Dose of Frog-Derived Gut Bacterium Eradicates 100% of Tumors in Mice](https://www.thefocalpoints.com/p/new-study-frog-derived-gut-bacterium)** (⬆️ 256)
+1. **[ZCode – Harness for GLM-5.2](https://zcode.z.ai/en)** (⬆️ 250)
+2. **[Building an Open-Source Robot Vacuum – Meet Oomwoo](https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/)** (⬆️ 78)
+3. **[Show HN: Searchable directory of 22k+ products from worker-owned co-ops](https://www.workerowned.info/)** (⬆️ 262)
 <!-- AUTO-UPDATE-END -->
