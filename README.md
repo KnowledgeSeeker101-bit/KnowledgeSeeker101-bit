@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-07-02 13:59 UTC_
+_Last updated: 2026-07-03 14:03 UTC_
 
 ### 🔬 Latest AI Research
-**[Measuring the Gap Between Human and LLM Research Ideas](http://arxiv.org/abs/2607.01233v1)**  
-_LLMs are increasingly used to brainstorm research ideas, but existing evaluations mostly judge individual ideas by novelty, feasibility, or expert preference. We instead ask: how far are current LLM-g..._
+**[Distributed Attacks in Persistent-State AI Control](http://arxiv.org/abs/2607.02514v1)**  
+_As AI coding agents become more autonomous, they increasingly ship code iteratively, with the codebase persisting across sessions. This persistence creates a new attack surface: a misaligned or prompt..._
 
 ### 💻 Trending Tech
-1. **[Vite+ Beta](https://voidzero.dev/posts/announcing-vite-plus-beta)** (⬆️ 110)
-2. **[AI fake news complaining about how AI fake news is the death of real news](https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/)** (⬆️ 68)
-3. **[Android Developer Verification: Threat masquerading as Protection](https://f-droid.org/2026/07/01/adv-malware.html)** (⬆️ 993)
+1. **[Half-Baked Product](https://weli.dev/blog/half-baked-product/)** (⬆️ 583)
+2. **[PostgreSQL and the OOM Killer: Why You Must Use Strict Memory Overcommit](https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit)** (⬆️ 28)
+3. **[Virginia bans sale of geolocation data](https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data)** (⬆️ 891)
 <!-- AUTO-UPDATE-END -->
