@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-07-03 14:03 UTC_
+_Last updated: 2026-07-04 13:25 UTC_
 
 ### 🔬 Latest AI Research
 **[Distributed Attacks in Persistent-State AI Control](http://arxiv.org/abs/2607.02514v1)**  
 _As AI coding agents become more autonomous, they increasingly ship code iteratively, with the codebase persisting across sessions. This persistence creates a new attack surface: a misaligned or prompt..._
 
 ### 💻 Trending Tech
-1. **[Half-Baked Product](https://weli.dev/blog/half-baked-product/)** (⬆️ 583)
-2. **[PostgreSQL and the OOM Killer: Why You Must Use Strict Memory Overcommit](https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit)** (⬆️ 28)
-3. **[Virginia bans sale of geolocation data](https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data)** (⬆️ 891)
+1. **[Astrophysicists Puzzle over Webb’s New Universe](https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/)** (⬆️ 67)
+2. **[The Vespa at 80: Why the Italian scooter remains the coolest thing on 2 wheels](https://www.cbc.ca/news/world/vespa-italy-postwar-design-9.7252641)** (⬆️ 32)
+3. **[The bottleneck might be the air in the room](https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/)** (⬆️ 463)
 <!-- AUTO-UPDATE-END -->
