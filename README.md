@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-07-06 03:32 UTC_
+_Last updated: 2026-07-06 15:32 UTC_
 
 ### 🔬 Latest AI Research
 **[Distributed Attacks in Persistent-State AI Control](http://arxiv.org/abs/2607.02514v1)**  
 _As AI coding agents become more autonomous, they increasingly ship code iteratively, with the codebase persisting across sessions. This persistence creates a new attack surface: a misaligned or prompt..._
 
 ### 💻 Trending Tech
-1. **[GPT-5.6 Sol Ultra will be in Codex](https://twitter.com/thsottiaux/status/2073933490513752151)** (⬆️ 104)
-2. **[OpenPrinter](https://www.opentools.studio/)** (⬆️ 514)
-3. **[Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills](https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt)** (⬆️ 112)
+1. **[Emily Bender Sets the Record Straight on "Stochastic Parrots"](https://spectrum.ieee.org/stochastic-parrot)** (⬆️ 39)
+2. **[Aluminum foil (2021)](https://dernocua.github.io/notes/aluminum-foil.html)** (⬆️ 74)
+3. **[AMD Ryzen AI Halo – $4k AI Dev Kit](https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo)** (⬆️ 17)
 <!-- AUTO-UPDATE-END -->
