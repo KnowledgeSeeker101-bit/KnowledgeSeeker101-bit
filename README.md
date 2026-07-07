@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-07-07 03:22 UTC_
+_Last updated: 2026-07-07 14:32 UTC_
 
 ### 🔬 Latest AI Research
 **[From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model](http://arxiv.org/abs/2607.05396v1)**  
 _Real-world robot deployment rarely maintains the training-stage camera setup, where cameras often experience repositioning or remounting depending on actual scenarios. Existing view-robust Vision-Lang..._
 
 ### 💻 Trending Tech
-1. **[Fable turned reMarkable into Tom Riddle's diary from Harry Potter](https://github.com/MaximeRivest/Riddle)** (⬆️ 202)
-2. **[OpenWrt One – Open Hardware Router](https://openwrt.org/toh/openwrt/one)** (⬆️ 473)
-3. **[How to sequence your own DNA at home](https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home)** (⬆️ 82)
+1. **[StreetComplete: Fixing OpenStreetMap, one tiny quest at a time](https://streetcomplete.app/)** (⬆️ 147)
+2. **[A better way to tie your gym shorts. (Or any drawstring) [video]](https://www.youtube.com/watch?v=3R0Lp86GEBk)** (⬆️ 123)
+3. **[Europe's company websites are mostly served by US vendors](https://ciphercue.com/blog/european-web-hosting-vendor-share-2026)** (⬆️ 125)
 <!-- AUTO-UPDATE-END -->
