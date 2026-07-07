@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-07-06 15:32 UTC_
+_Last updated: 2026-07-07 03:22 UTC_
 
 ### 🔬 Latest AI Research
-**[Distributed Attacks in Persistent-State AI Control](http://arxiv.org/abs/2607.02514v1)**  
-_As AI coding agents become more autonomous, they increasingly ship code iteratively, with the codebase persisting across sessions. This persistence creates a new attack surface: a misaligned or prompt..._
+**[From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model](http://arxiv.org/abs/2607.05396v1)**  
+_Real-world robot deployment rarely maintains the training-stage camera setup, where cameras often experience repositioning or remounting depending on actual scenarios. Existing view-robust Vision-Lang..._
 
 ### 💻 Trending Tech
-1. **[Emily Bender Sets the Record Straight on "Stochastic Parrots"](https://spectrum.ieee.org/stochastic-parrot)** (⬆️ 39)
-2. **[Aluminum foil (2021)](https://dernocua.github.io/notes/aluminum-foil.html)** (⬆️ 74)
-3. **[AMD Ryzen AI Halo – $4k AI Dev Kit](https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo)** (⬆️ 17)
+1. **[Fable turned reMarkable into Tom Riddle's diary from Harry Potter](https://github.com/MaximeRivest/Riddle)** (⬆️ 202)
+2. **[OpenWrt One – Open Hardware Router](https://openwrt.org/toh/openwrt/one)** (⬆️ 473)
+3. **[How to sequence your own DNA at home](https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home)** (⬆️ 82)
 <!-- AUTO-UPDATE-END -->
