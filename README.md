@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-07-07 14:32 UTC_
+_Last updated: 2026-07-08 14:05 UTC_
 
 ### 🔬 Latest AI Research
-**[From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model](http://arxiv.org/abs/2607.05396v1)**  
-_Real-world robot deployment rarely maintains the training-stage camera setup, where cameras often experience repositioning or remounting depending on actual scenarios. Existing view-robust Vision-Lang..._
+**[ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation](http://arxiv.org/abs/2607.06565v1)**  
+_Unified 3D foundation models aspire to generate 3D assets and reason about them in language within a single backbone, but their text-3D interaction remains largely implicit. Existing methods concatena..._
 
 ### 💻 Trending Tech
-1. **[StreetComplete: Fixing OpenStreetMap, one tiny quest at a time](https://streetcomplete.app/)** (⬆️ 147)
-2. **[A better way to tie your gym shorts. (Or any drawstring) [video]](https://www.youtube.com/watch?v=3R0Lp86GEBk)** (⬆️ 123)
-3. **[Europe's company websites are mostly served by US vendors](https://ciphercue.com/blog/european-web-hosting-vendor-share-2026)** (⬆️ 125)
+1. **[Decoding the obfuscated bash script on a Uniqlo t-shirt](https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/)** (⬆️ 681)
+2. **[Apple to increase spend with Broadcom to produce billions more U.S. chips](https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/)** (⬆️ 118)
+3. **[Tiny data centre used to heat public swimming pool](https://www.bbc.com/news/technology-64939558)** (⬆️ 30)
 <!-- AUTO-UPDATE-END -->
