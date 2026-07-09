@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-07-09 03:16 UTC_
+_Last updated: 2026-07-09 14:57 UTC_
 
 ### 🔬 Latest AI Research
 **[Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning](http://arxiv.org/abs/2607.07708v1)**  
 _Structure-property relationships are foundational to biology, chemistry and materials science, where function, reactivity and physical response emerge from spatial, chemical and periodic organization...._
 
 ### 💻 Trending Tech
-1. **[John Deere owners will get the right to repair equipment under FTC settlement](https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02)** (⬆️ 404)
-2. **[I Think I Have LLM Burnout](https://www.alecscollon.com/blog/llm-burnout/)** (⬆️ 107)
-3. **[Separating signal from noise in coding evaluations](https://openai.com/index/separating-signal-from-noise-coding-evaluations/)** (⬆️ 173)
+1. **[Show HN: 18 Words](https://18words.com/)** (⬆️ 268)
+2. **[No leap second will be introduced at the end of December 2026](https://datacenter.iers.org/data/latestVersion/bulletinC.txt)** (⬆️ 39)
+3. **[Show HN: FableCut – A browser video editor AI agents can drive (zero deps)](https://github.com/ronak-create/FableCut)** (⬆️ 52)
 <!-- AUTO-UPDATE-END -->
