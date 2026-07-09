@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-07-08 14:05 UTC_
+_Last updated: 2026-07-09 03:16 UTC_
 
 ### 🔬 Latest AI Research
-**[ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation](http://arxiv.org/abs/2607.06565v1)**  
-_Unified 3D foundation models aspire to generate 3D assets and reason about them in language within a single backbone, but their text-3D interaction remains largely implicit. Existing methods concatena..._
+**[Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning](http://arxiv.org/abs/2607.07708v1)**  
+_Structure-property relationships are foundational to biology, chemistry and materials science, where function, reactivity and physical response emerge from spatial, chemical and periodic organization...._
 
 ### 💻 Trending Tech
-1. **[Decoding the obfuscated bash script on a Uniqlo t-shirt](https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/)** (⬆️ 681)
-2. **[Apple to increase spend with Broadcom to produce billions more U.S. chips](https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/)** (⬆️ 118)
-3. **[Tiny data centre used to heat public swimming pool](https://www.bbc.com/news/technology-64939558)** (⬆️ 30)
+1. **[John Deere owners will get the right to repair equipment under FTC settlement](https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02)** (⬆️ 404)
+2. **[I Think I Have LLM Burnout](https://www.alecscollon.com/blog/llm-burnout/)** (⬆️ 107)
+3. **[Separating signal from noise in coding evaluations](https://openai.com/index/separating-signal-from-noise-coding-evaluations/)** (⬆️ 173)
 <!-- AUTO-UPDATE-END -->
