@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-07-09 14:57 UTC_
+_Last updated: 2026-07-10 03:18 UTC_
 
 ### 🔬 Latest AI Research
-**[Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning](http://arxiv.org/abs/2607.07708v1)**  
-_Structure-property relationships are foundational to biology, chemistry and materials science, where function, reactivity and physical response emerge from spatial, chemical and periodic organization...._
+**[OpenCoF: Learning to Reason Through Video Generation](http://arxiv.org/abs/2607.08763v1)**  
+_Reasoning has become a core capability for large models, especially when reliable decisions require understanding logical consequences. Recent video generation models offer a reasoning path distinct f..._
 
 ### 💻 Trending Tech
-1. **[Show HN: 18 Words](https://18words.com/)** (⬆️ 268)
-2. **[No leap second will be introduced at the end of December 2026](https://datacenter.iers.org/data/latestVersion/bulletinC.txt)** (⬆️ 39)
-3. **[Show HN: FableCut – A browser video editor AI agents can drive (zero deps)](https://github.com/ronak-create/FableCut)** (⬆️ 52)
+1. **[Show HN: Getting GLM 5.2 running on my slow computer](https://github.com/JustVugg/colibri)** (⬆️ 434)
+2. **[Focus](https://boz.com/articles/focus)** (⬆️ 52)
+3. **[EU Parliament greenlights Chat Control 1.0](https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/)** (⬆️ 1042)
 <!-- AUTO-UPDATE-END -->
