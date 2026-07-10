@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-07-10 03:18 UTC_
+_Last updated: 2026-07-10 14:25 UTC_
 
 ### 🔬 Latest AI Research
 **[OpenCoF: Learning to Reason Through Video Generation](http://arxiv.org/abs/2607.08763v1)**  
 _Reasoning has become a core capability for large models, especially when reliable decisions require understanding logical consequences. Recent video generation models offer a reasoning path distinct f..._
 
 ### 💻 Trending Tech
-1. **[Show HN: Getting GLM 5.2 running on my slow computer](https://github.com/JustVugg/colibri)** (⬆️ 434)
-2. **[Focus](https://boz.com/articles/focus)** (⬆️ 52)
-3. **[EU Parliament greenlights Chat Control 1.0](https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/)** (⬆️ 1042)
+1. **[Write code like a human will maintain it](https://unstack.io/write-code-like-a-human-will-maintain-it)** (⬆️ 65)
+2. **[Punk, or why I don't stream anymore](https://geohot.github.io//blog/jekyll/update/2026/05/03/punk-or-why-i-dont-stream.html)** (⬆️ 57)
+3. **[Late Bronze Age Collapse](https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/)** (⬆️ 92)
 <!-- AUTO-UPDATE-END -->
