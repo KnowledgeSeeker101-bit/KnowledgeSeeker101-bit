@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-07-11 13:17 UTC_
+_Last updated: 2026-07-12 13:18 UTC_
 
 ### 🔬 Latest AI Research
 **[OpenCoF: Learning to Reason Through Video Generation](http://arxiv.org/abs/2607.08763v1)**  
 _Reasoning has become a core capability for large models, especially when reliable decisions require understanding logical consequences. Recent video generation models offer a reasoning path distinct f..._
 
 ### 💻 Trending Tech
-1. **[Networking and the Internet, from First Principles](https://fazamhd.com/mental-models/networking/)** (⬆️ 44)
-2. **[Your code is fast – if you're lucky](https://tiki.li/blog/lucky_code.html)** (⬆️ 33)
-3. **[Einstein's relativity rules chemical bonds in heavy elements, new research shows](https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity)** (⬆️ 298)
+1. **[Old and new apps, via modern coding agents by Terry Tao](https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/)** (⬆️ 93)
+2. **[Yt-Dlp Sequence Diagrams](https://app.ilograph.com/demo.ilograph.yt-dlp/Download%2520a%2520YouTube%2520Video)** (⬆️ 40)
+3. **[Understanding the Odin Programming Language](https://odinbook.com/)** (⬆️ 19)
 <!-- AUTO-UPDATE-END -->
