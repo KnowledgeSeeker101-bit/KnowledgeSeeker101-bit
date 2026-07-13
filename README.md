@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-07-12 13:18 UTC_
+_Last updated: 2026-07-13 14:32 UTC_
 
 ### 🔬 Latest AI Research
-**[OpenCoF: Learning to Reason Through Video Generation](http://arxiv.org/abs/2607.08763v1)**  
-_Reasoning has become a core capability for large models, especially when reliable decisions require understanding logical consequences. Recent video generation models offer a reasoning path distinct f..._
+**[PHINN-EEG: Topological Time-Series Analysis of Dream-State EEG -- Dynamic Betti Curves for Dream Content Classification and Topology-Conditioned Neural Signal Synthesis](http://arxiv.org/abs/2607.09662v1)**  
+_Current electroencephalography (EEG)-based dream detection relies on power spectral density (PSD) and statistical moment features, achieving a state-of-the-art area under the receiver operating charac..._
 
 ### 💻 Trending Tech
-1. **[Old and new apps, via modern coding agents by Terry Tao](https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/)** (⬆️ 93)
-2. **[Yt-Dlp Sequence Diagrams](https://app.ilograph.com/demo.ilograph.yt-dlp/Download%2520a%2520YouTube%2520Video)** (⬆️ 40)
-3. **[Understanding the Odin Programming Language](https://odinbook.com/)** (⬆️ 19)
+1. **[Zig Creator Calls Spade a Spade, Anthropic Blows Smoke](https://raymyers.org/post/zed-creator-calls-spade-a-spade/)** (⬆️ 914)
+2. **[A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese](https://jivx.com/densha)** (⬆️ 126)
+3. **[Grok uploaded my user directory to xAI's servers](https://twitter.com/a_green_being/status/2076598897779020159)** (⬆️ 102)
 <!-- AUTO-UPDATE-END -->
