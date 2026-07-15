@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-07-13 14:32 UTC_
+_Last updated: 2026-07-15 13:42 UTC_
 
 ### 🔬 Latest AI Research
-**[PHINN-EEG: Topological Time-Series Analysis of Dream-State EEG -- Dynamic Betti Curves for Dream Content Classification and Topology-Conditioned Neural Signal Synthesis](http://arxiv.org/abs/2607.09662v1)**  
-_Current electroencephalography (EEG)-based dream detection relies on power spectral density (PSD) and statistical moment features, achieving a state-of-the-art area under the receiver operating charac..._
+**[Do AI Agents Know When a Task Is Simple? Toward Complexity-Aware Reasoning and Execution](http://arxiv.org/abs/2607.13034v1)**  
+_Large language model (LLM) agents increasingly automate multi-step engineering and informatics workflows, yet they rarely ask how much effort a task actually requires. They often follow a maximum-cont..._
 
 ### 💻 Trending Tech
-1. **[Zig Creator Calls Spade a Spade, Anthropic Blows Smoke](https://raymyers.org/post/zed-creator-calls-spade-a-spade/)** (⬆️ 914)
-2. **[A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese](https://jivx.com/densha)** (⬆️ 126)
-3. **[Grok uploaded my user directory to xAI's servers](https://twitter.com/a_green_being/status/2076598897779020159)** (⬆️ 102)
+1. **[Sleep regularity is a stronger predictor of mortality risk than sleep duration](https://academic.oup.com/sleep/article/47/1/zsad253/7280269)** (⬆️ 198)
+2. **[Jurassic Park computers in excruciating detail](https://fabiensanglard.net/jurrasic_park_computers/index.html)** (⬆️ 642)
+3. **[The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence](https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence)** (⬆️ 8)
 <!-- AUTO-UPDATE-END -->
