@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-07-15 13:42 UTC_
+_Last updated: 2026-07-16 13:49 UTC_
 
 ### 🔬 Latest AI Research
-**[Do AI Agents Know When a Task Is Simple? Toward Complexity-Aware Reasoning and Execution](http://arxiv.org/abs/2607.13034v1)**  
-_Large language model (LLM) agents increasingly automate multi-step engineering and informatics workflows, yet they rarely ask how much effort a task actually requires. They often follow a maximum-cont..._
+**[Leveraging unlabelled data for generalizable neural population decoding](http://arxiv.org/abs/2607.14086v1)**  
+_Robust and accurate neural decoders are integral to neurotechnologies such as brain-computer interfaces and closed-loop experiments. Recent work has shown that tokenizing neural data at the spike leve..._
 
 ### 💻 Trending Tech
-1. **[Sleep regularity is a stronger predictor of mortality risk than sleep duration](https://academic.oup.com/sleep/article/47/1/zsad253/7280269)** (⬆️ 198)
-2. **[Jurassic Park computers in excruciating detail](https://fabiensanglard.net/jurrasic_park_computers/index.html)** (⬆️ 642)
-3. **[The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence](https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence)** (⬆️ 8)
+1. **[OnePlus halts operations in USA and Europe](https://community.oneplus.com/thread/2170715118587871237)** (⬆️ 211)
+2. **[SpaceX stock erases all its gains and slides below IPO price in intraday trading](https://www.latimes.com/business/story/2026-07-16/spacex-stock-erases-gains-slides-below-ipo-price-in-intraday-trading)** (⬆️ 179)
+3. **[Let's Build PlanetScale from Scratch: Infrastructure](https://onatm.dev/2026/07/16/homescale-part-1/)** (⬆️ 42)
 <!-- AUTO-UPDATE-END -->
