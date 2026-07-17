@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-07-16 13:49 UTC_
+_Last updated: 2026-07-17 13:27 UTC_
 
 ### 🔬 Latest AI Research
-**[Leveraging unlabelled data for generalizable neural population decoding](http://arxiv.org/abs/2607.14086v1)**  
-_Robust and accurate neural decoders are integral to neurotechnologies such as brain-computer interfaces and closed-loop experiments. Recent work has shown that tokenizing neural data at the spike leve..._
+**[RoboTTT: Context Scaling for Robot Policies](http://arxiv.org/abs/2607.15275v1)**  
+_Recent robot foundation models operate with single-step or short-history visuomotor context. We introduce Test-Time-Training Robot Policies (RoboTTT), a robot model and training recipe that scale visu..._
 
 ### 💻 Trending Tech
-1. **[OnePlus halts operations in USA and Europe](https://community.oneplus.com/thread/2170715118587871237)** (⬆️ 211)
-2. **[SpaceX stock erases all its gains and slides below IPO price in intraday trading](https://www.latimes.com/business/story/2026-07-16/spacex-stock-erases-gains-slides-below-ipo-price-in-intraday-trading)** (⬆️ 179)
-3. **[Let's Build PlanetScale from Scratch: Infrastructure](https://onatm.dev/2026/07/16/homescale-part-1/)** (⬆️ 42)
+1. **[Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize](https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423)** (⬆️ 262)
+2. **[Minikotlin](https://minikotlin.run)** (⬆️ 12)
+3. **[Kimi K3: Open Frontier Intelligence](https://www.kimi.com/blog/kimi-k3)** (⬆️ 1795)
 <!-- AUTO-UPDATE-END -->
