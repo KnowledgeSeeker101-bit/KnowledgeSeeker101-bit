@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-07-17 13:27 UTC_
+_Last updated: 2026-07-18 13:13 UTC_
 
 ### 🔬 Latest AI Research
 **[RoboTTT: Context Scaling for Robot Policies](http://arxiv.org/abs/2607.15275v1)**  
 _Recent robot foundation models operate with single-step or short-history visuomotor context. We introduce Test-Time-Training Robot Policies (RoboTTT), a robot model and training recipe that scale visu..._
 
 ### 💻 Trending Tech
-1. **[Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize](https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423)** (⬆️ 262)
-2. **[Minikotlin](https://minikotlin.run)** (⬆️ 12)
-3. **[Kimi K3: Open Frontier Intelligence](https://www.kimi.com/blog/kimi-k3)** (⬆️ 1795)
+1. **[LG monitors silently install software through Windows Update without consent](https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent)** (⬆️ 295)
+2. **[Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?](https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/)** (⬆️ 36)
+3. **[Regressive JPEGs](https://maurycyz.com/projects/bad_jpeg/)** (⬆️ 456)
 <!-- AUTO-UPDATE-END -->
