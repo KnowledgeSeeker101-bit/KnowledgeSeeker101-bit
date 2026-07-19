@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-07-18 13:13 UTC_
+_Last updated: 2026-07-19 13:16 UTC_
 
 ### 🔬 Latest AI Research
 **[RoboTTT: Context Scaling for Robot Policies](http://arxiv.org/abs/2607.15275v1)**  
 _Recent robot foundation models operate with single-step or short-history visuomotor context. We introduce Test-Time-Training Robot Policies (RoboTTT), a robot model and training recipe that scale visu..._
 
 ### 💻 Trending Tech
-1. **[LG monitors silently install software through Windows Update without consent](https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent)** (⬆️ 295)
-2. **[Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?](https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/)** (⬆️ 36)
-3. **[Regressive JPEGs](https://maurycyz.com/projects/bad_jpeg/)** (⬆️ 456)
+1. **[Qwen 3.8 Max Preview](https://www.qwencloud.com/pricing/token-plan)** (⬆️ 149)
+2. **[What I learned selling 2,500 MIDI recorders: Hardware is not so hard](https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard)** (⬆️ 82)
+3. **[Minecraft: Java Edition now uses SDL3](https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4)** (⬆️ 17)
 <!-- AUTO-UPDATE-END -->
