@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-07-19 13:16 UTC_
+_Last updated: 2026-07-20 14:04 UTC_
 
 ### 🔬 Latest AI Research
-**[RoboTTT: Context Scaling for Robot Policies](http://arxiv.org/abs/2607.15275v1)**  
-_Recent robot foundation models operate with single-step or short-history visuomotor context. We introduce Test-Time-Training Robot Policies (RoboTTT), a robot model and training recipe that scale visu..._
+**[PagedWeight: Efficient MoE LLM Serving with Dynamic Quality-Aware Weight Quantization](http://arxiv.org/abs/2607.16184v1)**  
+_Mixture-of-Experts (MoE) is a popular class of large language models (LLMs), offering high efficiency and accuracy. However, in KV-cache-intensive serving scenarios, MoEs often exhibit a tension betwe..._
 
 ### 💻 Trending Tech
-1. **[Qwen 3.8 Max Preview](https://www.qwencloud.com/pricing/token-plan)** (⬆️ 149)
-2. **[What I learned selling 2,500 MIDI recorders: Hardware is not so hard](https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard)** (⬆️ 82)
-3. **[Minecraft: Java Edition now uses SDL3](https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4)** (⬆️ 17)
+1. **[Hacker wipes Romania's land registry database](https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/)** (⬆️ 47)
+2. **[Airport Simulator](https://airport.apunen.com/)** (⬆️ 220)
+3. **[Stop Using OpenCode](https://wren.wtf/shower-thoughts/stop-using-opencode/)** (⬆️ 129)
 <!-- AUTO-UPDATE-END -->
