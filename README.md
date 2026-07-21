@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-07-20 14:04 UTC_
+_Last updated: 2026-07-21 13:48 UTC_
 
 ### 🔬 Latest AI Research
-**[PagedWeight: Efficient MoE LLM Serving with Dynamic Quality-Aware Weight Quantization](http://arxiv.org/abs/2607.16184v1)**  
-_Mixture-of-Experts (MoE) is a popular class of large language models (LLMs), offering high efficiency and accuracy. However, in KV-cache-intensive serving scenarios, MoEs often exhibit a tension betwe..._
+**[The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric](http://arxiv.org/abs/2607.18237v1)**  
+_Human visual similarity judgments are context-dependent. For example, two images may be similar in shape but distinct in color. Existing perceptual similarity metrics, however, collapse these nuances ..._
 
 ### 💻 Trending Tech
-1. **[Hacker wipes Romania's land registry database](https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/)** (⬆️ 47)
-2. **[Airport Simulator](https://airport.apunen.com/)** (⬆️ 220)
-3. **[Stop Using OpenCode](https://wren.wtf/shower-thoughts/stop-using-opencode/)** (⬆️ 129)
+1. **[Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge](https://qwen.ai/blog?id=qwen-image-3.0)** (⬆️ 286)
+2. **[New US homeownership measure puts people first](https://www.minneapolisfed.org/article/2026/new-homeownership-measure-puts-people-first)** (⬆️ 101)
+3. **[Python 3.15's Ultra-Low Overhead Interpreter Profiling Mode – Ken Jin's Blog](https://fidget-spinner.github.io/posts/ultra-fast-tracing.html)** (⬆️ 46)
 <!-- AUTO-UPDATE-END -->
