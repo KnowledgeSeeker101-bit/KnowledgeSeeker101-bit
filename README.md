@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-07-25 13:24 UTC_
+_Last updated: 2026-07-26 13:20 UTC_
 
 ### 🔬 Latest AI Research
 **[3D-Aware VLMs with Implicit and Explicit Geometries](http://arxiv.org/abs/2607.21595v1)**  
 _Despite rapid progress, most existing vision-language models (VLMs) built from 2D visual inputs often struggle when handling various 3D tasks that require fine-grained spatial understanding and reason..._
 
 ### 💻 Trending Tech
-1. **[Android May Soon Restrict On-Device ADB](https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/)** (⬆️ 431)
-2. **[Claude Opus 5](https://www.anthropic.com/news/claude-opus-5)** (⬆️ 1655)
-3. **[Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach](https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize)** (⬆️ 355)
+1. **[Third Drone Shot Down in Three Days in Romanian Territory](https://english.mapn.ro/)** (⬆️ 84)
+2. **[Ruff v0.16.0 – Significant new updates – 413 default rules up from 59](https://astral.sh/blog/ruff-v0.16.0)** (⬆️ 164)
+3. **[GrapheneOS protections against data extraction from locked devices](https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices)** (⬆️ 176)
 <!-- AUTO-UPDATE-END -->
