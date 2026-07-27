@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-07-26 13:20 UTC_
+_Last updated: 2026-07-27 14:32 UTC_
 
 ### 🔬 Latest AI Research
-**[3D-Aware VLMs with Implicit and Explicit Geometries](http://arxiv.org/abs/2607.21595v1)**  
-_Despite rapid progress, most existing vision-language models (VLMs) built from 2D visual inputs often struggle when handling various 3D tasks that require fine-grained spatial understanding and reason..._
+**[SM4RT: Learning Structured Motion Geometry for 4D Reconstruction](http://arxiv.org/abs/2607.22534v1)**  
+_Geometry Foundation Models (GFMs) have substantially advanced monocular 3D reconstruction, yet extending this capability to 4D dynamic understanding remains a fundamental challenge. Most existing moti..._
 
 ### 💻 Trending Tech
-1. **[Third Drone Shot Down in Three Days in Romanian Territory](https://english.mapn.ro/)** (⬆️ 84)
-2. **[Ruff v0.16.0 – Significant new updates – 413 default rules up from 59](https://astral.sh/blog/ruff-v0.16.0)** (⬆️ 164)
-3. **[GrapheneOS protections against data extraction from locked devices](https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices)** (⬆️ 176)
+1. **[Kimi-K3 Releases on HuggingFace 7/27](https://huggingface.co/moonshotai/Kimi-K3)** (⬆️ 670)
+2. **[Should you wash your solar panels?](https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html)** (⬆️ 59)
+3. **[How is the Bun Rewrite in Rust going?](https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html)** (⬆️ 236)
 <!-- AUTO-UPDATE-END -->
