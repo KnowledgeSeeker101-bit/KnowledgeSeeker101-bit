@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-07-27 14:32 UTC_
+_Last updated: 2026-07-28 14:05 UTC_
 
 ### 🔬 Latest AI Research
-**[SM4RT: Learning Structured Motion Geometry for 4D Reconstruction](http://arxiv.org/abs/2607.22534v1)**  
-_Geometry Foundation Models (GFMs) have substantially advanced monocular 3D reconstruction, yet extending this capability to 4D dynamic understanding remains a fundamental challenge. Most existing moti..._
+**[ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding](http://arxiv.org/abs/2607.24743v1)**  
+_Multimodal large language models (MLLMs) hold immense potential to revolutionize clinical practice, yet deploying them in the medical domain is fundamentally a vision-centric challenge: models must ab..._
 
 ### 💻 Trending Tech
-1. **[Kimi-K3 Releases on HuggingFace 7/27](https://huggingface.co/moonshotai/Kimi-K3)** (⬆️ 670)
-2. **[Should you wash your solar panels?](https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html)** (⬆️ 59)
-3. **[How is the Bun Rewrite in Rust going?](https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html)** (⬆️ 236)
+1. **[7.1 Earthquake in Japan](https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en)** (⬆️ 474)
+2. **[New HIV vaccine shows unprecedented success in preclinical study](https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/)** (⬆️ 80)
+3. **[Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code](https://github.com/schildep/verified-3d-mesh-intersection)** (⬆️ 35)
 <!-- AUTO-UPDATE-END -->
