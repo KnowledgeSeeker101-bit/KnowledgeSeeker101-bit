@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-07-28 14:05 UTC_
+_Last updated: 2026-07-29 14:08 UTC_
 
 ### 🔬 Latest AI Research
-**[ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding](http://arxiv.org/abs/2607.24743v1)**  
-_Multimodal large language models (MLLMs) hold immense potential to revolutionize clinical practice, yet deploying them in the medical domain is fundamentally a vision-centric challenge: models must ab..._
+**[Pass the Baton: Trajectory-Relayed On-Policy Distillation](http://arxiv.org/abs/2607.26057v1)**  
+_On-policy distillation (OPD) grounds token-level supervision in the student's own trajectory, yet suffers from prefix failure: once the student commits to a wrong reasoning direction, all subsequent g..._
 
 ### 💻 Trending Tech
-1. **[7.1 Earthquake in Japan](https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en)** (⬆️ 474)
-2. **[New HIV vaccine shows unprecedented success in preclinical study](https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/)** (⬆️ 80)
-3. **[Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code](https://github.com/schildep/verified-3d-mesh-intersection)** (⬆️ 35)
+1. **[KOReader](https://koreader.rocks/)** (⬆️ 268)
+2. **[Handbook.md shows that long policy documents do not reliably govern agents](https://arxiv.org/abs/2607.25398)** (⬆️ 54)
+3. **[Document-borne AI worms can self-propagate through Copilot for Word](https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/)** (⬆️ 138)
 <!-- AUTO-UPDATE-END -->
