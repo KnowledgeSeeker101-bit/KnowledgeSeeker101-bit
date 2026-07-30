@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-07-30 02:23 UTC_
+_Last updated: 2026-07-30 13:59 UTC_
 
 ### 🔬 Latest AI Research
 **[Do You Really Need to Pretrain Q-Functions for Online RL Fine-Tuning?](http://arxiv.org/abs/2607.27203v1)**  
 _Pre-training followed by fine-tuning has become the dominant recipe for learning performant policies, and in value-based reinforcement learning (RL) this raises a natural question: given a pretrained ..._
 
 ### 💻 Trending Tech
-1. **[AI's top startups are barely publishing their research](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research)** (⬆️ 228)
-2. **[The coolest use for the Vision Pro](https://christianselig.com/2026/07/vision-pro-house/)** (⬆️ 406)
-3. **[Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac](https://github.com/drumih/turbo-fieldfare)** (⬆️ 663)
+1. **['VPNs are lawful technical tools,' says EU Court in landmark copyright ruling](https://remysharp.com/links/2026-07-23-35890312)** (⬆️ 125)
+2. **[RFC 8890 – The Internet is for End Users (2020)](https://mnot.net/blog/2020/for_the_users)** (⬆️ 24)
+3. **[Why Is Everyone Trying to Build a Solid-State Battery?](https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a)** (⬆️ 23)
 <!-- AUTO-UPDATE-END -->
