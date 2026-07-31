@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-07-30 13:59 UTC_
+_Last updated: 2026-07-31 14:04 UTC_
 
 ### 🔬 Latest AI Research
-**[Do You Really Need to Pretrain Q-Functions for Online RL Fine-Tuning?](http://arxiv.org/abs/2607.27203v1)**  
-_Pre-training followed by fine-tuning has become the dominant recipe for learning performant policies, and in value-based reinforcement learning (RL) this raises a natural question: given a pretrained ..._
+**[Learning to Trace Seiberg Dualities](http://arxiv.org/abs/2607.28628v1)**  
+_Dualities play an important role in establishing both microscopic and emergent phenomena in a wide range of physical systems. In practice, though, it can often be computationally challenging to establ..._
 
 ### 💻 Trending Tech
-1. **['VPNs are lawful technical tools,' says EU Court in landmark copyright ruling](https://remysharp.com/links/2026-07-23-35890312)** (⬆️ 125)
-2. **[RFC 8890 – The Internet is for End Users (2020)](https://mnot.net/blog/2020/for_the_users)** (⬆️ 24)
-3. **[Why Is Everyone Trying to Build a Solid-State Battery?](https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a)** (⬆️ 23)
+1. **[DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/deepseek-v4-flash-ga)** (⬆️ 215)
+2. **[The session you cannot take with you](https://earendil.com/posts/session-portability/)** (⬆️ 552)
+3. **[Google fixed more Chrome bugs in June than over the past two years, thanks to AI](https://blog.google/security/chrome-stronger-with-every-update/)** (⬆️ 233)
 <!-- AUTO-UPDATE-END -->
