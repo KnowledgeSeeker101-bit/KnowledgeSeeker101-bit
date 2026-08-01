@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-08-01 02:45 UTC_
+_Last updated: 2026-08-01 13:19 UTC_
 
 ### 🔬 Latest AI Research
 **[Learning to Trace Seiberg Dualities](http://arxiv.org/abs/2607.28628v1)**  
 _Dualities play an important role in establishing both microscopic and emergent phenomena in a wide range of physical systems. In practice, though, it can often be computationally challenging to establ..._
 
 ### 💻 Trending Tech
-1. **[Elevators](https://john.fun/elevators)** (⬆️ 928)
-2. **[qm – Multiplayer agent harness for work](https://github.com/yc-software/qm)** (⬆️ 476)
-3. **[How to Exist](https://www.raptitude.com/2026/07/how-to-exist/)** (⬆️ 36)
+1. **[RipGrep musl binaries occasionally segfault during very-large searches](https://github.com/BurntSushi/ripgrep/issues/3494)** (⬆️ 46)
+2. **[Elevators](https://john.fun/elevators)** (⬆️ 1402)
+3. **[Flint: A Visualization Language for the AI Era](https://microsoft.github.io/flint-chart/)** (⬆️ 157)
 <!-- AUTO-UPDATE-END -->
