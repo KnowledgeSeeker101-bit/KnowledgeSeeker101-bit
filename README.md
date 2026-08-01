@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-07-31 14:04 UTC_
+_Last updated: 2026-08-01 02:45 UTC_
 
 ### 🔬 Latest AI Research
 **[Learning to Trace Seiberg Dualities](http://arxiv.org/abs/2607.28628v1)**  
 _Dualities play an important role in establishing both microscopic and emergent phenomena in a wide range of physical systems. In practice, though, it can often be computationally challenging to establ..._
 
 ### 💻 Trending Tech
-1. **[DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/deepseek-v4-flash-ga)** (⬆️ 215)
-2. **[The session you cannot take with you](https://earendil.com/posts/session-portability/)** (⬆️ 552)
-3. **[Google fixed more Chrome bugs in June than over the past two years, thanks to AI](https://blog.google/security/chrome-stronger-with-every-update/)** (⬆️ 233)
+1. **[Elevators](https://john.fun/elevators)** (⬆️ 928)
+2. **[qm – Multiplayer agent harness for work](https://github.com/yc-software/qm)** (⬆️ 476)
+3. **[How to Exist](https://www.raptitude.com/2026/07/how-to-exist/)** (⬆️ 36)
 <!-- AUTO-UPDATE-END -->
