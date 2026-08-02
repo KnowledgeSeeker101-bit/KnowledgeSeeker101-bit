@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-08-01 13:19 UTC_
+_Last updated: 2026-08-02 13:19 UTC_
 
 ### 🔬 Latest AI Research
 **[Learning to Trace Seiberg Dualities](http://arxiv.org/abs/2607.28628v1)**  
 _Dualities play an important role in establishing both microscopic and emergent phenomena in a wide range of physical systems. In practice, though, it can often be computationally challenging to establ..._
 
 ### 💻 Trending Tech
-1. **[RipGrep musl binaries occasionally segfault during very-large searches](https://github.com/BurntSushi/ripgrep/issues/3494)** (⬆️ 46)
-2. **[Elevators](https://john.fun/elevators)** (⬆️ 1402)
-3. **[Flint: A Visualization Language for the AI Era](https://microsoft.github.io/flint-chart/)** (⬆️ 157)
+1. **[Twenty Years of RISC OS Open](https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open)** (⬆️ 15)
+2. **[Meshdiff – visually compare two STL versions in the browser, client-side](https://meshdiff.com/)** (⬆️ 63)
+3. **[Show HN: Bor – Open-source policy management for Linux desktops](https://getbor.dev/blog/2026-08-02-bor-v080-release/)** (⬆️ 68)
 <!-- AUTO-UPDATE-END -->
