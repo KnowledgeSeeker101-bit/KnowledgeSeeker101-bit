@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-08-02 13:19 UTC_
+_Last updated: 2026-08-04 14:09 UTC_
 
 ### 🔬 Latest AI Research
-**[Learning to Trace Seiberg Dualities](http://arxiv.org/abs/2607.28628v1)**  
-_Dualities play an important role in establishing both microscopic and emergent phenomena in a wide range of physical systems. In practice, though, it can often be computationally challenging to establ..._
+**[Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework](http://arxiv.org/abs/2608.02599v1)**  
+_Artificial intelligence (AI) is increasingly central to power and energy systems, supporting modeling, forecasting, optimization, and control. Yet most existing works emphasize specialized application..._
 
 ### 💻 Trending Tech
-1. **[Twenty Years of RISC OS Open](https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open)** (⬆️ 15)
-2. **[Meshdiff – visually compare two STL versions in the browser, client-side](https://meshdiff.com/)** (⬆️ 63)
-3. **[Show HN: Bor – Open-source policy management for Linux desktops](https://getbor.dev/blog/2026-08-02-bor-v080-release/)** (⬆️ 68)
+1. **[Ray Bradbury's "There Will Come Soft Rains" is set today (2026-08-04)](https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj)** (⬆️ 171)
+2. **[DeepSeek V4 Flash on a Single AMD MI300X](https://github.com/ryanzhou/deepseek-v4-flash-mi300x)** (⬆️ 168)
+3. **[Xbox goes down. You can't play games you own on disc](https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/)** (⬆️ 189)
 <!-- AUTO-UPDATE-END -->
