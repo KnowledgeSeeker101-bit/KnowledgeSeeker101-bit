@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-08-05 14:07 UTC_
+_Last updated: 2026-08-06 14:07 UTC_
 
 ### 🔬 Latest AI Research
-**[TurnSight: Turn-Level Hindsight Self-Distillation for Tool-Integrated Reasoning](http://arxiv.org/abs/2608.04007v1)**  
-_Tool-Integrated Reasoning (TIR) enables LLMs to solve complex tasks through iterative tool interactions. However, existing reinforcement learning methods often rely on trajectory-level supervision, li..._
+**[Argus: A General-Purpose Agentic Runtime for Long-Horizon Reasoning](http://arxiv.org/abs/2608.05144v1)**  
+_Long-horizon reasoning requires an agentic runtime that can persist when evidence supports its current approach and pivot when measurements reveal failure, hidden constraints, or a misspecified object..._
 
 ### 💻 Trending Tech
-1. **[Position: LLMs Can't Jump](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt)** (⬆️ 123)
-2. **[Why the Legendary Erdős Problems Are Falling to AI](https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/)** (⬆️ 47)
-3. **[Civilian plane crash in New Mexico tied to military GPS blocking](https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/)** (⬆️ 212)
+1. **[Mario Meets Pareto](https://www.mayerowitz.io/blog/mario-meets-pareto)** (⬆️ 193)
+2. **[Humans missed 1 in 3 threats approving AI agent commands across 40k game runs](https://scalex.dev/blog/ai-agent-permissions-stats/)** (⬆️ 48)
+3. **[How to Make a Nintendo 64 Game in 2026](https://phoboslab.org/log/2026/08/xibalba64-making-of)** (⬆️ 263)
 <!-- AUTO-UPDATE-END -->
