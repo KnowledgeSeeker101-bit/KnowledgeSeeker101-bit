@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-08-06 14:07 UTC_
+_Last updated: 2026-08-07 13:01 UTC_
 
 ### 🔬 Latest AI Research
-**[Argus: A General-Purpose Agentic Runtime for Long-Horizon Reasoning](http://arxiv.org/abs/2608.05144v1)**  
-_Long-horizon reasoning requires an agentic runtime that can persist when evidence supports its current approach and pivot when measurements reveal failure, hidden constraints, or a misspecified object..._
+**[Learning When to Trust via Selective Context Preference Optimization](http://arxiv.org/abs/2608.06377v1)**  
+_Language models increasingly condition their answers on external signals, and a single misleading one can turn a correct answer wrong. The obvious remedy, training models to resist such signals, hides..._
 
 ### 💻 Trending Tech
-1. **[Mario Meets Pareto](https://www.mayerowitz.io/blog/mario-meets-pareto)** (⬆️ 193)
-2. **[Humans missed 1 in 3 threats approving AI agent commands across 40k game runs](https://scalex.dev/blog/ai-agent-permissions-stats/)** (⬆️ 48)
-3. **[How to Make a Nintendo 64 Game in 2026](https://phoboslab.org/log/2026/08/xibalba64-making-of)** (⬆️ 263)
+1. **[US strikes $1.2B deal to pay German firm to halt offshore wind projects](https://www.bbc.com/news/articles/c1e1vg0gjl5o)** (⬆️ 365)
+2. **[New Mexico court orders Meta to pay $567m over harms to children’s mental health](https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta)** (⬆️ 398)
+3. **[AMD acquires Taalas to boost inference performance by etching models in silicon](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344)** (⬆️ 737)
 <!-- AUTO-UPDATE-END -->
