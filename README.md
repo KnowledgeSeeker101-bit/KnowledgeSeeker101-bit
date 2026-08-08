@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-08-07 13:01 UTC_
+_Last updated: 2026-08-08 12:46 UTC_
 
 ### 🔬 Latest AI Research
 **[Learning When to Trust via Selective Context Preference Optimization](http://arxiv.org/abs/2608.06377v1)**  
 _Language models increasingly condition their answers on external signals, and a single misleading one can turn a correct answer wrong. The obvious remedy, training models to resist such signals, hides..._
 
 ### 💻 Trending Tech
-1. **[US strikes $1.2B deal to pay German firm to halt offshore wind projects](https://www.bbc.com/news/articles/c1e1vg0gjl5o)** (⬆️ 365)
-2. **[New Mexico court orders Meta to pay $567m over harms to children’s mental health](https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta)** (⬆️ 398)
-3. **[AMD acquires Taalas to boost inference performance by etching models in silicon](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344)** (⬆️ 737)
+1. **[A Tome of Forbidden Technologies](https://ecosophia.net/a-tome-of-forbidden-technologies/)** (⬆️ 10)
+2. **[The USSR in 100 Photographs](https://trinixy.ru/7039-sssr_v_fotografijakh_100_foto.html)** (⬆️ 44)
+3. **[DeepMind's WeatherNext model achieves breakthrough forecasting cyclones](https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/)** (⬆️ 37)
 <!-- AUTO-UPDATE-END -->
