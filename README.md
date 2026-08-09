@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-08-08 12:46 UTC_
+_Last updated: 2026-08-09 12:48 UTC_
 
 ### 🔬 Latest AI Research
 **[Learning When to Trust via Selective Context Preference Optimization](http://arxiv.org/abs/2608.06377v1)**  
 _Language models increasingly condition their answers on external signals, and a single misleading one can turn a correct answer wrong. The obvious remedy, training models to resist such signals, hides..._
 
 ### 💻 Trending Tech
-1. **[A Tome of Forbidden Technologies](https://ecosophia.net/a-tome-of-forbidden-technologies/)** (⬆️ 10)
-2. **[The USSR in 100 Photographs](https://trinixy.ru/7039-sssr_v_fotografijakh_100_foto.html)** (⬆️ 44)
-3. **[DeepMind's WeatherNext model achieves breakthrough forecasting cyclones](https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/)** (⬆️ 37)
+1. **[There Are Magic Hexagons of Every Order](https://gukov.dev/math/2026/08/02/new-magic-hexagons.html)** (⬆️ 72)
+2. **[Reviving a four year old reMarkable 2](https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html)** (⬆️ 10)
+3. **[My server is a phone now](https://seg6.space/posts/phone-server/)** (⬆️ 374)
 <!-- AUTO-UPDATE-END -->
