@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-08-10 13:05 UTC_
+_Last updated: 2026-08-11 13:02 UTC_
 
 ### 🔬 Latest AI Research
-**[MirrorWorld: Taming Video Diffusion Models for Mirror Reflection Generation](http://arxiv.org/abs/2608.07463v1)**  
-_Recent advances in video diffusion models (VDMs) have enabled high-fidelity video synthesis. However, generating mirror reflections remains challenging because the content within a mirror must remain ..._
+**[Beyond Naturalness: Probing Automated Text-To-Speech Evaluators on Linguistically Grounded Dimensions](http://arxiv.org/abs/2608.09930v1)**  
+_Automated Text-to-Speech (TTS) evaluation methods (Mean Opinion Score (MOS) predictors and Audio Large Language Models (Audio-LLM) judges) are expected to reflect human perception, yet it is unclear h..._
 
 ### 💻 Trending Tech
-1. **[Meta Muse Glimmer – open weights 30B local coding model](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model)** (⬆️ 290)
-2. **[Because It's Not Fun Enough: why languages fail](https://bytecode.news/posts/2026/08/because-it-s-not-fun-enough)** (⬆️ 50)
-3. **[Docker Sandboxes – Disposable, isolated sandboxes for AI agents](https://www.docker.com/products/docker-sandboxes/)** (⬆️ 326)
+1. **[France to ban unsolicited telemarketing calls](https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html)** (⬆️ 486)
+2. **[H3-metal – Native MiniMax-H3 inference for Apple Silicon](https://github.com/antirez/h3.c)** (⬆️ 329)
+3. **[As AI eats the web, the internet’s collective memory is disappearing](https://thewalrus.ca/google-search-is-dying/)** (⬆️ 447)
 <!-- AUTO-UPDATE-END -->
