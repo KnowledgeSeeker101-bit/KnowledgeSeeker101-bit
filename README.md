@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-08-11 13:02 UTC_
+_Last updated: 2026-08-12 13:06 UTC_
 
 ### 🔬 Latest AI Research
-**[Beyond Naturalness: Probing Automated Text-To-Speech Evaluators on Linguistically Grounded Dimensions](http://arxiv.org/abs/2608.09930v1)**  
-_Automated Text-to-Speech (TTS) evaluation methods (Mean Opinion Score (MOS) predictors and Audio Large Language Models (Audio-LLM) judges) are expected to reflect human perception, yet it is unclear h..._
+**[Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning](http://arxiv.org/abs/2608.11204v1)**  
+_Learning reliable surgical manipulation policies is bottlenecked by the scarcity of action-labeled demonstrations: teleoperated surgical robot (e.g., dVRK) trajectories with synchronized kinematics ar..._
 
 ### 💻 Trending Tech
-1. **[France to ban unsolicited telemarketing calls](https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html)** (⬆️ 486)
-2. **[H3-metal – Native MiniMax-H3 inference for Apple Silicon](https://github.com/antirez/h3.c)** (⬆️ 329)
-3. **[As AI eats the web, the internet’s collective memory is disappearing](https://thewalrus.ca/google-search-is-dying/)** (⬆️ 447)
+1. **[2026 Eclipse Webcams](https://jonty.github.io/2026_eclipse_webcams/)** (⬆️ 106)
+2. **[What sort of maths are LLMs good at?](https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/)** (⬆️ 123)
+3. **[Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation](https://woxi.ad-si.com)** (⬆️ 109)
 <!-- AUTO-UPDATE-END -->
