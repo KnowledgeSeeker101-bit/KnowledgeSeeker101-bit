@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-08-12 13:06 UTC_
+_Last updated: 2026-08-13 13:08 UTC_
 
 ### 🔬 Latest AI Research
-**[Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning](http://arxiv.org/abs/2608.11204v1)**  
-_Learning reliable surgical manipulation policies is bottlenecked by the scarcity of action-labeled demonstrations: teleoperated surgical robot (e.g., dVRK) trajectories with synchronized kinematics ar..._
+**[DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation](http://arxiv.org/abs/2608.12308v1)**  
+_Aerial vision-language navigation (VLN) requires an embodied agent to integrate visual evidence over time, plan future actions, and determine when it has reached a navigation goal under partial observ..._
 
 ### 💻 Trending Tech
-1. **[2026 Eclipse Webcams](https://jonty.github.io/2026_eclipse_webcams/)** (⬆️ 106)
-2. **[What sort of maths are LLMs good at?](https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/)** (⬆️ 123)
-3. **[Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation](https://woxi.ad-si.com)** (⬆️ 109)
+1. **[Deutsche Bank becomes first foreign yuan clearing bank in Europe](https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/)** (⬆️ 112)
+2. **[ChatGPT Desktop (Codex Desktop) for Linux](https://openai.com/codex/)** (⬆️ 260)
+3. **[The lattice of sets of natural numbers is rich (2021)](https://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/)** (⬆️ 57)
 <!-- AUTO-UPDATE-END -->
