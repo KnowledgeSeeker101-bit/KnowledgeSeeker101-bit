@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-08-13 13:08 UTC_
+_Last updated: 2026-08-14 13:04 UTC_
 
 ### 🔬 Latest AI Research
-**[DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation](http://arxiv.org/abs/2608.12308v1)**  
-_Aerial vision-language navigation (VLN) requires an embodied agent to integrate visual evidence over time, plan future actions, and determine when it has reached a navigation goal under partial observ..._
+**[AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design](http://arxiv.org/abs/2608.13560v1)**  
+_Transforming multimodal sources into condensed and structured media outputs can be fundamentally conceptualized as a long-horizon agentic process centered on a model-harness system. While an ideal har..._
 
 ### 💻 Trending Tech
-1. **[Deutsche Bank becomes first foreign yuan clearing bank in Europe](https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/)** (⬆️ 112)
-2. **[ChatGPT Desktop (Codex Desktop) for Linux](https://openai.com/codex/)** (⬆️ 260)
-3. **[The lattice of sets of natural numbers is rich (2021)](https://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/)** (⬆️ 57)
+1. **[GLM-5.3: Frontier coding with emergent cyber capabilities](https://z.ai/blog/glm-5.3)** (⬆️ 670)
+2. **[Don't classify, hallucinate!](https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications)** (⬆️ 32)
+3. **[DeepSeek peak/off-peak pricing update](https://api-docs.deepseek.com/news/news260813/)** (⬆️ 91)
 <!-- AUTO-UPDATE-END -->
