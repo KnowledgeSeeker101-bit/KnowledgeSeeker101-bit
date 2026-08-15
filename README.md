@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-08-14 13:04 UTC_
+_Last updated: 2026-08-15 12:35 UTC_
 
 ### 🔬 Latest AI Research
 **[AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design](http://arxiv.org/abs/2608.13560v1)**  
 _Transforming multimodal sources into condensed and structured media outputs can be fundamentally conceptualized as a long-horizon agentic process centered on a model-harness system. While an ideal har..._
 
 ### 💻 Trending Tech
-1. **[GLM-5.3: Frontier coding with emergent cyber capabilities](https://z.ai/blog/glm-5.3)** (⬆️ 670)
-2. **[Don't classify, hallucinate!](https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications)** (⬆️ 32)
-3. **[DeepSeek peak/off-peak pricing update](https://api-docs.deepseek.com/news/news260813/)** (⬆️ 91)
+1. **[Auto-research with codex: How I achieved a 232x Faster Kernel](https://sankalp.bearblog.dev/autoresearch/)** (⬆️ 43)
+2. **[The other Sean Byrne doesn't exist](https://conic.al/writing/the-other-sean-byrne-doesnt-exist/)** (⬆️ 239)
+3. **[Qwen 3.8 27B](https://huggingface.co/Qwen/Qwen3.8-27B-FP8)** (⬆️ 1202)
 <!-- AUTO-UPDATE-END -->
