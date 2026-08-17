@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-08-16 12:36 UTC_
+_Last updated: 2026-08-17 12:41 UTC_
 
 ### 🔬 Latest AI Research
-**[AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design](http://arxiv.org/abs/2608.13560v1)**  
-_Transforming multimodal sources into condensed and structured media outputs can be fundamentally conceptualized as a long-horizon agentic process centered on a model-harness system. While an ideal har..._
+**[Decoding the Past: An Uncertainty-Aware Deep Learning Framework for Sex Attribution in Prehistoric Hand Stencils](http://arxiv.org/abs/2608.14539v1)**  
+_Determining the biological sex of the individuals who created Upper Paleolithic hand stencils remains a challenging problem due to the absence of ground truth, population differences between contempor..._
 
 ### 💻 Trending Tech
-1. **[Asus Bike Booster](https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/)** (⬆️ 472)
-2. **[Superconducting monolayer cuprate with a single CuO2 plane](https://www.nature.com/articles/s41586-026-10857-1)** (⬆️ 27)
-3. **[A SAT Attack on Tarski's High School Algebra Problem](https://arxiv.org/abs/2608.08421)** (⬆️ 8)
+1. **[Qwen 3.8 27B is excellent, but it defaults to overthinking things](https://simonwillison.net/2026/Aug/16/qwen-38-27b/)** (⬆️ 587)
+2. **[On A.I. regulation and messaging](https://twitter.com/DarioAmodei/status/2088758816376807762)** (⬆️ 127)
+3. **[People are worried about America's solvency](https://www.ft.com/content/e04f286c-f5ed-46d1-8e3f-0bbe4cce4d3e)** (⬆️ 38)
 <!-- AUTO-UPDATE-END -->
