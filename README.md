@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-08-18 01:10 UTC_
+_Last updated: 2026-08-18 12:43 UTC_
 
 ### 🔬 Latest AI Research
-**[Decoding the Past: An Uncertainty-Aware Deep Learning Framework for Sex Attribution in Prehistoric Hand Stencils](http://arxiv.org/abs/2608.14539v1)**  
-_Determining the biological sex of the individuals who created Upper Paleolithic hand stencils remains a challenging problem due to the absence of ground truth, population differences between contempor..._
+**[Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory](http://arxiv.org/abs/2608.16889v1)**  
+_Long-horizon robot manipulation chains many contact-rich skills into one multi-stage task. Vision-language-action (VLA) models increasingly master the individual skills, yet the chain still fails: err..._
 
 ### 💻 Trending Tech
-1. **[How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/)** (⬆️ 194)
-2. **[Quake Shareware, a CD-ROM just a little too full](https://fabiensanglard.net/quake_shareware_cd/index.html)** (⬆️ 126)
-3. **[Fairphone 6 and PostmarketOS working main camera](https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera)** (⬆️ 74)
+1. **[Linux 7.3 improves performance when running out of vRAM](https://pixelcluster.dev/VRAM-Overcommit/)** (⬆️ 260)
+2. **[Google buys crashed airline Spirit's data at auction, because AI](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962)** (⬆️ 176)
+3. **[How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/)** (⬆️ 586)
 <!-- AUTO-UPDATE-END -->
