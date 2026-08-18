@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-08-17 12:41 UTC_
+_Last updated: 2026-08-18 01:10 UTC_
 
 ### 🔬 Latest AI Research
 **[Decoding the Past: An Uncertainty-Aware Deep Learning Framework for Sex Attribution in Prehistoric Hand Stencils](http://arxiv.org/abs/2608.14539v1)**  
 _Determining the biological sex of the individuals who created Upper Paleolithic hand stencils remains a challenging problem due to the absence of ground truth, population differences between contempor..._
 
 ### 💻 Trending Tech
-1. **[Qwen 3.8 27B is excellent, but it defaults to overthinking things](https://simonwillison.net/2026/Aug/16/qwen-38-27b/)** (⬆️ 587)
-2. **[On A.I. regulation and messaging](https://twitter.com/DarioAmodei/status/2088758816376807762)** (⬆️ 127)
-3. **[People are worried about America's solvency](https://www.ft.com/content/e04f286c-f5ed-46d1-8e3f-0bbe4cce4d3e)** (⬆️ 38)
+1. **[How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/)** (⬆️ 194)
+2. **[Quake Shareware, a CD-ROM just a little too full](https://fabiensanglard.net/quake_shareware_cd/index.html)** (⬆️ 126)
+3. **[Fairphone 6 and PostmarketOS working main camera](https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera)** (⬆️ 74)
 <!-- AUTO-UPDATE-END -->
