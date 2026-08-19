@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-08-19 01:12 UTC_
+_Last updated: 2026-08-19 12:44 UTC_
 
 ### 🔬 Latest AI Research
-**[Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory](http://arxiv.org/abs/2608.16889v1)**  
-_Long-horizon robot manipulation chains many contact-rich skills into one multi-stage task. Vision-language-action (VLA) models increasingly master the individual skills, yet the chain still fails: err..._
+**[From Corpora to Co-Evolving Capabilities: Capability-Centric Data Design for Generalist Image Generation](http://arxiv.org/abs/2608.18076v1)**  
+_Large-scale image generation has benefited from advances in data scale, quality, rebalancing, and recaptioning, yet conventional pipelines typically optimize task-specific datasets in isolation. A cen..._
 
 ### 💻 Trending Tech
-1. **[A 3D fruit fly on macOS desktop powered by the real FlyWire connectome](https://github.com/DenisSergeevitch/desktop-fly)** (⬆️ 133)
-2. **[Solo – a .so loader for static Linux binaries](https://github.com/pg83/solo)** (⬆️ 25)
-3. **[The Amazon tax](https://seths.blog/2026/08/the-amazon-tax/)** (⬆️ 914)
+1. **[GrapheneOS in 2027 available on high-end Motorola phones](https://grapheneos.social/@GrapheneOS/117078064184215730)** (⬆️ 87)
+2. **[OpenLogi](https://openlogi.org/en)** (⬆️ 981)
+3. **[Air Theremin – a browser theremin you play by waving at your webcam](https://theremin.bizibah.com/)** (⬆️ 71)
 <!-- AUTO-UPDATE-END -->
