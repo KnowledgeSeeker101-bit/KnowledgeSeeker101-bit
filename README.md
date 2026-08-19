@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-08-18 12:43 UTC_
+_Last updated: 2026-08-19 01:12 UTC_
 
 ### 🔬 Latest AI Research
 **[Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory](http://arxiv.org/abs/2608.16889v1)**  
 _Long-horizon robot manipulation chains many contact-rich skills into one multi-stage task. Vision-language-action (VLA) models increasingly master the individual skills, yet the chain still fails: err..._
 
 ### 💻 Trending Tech
-1. **[Linux 7.3 improves performance when running out of vRAM](https://pixelcluster.dev/VRAM-Overcommit/)** (⬆️ 260)
-2. **[Google buys crashed airline Spirit's data at auction, because AI](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962)** (⬆️ 176)
-3. **[How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/)** (⬆️ 586)
+1. **[A 3D fruit fly on macOS desktop powered by the real FlyWire connectome](https://github.com/DenisSergeevitch/desktop-fly)** (⬆️ 133)
+2. **[Solo – a .so loader for static Linux binaries](https://github.com/pg83/solo)** (⬆️ 25)
+3. **[The Amazon tax](https://seths.blog/2026/08/the-amazon-tax/)** (⬆️ 914)
 <!-- AUTO-UPDATE-END -->
