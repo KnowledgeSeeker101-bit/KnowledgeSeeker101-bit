@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-08-19 12:44 UTC_
+_Last updated: 2026-08-20 12:47 UTC_
 
 ### 🔬 Latest AI Research
-**[From Corpora to Co-Evolving Capabilities: Capability-Centric Data Design for Generalist Image Generation](http://arxiv.org/abs/2608.18076v1)**  
-_Large-scale image generation has benefited from advances in data scale, quality, rebalancing, and recaptioning, yet conventional pipelines typically optimize task-specific datasets in isolation. A cen..._
+**[SPADE: Self-Play in Adaptive Synthetic Executable Environments](http://arxiv.org/abs/2608.19197v1)**  
+_Continuous self-improvement requires an ever-expanding pool of self-generated, diverse, adaptive goals. For language agents, existing training environment pools (hand-curated, statically synthesized, ..._
 
 ### 💻 Trending Tech
-1. **[GrapheneOS in 2027 available on high-end Motorola phones](https://grapheneos.social/@GrapheneOS/117078064184215730)** (⬆️ 87)
-2. **[OpenLogi](https://openlogi.org/en)** (⬆️ 981)
-3. **[Air Theremin – a browser theremin you play by waving at your webcam](https://theremin.bizibah.com/)** (⬆️ 71)
+1. **[Don't Paste the AI, please](https://dontpastetheai.com/)** (⬆️ 608)
+2. **[AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html)** (⬆️ 190)
+3. **[Show HN: I trained a 125M model to autocomplete piano on-device](https://simedw.com/2026/08/20/midi-autocomplete/)** (⬆️ 33)
 <!-- AUTO-UPDATE-END -->
