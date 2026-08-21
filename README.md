@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-08-20 12:47 UTC_
+_Last updated: 2026-08-21 01:14 UTC_
 
 ### 🔬 Latest AI Research
 **[SPADE: Self-Play in Adaptive Synthetic Executable Environments](http://arxiv.org/abs/2608.19197v1)**  
 _Continuous self-improvement requires an ever-expanding pool of self-generated, diverse, adaptive goals. For language agents, existing training environment pools (hand-curated, statically synthesized, ..._
 
 ### 💻 Trending Tech
-1. **[Don't Paste the AI, please](https://dontpastetheai.com/)** (⬆️ 608)
-2. **[AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html)** (⬆️ 190)
-3. **[Show HN: I trained a 125M model to autocomplete piano on-device](https://simedw.com/2026/08/20/midi-autocomplete/)** (⬆️ 33)
+1. **[The August 17 outage, and the work ahead](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/)** (⬆️ 303)
+2. **[Copyright does not protect AI-generated content in EU](https://mathstodon.xyz/@maxpool/117128107757895678)** (⬆️ 46)
+3. **[Consumer Rights Wiki](https://consumerrights.wiki/w/Main_Page)** (⬆️ 211)
 <!-- AUTO-UPDATE-END -->
