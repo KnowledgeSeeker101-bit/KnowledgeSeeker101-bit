@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-08-21 01:14 UTC_
+_Last updated: 2026-08-21 12:44 UTC_
 
 ### 🔬 Latest AI Research
-**[SPADE: Self-Play in Adaptive Synthetic Executable Environments](http://arxiv.org/abs/2608.19197v1)**  
-_Continuous self-improvement requires an ever-expanding pool of self-generated, diverse, adaptive goals. For language agents, existing training environment pools (hand-curated, statically synthesized, ..._
+**[Information on trajectories: martingales and random times](http://arxiv.org/abs/2608.20337v1)**  
+_Accounting for information flow on the path space of trajectories of a nonnegative martingale yields exact variational identities for it, even at arbitrary random times. This recovers the widely used ..._
 
 ### 💻 Trending Tech
-1. **[The August 17 outage, and the work ahead](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/)** (⬆️ 303)
-2. **[Copyright does not protect AI-generated content in EU](https://mathstodon.xyz/@maxpool/117128107757895678)** (⬆️ 46)
-3. **[Consumer Rights Wiki](https://consumerrights.wiki/w/Main_Page)** (⬆️ 211)
+1. **[DeepSeek-v4-flash-vision-exp](https://api-docs.deepseek.com/guides/vision/)** (⬆️ 172)
+2. **[AI companies destroy physical books – let's scan rare books before it's too late](https://annas-archive.pk/blog/physical-destruction.html)** (⬆️ 126)
+3. **[TigerBeetle Core System Architecture: Deconstructing Performance Engineering](https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering)** (⬆️ 33)
 <!-- AUTO-UPDATE-END -->
