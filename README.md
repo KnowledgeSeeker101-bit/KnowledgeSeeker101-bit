@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-08-22 01:10 UTC_
+_Last updated: 2026-08-22 12:36 UTC_
 
 ### 🔬 Latest AI Research
 **[Information on trajectories: martingales and random times](http://arxiv.org/abs/2608.20337v1)**  
 _Accounting for information flow on the path space of trajectories of a nonnegative martingale yields exact variational identities for it, even at arbitrary random times. This recovers the widely used ..._
 
 ### 💻 Trending Tech
-1. **[Kobo can run apps now](https://bandarlabs.github.io/Cobalt/)** (⬆️ 419)
-2. **[Felony Bench](https://www.felonybench.com/)** (⬆️ 507)
-3. **[Three important steps in my maturation process](https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/)** (⬆️ 35)
+1. **[Canada suspends trade negotiations with USA and match tariffs dollar for dollar](https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations)** (⬆️ 331)
+2. **[Z80–The 1970s Microprocessor Still Alive](https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi)** (⬆️ 32)
+3. **[Munder Difflin – Agent harness to run an office of your clones](https://munderdiffl.in/)** (⬆️ 46)
 <!-- AUTO-UPDATE-END -->
