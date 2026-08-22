@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-08-21 12:44 UTC_
+_Last updated: 2026-08-22 01:10 UTC_
 
 ### 🔬 Latest AI Research
 **[Information on trajectories: martingales and random times](http://arxiv.org/abs/2608.20337v1)**  
 _Accounting for information flow on the path space of trajectories of a nonnegative martingale yields exact variational identities for it, even at arbitrary random times. This recovers the widely used ..._
 
 ### 💻 Trending Tech
-1. **[DeepSeek-v4-flash-vision-exp](https://api-docs.deepseek.com/guides/vision/)** (⬆️ 172)
-2. **[AI companies destroy physical books – let's scan rare books before it's too late](https://annas-archive.pk/blog/physical-destruction.html)** (⬆️ 126)
-3. **[TigerBeetle Core System Architecture: Deconstructing Performance Engineering](https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering)** (⬆️ 33)
+1. **[Kobo can run apps now](https://bandarlabs.github.io/Cobalt/)** (⬆️ 419)
+2. **[Felony Bench](https://www.felonybench.com/)** (⬆️ 507)
+3. **[Three important steps in my maturation process](https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/)** (⬆️ 35)
 <!-- AUTO-UPDATE-END -->
