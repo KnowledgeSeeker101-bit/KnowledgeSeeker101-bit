@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-08-22 12:36 UTC_
+_Last updated: 2026-08-23 01:16 UTC_
 
 ### 🔬 Latest AI Research
 **[Information on trajectories: martingales and random times](http://arxiv.org/abs/2608.20337v1)**  
 _Accounting for information flow on the path space of trajectories of a nonnegative martingale yields exact variational identities for it, even at arbitrary random times. This recovers the widely used ..._
 
 ### 💻 Trending Tech
-1. **[Canada suspends trade negotiations with USA and match tariffs dollar for dollar](https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations)** (⬆️ 331)
-2. **[Z80–The 1970s Microprocessor Still Alive](https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi)** (⬆️ 32)
-3. **[Munder Difflin – Agent harness to run an office of your clones](https://munderdiffl.in/)** (⬆️ 46)
+1. **[NanoGPT Speedrun Frontier](https://www.primeintellect.ai/research/nanogpt-speedrun)** (⬆️ 42)
+2. **[Scrap](https://twitter.com/moxie/status/2091218652133732491)** (⬆️ 307)
+3. **[Why your local LLM feels dumber than it is](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917)** (⬆️ 171)
 <!-- AUTO-UPDATE-END -->
