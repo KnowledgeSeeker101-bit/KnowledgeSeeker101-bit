@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-08-23 12:37 UTC_
+_Last updated: 2026-08-24 12:48 UTC_
 
 ### 🔬 Latest AI Research
-**[Information on trajectories: martingales and random times](http://arxiv.org/abs/2608.20337v1)**  
-_Accounting for information flow on the path space of trajectories of a nonnegative martingale yields exact variational identities for it, even at arbitrary random times. This recovers the widely used ..._
+**[Primal Acceleration of Newton's Method](http://arxiv.org/abs/2608.21359v1)**  
+_We develop a new direct accelerated Newton method for minimizing convex functions with Lipschitz continuous Hessian. The algorithm uses only primal variables and performs just one linear solve per ite..._
 
 ### 💻 Trending Tech
-1. **[Sydney Marathon medal mistakenly depicts Munich stadium](https://www.bbc.com/news/articles/cvg92y1wzn8o)** (⬆️ 23)
-2. **[To become a better writer, read as much as you can](https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/)** (⬆️ 231)
-3. **[The End of an Athlon](http://www.os2museum.com/wp/the-end-of-an-athlon/)** (⬆️ 124)
+1. **[SeL4 security proofs now complete on AArch64](https://proofcraft.systems/news-2026/#2026-08-21)** (⬆️ 36)
+2. **[I were 17, I'd learn how to build LLMs from scratch](https://twitter.com/paulg/status/2091544343589060625)** (⬆️ 240)
+3. **[Everything I own, owned](https://schlarp.com/posts/everything-i-own-owned/)** (⬆️ 1075)
 <!-- AUTO-UPDATE-END -->
