@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-08-24 12:48 UTC_
+_Last updated: 2026-08-25 12:44 UTC_
 
 ### 🔬 Latest AI Research
-**[Primal Acceleration of Newton's Method](http://arxiv.org/abs/2608.21359v1)**  
-_We develop a new direct accelerated Newton method for minimizing convex functions with Lipschitz continuous Hessian. The algorithm uses only primal variables and performs just one linear solve per ite..._
+**[How to Train a Critic Stably and Efficiently](http://arxiv.org/abs/2608.23566v1)**  
+_Group-based reinforcement learning methods such as GRPO for large language models avoid training a critic by sampling multiple responses for each prompt. A reliable critic could instead estimate token..._
 
 ### 💻 Trending Tech
-1. **[SeL4 security proofs now complete on AArch64](https://proofcraft.systems/news-2026/#2026-08-21)** (⬆️ 36)
-2. **[I were 17, I'd learn how to build LLMs from scratch](https://twitter.com/paulg/status/2091544343589060625)** (⬆️ 240)
-3. **[Everything I own, owned](https://schlarp.com/posts/everything-i-own-owned/)** (⬆️ 1075)
+1. **[Don't Wordle](https://dontwordle.com/)** (⬆️ 28)
+2. **[HelloAssembly The smallest possible complete Windows application](https://github.com/PlummersSoftwareLLC/HelloAssembly)** (⬆️ 11)
+3. **[iCloud+ Hide My Email addresses will remain on icloud.com](https://developer.apple.com/news/?id=1ptvdtcm)** (⬆️ 512)
 <!-- AUTO-UPDATE-END -->
