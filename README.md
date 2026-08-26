@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-08-25 12:44 UTC_
+_Last updated: 2026-08-26 12:50 UTC_
 
 ### 🔬 Latest AI Research
-**[How to Train a Critic Stably and Efficiently](http://arxiv.org/abs/2608.23566v1)**  
-_Group-based reinforcement learning methods such as GRPO for large language models avoid training a critic by sampling multiple responses for each prompt. A reliable critic could instead estimate token..._
+**[What FID Hides: Detecting, Ranking, and Diagnosing Deviations in Generative Evaluation](http://arxiv.org/abs/2608.24881v1)**  
+_Generative models are commonly ranked by Fréchet Inception Distance (FID) and Kernel Inception Distance (KID), yet FID's first-two-moment summary can miss distributional differences, and a reported sc..._
 
 ### 💻 Trending Tech
-1. **[Don't Wordle](https://dontwordle.com/)** (⬆️ 28)
-2. **[HelloAssembly The smallest possible complete Windows application](https://github.com/PlummersSoftwareLLC/HelloAssembly)** (⬆️ 11)
-3. **[iCloud+ Hide My Email addresses will remain on icloud.com](https://developer.apple.com/news/?id=1ptvdtcm)** (⬆️ 512)
+1. **[Omarchy is full of security holes](https://blog.happyfellow.dev/merchants-of-insecurity/)** (⬆️ 127)
+2. **[RAG Is Simpler Than You Think](https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think)** (⬆️ 167)
+3. **[Oldinsurancemaps.net is now a Charter Project](https://openstreetmap.us/news/2026/08/oim-charter-project/)** (⬆️ 95)
 <!-- AUTO-UPDATE-END -->
