@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-08-26 12:50 UTC_
+_Last updated: 2026-08-27 07:46 UTC_
 
 ### 🔬 Latest AI Research
-**[What FID Hides: Detecting, Ranking, and Diagnosing Deviations in Generative Evaluation](http://arxiv.org/abs/2608.24881v1)**  
-_Generative models are commonly ranked by Fréchet Inception Distance (FID) and Kernel Inception Distance (KID), yet FID's first-two-moment summary can miss distributional differences, and a reported sc..._
+**[VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning](http://arxiv.org/abs/2608.26105v1)**  
+_Native visual reasoning treats visual generation as the medium of reasoning itself: visual states (i.e. images and videos) are not merely inputs to be understood or outputs to be rendered, but first-c..._
 
 ### 💻 Trending Tech
-1. **[Omarchy is full of security holes](https://blog.happyfellow.dev/merchants-of-insecurity/)** (⬆️ 127)
-2. **[RAG Is Simpler Than You Think](https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think)** (⬆️ 167)
-3. **[Oldinsurancemaps.net is now a Charter Project](https://openstreetmap.us/news/2026/08/oim-charter-project/)** (⬆️ 95)
+1. **[Nvidia agrees to acquire Hugging Face for $13B](https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8)** (⬆️ 909)
+2. **[Mechanical Turk shutting down September 30](https://www.mturk.com/)** (⬆️ 303)
+3. **[GLM-5.3-Flash](https://z.ai/blog/glm-5.3-flash)** (⬆️ 988)
 <!-- AUTO-UPDATE-END -->
