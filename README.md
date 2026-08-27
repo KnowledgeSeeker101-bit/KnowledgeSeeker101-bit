@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-08-27 07:46 UTC_
+_Last updated: 2026-08-27 21:50 UTC_
 
 ### 🔬 Latest AI Research
 **[VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning](http://arxiv.org/abs/2608.26105v1)**  
 _Native visual reasoning treats visual generation as the medium of reasoning itself: visual states (i.e. images and videos) are not merely inputs to be understood or outputs to be rendered, but first-c..._
 
 ### 💻 Trending Tech
-1. **[Nvidia agrees to acquire Hugging Face for $13B](https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8)** (⬆️ 909)
-2. **[Mechanical Turk shutting down September 30](https://www.mturk.com/)** (⬆️ 303)
-3. **[GLM-5.3-Flash](https://z.ai/blog/glm-5.3-flash)** (⬆️ 988)
+1. **[Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/)** (⬆️ 351)
+2. **[Small Models Have Arrived](https://calv.info/small-models-have-arrived)** (⬆️ 343)
+3. **[507 Mechanical Movements](https://507movements.com/)** (⬆️ 410)
 <!-- AUTO-UPDATE-END -->
