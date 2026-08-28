@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-08-27 21:50 UTC_
+_Last updated: 2026-08-28 09:51 UTC_
 
 ### 🔬 Latest AI Research
-**[VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning](http://arxiv.org/abs/2608.26105v1)**  
-_Native visual reasoning treats visual generation as the medium of reasoning itself: visual states (i.e. images and videos) are not merely inputs to be understood or outputs to be rendered, but first-c..._
+**[WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution](http://arxiv.org/abs/2608.27454v1)**  
+_Agent skills package specialized knowledge and workflows into reusable resources that extend AI agent capabilities. Recent work automatically discovers such skills from agent experience, which enables..._
 
 ### 💻 Trending Tech
-1. **[Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/)** (⬆️ 351)
-2. **[Small Models Have Arrived](https://calv.info/small-models-have-arrived)** (⬆️ 343)
-3. **[507 Mechanical Movements](https://507movements.com/)** (⬆️ 410)
+1. **[Overcooked? Why robotic pizza makers are failing](https://www.bbc.com/news/articles/czxq0wgkkdjo)** (⬆️ 22)
+2. **[That's a Lot of YAML](https://noyaml.com/)** (⬆️ 35)
+3. **[Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/)** (⬆️ 758)
 <!-- AUTO-UPDATE-END -->
