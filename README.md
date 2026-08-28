@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-08-28 09:51 UTC_
+_Last updated: 2026-08-28 21:44 UTC_
 
 ### 🔬 Latest AI Research
 **[WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution](http://arxiv.org/abs/2608.27454v1)**  
 _Agent skills package specialized knowledge and workflows into reusable resources that extend AI agent capabilities. Recent work automatically discovers such skills from agent experience, which enables..._
 
 ### 💻 Trending Tech
-1. **[Overcooked? Why robotic pizza makers are failing](https://www.bbc.com/news/articles/czxq0wgkkdjo)** (⬆️ 22)
-2. **[That's a Lot of YAML](https://noyaml.com/)** (⬆️ 35)
-3. **[Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/)** (⬆️ 758)
+1. **[GUIs should be fully keyboard-driven](https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html)** (⬆️ 445)
+2. **[Stopping the smart TV from being used against you](https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/)** (⬆️ 41)
+3. **[25,000 Lbs. Of Chicken Products Recalled in 5 States: USDA](https://www.thehealthy.com/news/chicken-recall-fsis-august-2026/)** (⬆️ 145)
 <!-- AUTO-UPDATE-END -->
