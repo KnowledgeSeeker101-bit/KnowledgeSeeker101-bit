@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-08-28 21:44 UTC_
+_Last updated: 2026-08-29 16:16 UTC_
 
 ### 🔬 Latest AI Research
 **[WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution](http://arxiv.org/abs/2608.27454v1)**  
 _Agent skills package specialized knowledge and workflows into reusable resources that extend AI agent capabilities. Recent work automatically discovers such skills from agent experience, which enables..._
 
 ### 💻 Trending Tech
-1. **[GUIs should be fully keyboard-driven](https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html)** (⬆️ 445)
-2. **[Stopping the smart TV from being used against you](https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/)** (⬆️ 41)
-3. **[25,000 Lbs. Of Chicken Products Recalled in 5 States: USDA](https://www.thehealthy.com/news/chicken-recall-fsis-august-2026/)** (⬆️ 145)
+1. **[Debian votes to allow "responsible use of generative AI"](https://lwn.net/Articles/1091231/)** (⬆️ 239)
+2. **[Indirect Calling of Nested Functions on GCC Without Executable Stack](https://uecker.codeberg.page/2026-08-29.html)** (⬆️ 24)
+3. **[SQLite as a Document Database (2020)](https://dgl.cx/2020/06/sqlite-json-support)** (⬆️ 28)
 <!-- AUTO-UPDATE-END -->
