@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-08-30 03:55 UTC_
+_Last updated: 2026-08-30 16:08 UTC_
 
 ### 🔬 Latest AI Research
 **[WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution](http://arxiv.org/abs/2608.27454v1)**  
 _Agent skills package specialized knowledge and workflows into reusable resources that extend AI agent capabilities. Recent work automatically discovers such skills from agent experience, which enables..._
 
 ### 💻 Trending Tech
-1. **[Bug Blindness](https://danluu.com/bug-blind/)** (⬆️ 107)
-2. **[FreeCORE TrueNAS Core – Continued](https://freecore.org/)** (⬆️ 47)
-3. **[Hy4 preview](https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/)** (⬆️ 227)
+1. **[Creepy Crawlies](https://people.kernel.org/monsieuricon/creepy-crawlies)** (⬆️ 211)
+2. **[No AI Fridays](https://noaifridays.com/)** (⬆️ 190)
+3. **[Hacking IKEA Furniture](https://greenlightning.eu/diy/hacking-ikea-furniture/)** (⬆️ 129)
 <!-- AUTO-UPDATE-END -->
