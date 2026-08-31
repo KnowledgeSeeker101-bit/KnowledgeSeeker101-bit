@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-08-30 16:08 UTC_
+_Last updated: 2026-08-31 03:58 UTC_
 
 ### 🔬 Latest AI Research
-**[WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution](http://arxiv.org/abs/2608.27454v1)**  
-_Agent skills package specialized knowledge and workflows into reusable resources that extend AI agent capabilities. Recent work automatically discovers such skills from agent experience, which enables..._
+**[QGPINNs: A Physics-Informed Neural Network Framework for Nonlocal Differential Equations on Quantum Graphs](http://arxiv.org/abs/2608.28589v1)**  
+_We propose QGPINNs, a physics-informed neural network framework developed in PyTorch for the numerical solution of nonlocal differential equations on quantum graphs. The framework is designed as a gen..._
 
 ### 💻 Trending Tech
-1. **[Creepy Crawlies](https://people.kernel.org/monsieuricon/creepy-crawlies)** (⬆️ 211)
-2. **[No AI Fridays](https://noaifridays.com/)** (⬆️ 190)
-3. **[Hacking IKEA Furniture](https://greenlightning.eu/diy/hacking-ikea-furniture/)** (⬆️ 129)
+1. **[“I just chose words carefully”](https://unsung.aresluna.org/i-just-chose-words-carefully/)** (⬆️ 405)
+2. **[Creepy Crawlies](https://people.kernel.org/monsieuricon/creepy-crawlies)** (⬆️ 976)
+3. **[Understanding ChatGPT Work](https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/)** (⬆️ 74)
 <!-- AUTO-UPDATE-END -->
