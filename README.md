@@ -109,14 +109,13 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-08-31 18:49 UTC_
+_Last updated: 2026-09-01 16:08 UTC_
 
 ### 🔬 Latest AI Research
-**[QGPINNs: A Physics-Informed Neural Network Framework for Nonlocal Differential Equations on Quantum Graphs](http://arxiv.org/abs/2608.28589v1)**  
-_We propose QGPINNs, a physics-informed neural network framework developed in PyTorch for the numerical solution of nonlocal differential equations on quantum graphs. The framework is designed as a gen..._
+**[Constant Individual Regret in General Games](http://arxiv.org/abs/2608.31166v1)**  
+_Uncoupled no-regret dynamics provide a decentralized route to equilibrium, but prior guarantees for individual regret retain a polylogarithmic dependence on the horizon. We remove this dependence for ..._
 
 ### 💻 Trending Tech
-1. **[I turned my security cameras into an automatic bird identification system](https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/)** (⬆️ 140)
-2. **[Playa Phone](https://playaphone.com/)** (⬆️ 296)
-3. **[Student teacher arrested for private Snapchat message](https://www.gadgetreview.com/student-teacher-sent-a-private-snapchat-complaining-about-her-workday-an-hour-later-police-pulled-up-to-her-school)** (⬆️ 34)
+1. **[AnkiDroid: Google Play no longer allowing Open Collective donation link](https://github.com/ankidroid/Anki-Android/issues/21656)** (⬆️ 547)
+2. **[Io_uring Without Readahead](https://frn.sh/io-uring/)** (⬆️ 58)
 <!-- AUTO-UPDATE-END -->
