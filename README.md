@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-09-02 03:08 UTC_
+_Last updated: 2026-09-02 16:02 UTC_
 
 ### 🔬 Latest AI Research
 **[Beyond Scores: Understanding LLM-as-a-Judge Mechanisms in Summarization Evaluation](http://arxiv.org/abs/2609.01604v1)**  
 _LLM-based evaluators of natural language generation (NLG) quality are widely deployed as scoring tools and as automated training signals, yet the internal procedure by which they assign a rating remai..._
 
 ### 💻 Trending Tech
-1. **[Hang on to Your Firefox](https://www.newsonaut.com/articles/hang-on-to-your-firefox)** (⬆️ 677)
-2. **[Claude Fable 5.1 and Claude Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1)** (⬆️ 976)
-3. **[How accurate have Ed Zitron's AI skeptic predictions been?](https://danluu.com/zitron/)** (⬆️ 473)
+1. **[Gemini 3.8 Flash](https://deepmind.google/models/model-cards/gemini-3-8-flash/)** (⬆️ 145)
+2. **[A Note from LWN](https://lwn.net/Articles/1090585/)** (⬆️ 416)
+3. **[GrapheneOS says Pixel 11 has MTE support after all](https://grapheneos.social/@GrapheneOS/117194007157499435)** (⬆️ 80)
 <!-- AUTO-UPDATE-END -->
