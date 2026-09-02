@@ -109,13 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-09-01 16:08 UTC_
+_Last updated: 2026-09-02 03:08 UTC_
 
 ### 🔬 Latest AI Research
-**[Constant Individual Regret in General Games](http://arxiv.org/abs/2608.31166v1)**  
-_Uncoupled no-regret dynamics provide a decentralized route to equilibrium, but prior guarantees for individual regret retain a polylogarithmic dependence on the horizon. We remove this dependence for ..._
+**[Beyond Scores: Understanding LLM-as-a-Judge Mechanisms in Summarization Evaluation](http://arxiv.org/abs/2609.01604v1)**  
+_LLM-based evaluators of natural language generation (NLG) quality are widely deployed as scoring tools and as automated training signals, yet the internal procedure by which they assign a rating remai..._
 
 ### 💻 Trending Tech
-1. **[AnkiDroid: Google Play no longer allowing Open Collective donation link](https://github.com/ankidroid/Anki-Android/issues/21656)** (⬆️ 547)
-2. **[Io_uring Without Readahead](https://frn.sh/io-uring/)** (⬆️ 58)
+1. **[Hang on to Your Firefox](https://www.newsonaut.com/articles/hang-on-to-your-firefox)** (⬆️ 677)
+2. **[Claude Fable 5.1 and Claude Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1)** (⬆️ 976)
+3. **[How accurate have Ed Zitron's AI skeptic predictions been?](https://danluu.com/zitron/)** (⬆️ 473)
 <!-- AUTO-UPDATE-END -->
