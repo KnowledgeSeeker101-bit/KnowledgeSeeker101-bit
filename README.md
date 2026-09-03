@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-09-02 16:02 UTC_
+_Last updated: 2026-09-03 15:52 UTC_
 
 ### 🔬 Latest AI Research
-**[Beyond Scores: Understanding LLM-as-a-Judge Mechanisms in Summarization Evaluation](http://arxiv.org/abs/2609.01604v1)**  
-_LLM-based evaluators of natural language generation (NLG) quality are widely deployed as scoring tools and as automated training signals, yet the internal procedure by which they assign a rating remai..._
+**[A Common Measure of Communication for Speech Brain-Computer Interfaces](http://arxiv.org/abs/2609.02887v1)**  
+_Speech brain-computer interfaces (speech BCIs) translate neural activity into language, offering a path towards restoring speech for people with paralysis and, more broadly, enabling new forms of natu..._
 
 ### 💻 Trending Tech
-1. **[Gemini 3.8 Flash](https://deepmind.google/models/model-cards/gemini-3-8-flash/)** (⬆️ 145)
-2. **[A Note from LWN](https://lwn.net/Articles/1090585/)** (⬆️ 416)
-3. **[GrapheneOS says Pixel 11 has MTE support after all](https://grapheneos.social/@GrapheneOS/117194007157499435)** (⬆️ 80)
+1. **[Grok Outage](https://status.x.ai/)** (⬆️ 63)
+2. **[Audacity 4.0](https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0)** (⬆️ 661)
+3. **[ChatGPT Is Throwing 404](https://chatgpt.com/)** (⬆️ 300)
 <!-- AUTO-UPDATE-END -->
