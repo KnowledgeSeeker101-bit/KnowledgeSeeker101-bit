@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-09-03 15:52 UTC_
+_Last updated: 2026-09-04 15:50 UTC_
 
 ### 🔬 Latest AI Research
-**[A Common Measure of Communication for Speech Brain-Computer Interfaces](http://arxiv.org/abs/2609.02887v1)**  
-_Speech brain-computer interfaces (speech BCIs) translate neural activity into language, offering a path towards restoring speech for people with paralysis and, more broadly, enabling new forms of natu..._
+**[Compile by Training: Turning Natural-Language Specifications into Local Neural Functions](http://arxiv.org/abs/2609.04199v1)**  
+_Many recurring text functions are easy to describe but difficult to implement with rules, while calling a large remote model for every input introduces repeated cost, latency, and dependency on a prov..._
 
 ### 💻 Trending Tech
-1. **[Grok Outage](https://status.x.ai/)** (⬆️ 63)
-2. **[Audacity 4.0](https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0)** (⬆️ 661)
-3. **[ChatGPT Is Throwing 404](https://chatgpt.com/)** (⬆️ 300)
+1. **[Google AI Mode shows same products 21.6% more expensive than traditional search](https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products)** (⬆️ 209)
+2. **[Discovery of a new OpenAI agent message board](https://collusion.wiki/)** (⬆️ 654)
+3. **[Solving the Jane Street Reverse Engineering Challenge](https://jestoph.com/2026/09/04/jane-street-challenge.html)** (⬆️ 238)
 <!-- AUTO-UPDATE-END -->
