@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-09-04 15:50 UTC_
+_Last updated: 2026-09-05 14:40 UTC_
 
 ### 🔬 Latest AI Research
 **[Compile by Training: Turning Natural-Language Specifications into Local Neural Functions](http://arxiv.org/abs/2609.04199v1)**  
 _Many recurring text functions are easy to describe but difficult to implement with rules, while calling a large remote model for every input introduces repeated cost, latency, and dependency on a prov..._
 
 ### 💻 Trending Tech
-1. **[Google AI Mode shows same products 21.6% more expensive than traditional search](https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products)** (⬆️ 209)
-2. **[Discovery of a new OpenAI agent message board](https://collusion.wiki/)** (⬆️ 654)
-3. **[Solving the Jane Street Reverse Engineering Challenge](https://jestoph.com/2026/09/04/jane-street-challenge.html)** (⬆️ 238)
+1. **[The "$60 Gaming PC" – AMD BC-250 (2025)](https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/)** (⬆️ 45)
+2. **[There's No Limit to How Bad Code Can Get](https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/)** (⬆️ 8)
+3. **[Actively exploited sandbox RCE in all Chromium versions](https://nvd.nist.gov/vuln/detail/cve-2026-85046)** (⬆️ 619)
 <!-- AUTO-UPDATE-END -->
