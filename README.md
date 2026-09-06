@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-09-05 14:40 UTC_
+_Last updated: 2026-09-06 14:59 UTC_
 
 ### 🔬 Latest AI Research
 **[Compile by Training: Turning Natural-Language Specifications into Local Neural Functions](http://arxiv.org/abs/2609.04199v1)**  
 _Many recurring text functions are easy to describe but difficult to implement with rules, while calling a large remote model for every input introduces repeated cost, latency, and dependency on a prov..._
 
 ### 💻 Trending Tech
-1. **[The "$60 Gaming PC" – AMD BC-250 (2025)](https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/)** (⬆️ 45)
-2. **[There's No Limit to How Bad Code Can Get](https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/)** (⬆️ 8)
-3. **[Actively exploited sandbox RCE in all Chromium versions](https://nvd.nist.gov/vuln/detail/cve-2026-85046)** (⬆️ 619)
+1. **[Intellectual Fly Is Open (2025)](https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/)** (⬆️ 215)
+2. **[A/I shuts down – Stay human](https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/)** (⬆️ 42)
+3. **[Isar Aerospace reaches orbit and deploys payloads on second flight](https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight)** (⬆️ 374)
 <!-- AUTO-UPDATE-END -->
