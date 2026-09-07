@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-09-06 14:59 UTC_
+_Last updated: 2026-09-07 17:20 UTC_
 
 ### 🔬 Latest AI Research
-**[Compile by Training: Turning Natural-Language Specifications into Local Neural Functions](http://arxiv.org/abs/2609.04199v1)**  
-_Many recurring text functions are easy to describe but difficult to implement with rules, while calling a large remote model for every input introduces repeated cost, latency, and dependency on a prov..._
+**[UniMate: One Unified Model to Animate Diverse Skeletons](http://arxiv.org/abs/2609.05415v1)**  
+_Recent advances in automatic rigging now deliver animation-ready 3D assets at scale, yet generating the motion to drive them remains a bottleneck. Existing learned animators are topology-constrained: ..._
 
 ### 💻 Trending Tech
-1. **[Intellectual Fly Is Open (2025)](https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/)** (⬆️ 215)
-2. **[A/I shuts down – Stay human](https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/)** (⬆️ 42)
-3. **[Isar Aerospace reaches orbit and deploys payloads on second flight](https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight)** (⬆️ 374)
+1. **[De-Brainrot Vacations](https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/)** (⬆️ 379)
+2. **[bzip3](https://github.com/iczelia/bzip3)** (⬆️ 178)
+3. **[Keep Our Servers Running](https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/)** (⬆️ 788)
 <!-- AUTO-UPDATE-END -->
