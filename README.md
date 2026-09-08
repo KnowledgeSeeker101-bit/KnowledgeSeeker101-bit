@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-09-07 17:20 UTC_
+_Last updated: 2026-09-08 16:04 UTC_
 
 ### 🔬 Latest AI Research
 **[UniMate: One Unified Model to Animate Diverse Skeletons](http://arxiv.org/abs/2609.05415v1)**  
 _Recent advances in automatic rigging now deliver animation-ready 3D assets at scale, yet generating the motion to drive them remains a bottleneck. Existing learned animators are topology-constrained: ..._
 
 ### 💻 Trending Tech
-1. **[De-Brainrot Vacations](https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/)** (⬆️ 379)
-2. **[bzip3](https://github.com/iczelia/bzip3)** (⬆️ 178)
-3. **[Keep Our Servers Running](https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/)** (⬆️ 788)
+1. **[Google DeepMind Releases AlphaGenome Atlas](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/)** (⬆️ 98)
+2. **[DaVinci Resolve 21.1](https://www.blackmagicdesign.com/media/release/20260908-03)** (⬆️ 168)
+3. **[LibreOffice breaks download records after declaring it has no AI features](https://manualdousuario.net/en/libreoffice-download-record-no-ai/)** (⬆️ 392)
 <!-- AUTO-UPDATE-END -->
