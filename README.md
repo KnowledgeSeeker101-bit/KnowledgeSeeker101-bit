@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-09-08 16:04 UTC_
+_Last updated: 2026-09-09 03:20 UTC_
 
 ### 🔬 Latest AI Research
-**[UniMate: One Unified Model to Animate Diverse Skeletons](http://arxiv.org/abs/2609.05415v1)**  
-_Recent advances in automatic rigging now deliver animation-ready 3D assets at scale, yet generating the motion to drive them remains a bottleneck. Existing learned animators are topology-constrained: ..._
+**[Curriculum Learning as Transport: Understanding Curricula with Wasserstein Geodesics](http://arxiv.org/abs/2609.09099v1)**  
+_Curriculum learning is governed by several coupled design choices---how difficulty is defined, how examples are ordered, how much exposure each level receives, and how quickly training moves across le..._
 
 ### 💻 Trending Tech
-1. **[Google DeepMind Releases AlphaGenome Atlas](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/)** (⬆️ 98)
-2. **[DaVinci Resolve 21.1](https://www.blackmagicdesign.com/media/release/20260908-03)** (⬆️ 168)
-3. **[LibreOffice breaks download records after declaring it has no AI features](https://manualdousuario.net/en/libreoffice-download-record-no-ai/)** (⬆️ 392)
+1. **[Muse – Meta’s personal AI agent](https://ai.meta.com/muse/)** (⬆️ 355)
+2. **[How to build a printer](https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/)** (⬆️ 171)
+3. **[Large language models develop novel social biases through adaptive exploration](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH)** (⬆️ 107)
 <!-- AUTO-UPDATE-END -->
