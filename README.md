@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-09-09 03:20 UTC_
+_Last updated: 2026-09-09 15:59 UTC_
 
 ### 🔬 Latest AI Research
-**[Curriculum Learning as Transport: Understanding Curricula with Wasserstein Geodesics](http://arxiv.org/abs/2609.09099v1)**  
-_Curriculum learning is governed by several coupled design choices---how difficulty is defined, how examples are ordered, how much exposure each level receives, and how quickly training moves across le..._
+**[TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model](http://arxiv.org/abs/2609.09158v1)**  
+_We study the problem of navigating cluttered indoor environments with a humanoid robot. Unlike conventional methods that model navigation as a 2D path planning problem, humanoid traversal in cluttered..._
 
 ### 💻 Trending Tech
-1. **[Muse – Meta’s personal AI agent](https://ai.meta.com/muse/)** (⬆️ 355)
-2. **[How to build a printer](https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/)** (⬆️ 171)
-3. **[Large language models develop novel social biases through adaptive exploration](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH)** (⬆️ 107)
+1. **[Tailwind Labs is joining Shopify](https://tailwindcss.com/blog/tailwind-is-joining-shopify)** (⬆️ 407)
+2. **[Desert Ant Labs: local, fast models that run on device](https://desertant.com/blog/introducing-desert-ant-labs/)** (⬆️ 229)
+3. **[Claude, change the "Add to Cart" button to blue](https://opusfived.dev/)** (⬆️ 522)
 <!-- AUTO-UPDATE-END -->
