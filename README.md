@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-09-09 15:59 UTC_
+_Last updated: 2026-09-10 03:20 UTC_
 
 ### 🔬 Latest AI Research
-**[TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model](http://arxiv.org/abs/2609.09158v1)**  
-_We study the problem of navigating cluttered indoor environments with a humanoid robot. Unlike conventional methods that model navigation as a 2D path planning problem, humanoid traversal in cluttered..._
+**[Likelihood-free inference with nuisance parameters through normalizing flows](http://arxiv.org/abs/2609.10534v1)**  
+_We present a simple decomposition of a neural-network-based normalizing flow that naturally uncovers a pivotal statistic (or something close) in the presence of nuisance parameters, based only on a sa..._
 
 ### 💻 Trending Tech
-1. **[Tailwind Labs is joining Shopify](https://tailwindcss.com/blog/tailwind-is-joining-shopify)** (⬆️ 407)
-2. **[Desert Ant Labs: local, fast models that run on device](https://desertant.com/blog/introducing-desert-ant-labs/)** (⬆️ 229)
-3. **[Claude, change the "Add to Cart" button to blue](https://opusfived.dev/)** (⬆️ 522)
+1. **[iPhone Duo](https://www.apple.com/iphone-duo/)** (⬆️ 971)
+2. **[Show HN: What if the speed of light was 5 km/h?](https://rivendell.dmitrybrant.com/relativity/)** (⬆️ 30)
+3. **[Shopify acquires Tailwind](https://tailwindcss.com/blog/tailwind-is-joining-shopify)** (⬆️ 920)
 <!-- AUTO-UPDATE-END -->
