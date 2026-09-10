@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-09-10 03:20 UTC_
+_Last updated: 2026-09-10 15:54 UTC_
 
 ### 🔬 Latest AI Research
 **[Likelihood-free inference with nuisance parameters through normalizing flows](http://arxiv.org/abs/2609.10534v1)**  
 _We present a simple decomposition of a neural-network-based normalizing flow that naturally uncovers a pivotal statistic (or something close) in the presence of nuisance parameters, based only on a sa..._
 
 ### 💻 Trending Tech
-1. **[iPhone Duo](https://www.apple.com/iphone-duo/)** (⬆️ 971)
-2. **[Show HN: What if the speed of light was 5 km/h?](https://rivendell.dmitrybrant.com/relativity/)** (⬆️ 30)
-3. **[Shopify acquires Tailwind](https://tailwindcss.com/blog/tailwind-is-joining-shopify)** (⬆️ 920)
+1. **[Shopify moves back to Native from React Native](https://shopify.engineering/back-to-native)** (⬆️ 263)
+2. **[Rust Is Tier-1 Language at Microsoft](https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/)** (⬆️ 196)
+3. **[Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls](https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/)** (⬆️ 177)
 <!-- AUTO-UPDATE-END -->
