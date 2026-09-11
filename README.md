@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-09-10 15:54 UTC_
+_Last updated: 2026-09-11 03:16 UTC_
 
 ### 🔬 Latest AI Research
-**[Likelihood-free inference with nuisance parameters through normalizing flows](http://arxiv.org/abs/2609.10534v1)**  
-_We present a simple decomposition of a neural-network-based normalizing flow that naturally uncovers a pivotal statistic (or something close) in the presence of nuisance parameters, based only on a sa..._
+**[GPU-CFR: 80x Faster Counterfactual Regret Minimization by Compiling the Game to Static Dataflow and CUDA Graph Replay](http://arxiv.org/abs/2609.11923v1)**  
+_Counterfactual regret minimization (CFR) is one of the few large numerical workloads that still runs faster on CPUs than on GPUs. Each iteration sweeps a game tree with up to billions of states in mil..._
 
 ### 💻 Trending Tech
-1. **[Shopify moves back to Native from React Native](https://shopify.engineering/back-to-native)** (⬆️ 263)
-2. **[Rust Is Tier-1 Language at Microsoft](https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/)** (⬆️ 196)
-3. **[Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls](https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/)** (⬆️ 177)
+1. **[Shopify is moving from React Native back to Swift and Kotlin](https://shopify.engineering/back-to-native)** (⬆️ 836)
+2. **[More questions about whether researchers can trust OpenAI with unpublished math](https://mathstodon.xyz/@andreasthom/117240535270608201)** (⬆️ 721)
+3. **[YuE2 · Frontier Music with Symbolic Planning](https://map-yue2.github.io/)** (⬆️ 55)
 <!-- AUTO-UPDATE-END -->
