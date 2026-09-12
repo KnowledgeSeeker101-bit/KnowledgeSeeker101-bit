@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-09-11 15:56 UTC_
+_Last updated: 2026-09-12 03:21 UTC_
 
 ### 🔬 Latest AI Research
 **[GPU-CFR: 80x Faster Counterfactual Regret Minimization by Compiling the Game to Static Dataflow and CUDA Graph Replay](http://arxiv.org/abs/2609.11923v1)**  
 _Counterfactual regret minimization (CFR) is one of the few large numerical workloads that still runs faster on CPUs than on GPUs. Each iteration sweeps a game tree with up to billions of states in mil..._
 
 ### 💻 Trending Tech
-1. **[The Waymo effect: how AI is quietly making research less collaborative](https://www.researchagenda.news/articles/the-waymo-effect.html)** (⬆️ 295)
-2. **[Logo Programming Language](https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html)** (⬆️ 66)
-3. **[I've operated petabyte-scale ClickHouse clusters for 5 years](https://www.tinybird.co/blog/what-i-learned-operating-clickhouse)** (⬆️ 27)
+1. **[A misalignment of AI in mathematics](https://mathandai.org/)** (⬆️ 713)
+2. **[Pandas Should Go Extinct](https://eddie.codes/posts/pandas-should-go-extinct/)** (⬆️ 15)
+3. **[I spent $220 on Google app ads and 60% of the installs were robots](https://dayzlegame.com/blog/google-ads-bot-farm/)** (⬆️ 358)
 <!-- AUTO-UPDATE-END -->
