@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-09-12 03:21 UTC_
+_Last updated: 2026-09-12 15:05 UTC_
 
 ### 🔬 Latest AI Research
 **[GPU-CFR: 80x Faster Counterfactual Regret Minimization by Compiling the Game to Static Dataflow and CUDA Graph Replay](http://arxiv.org/abs/2609.11923v1)**  
 _Counterfactual regret minimization (CFR) is one of the few large numerical workloads that still runs faster on CPUs than on GPUs. Each iteration sweeps a game tree with up to billions of states in mil..._
 
 ### 💻 Trending Tech
-1. **[A misalignment of AI in mathematics](https://mathandai.org/)** (⬆️ 713)
-2. **[Pandas Should Go Extinct](https://eddie.codes/posts/pandas-should-go-extinct/)** (⬆️ 15)
-3. **[I spent $220 on Google app ads and 60% of the installs were robots](https://dayzlegame.com/blog/google-ads-bot-farm/)** (⬆️ 358)
+1. **[A Mathematical Framework for Transformer Circuits (2021)](https://transformer-circuits.pub/2021/framework/index.html)** (⬆️ 19)
+2. **[IKEA made a mod for Skyrim [video]](https://www.youtube.com/watch?v=iZODN0QUgjI)** (⬆️ 359)
+3. **[Fuck it, make it anyway](https://www.joelotter.com/posts/2026/09/make-it-anyway/)** (⬆️ 312)
 <!-- AUTO-UPDATE-END -->
