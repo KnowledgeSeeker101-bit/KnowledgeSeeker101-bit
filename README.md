@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-09-12 15:05 UTC_
+_Last updated: 2026-09-16 16:14 UTC_
 
 ### 🔬 Latest AI Research
-**[GPU-CFR: 80x Faster Counterfactual Regret Minimization by Compiling the Game to Static Dataflow and CUDA Graph Replay](http://arxiv.org/abs/2609.11923v1)**  
-_Counterfactual regret minimization (CFR) is one of the few large numerical workloads that still runs faster on CPUs than on GPUs. Each iteration sweeps a game tree with up to billions of states in mil..._
+**[Agentic Societies Need a Social Harness](http://arxiv.org/abs/2609.17527v1)**  
+_An agentic society is a collection of AI agents that coordinate autonomously across trust boundaries, on behalf of different principals whose objectives may only partially align. We show experimentall..._
 
 ### 💻 Trending Tech
-1. **[A Mathematical Framework for Transformer Circuits (2021)](https://transformer-circuits.pub/2021/framework/index.html)** (⬆️ 19)
-2. **[IKEA made a mod for Skyrim [video]](https://www.youtube.com/watch?v=iZODN0QUgjI)** (⬆️ 359)
-3. **[Fuck it, make it anyway](https://www.joelotter.com/posts/2026/09/make-it-anyway/)** (⬆️ 312)
+1. **[Dream-RSI: Recursive Self-Improvement through Evolving Worlds](https://arxiv.org/abs/2609.14858)** (⬆️ 79)
+2. **[Mistral X Mozilla: Private, Multilingual AI Browsing](https://mistral.ai/news/mistral-x-mozilla/)** (⬆️ 334)
+3. **[Small Programming Tricks](https://will-keleher.com/posts/small-programming-tricks-matter/)** (⬆️ 10)
 <!-- AUTO-UPDATE-END -->
