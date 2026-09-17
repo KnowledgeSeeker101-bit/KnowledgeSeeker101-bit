@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-09-16 16:14 UTC_
+_Last updated: 2026-09-17 16:20 UTC_
 
 ### 🔬 Latest AI Research
-**[Agentic Societies Need a Social Harness](http://arxiv.org/abs/2609.17527v1)**  
-_An agentic society is a collection of AI agents that coordinate autonomously across trust boundaries, on behalf of different principals whose objectives may only partially align. We show experimentall..._
+**[Objective vs. Search: Decomposing What Makes a Good Tokeniser](http://arxiv.org/abs/2609.19145v1)**  
+_Two dominant tokenisation algorithms are used by modern language models: byte-pair encoding (BPE) and UnigramLM. These differ along two orthogonal axes: their optimisation objective (compression vs. l..._
 
 ### 💻 Trending Tech
-1. **[Dream-RSI: Recursive Self-Improvement through Evolving Worlds](https://arxiv.org/abs/2609.14858)** (⬆️ 79)
-2. **[Mistral X Mozilla: Private, Multilingual AI Browsing](https://mistral.ai/news/mistral-x-mozilla/)** (⬆️ 334)
-3. **[Small Programming Tricks](https://will-keleher.com/posts/small-programming-tricks-matter/)** (⬆️ 10)
+1. **[Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA](https://global.fujitsu/en-global/pr/news/2026/09/14-02)** (⬆️ 255)
+2. **[Rate limits on GitLab.com are changing](https://about.gitlab.com/blog/rate-limit-change-2026/)** (⬆️ 35)
+3. **[Artificial intelligence now beats some of the best human forecasters](https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters)** (⬆️ 25)
 <!-- AUTO-UPDATE-END -->
