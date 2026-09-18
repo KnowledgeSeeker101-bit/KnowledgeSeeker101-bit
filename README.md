@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-09-17 16:20 UTC_
+_Last updated: 2026-09-18 15:55 UTC_
 
 ### 🔬 Latest AI Research
-**[Objective vs. Search: Decomposing What Makes a Good Tokeniser](http://arxiv.org/abs/2609.19145v1)**  
-_Two dominant tokenisation algorithms are used by modern language models: byte-pair encoding (BPE) and UnigramLM. These differ along two orthogonal axes: their optimisation objective (compression vs. l..._
+**[Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation](http://arxiv.org/abs/2609.20822v1)**  
+_Coding agents have emerged as a promising paradigm for robot manipulation: a language model writes the robot controller as a program, and agents built in this way now operate robots without robot-spec..._
 
 ### 💻 Trending Tech
-1. **[Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA](https://global.fujitsu/en-global/pr/news/2026/09/14-02)** (⬆️ 255)
-2. **[Rate limits on GitLab.com are changing](https://about.gitlab.com/blog/rate-limit-change-2026/)** (⬆️ 35)
-3. **[Artificial intelligence now beats some of the best human forecasters](https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters)** (⬆️ 25)
+1. **[Cloudflare Quick Tunnels](https://try.cloudflare.com/)** (⬆️ 65)
+2. **[An Empirical Study of Harness Design for Coding Agents](https://arxiv.org/abs/2609.20804)** (⬆️ 126)
+3. **[North Korean nuclear test sets off years of earthquakes](https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes)** (⬆️ 32)
 <!-- AUTO-UPDATE-END -->
