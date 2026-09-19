@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-09-18 15:55 UTC_
+_Last updated: 2026-09-19 15:27 UTC_
 
 ### 🔬 Latest AI Research
 **[Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation](http://arxiv.org/abs/2609.20822v1)**  
 _Coding agents have emerged as a promising paradigm for robot manipulation: a language model writes the robot controller as a program, and agents built in this way now operate robots without robot-spec..._
 
 ### 💻 Trending Tech
-1. **[Cloudflare Quick Tunnels](https://try.cloudflare.com/)** (⬆️ 65)
-2. **[An Empirical Study of Harness Design for Coding Agents](https://arxiv.org/abs/2609.20804)** (⬆️ 126)
-3. **[North Korean nuclear test sets off years of earthquakes](https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes)** (⬆️ 32)
+1. **[Laya the open source version of Jev](https://laya.convaiinnovations.com/)** (⬆️ 376)
+2. **[What Zig felt like, coming from Rust](https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/)** (⬆️ 62)
+3. **[A graphical desktop for the ZX Spectrum](https://github.com/mindbox77/zxdesk)** (⬆️ 32)
 <!-- AUTO-UPDATE-END -->
