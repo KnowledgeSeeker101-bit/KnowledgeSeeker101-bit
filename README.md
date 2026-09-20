@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-09-19 15:27 UTC_
+_Last updated: 2026-09-20 15:31 UTC_
 
 ### 🔬 Latest AI Research
 **[Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation](http://arxiv.org/abs/2609.20822v1)**  
 _Coding agents have emerged as a promising paradigm for robot manipulation: a language model writes the robot controller as a program, and agents built in this way now operate robots without robot-spec..._
 
 ### 💻 Trending Tech
-1. **[Laya the open source version of Jev](https://laya.convaiinnovations.com/)** (⬆️ 376)
-2. **[What Zig felt like, coming from Rust](https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/)** (⬆️ 62)
-3. **[A graphical desktop for the ZX Spectrum](https://github.com/mindbox77/zxdesk)** (⬆️ 32)
+1. **[Qwen-Image-2.1: Compact, efficient, and unified image creation](https://qwen.ai/blog?id=qwen-image-2.1)** (⬆️ 156)
+2. **[Sherline Tools Is Going Out of Business](https://toolguyd.com/sherline-tools-shutting-down-usa-production/)** (⬆️ 24)
+3. **[Key symbols we lost to time, pt. 2: The Mac side](https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-2-the-mac-side/)** (⬆️ 27)
 <!-- AUTO-UPDATE-END -->
