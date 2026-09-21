@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-09-20 15:31 UTC_
+_Last updated: 2026-09-21 17:55 UTC_
 
 ### 🔬 Latest AI Research
-**[Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation](http://arxiv.org/abs/2609.20822v1)**  
-_Coding agents have emerged as a promising paradigm for robot manipulation: a language model writes the robot controller as a program, and agents built in this way now operate robots without robot-spec..._
+**[Designer-RSI: Evolving Procedural Memory from User Traffic for Agentic Graphic Design](http://arxiv.org/abs/2609.22086v1)**  
+_Professional graphic design is a long-horizon agentic task in which structured, editable artifacts emerge from many interdependent actions, yet outcomes admit no reliable programmatic oracle. We intro..._
 
 ### 💻 Trending Tech
-1. **[Qwen-Image-2.1: Compact, efficient, and unified image creation](https://qwen.ai/blog?id=qwen-image-2.1)** (⬆️ 156)
-2. **[Sherline Tools Is Going Out of Business](https://toolguyd.com/sherline-tools-shutting-down-usa-production/)** (⬆️ 24)
-3. **[Key symbols we lost to time, pt. 2: The Mac side](https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-2-the-mac-side/)** (⬆️ 27)
+1. **[What Sun got wrong](https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/)** (⬆️ 304)
+2. **[Attention is all you have](https://alicegg.tech/2026/09/21/attention)** (⬆️ 228)
+3. **[Grok 4.7](https://x.ai/news/grok-4-7)** (⬆️ 227)
 <!-- AUTO-UPDATE-END -->
