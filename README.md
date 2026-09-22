@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-09-21 17:55 UTC_
+_Last updated: 2026-09-22 16:22 UTC_
 
 ### 🔬 Latest AI Research
-**[Designer-RSI: Evolving Procedural Memory from User Traffic for Agentic Graphic Design](http://arxiv.org/abs/2609.22086v1)**  
-_Professional graphic design is a long-horizon agentic task in which structured, editable artifacts emerge from many interdependent actions, yet outcomes admit no reliable programmatic oracle. We intro..._
+**[GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay](http://arxiv.org/abs/2609.25001v1)**  
+_Modern video games provide a measurable testbed for AI models, combining abilities of visual understanding, instruction decomposition, goal planning, and precise action control over multiple temporal ..._
 
 ### 💻 Trending Tech
-1. **[What Sun got wrong](https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/)** (⬆️ 304)
-2. **[Attention is all you have](https://alicegg.tech/2026/09/21/attention)** (⬆️ 228)
-3. **[Grok 4.7](https://x.ai/news/grok-4-7)** (⬆️ 227)
+1. **[I asked Meta’s Muse for its filesystem and it sent me 6.8GB](https://mouse.dev/blog/muse-runtime-export/)** (⬆️ 116)
+2. **[OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005](https://www.cryptocellar.org/bgac/the-mvueh-break.html)** (⬆️ 242)
+3. **[OpenAI is well positioned to fast-follow Jev](https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/)** (⬆️ 92)
 <!-- AUTO-UPDATE-END -->
