@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-09-22 16:22 UTC_
+_Last updated: 2026-09-23 16:12 UTC_
 
 ### 🔬 Latest AI Research
-**[GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay](http://arxiv.org/abs/2609.25001v1)**  
-_Modern video games provide a measurable testbed for AI models, combining abilities of visual understanding, instruction decomposition, goal planning, and precise action control over multiple temporal ..._
+**[A Decentralized Partially Observable Team Decision Methodology with Delayed Information Sharing](http://arxiv.org/abs/2609.26783v1)**  
+_We study decentralized partially observable team decision problems with low-rank latent dynamics and unknown system models. The proposed framework combines team-theoretic equivalence with low-rank mod..._
 
 ### 💻 Trending Tech
-1. **[I asked Meta’s Muse for its filesystem and it sent me 6.8GB](https://mouse.dev/blog/muse-runtime-export/)** (⬆️ 116)
-2. **[OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005](https://www.cryptocellar.org/bgac/the-mvueh-break.html)** (⬆️ 242)
-3. **[OpenAI is well positioned to fast-follow Jev](https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/)** (⬆️ 92)
+1. **[Fixing the Portobello Police Station Clock](https://pointinthecloud.com/2026-04-11-211700.html)** (⬆️ 75)
+2. **[Strands Harness](https://strandsagents.com/blog/introducing-strands-harness/)** (⬆️ 57)
+3. **[Stripe's Knowledge AI Platform](https://stripe.dev/blog/meet-stripes-knowledge-ai-platform)** (⬆️ 89)
 <!-- AUTO-UPDATE-END -->
