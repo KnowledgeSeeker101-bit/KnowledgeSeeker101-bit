@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-09-23 16:12 UTC_
+_Last updated: 2026-09-24 16:35 UTC_
 
 ### 🔬 Latest AI Research
-**[A Decentralized Partially Observable Team Decision Methodology with Delayed Information Sharing](http://arxiv.org/abs/2609.26783v1)**  
-_We study decentralized partially observable team decision problems with low-rank latent dynamics and unknown system models. The proposed framework combines team-theoretic equivalence with low-rank mod..._
+**[On the Diffusibility of High-Dimensional Latents](http://arxiv.org/abs/2609.28473v1)**  
+_Representation Autoencoders (RAEs) enable diffusion models to operate in the feature spaces of pretrained visual encoders. However, many off-the-shelf encoders are not optimized for faithful reconstru..._
 
 ### 💻 Trending Tech
-1. **[Fixing the Portobello Police Station Clock](https://pointinthecloud.com/2026-04-11-211700.html)** (⬆️ 75)
-2. **[Strands Harness](https://strandsagents.com/blog/introducing-strands-harness/)** (⬆️ 57)
-3. **[Stripe's Knowledge AI Platform](https://stripe.dev/blog/meet-stripes-knowledge-ai-platform)** (⬆️ 89)
+1. **[F-Droid 2.0: A New Chapter for Android Freedom](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html)** (⬆️ 208)
+2. **[GitHub has not removed malicious imitation software after 3 weeks](https://successfulsoftware.net/2026/09/24/github-has-not-removed-malicious-imitation-software-after-3-weeks/)** (⬆️ 21)
+3. **[Dynamic Abliteration: Non-Destructive Refusal Suppression via Engram Steering](https://blog.madhukaraphatak.in/non-destructive-refusal-supression-using-engram)** (⬆️ 80)
 <!-- AUTO-UPDATE-END -->
