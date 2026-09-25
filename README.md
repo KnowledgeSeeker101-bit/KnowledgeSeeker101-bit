@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-09-24 16:35 UTC_
+_Last updated: 2026-09-25 16:40 UTC_
 
 ### 🔬 Latest AI Research
-**[On the Diffusibility of High-Dimensional Latents](http://arxiv.org/abs/2609.28473v1)**  
-_Representation Autoencoders (RAEs) enable diffusion models to operate in the feature spaces of pretrained visual encoders. However, many off-the-shelf encoders are not optimized for faithful reconstru..._
+**[LLM Agents Can Easily Tamper With Their Own Traces](http://arxiv.org/abs/2609.30266v1)**  
+_Asynchronous monitoring, incident investigations, and compliance audits primarily rely on agent traces to reconstruct what happened. These analyses assume that LLM agents cannot tamper with their own ..._
 
 ### 💻 Trending Tech
-1. **[F-Droid 2.0: A New Chapter for Android Freedom](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html)** (⬆️ 208)
-2. **[GitHub has not removed malicious imitation software after 3 weeks](https://successfulsoftware.net/2026/09/24/github-has-not-removed-malicious-imitation-software-after-3-weeks/)** (⬆️ 21)
-3. **[Dynamic Abliteration: Non-Destructive Refusal Suppression via Engram Steering](https://blog.madhukaraphatak.in/non-destructive-refusal-supression-using-engram)** (⬆️ 80)
+1. **[Jevmem – automatic project memory for Claude Code, built on Jev](https://github.com/Avinash-jetwani/jevmem)** (⬆️ 24)
+2. **[Platform-Independent SIMD in Go](https://go.dev/blog/simd-experiment)** (⬆️ 194)
+3. **[Git-bug: Distributed, offline-first bug tracker embedded in Git](https://github.com/git-bug/git-bug)** (⬆️ 167)
 <!-- AUTO-UPDATE-END -->
