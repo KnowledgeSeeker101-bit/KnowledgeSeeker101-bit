@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-09-25 16:40 UTC_
+_Last updated: 2026-09-26 15:53 UTC_
 
 ### 🔬 Latest AI Research
 **[LLM Agents Can Easily Tamper With Their Own Traces](http://arxiv.org/abs/2609.30266v1)**  
 _Asynchronous monitoring, incident investigations, and compliance audits primarily rely on agent traces to reconstruct what happened. These analyses assume that LLM agents cannot tamper with their own ..._
 
 ### 💻 Trending Tech
-1. **[Jevmem – automatic project memory for Claude Code, built on Jev](https://github.com/Avinash-jetwani/jevmem)** (⬆️ 24)
-2. **[Platform-Independent SIMD in Go](https://go.dev/blog/simd-experiment)** (⬆️ 194)
-3. **[Git-bug: Distributed, offline-first bug tracker embedded in Git](https://github.com/git-bug/git-bug)** (⬆️ 167)
+1. **[Breaking Up with Google Play: Why Conversations Is Now Free](https://gultsch.de/posts/breaking-up-with-google-play/)** (⬆️ 370)
+2. **[Plunging test scores are a slow-moving catastrophe](https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe)** (⬆️ 24)
+3. **[Fifteen years later, the Apple Cards origin story](https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story)** (⬆️ 186)
 <!-- AUTO-UPDATE-END -->
