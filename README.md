@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-09-27 03:56 UTC_
+_Last updated: 2026-09-27 16:29 UTC_
 
 ### 🔬 Latest AI Research
 **[LLM Agents Can Easily Tamper With Their Own Traces](http://arxiv.org/abs/2609.30266v1)**  
 _Asynchronous monitoring, incident investigations, and compliance audits primarily rely on agent traces to reconstruct what happened. These analyses assume that LLM agents cannot tamper with their own ..._
 
 ### 💻 Trending Tech
-1. **[PipePipe: NewPipe hard fork implementing SponsorBlock](https://github.com/InfinityLoop1308/PipePipe)** (⬆️ 341)
-2. **[DeepSeek Elastic Compute (DSec)](https://arxiv.org/abs/2609.22978)** (⬆️ 184)
-3. **[Go Concurrency Distilled](https://antonz.org/go-concurrency-distilled/)** (⬆️ 71)
+1. **["They had no concept of a duty of care to their users."](https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/)** (⬆️ 193)
+2. **[In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life](https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html)** (⬆️ 58)
+3. **[The Normalization of Inexplicable Failures](https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html)** (⬆️ 30)
 <!-- AUTO-UPDATE-END -->
