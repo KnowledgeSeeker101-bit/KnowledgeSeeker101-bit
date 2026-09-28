@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-09-27 16:29 UTC_
+_Last updated: 2026-09-28 19:18 UTC_
 
 ### 🔬 Latest AI Research
-**[LLM Agents Can Easily Tamper With Their Own Traces](http://arxiv.org/abs/2609.30266v1)**  
-_Asynchronous monitoring, incident investigations, and compliance audits primarily rely on agent traces to reconstruct what happened. These analyses assume that LLM agents cannot tamper with their own ..._
+**[Learning to Stop without Learning to Stop: Self-Supervised Confidence Training Improves Reasoning Efficiency](http://arxiv.org/abs/2609.31619v1)**  
+_Reasoning models often generate very long reasoning traces, making inference computationally expensive. Existing approaches typically improve efficiency either through inference-time early-stopping me..._
 
 ### 💻 Trending Tech
-1. **["They had no concept of a duty of care to their users."](https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/)** (⬆️ 193)
-2. **[In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life](https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html)** (⬆️ 58)
-3. **[The Normalization of Inexplicable Failures](https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html)** (⬆️ 30)
+1. **[Pirating the Pirates](https://mubi.com/en/notebook/posts/pirating-the-pirates)** (⬆️ 195)
+2. **[Hijacking the PS5's RTMP stream](https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/)** (⬆️ 101)
+3. **[Show HN: HN.watch – Videos of all Hacker News posts](https://hn.watch/)** (⬆️ 81)
 <!-- AUTO-UPDATE-END -->
