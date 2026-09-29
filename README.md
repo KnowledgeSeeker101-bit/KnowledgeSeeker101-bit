@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-09-28 19:18 UTC_
+_Last updated: 2026-09-29 17:43 UTC_
 
 ### 🔬 Latest AI Research
-**[Learning to Stop without Learning to Stop: Self-Supervised Confidence Training Improves Reasoning Efficiency](http://arxiv.org/abs/2609.31619v1)**  
-_Reasoning models often generate very long reasoning traces, making inference computationally expensive. Existing approaches typically improve efficiency either through inference-time early-stopping me..._
+**[FurE: Efficient Instance-Specific 3D Fur Reconstruction without Animal-Fur Datasets](http://arxiv.org/abs/2609.35770v1)**  
+_Realistic and editable animal fur reconstruction from multi-view images is challenging due to fine-scale detail, self-occlusion and obfuscation, and, unlike human hair, the lack of animal-fur datasets..._
 
 ### 💻 Trending Tech
-1. **[Pirating the Pirates](https://mubi.com/en/notebook/posts/pirating-the-pirates)** (⬆️ 195)
-2. **[Hijacking the PS5's RTMP stream](https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/)** (⬆️ 101)
-3. **[Show HN: HN.watch – Videos of all Hacker News posts](https://hn.watch/)** (⬆️ 81)
+1. **[GPT 6.1 Sol](https://openai.com/index/introducing-gpt-6-1-sol/)** (⬆️ 226)
+2. **[Dots](https://openai.com/index/introducing-dots/)** (⬆️ 135)
+3. **[ChatGPT Pro 500](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)** (⬆️ 42)
 <!-- AUTO-UPDATE-END -->
