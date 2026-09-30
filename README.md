@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-09-29 17:43 UTC_
+_Last updated: 2026-09-30 04:14 UTC_
 
 ### 🔬 Latest AI Research
-**[FurE: Efficient Instance-Specific 3D Fur Reconstruction without Animal-Fur Datasets](http://arxiv.org/abs/2609.35770v1)**  
-_Realistic and editable animal fur reconstruction from multi-view images is challenging due to fine-scale detail, self-occlusion and obfuscation, and, unlike human hair, the lack of animal-fur datasets..._
+**[Skill-Space Shooting for Autonomous Robot Policy Improvement](http://arxiv.org/abs/2609.38178v1)**  
+_Robots deployed in the physical world must be able to improve beyond their initial training as they encounter new situations and failures. For this improvement to scale across tasks, it must make effe..._
 
 ### 💻 Trending Tech
-1. **[GPT 6.1 Sol](https://openai.com/index/introducing-gpt-6-1-sol/)** (⬆️ 226)
-2. **[Dots](https://openai.com/index/introducing-dots/)** (⬆️ 135)
-3. **[ChatGPT Pro 500](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)** (⬆️ 42)
+1. **[Livenerf: Has Opus 5.5 been nerfed yet?](https://github.com/ninjahawk/livenerf)** (⬆️ 353)
+2. **[PSSA: A non-transformer language model written from scratch in Rust](https://github.com/Sparticle62ops/pssa)** (⬆️ 21)
+3. **[Dots: Always-on agents](https://openai.com/index/introducing-dots/)** (⬆️ 488)
 <!-- AUTO-UPDATE-END -->
