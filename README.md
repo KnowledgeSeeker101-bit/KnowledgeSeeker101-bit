@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-09-30 04:14 UTC_
+_Last updated: 2026-10-01 04:26 UTC_
 
 ### 🔬 Latest AI Research
-**[Skill-Space Shooting for Autonomous Robot Policy Improvement](http://arxiv.org/abs/2609.38178v1)**  
-_Robots deployed in the physical world must be able to improve beyond their initial training as they encounter new situations and failures. For this improvement to scale across tasks, it must make effe..._
+**[Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis](http://arxiv.org/abs/2609.40361v1)**  
+_Multimodal large language models (MLLMs) are rapidly advancing clinical diagnosis, yet their adaptation pipelines remain anchored to accuracy-based objectives. Clinical data are heavily class-imbalanc..._
 
 ### 💻 Trending Tech
-1. **[Livenerf: Has Opus 5.5 been nerfed yet?](https://github.com/ninjahawk/livenerf)** (⬆️ 353)
-2. **[PSSA: A non-transformer language model written from scratch in Rust](https://github.com/Sparticle62ops/pssa)** (⬆️ 21)
-3. **[Dots: Always-on agents](https://openai.com/index/introducing-dots/)** (⬆️ 488)
+1. **[Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/)** (⬆️ 1122)
+2. **[The top secret URSALA, RAQUEL, and FARRAH satellites (2025)](https://www.thespacereview.com/article/4951/1)** (⬆️ 163)
+3. **[56k.rip – the 1996 dial-up internet experience](https://56k.rip/)** (⬆️ 110)
 <!-- AUTO-UPDATE-END -->
