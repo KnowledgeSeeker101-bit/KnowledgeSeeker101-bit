@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-10-01 04:26 UTC_
+_Last updated: 2026-10-01 18:05 UTC_
 
 ### 🔬 Latest AI Research
 **[Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis](http://arxiv.org/abs/2609.40361v1)**  
 _Multimodal large language models (MLLMs) are rapidly advancing clinical diagnosis, yet their adaptation pipelines remain anchored to accuracy-based objectives. Clinical data are heavily class-imbalanc..._
 
 ### 💻 Trending Tech
-1. **[Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/)** (⬆️ 1122)
-2. **[The top secret URSALA, RAQUEL, and FARRAH satellites (2025)](https://www.thespacereview.com/article/4951/1)** (⬆️ 163)
-3. **[56k.rip – the 1996 dial-up internet experience](https://56k.rip/)** (⬆️ 110)
+1. **[Clef: Open-source decision models, and new RL fine-tuning platform](https://blog.cloudflare.com/clef-decision-models/)** (⬆️ 177)
+2. **[RIP, vector database](https://turbopuffer.com/blog/rip-vector-database)** (⬆️ 110)
+3. **[StreetComplete on iOS is now in public beta](https://github.com/streetcomplete/StreetComplete/issues/5421)** (⬆️ 408)
 <!-- AUTO-UPDATE-END -->
