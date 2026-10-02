@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-10-01 18:05 UTC_
+_Last updated: 2026-10-02 17:32 UTC_
 
 ### 🔬 Latest AI Research
-**[Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis](http://arxiv.org/abs/2609.40361v1)**  
-_Multimodal large language models (MLLMs) are rapidly advancing clinical diagnosis, yet their adaptation pipelines remain anchored to accuracy-based objectives. Clinical data are heavily class-imbalanc..._
+**[One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars](http://arxiv.org/abs/2610.02207v1)**  
+_3D Gaussian avatars support fast rendering, however, their real-time animation is often challenged by the costly neural inference. We address this bottleneck and show that the animation of pretrained ..._
 
 ### 💻 Trending Tech
-1. **[Clef: Open-source decision models, and new RL fine-tuning platform](https://blog.cloudflare.com/clef-decision-models/)** (⬆️ 177)
-2. **[RIP, vector database](https://turbopuffer.com/blog/rip-vector-database)** (⬆️ 110)
-3. **[StreetComplete on iOS is now in public beta](https://github.com/streetcomplete/StreetComplete/issues/5421)** (⬆️ 408)
+1. **[Dutch Computer Museums](https://aresluna.org/dutch-computer-museums/)** (⬆️ 14)
+2. **[The Legend of von Neumann (1973) [pdf]](https://gwern.net/doc/math/1973-halmos.pdf)** (⬆️ 163)
+3. **[Tiny Brutalism](https://placeholders.itch.io/tiny-brutalism)** (⬆️ 60)
 <!-- AUTO-UPDATE-END -->
