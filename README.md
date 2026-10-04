@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-10-03 15:47 UTC_
+_Last updated: 2026-10-04 16:30 UTC_
 
 ### 🔬 Latest AI Research
 **[One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars](http://arxiv.org/abs/2610.02207v1)**  
 _3D Gaussian avatars support fast rendering, however, their real-time animation is often challenged by the costly neural inference. We address this bottleneck and show that the animation of pretrained ..._
 
 ### 💻 Trending Tech
-1. **[Kolibri is an open-weight LLM from Aleph Alpha for German and English](https://tej.as/blog/aleph-alpha-kolibri)** (⬆️ 238)
-2. **[Woking Electrical Control Room (2016)](http://www.darbiansphotography.com/woking-electrical-control-room-urbex)** (⬆️ 53)
-3. **[Kolibri Has Landed: A Sovereign Open-Weight Model](https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/)** (⬆️ 155)
+1. **[Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s](https://github.com/Niko1221/Strata)** (⬆️ 253)
+2. **[Car is a smartphone on wheels. Here's who's listening](https://automatictransmission.khoury.northeastern.edu/)** (⬆️ 67)
+3. **[A Map of Every Lighthouse on the Planet](https://mapped.earth/lighthouses/world)** (⬆️ 17)
 <!-- AUTO-UPDATE-END -->
