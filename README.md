@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-10-04 16:30 UTC_
+_Last updated: 2026-10-05 04:20 UTC_
 
 ### 🔬 Latest AI Research
-**[One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars](http://arxiv.org/abs/2610.02207v1)**  
-_3D Gaussian avatars support fast rendering, however, their real-time animation is often challenged by the costly neural inference. We address this bottleneck and show that the animation of pretrained ..._
+**[Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis](http://arxiv.org/abs/2610.03717v1)**  
+_This paper examines the role of Novel View Synthesis (NVS) in geometric representation learning. In principle, NVS should reason about 3D scene structure, thereby enabling transferable multi-view geom..._
 
 ### 💻 Trending Tech
-1. **[Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s](https://github.com/Niko1221/Strata)** (⬆️ 253)
-2. **[Car is a smartphone on wheels. Here's who's listening](https://automatictransmission.khoury.northeastern.edu/)** (⬆️ 67)
-3. **[A Map of Every Lighthouse on the Planet](https://mapped.earth/lighthouses/world)** (⬆️ 17)
+1. **[Powerless F1 drivers frustrated by Bahrain F1 software glitch](https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/)** (⬆️ 119)
+2. **[Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s](https://github.com/Niko1221/Strata)** (⬆️ 656)
+3. **[In the wake of closure, a digital archive of animated materials appears online](https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/)** (⬆️ 62)
 <!-- AUTO-UPDATE-END -->
