@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-10-06 05:08 UTC_
+_Last updated: 2026-10-06 17:59 UTC_
 
 ### 🔬 Latest AI Research
 **[One Figure, Every Canvas: Editable Flowchart Relayout via Agentic Pipeline](http://arxiv.org/abs/2610.06852v1)**  
 _Pipeline figures in ML papers must be repurposed across many canvases, including paper columns, 16:9 slides, portrait posters, 1:1 social teasers, 9:16 phone previews. Each format imposes a different ..._
 
 ### 💻 Trending Tech
-1. **[Why Common Lisp is now the best programming language](https://www.vivienhenz.com/common-lisp)** (⬆️ 48)
-2. **[Beam: Reflection's 501B open-weight model](https://reflection.ai/blog/introducing-beam)** (⬆️ 378)
-3. **[Find the flattest route between any two points in SF](https://flattensf.com/)** (⬆️ 147)
+1. **[Mistral Large 4](https://mistral.ai/news/mistral-large-4/\)** (⬆️ 1018)
+2. **[Release of Polars 2.0](https://pola.rs/posts/release-polars-2/)** (⬆️ 295)
+3. **[Nobel Prize in Physics goes to Francis Halzen](https://www.nobelprize.org/prizes/physics/2026/)** (⬆️ 376)
 <!-- AUTO-UPDATE-END -->
