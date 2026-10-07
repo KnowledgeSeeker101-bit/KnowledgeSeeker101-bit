@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-10-06 17:59 UTC_
+_Last updated: 2026-10-07 18:29 UTC_
 
 ### 🔬 Latest AI Research
-**[One Figure, Every Canvas: Editable Flowchart Relayout via Agentic Pipeline](http://arxiv.org/abs/2610.06852v1)**  
-_Pipeline figures in ML papers must be repurposed across many canvases, including paper columns, 16:9 slides, portrait posters, 1:1 social teasers, 9:16 phone previews. Each format imposes a different ..._
+**[QF3: Fast Flow RL with Filtered Q-Gradients](http://arxiv.org/abs/2610.08789v1)**  
+_Flow policies have become a standard policy class for learning robot behaviors from demonstrations, but reinforcement learning is still critical for improving pre-trained flow policies or learning the..._
 
 ### 💻 Trending Tech
-1. **[Mistral Large 4](https://mistral.ai/news/mistral-large-4/\)** (⬆️ 1018)
-2. **[Release of Polars 2.0](https://pola.rs/posts/release-polars-2/)** (⬆️ 295)
-3. **[Nobel Prize in Physics goes to Francis Halzen](https://www.nobelprize.org/prizes/physics/2026/)** (⬆️ 376)
+1. **[Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5)** (⬆️ 148)
+2. **[Visa, Mastercard, Major Banks Facing New Litigation over 'Anticompetitive' Fees](https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees)** (⬆️ 269)
+3. **[GPT‑6 and Intelligent UI for everyone](https://openai.com/index/gpt-6-for-everyone/)** (⬆️ 64)
 <!-- AUTO-UPDATE-END -->
