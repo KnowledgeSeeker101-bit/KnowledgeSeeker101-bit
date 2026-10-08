@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-10-07 18:29 UTC_
+_Last updated: 2026-10-08 18:28 UTC_
 
 ### 🔬 Latest AI Research
-**[QF3: Fast Flow RL with Filtered Q-Gradients](http://arxiv.org/abs/2610.08789v1)**  
-_Flow policies have become a standard policy class for learning robot behaviors from demonstrations, but reinforcement learning is still critical for improving pre-trained flow policies or learning the..._
+**[Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric Videos](http://arxiv.org/abs/2610.10538v1)**  
+_As we move through the world and carry out everyday tasks, we encounter objects that may become relevant only later. We are capable of recalling where we left something or what was inside a container,..._
 
 ### 💻 Trending Tech
-1. **[Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5)** (⬆️ 148)
-2. **[Visa, Mastercard, Major Banks Facing New Litigation over 'Anticompetitive' Fees](https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees)** (⬆️ 269)
-3. **[GPT‑6 and Intelligent UI for everyone](https://openai.com/index/gpt-6-for-everyone/)** (⬆️ 64)
+1. **[Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle)** (⬆️ 131)
+2. **[Trump administration is suspending Microsoft from a green card program](https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea)** (⬆️ 503)
+3. **[Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter](https://openrouter.ai/stepfun/step-5-preview)** (⬆️ 34)
 <!-- AUTO-UPDATE-END -->
