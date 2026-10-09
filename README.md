@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-10-08 18:28 UTC_
+_Last updated: 2026-10-09 18:00 UTC_
 
 ### 🔬 Latest AI Research
-**[Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric Videos](http://arxiv.org/abs/2610.10538v1)**  
-_As we move through the world and carry out everyday tasks, we encounter objects that may become relevant only later. We are capable of recalling where we left something or what was inside a container,..._
+**[CSF: Contextual Safety Filtering for Motion Generators](http://arxiv.org/abs/2610.12467v1)**  
+_Text-conditioned motion generators produce trackable whole-body motion, but they have no notion of scene-dependent safety: the same action may target an object or a person. Existing safeguards either ..._
 
 ### 💻 Trending Tech
-1. **[Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle)** (⬆️ 131)
-2. **[Trump administration is suspending Microsoft from a green card program](https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea)** (⬆️ 503)
-3. **[Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter](https://openrouter.ai/stepfun/step-5-preview)** (⬆️ 34)
+1. **[Cloudflare acquires Deno](https://deno.com/blog/cloudflare)** (⬆️ 711)
+2. **[Our $445M Series D](https://oxide.computer/blog/our-445m-series-d)** (⬆️ 382)
+3. **[Sorry, I'm in a meeting](https://iminafleeting.com/)** (⬆️ 484)
 <!-- AUTO-UPDATE-END -->
