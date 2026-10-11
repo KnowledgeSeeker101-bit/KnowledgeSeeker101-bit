@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-10-10 17:00 UTC_
+_Last updated: 2026-10-11 04:18 UTC_
 
 ### 🔬 Latest AI Research
 **[CSF: Contextual Safety Filtering for Motion Generators](http://arxiv.org/abs/2610.12467v1)**  
 _Text-conditioned motion generators produce trackable whole-body motion, but they have no notion of scene-dependent safety: the same action may target an object or a person. Existing safeguards either ..._
 
 ### 💻 Trending Tech
-1. **[Bitwarden Dual License Model](https://community.bitwarden.com/t/published-version-update-in-app-stores/102750)** (⬆️ 173)
-2. **[Knuth Reward Check](https://www.thomas-huehn.com/knuth-reward-check)** (⬆️ 30)
-3. **[Talorys – A self-hosted personal AI agent on Cloudflare's free tier](https://github.com/rociiu/talorys)** (⬆️ 145)
+1. **[WallHop – 12ft.io is gone, so I built a replacement](https://wallhop.io/)** (⬆️ 171)
+2. **[Build your own decision model](https://nishtahir.com/build-your-own-decision-model/)** (⬆️ 168)
+3. **[2D Vehicles](https://patkerr.co.uk/2d-vehicles/)** (⬆️ 395)
 <!-- AUTO-UPDATE-END -->
