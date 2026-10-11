@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-10-11 04:18 UTC_
+_Last updated: 2026-10-11 17:24 UTC_
 
 ### 🔬 Latest AI Research
 **[CSF: Contextual Safety Filtering for Motion Generators](http://arxiv.org/abs/2610.12467v1)**  
 _Text-conditioned motion generators produce trackable whole-body motion, but they have no notion of scene-dependent safety: the same action may target an object or a person. Existing safeguards either ..._
 
 ### 💻 Trending Tech
-1. **[WallHop – 12ft.io is gone, so I built a replacement](https://wallhop.io/)** (⬆️ 171)
-2. **[Build your own decision model](https://nishtahir.com/build-your-own-decision-model/)** (⬆️ 168)
-3. **[2D Vehicles](https://patkerr.co.uk/2d-vehicles/)** (⬆️ 395)
+1. **[I paid people to try and follow my README](https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/)** (⬆️ 261)
+2. **[The Corporate Happiness Treadmill and the Case for Doing Less](https://0xff.nu/corp-burnout/)** (⬆️ 36)
+3. **[The tilde in your PATH may not be your HOME](https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/)** (⬆️ 144)
 <!-- AUTO-UPDATE-END -->
