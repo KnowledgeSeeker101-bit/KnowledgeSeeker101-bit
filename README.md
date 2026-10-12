@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-10-11 17:24 UTC_
+_Last updated: 2026-10-12 04:35 UTC_
 
 ### 🔬 Latest AI Research
-**[CSF: Contextual Safety Filtering for Motion Generators](http://arxiv.org/abs/2610.12467v1)**  
-_Text-conditioned motion generators produce trackable whole-body motion, but they have no notion of scene-dependent safety: the same action may target an object or a person. Existing safeguards either ..._
+**[Can Language Models Play the Wikipedia Game?](http://arxiv.org/abs/2610.13948v1)**  
+_Language models increasingly support or automate information retrieval from document collections too large to index. This task is difficult when it requires specialist linguistic or scientific knowled..._
 
 ### 💻 Trending Tech
-1. **[I paid people to try and follow my README](https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/)** (⬆️ 261)
-2. **[The Corporate Happiness Treadmill and the Case for Doing Less](https://0xff.nu/corp-burnout/)** (⬆️ 36)
-3. **[The tilde in your PATH may not be your HOME](https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/)** (⬆️ 144)
+1. **[Fingerprints are the new cookies](https://royfish.dev/fingerprints-are-the-new-cookies)** (⬆️ 175)
+2. **[Total Annihilation, rebuilt for modern computers](https://nanolathe.gg)** (⬆️ 419)
+3. **[Whatever became of holography? (2011)](https://www.americanscientist.org/article/whatever-became-of-holography)** (⬆️ 98)
 <!-- AUTO-UPDATE-END -->
