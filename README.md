@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-10-12 20:57 UTC_
+_Last updated: 2026-10-13 18:55 UTC_
 
 ### 🔬 Latest AI Research
 **[Can Language Models Play the Wikipedia Game?](http://arxiv.org/abs/2610.13948v1)**  
 _Language models increasingly support or automate information retrieval from document collections too large to index. This task is difficult when it requires specialist linguistic or scientific knowled..._
 
 ### 💻 Trending Tech
-1. **[Codex CLI installs a persistent, self-updating background daemon by default](https://github.com/openai/codex/issues/48195)** (⬆️ 310)
-2. **[GLM-Legal](https://z.ai/blog/glm-legal)** (⬆️ 323)
-3. **[A Modern Web App in C](https://prophitt.me/writing/a-modern-web-app-in-c)** (⬆️ 267)
+1. **[Gemini 4 Argon](https://deepmind.google/models/gemini/)** (⬆️ 545)
+2. **[Gemini 4 Argon for Robotics](https://developers.googleblog.com/gemini-4-argon-for-robotics/)** (⬆️ 74)
+3. **[Apple HomeView](https://www.apple.com/apple-homeview/)** (⬆️ 503)
 <!-- AUTO-UPDATE-END -->
