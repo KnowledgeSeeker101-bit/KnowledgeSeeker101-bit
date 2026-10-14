@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-10-13 18:55 UTC_
+_Last updated: 2026-10-14 16:38 UTC_
 
 ### 🔬 Latest AI Research
-**[Can Language Models Play the Wikipedia Game?](http://arxiv.org/abs/2610.13948v1)**  
-_Language models increasingly support or automate information retrieval from document collections too large to index. This task is difficult when it requires specialist linguistic or scientific knowled..._
+**[ChunkAct: Action Chunking for Agentic Robotics](http://arxiv.org/abs/2610.18874v1)**  
+_Agentic robotics places a large language model (LLM) agent in the robot control loop, where it composes perception, motion, and vision-language-action (VLA) tools under the guidance of a memory and th..._
 
 ### 💻 Trending Tech
-1. **[Gemini 4 Argon](https://deepmind.google/models/gemini/)** (⬆️ 545)
-2. **[Gemini 4 Argon for Robotics](https://developers.googleblog.com/gemini-4-argon-for-robotics/)** (⬆️ 74)
-3. **[Apple HomeView](https://www.apple.com/apple-homeview/)** (⬆️ 503)
+1. **[Iosevka is an open-source, sans-serif and slab-serif, monospace font](https://typeof.net/Iosevka/)** (⬆️ 498)
+2. **[Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW](https://github.com/timescale/pg_vectorsearch)** (⬆️ 125)
+3. **[Running Windows desktop tests from Linux with disposable VMs](https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation)** (⬆️ 32)
 <!-- AUTO-UPDATE-END -->
