@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-10-14 16:38 UTC_
+_Last updated: 2026-10-15 16:23 UTC_
 
 ### 🔬 Latest AI Research
-**[ChunkAct: Action Chunking for Agentic Robotics](http://arxiv.org/abs/2610.18874v1)**  
-_Agentic robotics places a large language model (LLM) agent in the robot control loop, where it composes perception, motion, and vision-language-action (VLA) tools under the guidance of a memory and th..._
+**[Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion](http://arxiv.org/abs/2610.20606v1)**  
+_Recent advances in robot learning have driven rapid progress in humanoid control, enabling increasingly agile behaviors in the real world. However, humanoid control networks are typically obtained thr..._
 
 ### 💻 Trending Tech
-1. **[Iosevka is an open-source, sans-serif and slab-serif, monospace font](https://typeof.net/Iosevka/)** (⬆️ 498)
-2. **[Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW](https://github.com/timescale/pg_vectorsearch)** (⬆️ 125)
-3. **[Running Windows desktop tests from Linux with disposable VMs](https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation)** (⬆️ 32)
+1. **[Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era](https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/)** (⬆️ 87)
+2. **[I designed a nose guard for my dog and gave it away. Now 500 dogs wear one](https://snoutcover.com/one-year)** (⬆️ 61)
+3. **[Wayland desktop for Linux with skeuomorphic design](https://github.com/fyzugx/DEsk)** (⬆️ 191)
 <!-- AUTO-UPDATE-END -->
