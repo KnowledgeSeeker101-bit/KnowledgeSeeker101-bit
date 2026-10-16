@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-10-15 16:23 UTC_
+_Last updated: 2026-10-16 16:09 UTC_
 
 ### 🔬 Latest AI Research
-**[Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion](http://arxiv.org/abs/2610.20606v1)**  
-_Recent advances in robot learning have driven rapid progress in humanoid control, enabling increasingly agile behaviors in the real world. However, humanoid control networks are typically obtained thr..._
+**[LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation](http://arxiv.org/abs/2610.22372v1)**  
+_Personalization is essential for general-purpose robots to transition into household environments and achieve true practicality. While general robotic manipulation has been extensively studied, person..._
 
 ### 💻 Trending Tech
-1. **[Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era](https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/)** (⬆️ 87)
-2. **[I designed a nose guard for my dog and gave it away. Now 500 dogs wear one](https://snoutcover.com/one-year)** (⬆️ 61)
-3. **[Wayland desktop for Linux with skeuomorphic design](https://github.com/fyzugx/DEsk)** (⬆️ 191)
+1. **[Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD](https://calif.io/research/big-fish)** (⬆️ 58)
+2. **[What on Earth Is Dekton?](https://www.worksinprogress.news/p/porcelain)** (⬆️ 28)
+3. **[Apple ML Research: Muse Spark Open with MLX on Mac Studio](https://machinelearning.apple.com/research/mlx-distributed-inference)** (⬆️ 65)
 <!-- AUTO-UPDATE-END -->
