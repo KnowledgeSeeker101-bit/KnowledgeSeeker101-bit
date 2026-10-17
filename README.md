@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-10-16 16:09 UTC_
+_Last updated: 2026-10-17 15:02 UTC_
 
 ### 🔬 Latest AI Research
 **[LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation](http://arxiv.org/abs/2610.22372v1)**  
 _Personalization is essential for general-purpose robots to transition into household environments and achieve true practicality. While general robotic manipulation has been extensively studied, person..._
 
 ### 💻 Trending Tech
-1. **[Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD](https://calif.io/research/big-fish)** (⬆️ 58)
-2. **[What on Earth Is Dekton?](https://www.worksinprogress.news/p/porcelain)** (⬆️ 28)
-3. **[Apple ML Research: Muse Spark Open with MLX on Mac Studio](https://machinelearning.apple.com/research/mlx-distributed-inference)** (⬆️ 65)
+1. **[DeepSeek: DeepSeek v4.1 Flash 1017](https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017)** (⬆️ 426)
+2. **[Making Chicken Transparent Using Dorito Dust](https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using)** (⬆️ 32)
+3. **[Solar surpasses nuclear power globally for first time – pv magazine Global](https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/)** (⬆️ 92)
 <!-- AUTO-UPDATE-END -->
