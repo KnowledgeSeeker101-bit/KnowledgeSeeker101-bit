@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-10-17 15:02 UTC_
+_Last updated: 2026-10-18 03:16 UTC_
 
 ### 🔬 Latest AI Research
 **[LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation](http://arxiv.org/abs/2610.22372v1)**  
 _Personalization is essential for general-purpose robots to transition into household environments and achieve true practicality. While general robotic manipulation has been extensively studied, person..._
 
 ### 💻 Trending Tech
-1. **[DeepSeek: DeepSeek v4.1 Flash 1017](https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017)** (⬆️ 426)
-2. **[Making Chicken Transparent Using Dorito Dust](https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using)** (⬆️ 32)
-3. **[Solar surpasses nuclear power globally for first time – pv magazine Global](https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/)** (⬆️ 92)
+1. **[Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day](https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day)** (⬆️ 409)
+2. **[Bleached corals thrive within days when touching healthy neighbour](https://www.nature.com/articles/d41586-026-03266-x)** (⬆️ 347)
+3. **[Lean Now Ships with Verified Kernels](https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/)** (⬆️ 34)
 <!-- AUTO-UPDATE-END -->
