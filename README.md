@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-10-18 15:26 UTC_
+_Last updated: 2026-10-20 16:25 UTC_
 
 ### 🔬 Latest AI Research
-**[LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation](http://arxiv.org/abs/2610.22372v1)**  
-_Personalization is essential for general-purpose robots to transition into household environments and achieve true practicality. While general robotic manipulation has been extensively studied, person..._
+**[Text-to-Image Generative Modeling Without Language Pretraining](http://arxiv.org/abs/2610.26863v1)**  
+_Modern text-to-image (T2I) systems use internet-scale language pretraining for text-conditioned image generation. We ask whether language pretraining is necessary for strong T2I generation. We introdu..._
 
 ### 💻 Trending Tech
-1. **[RepRapMicron](https://github.com/VikOlliver/RepRapMicron/wiki)** (⬆️ 106)
-2. **[Will it be a golden age or a dark age for mathematics (and science)?](https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/)** (⬆️ 17)
-3. **[Legal experts warn Meta's new terms still grant broad scraping permissions](https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/)** (⬆️ 119)
+1. **[Facebook now charging to post more than 2 links a month](https://mastodon.gamedev.place/@AshleyGullen/117473851565913919)** (⬆️ 208)
+2. **[DeepSeek just open-sourced its inference engine](https://github.com/deepseek-ai/DeepInfer)** (⬆️ 1654)
+3. **[EMudhra Intermediate CA Compromise](https://emudhra.we-have-a-problem.com/)** (⬆️ 151)
 <!-- AUTO-UPDATE-END -->
