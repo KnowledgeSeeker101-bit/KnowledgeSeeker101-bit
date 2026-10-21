@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-10-20 16:25 UTC_
+_Last updated: 2026-10-21 16:41 UTC_
 
 ### 🔬 Latest AI Research
-**[Text-to-Image Generative Modeling Without Language Pretraining](http://arxiv.org/abs/2610.26863v1)**  
-_Modern text-to-image (T2I) systems use internet-scale language pretraining for text-conditioned image generation. We ask whether language pretraining is necessary for strong T2I generation. We introdu..._
+**[Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs](http://arxiv.org/abs/2610.28632v1)**  
+_Video generation models can now depict remarkably realistic motion. Yet it is unclear how to use this motion beyond pixels: to animate a specific 3D asset and replay the animation in its 3D scene. For..._
 
 ### 💻 Trending Tech
-1. **[Facebook now charging to post more than 2 links a month](https://mastodon.gamedev.place/@AshleyGullen/117473851565913919)** (⬆️ 208)
-2. **[DeepSeek just open-sourced its inference engine](https://github.com/deepseek-ai/DeepInfer)** (⬆️ 1654)
-3. **[EMudhra Intermediate CA Compromise](https://emudhra.we-have-a-problem.com/)** (⬆️ 151)
+1. **[PHP 8.2.35](https://github.com/php/php-src/releases/tag/php-8.2.35)** (⬆️ 639)
+2. **[Today's PHP Security Release, and How We're Strengthening PHP Security](https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/)** (⬆️ 97)
+3. **[DuckDB 2.0.0 LTS “Cinnamon Teal”](https://duckdb.org/2026/10/21/announcing-duckdb-200)** (⬆️ 192)
 <!-- AUTO-UPDATE-END -->
