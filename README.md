@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-10-21 16:41 UTC_
+_Last updated: 2026-10-22 16:42 UTC_
 
 ### 🔬 Latest AI Research
-**[Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs](http://arxiv.org/abs/2610.28632v1)**  
-_Video generation models can now depict remarkably realistic motion. Yet it is unclear how to use this motion beyond pixels: to animate a specific 3D asset and replay the animation in its 3D scene. For..._
+**[LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data](http://arxiv.org/abs/2610.30132v1)**  
+_Reinforcement learning (RL) is an effective way to strengthen the long-context reasoning of large language models (LLMs), but it needs training data that are long, diverse, challenging, and verifiable..._
 
 ### 💻 Trending Tech
-1. **[PHP 8.2.35](https://github.com/php/php-src/releases/tag/php-8.2.35)** (⬆️ 639)
-2. **[Today's PHP Security Release, and How We're Strengthening PHP Security](https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/)** (⬆️ 97)
-3. **[DuckDB 2.0.0 LTS “Cinnamon Teal”](https://duckdb.org/2026/10/21/announcing-duckdb-200)** (⬆️ 192)
+1. **[Quad9 (DNS Resolver) to Exit France](https://quad9.net/news/blog/au-revoir-france/)** (⬆️ 234)
+2. **[eMudhra to exit global SSL/TLS certificate business](https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business)** (⬆️ 480)
+3. **[Where Wealth Is Moving in America](https://thestatedtruth.com/?p=28732)** (⬆️ 16)
 <!-- AUTO-UPDATE-END -->
