@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-10-22 16:42 UTC_
+_Last updated: 2026-10-23 16:33 UTC_
 
 ### 🔬 Latest AI Research
-**[LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data](http://arxiv.org/abs/2610.30132v1)**  
-_Reinforcement learning (RL) is an effective way to strengthen the long-context reasoning of large language models (LLMs), but it needs training data that are long, diverse, challenging, and verifiable..._
+**[Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success](http://arxiv.org/abs/2610.31670v1)**  
+_Robotic foundation models are typically evaluated through costly closed-loop rollouts, which motivates cheap offline proxies for model capability. The Platonic Representation Hypothesis (PRH) suggests..._
 
 ### 💻 Trending Tech
-1. **[Quad9 (DNS Resolver) to Exit France](https://quad9.net/news/blog/au-revoir-france/)** (⬆️ 234)
-2. **[eMudhra to exit global SSL/TLS certificate business](https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business)** (⬆️ 480)
-3. **[Where Wealth Is Moving in America](https://thestatedtruth.com/?p=28732)** (⬆️ 16)
+1. **["Today, we hacked what we'd set out to hack: the iPhone."](https://blog.calif.io/p/iphone)** (⬆️ 51)
+2. **[OpenSSL 4.1.0](https://github.com/openssl/openssl/releases/tag/openssl-4.1.0)** (⬆️ 147)
+3. **[Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/)** (⬆️ 901)
 <!-- AUTO-UPDATE-END -->
