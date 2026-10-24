@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-10-23 16:33 UTC_
+_Last updated: 2026-10-24 15:27 UTC_
 
 ### 🔬 Latest AI Research
 **[Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success](http://arxiv.org/abs/2610.31670v1)**  
 _Robotic foundation models are typically evaluated through costly closed-loop rollouts, which motivates cheap offline proxies for model capability. The Platonic Representation Hypothesis (PRH) suggests..._
 
 ### 💻 Trending Tech
-1. **["Today, we hacked what we'd set out to hack: the iPhone."](https://blog.calif.io/p/iphone)** (⬆️ 51)
-2. **[OpenSSL 4.1.0](https://github.com/openssl/openssl/releases/tag/openssl-4.1.0)** (⬆️ 147)
-3. **[Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/)** (⬆️ 901)
+1. **[TornadoVM 7 Enables GPU-Native Workloads from Java Applications](https://www.infoq.com/news/2026/10/tornadovm-7-gpu/)** (⬆️ 36)
+2. **[Google illegally cut down 250K trees in Finland for data center](https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/)** (⬆️ 106)
+3. **[OBS Studio 33](https://github.com/obsproject/obs-studio/releases/tag/33.0.0)** (⬆️ 319)
 <!-- AUTO-UPDATE-END -->
