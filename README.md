@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-10-24 15:27 UTC_
+_Last updated: 2026-10-25 15:37 UTC_
 
 ### 🔬 Latest AI Research
 **[Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success](http://arxiv.org/abs/2610.31670v1)**  
 _Robotic foundation models are typically evaluated through costly closed-loop rollouts, which motivates cheap offline proxies for model capability. The Platonic Representation Hypothesis (PRH) suggests..._
 
 ### 💻 Trending Tech
-1. **[TornadoVM 7 Enables GPU-Native Workloads from Java Applications](https://www.infoq.com/news/2026/10/tornadovm-7-gpu/)** (⬆️ 36)
-2. **[Google illegally cut down 250K trees in Finland for data center](https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/)** (⬆️ 106)
-3. **[OBS Studio 33](https://github.com/obsproject/obs-studio/releases/tag/33.0.0)** (⬆️ 319)
+1. **[Show HN: I put employees inside S&P 500 market-cap bubbles](https://bigwhalehunting.com/workforce/)** (⬆️ 31)
+2. **[Tool book of a Nuremberg knight from 1505](https://loeffelholz-codex.org/en/)** (⬆️ 109)
+3. **[fheroes2: A recreation of Heroes of Might and Magic II game engine](https://github.com/ihhub/fheroes2)** (⬆️ 111)
 <!-- AUTO-UPDATE-END -->
