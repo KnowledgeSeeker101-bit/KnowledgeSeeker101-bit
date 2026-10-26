@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-10-25 15:37 UTC_
+_Last updated: 2026-10-26 18:18 UTC_
 
 ### 🔬 Latest AI Research
-**[Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success](http://arxiv.org/abs/2610.31670v1)**  
-_Robotic foundation models are typically evaluated through costly closed-loop rollouts, which motivates cheap offline proxies for model capability. The Platonic Representation Hypothesis (PRH) suggests..._
+**[SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning](http://arxiv.org/abs/2610.32978v1)**  
+_Training generalizable embodied agents requires realistic, varied, and simulation-ready indoor environments. Language-guided methods support semantic planning and object-level reasoning, but precise s..._
 
 ### 💻 Trending Tech
-1. **[Show HN: I put employees inside S&P 500 market-cap bubbles](https://bigwhalehunting.com/workforce/)** (⬆️ 31)
-2. **[Tool book of a Nuremberg knight from 1505](https://loeffelholz-codex.org/en/)** (⬆️ 109)
-3. **[fheroes2: A recreation of Heroes of Might and Magic II game engine](https://github.com/ihhub/fheroes2)** (⬆️ 111)
+1. **[Sebastian Raschka's from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models)** (⬆️ 310)
+2. **[Meta Employees Denounce Interference in Brazilian Elections](https://www.panamericandispatch.org/p/meta-employees-denounce-interference)** (⬆️ 49)
+3. **[CSS-Tricks has a new owner](https://css-tricks.com/css-tricks-has-a-new-owner/)** (⬆️ 175)
 <!-- AUTO-UPDATE-END -->
