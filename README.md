@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-10-26 18:18 UTC_
+_Last updated: 2026-10-27 17:32 UTC_
 
 ### 🔬 Latest AI Research
-**[SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning](http://arxiv.org/abs/2610.32978v1)**  
-_Training generalizable embodied agents requires realistic, varied, and simulation-ready indoor environments. Language-guided methods support semantic planning and object-level reasoning, but precise s..._
+**[Retriever-Free Retrieval: Navigating Documents with Decision Models](http://arxiv.org/abs/2610.35868v1)**  
+_While language models have become dramatically more capable, retrieval still largely relies on lexical matching or similarity in fixed embedding spaces. This creates a capability asymmetry: what the r..._
 
 ### 💻 Trending Tech
-1. **[Sebastian Raschka's from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models)** (⬆️ 310)
-2. **[Meta Employees Denounce Interference in Brazilian Elections](https://www.panamericandispatch.org/p/meta-employees-denounce-interference)** (⬆️ 49)
-3. **[CSS-Tricks has a new owner](https://css-tricks.com/css-tricks-has-a-new-owner/)** (⬆️ 175)
+1. **[Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)** (⬆️ 234)
+2. **[Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior](https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220)** (⬆️ 71)
+3. **[Ghostty 1.4.0](https://ghostty.org/docs/install/release-notes/1-4-0)** (⬆️ 59)
 <!-- AUTO-UPDATE-END -->
