@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-10-27 17:32 UTC_
+_Last updated: 2026-10-28 17:56 UTC_
 
 ### 🔬 Latest AI Research
-**[Retriever-Free Retrieval: Navigating Documents with Decision Models](http://arxiv.org/abs/2610.35868v1)**  
-_While language models have become dramatically more capable, retrieval still largely relies on lexical matching or similarity in fixed embedding spaces. This creates a capability asymmetry: what the r..._
+**[Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction](http://arxiv.org/abs/2610.37668v1)**  
+_Novel view synthesis and 3D reconstruction have advanced rapidly with radiance fields and splatting, yet their memory and computational demands limit their use in resource-constrained settings. We int..._
 
 ### 💻 Trending Tech
-1. **[Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)** (⬆️ 234)
-2. **[Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior](https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220)** (⬆️ 71)
-3. **[Ghostty 1.4.0](https://ghostty.org/docs/install/release-notes/1-4-0)** (⬆️ 59)
+1. **[Gemini 4 Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/)** (⬆️ 252)
+2. **[CNC Stone Carving](https://carmelitegothic.com/cnc-stone-carving/)** (⬆️ 222)
+3. **[MacBook Pro with PROLED XDR Display and Touch](https://www.apple.com/macbook-pro/proled-xdr-display/)** (⬆️ 148)
 <!-- AUTO-UPDATE-END -->
