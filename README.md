@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-10-28 17:56 UTC_
+_Last updated: 2026-10-29 18:04 UTC_
 
 ### 🔬 Latest AI Research
 **[Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction](http://arxiv.org/abs/2610.37668v1)**  
 _Novel view synthesis and 3D reconstruction have advanced rapidly with radiance fields and splatting, yet their memory and computational demands limit their use in resource-constrained settings. We int..._
 
 ### 💻 Trending Tech
-1. **[Gemini 4 Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/)** (⬆️ 252)
-2. **[CNC Stone Carving](https://carmelitegothic.com/cnc-stone-carving/)** (⬆️ 222)
-3. **[MacBook Pro with PROLED XDR Display and Touch](https://www.apple.com/macbook-pro/proled-xdr-display/)** (⬆️ 148)
+1. **[For the first time ever, Google Search is less than 50% of Alphabet's revenue](https://www.kadoa.com/companies/insights/google-search-below-half)** (⬆️ 216)
+2. **[We're releasing the weights of Mistral Large 4](https://mistral.ai/news/mistral-large-4-oss/)** (⬆️ 712)
+3. **[Tomáš Mikolov awarded the Medal of Merit by the President of the Czech Republic](https://www.vut.cz/en/but/news-f19528/two-but-graduates-received-state-honors-from-the-president-of-the-republic-d378468)** (⬆️ 55)
 <!-- AUTO-UPDATE-END -->
