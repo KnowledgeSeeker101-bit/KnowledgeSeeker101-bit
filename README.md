@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-10-29 18:04 UTC_
+_Last updated: 2026-10-30 17:45 UTC_
 
 ### 🔬 Latest AI Research
-**[Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction](http://arxiv.org/abs/2610.37668v1)**  
-_Novel view synthesis and 3D reconstruction have advanced rapidly with radiance fields and splatting, yet their memory and computational demands limit their use in resource-constrained settings. We int..._
+**[Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering](http://arxiv.org/abs/2610.40654v1)**  
+_An estimator can be accurate and stable on typical data, yet sensitive to a few possible records. Differentially private mechanisms commonly scale their noise to the worst-case influence of a single r..._
 
 ### 💻 Trending Tech
-1. **[For the first time ever, Google Search is less than 50% of Alphabet's revenue](https://www.kadoa.com/companies/insights/google-search-below-half)** (⬆️ 216)
-2. **[We're releasing the weights of Mistral Large 4](https://mistral.ai/news/mistral-large-4-oss/)** (⬆️ 712)
-3. **[Tomáš Mikolov awarded the Medal of Merit by the President of the Czech Republic](https://www.vut.cz/en/but/news-f19528/two-but-graduates-received-state-honors-from-the-president-of-the-republic-d378468)** (⬆️ 55)
+1. **[Northflank Breached](https://status.northflank.com)** (⬆️ 129)
+2. **[Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/)** (⬆️ 434)
+3. **[The federated code forge](https://tangled.org/blog/forge/)** (⬆️ 69)
 <!-- AUTO-UPDATE-END -->
