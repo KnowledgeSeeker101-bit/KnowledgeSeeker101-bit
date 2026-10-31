@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-10-30 17:45 UTC_
+_Last updated: 2026-10-31 16:53 UTC_
 
 ### 🔬 Latest AI Research
 **[Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering](http://arxiv.org/abs/2610.40654v1)**  
 _An estimator can be accurate and stable on typical data, yet sensitive to a few possible records. Differentially private mechanisms commonly scale their noise to the worst-case influence of a single r..._
 
 ### 💻 Trending Tech
-1. **[Northflank Breached](https://status.northflank.com)** (⬆️ 129)
-2. **[Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/)** (⬆️ 434)
-3. **[The federated code forge](https://tangled.org/blog/forge/)** (⬆️ 69)
+1. **[Malware uses LLMs to rank victims by how much they're worth](https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/)** (⬆️ 83)
+2. **[Casio Watches of the 1980s](https://www.casio.com/us/watches/50th/Heritage/1980s/)** (⬆️ 35)
+3. **[Molly (Signal fork) has not been updated since 3 months and is vulnerable](https://piefed.world/post/1503394)** (⬆️ 190)
 <!-- AUTO-UPDATE-END -->
