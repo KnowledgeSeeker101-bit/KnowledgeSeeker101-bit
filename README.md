@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-10-31 16:53 UTC_
+_Last updated: 2026-11-01 17:41 UTC_
 
 ### 🔬 Latest AI Research
 **[Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering](http://arxiv.org/abs/2610.40654v1)**  
 _An estimator can be accurate and stable on typical data, yet sensitive to a few possible records. Differentially private mechanisms commonly scale their noise to the worst-case influence of a single r..._
 
 ### 💻 Trending Tech
-1. **[Malware uses LLMs to rank victims by how much they're worth](https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/)** (⬆️ 83)
-2. **[Casio Watches of the 1980s](https://www.casio.com/us/watches/50th/Heritage/1980s/)** (⬆️ 35)
-3. **[Molly (Signal fork) has not been updated since 3 months and is vulnerable](https://piefed.world/post/1503394)** (⬆️ 190)
+1. **[Show HN: HackerBooks – HackerTube, but for books recommended on HN](https://hackerbooks.org)** (⬆️ 206)
+2. **[Seoul Biosys Begins Production of Rare Earth-Free White Micro LEDs](https://www.ajupress.com/view/20261028171670308)** (⬆️ 54)
+3. **[HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/)** (⬆️ 1819)
 <!-- AUTO-UPDATE-END -->
