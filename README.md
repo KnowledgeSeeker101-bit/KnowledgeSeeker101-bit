@@ -109,14 +109,13 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-11-02 04:41 UTC_
+_Last updated: 2026-11-02 21:26 UTC_
 
 ### 🔬 Latest AI Research
 **[Latent Reasoning in Continuous Space for Unified Multimodal Models](http://arxiv.org/abs/2610.42149v1)**  
 _Unified Multimodal Models (UMMs) achieve remarkable success on diverse multimodal understanding and generation tasks, yet they still struggle to effectively leverage language-based chain-of-thought re..._
 
 ### 💻 Trending Tech
-1. **[Show HN: HackerBooks – HackerTube, but for books mentioned on HN](https://hackerbooks.org)** (⬆️ 1088)
-2. **[F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix](https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/)** (⬆️ 44)
-3. **[Postgres 19 is late because so many more bugs are being found now](http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html)** (⬆️ 175)
+1. **[Astra can read and write weights to improve Qwen](https://rikiyat.github.io/blog/weight-space-programming/)** (⬆️ 1114)
+2. **[US boy names that became girl names and vice versa](https://namedaisy.com/blog/boy-names-that-became-girl-names)** (⬆️ 191)
 <!-- AUTO-UPDATE-END -->
