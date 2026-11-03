@@ -109,13 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-11-02 21:26 UTC_
+_Last updated: 2026-11-03 19:07 UTC_
 
 ### 🔬 Latest AI Research
-**[Latent Reasoning in Continuous Space for Unified Multimodal Models](http://arxiv.org/abs/2610.42149v1)**  
-_Unified Multimodal Models (UMMs) achieve remarkable success on diverse multimodal understanding and generation tasks, yet they still struggle to effectively leverage language-based chain-of-thought re..._
+**[Pixel-UMI: Learning Environment-Aware Whole-Body Manipulation from Sensorized Human Demonstrations](http://arxiv.org/abs/2611.03647v1)**  
+_Sensorized human demonstrations offer scalable data for mobile manipulation, but embodiment differences complicate policy learning. We present Pixel-UMI, a pipeline for learning environment-aware whol..._
 
 ### 💻 Trending Tech
-1. **[Astra can read and write weights to improve Qwen](https://rikiyat.github.io/blog/weight-space-programming/)** (⬆️ 1114)
-2. **[US boy names that became girl names and vice versa](https://namedaisy.com/blog/boy-names-that-became-girl-names)** (⬆️ 191)
+1. **[Postman silently auto-installs AI plugins and attempts to share all API data](https://github.com/postmanlabs/postman-app-support/issues/14370)** (⬆️ 447)
+2. **[Qwen 3.8 27B on my laptop can interpret model weights, too](https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/)** (⬆️ 164)
+3. **[Jailbreaking my car's navigation system just so I can change the time](https://blog.nns.ee/2026/11/02/renault-hack/)** (⬆️ 332)
 <!-- AUTO-UPDATE-END -->
