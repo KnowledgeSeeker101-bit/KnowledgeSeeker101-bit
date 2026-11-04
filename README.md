@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-11-03 19:07 UTC_
+_Last updated: 2026-11-04 19:25 UTC_
 
 ### 🔬 Latest AI Research
-**[Pixel-UMI: Learning Environment-Aware Whole-Body Manipulation from Sensorized Human Demonstrations](http://arxiv.org/abs/2611.03647v1)**  
-_Sensorized human demonstrations offer scalable data for mobile manipulation, but embodiment differences complicate policy learning. We present Pixel-UMI, a pipeline for learning environment-aware whol..._
+**[DreamX: Video Diffusion Model is a Universal Latent Action Learner](http://arxiv.org/abs/2611.05377v1)**  
+_Learning a universal action representation from video requires modeling dynamics that are consistent across different executions of the same action yet invariant to changes in embodiment and appearanc..._
 
 ### 💻 Trending Tech
-1. **[Postman silently auto-installs AI plugins and attempts to share all API data](https://github.com/postmanlabs/postman-app-support/issues/14370)** (⬆️ 447)
-2. **[Qwen 3.8 27B on my laptop can interpret model weights, too](https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/)** (⬆️ 164)
-3. **[Jailbreaking my car's navigation system just so I can change the time](https://blog.nns.ee/2026/11/02/renault-hack/)** (⬆️ 332)
+1. **[AI is forcing us to pay off 40 years of technical debt](https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability)** (⬆️ 805)
+2. **[A New Go API for JSON](https://go.dev/blog/jsonv2)** (⬆️ 58)
+3. **[Progress on provable inference for large language models](https://www.anthropic.com/research/provable-inference)** (⬆️ 99)
 <!-- AUTO-UPDATE-END -->
