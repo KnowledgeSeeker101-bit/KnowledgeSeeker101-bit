@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-11-04 19:25 UTC_
+_Last updated: 2026-11-05 19:33 UTC_
 
 ### 🔬 Latest AI Research
-**[DreamX: Video Diffusion Model is a Universal Latent Action Learner](http://arxiv.org/abs/2611.05377v1)**  
-_Learning a universal action representation from video requires modeling dynamics that are consistent across different executions of the same action yet invariant to changes in embodiment and appearanc..._
+**[A Framework for Context Enrichment and Selective Robustness in LLM Social Agents](http://arxiv.org/abs/2611.06914v1)**  
+_Researchers use large language models as agents in social simulations, where agents are prompted with observations and background information intended to shape their actions. Yet LLM agents have been ..._
 
 ### 💻 Trending Tech
-1. **[AI is forcing us to pay off 40 years of technical debt](https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability)** (⬆️ 805)
-2. **[A New Go API for JSON](https://go.dev/blog/jsonv2)** (⬆️ 58)
-3. **[Progress on provable inference for large language models](https://www.anthropic.com/research/provable-inference)** (⬆️ 99)
+1. **[sshole](https://sshhole.com)** (⬆️ 1755)
+2. **[Alpine Linux Security Advisory: OpenSSH-server password authentication bypass](https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/)** (⬆️ 399)
+3. **[Motorola Signature 27 with GrapheneOS support](https://motorolanews.com/motorola-signature-27-2/)** (⬆️ 236)
 <!-- AUTO-UPDATE-END -->
