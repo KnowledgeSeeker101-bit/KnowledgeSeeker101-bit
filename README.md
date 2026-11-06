@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-11-05 19:33 UTC_
+_Last updated: 2026-11-06 05:22 UTC_
 
 ### 🔬 Latest AI Research
-**[A Framework for Context Enrichment and Selective Robustness in LLM Social Agents](http://arxiv.org/abs/2611.06914v1)**  
-_Researchers use large language models as agents in social simulations, where agents are prompted with observations and background information intended to shape their actions. Yet LLM agents have been ..._
+**[User Embeddings are Superpositions of Interpretable Behavioral Modes](http://arxiv.org/abs/2611.08487v1)**  
+_User embeddings are central components of modern recommendation, personalization, and behavioral modeling systems. Though these embeddings can compactly encode rich behavioral information, they are in..._
 
 ### 💻 Trending Tech
-1. **[sshole](https://sshhole.com)** (⬆️ 1755)
-2. **[Alpine Linux Security Advisory: OpenSSH-server password authentication bypass](https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/)** (⬆️ 399)
-3. **[Motorola Signature 27 with GrapheneOS support](https://motorolanews.com/motorola-signature-27-2/)** (⬆️ 236)
+1. **[Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757)** (⬆️ 776)
+2. **[sshole](https://sshhole.com)** (⬆️ 2477)
+3. **[MS Paint Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-83844)** (⬆️ 412)
 <!-- AUTO-UPDATE-END -->
