@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-11-06 18:56 UTC_
+_Last updated: 2026-11-07 17:28 UTC_
 
 ### 🔬 Latest AI Research
 **[User Embeddings are Superpositions of Interpretable Behavioral Modes](http://arxiv.org/abs/2611.08487v1)**  
 _User embeddings are central components of modern recommendation, personalization, and behavioral modeling systems. Though these embeddings can compactly encode rich behavioral information, they are in..._
 
 ### 💻 Trending Tech
-1. **[US FAA says it will phase out floppy disks from air traffic control by 2028](https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/)** (⬆️ 105)
-2. **[Tesla to wind down Cybertruck production](https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817)** (⬆️ 458)
-3. **[Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web](https://github.com/anomalyco/rune)** (⬆️ 73)
+1. **[They don't make 'em like that any more: Borland Turbo Pascal 7](https://kevinboone.me/tpwin.html)** (⬆️ 52)
+2. **[The $8 Linux Computer (2022)](http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html)** (⬆️ 107)
+3. **[Need for Speed Underground 2 online in the browser](https://nfsu2.xyz/)** (⬆️ 494)
 <!-- AUTO-UPDATE-END -->
