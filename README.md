@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-11-08 04:43 UTC_
+_Last updated: 2026-11-08 17:39 UTC_
 
 ### 🔬 Latest AI Research
 **[User Embeddings are Superpositions of Interpretable Behavioral Modes](http://arxiv.org/abs/2611.08487v1)**  
 _User embeddings are central components of modern recommendation, personalization, and behavioral modeling systems. Though these embeddings can compactly encode rich behavioral information, they are in..._
 
 ### 💻 Trending Tech
-1. **[What I run on my $10 USD OpenStick homelab](https://blog.bosscher.ch/posts/openstick/)** (⬆️ 444)
-2. **[Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again)** (⬆️ 262)
-3. **[ZapFast: A fast, native WhatsApp client in Rust and egui](https://github.com/crmne/zapfast)** (⬆️ 18)
+1. **[Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU](https://github.com/synchopate/llama-modchip)** (⬆️ 200)
+2. **[The Reconstruction of Torn Documents](https://www.bundesarchiv.de/en/stasi-records-archive/the-reconstruction-of-torn-documents/)** (⬆️ 37)
+3. **[I'm not a fan of Deno's security model (2024)](https://goldstein.lol/posts/deno-security/)** (⬆️ 29)
 <!-- AUTO-UPDATE-END -->
