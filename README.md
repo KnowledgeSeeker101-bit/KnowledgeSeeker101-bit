@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-11-08 17:39 UTC_
+_Last updated: 2026-11-09 21:58 UTC_
 
 ### 🔬 Latest AI Research
-**[User Embeddings are Superpositions of Interpretable Behavioral Modes](http://arxiv.org/abs/2611.08487v1)**  
-_User embeddings are central components of modern recommendation, personalization, and behavioral modeling systems. Though these embeddings can compactly encode rich behavioral information, they are in..._
+**[On Agentic Manipulation Policies](http://arxiv.org/abs/2611.09892v1)**  
+_Recent work on robot manipulation has focused on specialist policies trained on demonstrations. We show that generalist AI models can control manipulators more reliably than specialist policies such a..._
 
 ### 💻 Trending Tech
-1. **[Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU](https://github.com/synchopate/llama-modchip)** (⬆️ 200)
-2. **[The Reconstruction of Torn Documents](https://www.bundesarchiv.de/en/stasi-records-archive/the-reconstruction-of-torn-documents/)** (⬆️ 37)
-3. **[I'm not a fan of Deno's security model (2024)](https://goldstein.lol/posts/deno-security/)** (⬆️ 29)
+1. **[USPS now offers official ZIP Code boundary polygons](https://postalpro.usps.com/zcb)** (⬆️ 227)
+2. **[Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far](https://artificialanalysis.ai/models/claude-fable-5-2)** (⬆️ 115)
+3. **[E-means: 10x faster k-means at equal loss](https://e-means.github.io/)** (⬆️ 162)
 <!-- AUTO-UPDATE-END -->
