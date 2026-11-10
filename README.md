@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-11-09 21:58 UTC_
+_Last updated: 2026-11-10 19:23 UTC_
 
 ### 🔬 Latest AI Research
-**[On Agentic Manipulation Policies](http://arxiv.org/abs/2611.09892v1)**  
-_Recent work on robot manipulation has focused on specialist policies trained on demonstrations. We show that generalist AI models can control manipulators more reliably than specialist policies such a..._
+**[Guiding Data Allocation for Robust Subpopulation Generalization](http://arxiv.org/abs/2611.12884v1)**  
+_Machine learning models often achieve high average accuracy in the training data while performing poorly on test data due to subpopulation shift. A common data-centric solution is to enforce balanced ..._
 
 ### 💻 Trending Tech
-1. **[USPS now offers official ZIP Code boundary polygons](https://postalpro.usps.com/zcb)** (⬆️ 227)
-2. **[Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far](https://artificialanalysis.ai/models/claude-fable-5-2)** (⬆️ 115)
-3. **[E-means: 10x faster k-means at equal loss](https://e-means.github.io/)** (⬆️ 162)
+1. **[.name Grandfathered](https://neil.fraser.name/news/2026/11/10/)** (⬆️ 361)
+2. **[Smart home devices should work without the internet](https://docodethatmatters.com/home-automation-overnight-success/)** (⬆️ 283)
+3. **[Starlink Mini 2](https://starlink.com/mini-2)** (⬆️ 50)
 <!-- AUTO-UPDATE-END -->
