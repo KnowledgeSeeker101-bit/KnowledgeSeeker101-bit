@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-11-10 19:23 UTC_
+_Last updated: 2026-11-11 19:16 UTC_
 
 ### 🔬 Latest AI Research
-**[Guiding Data Allocation for Robust Subpopulation Generalization](http://arxiv.org/abs/2611.12884v1)**  
-_Machine learning models often achieve high average accuracy in the training data while performing poorly on test data due to subpopulation shift. A common data-centric solution is to enforce balanced ..._
+**[Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training](http://arxiv.org/abs/2611.14519v1)**  
+_Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation, in the expectation that they will replace models trained for each task. Most co..._
 
 ### 💻 Trending Tech
-1. **[.name Grandfathered](https://neil.fraser.name/news/2026/11/10/)** (⬆️ 361)
-2. **[Smart home devices should work without the internet](https://docodethatmatters.com/home-automation-overnight-success/)** (⬆️ 283)
-3. **[Starlink Mini 2](https://starlink.com/mini-2)** (⬆️ 50)
+1. **[AWS Finally Built Its Own AWS Emulator](https://github.com/aws/aws-emulator)** (⬆️ 171)
+2. **[Tim Peters has died](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028)** (⬆️ 343)
+3. **[A false smoke alarm almost drowned Jane Street's only NYC datacenter](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/)** (⬆️ 241)
 <!-- AUTO-UPDATE-END -->
