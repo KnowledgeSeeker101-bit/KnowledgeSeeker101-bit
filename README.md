@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-11-11 19:16 UTC_
+_Last updated: 2026-11-12 19:35 UTC_
 
 ### 🔬 Latest AI Research
 **[Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training](http://arxiv.org/abs/2611.14519v1)**  
 _Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation, in the expectation that they will replace models trained for each task. Most co..._
 
 ### 💻 Trending Tech
-1. **[AWS Finally Built Its Own AWS Emulator](https://github.com/aws/aws-emulator)** (⬆️ 171)
-2. **[Tim Peters has died](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028)** (⬆️ 343)
-3. **[A false smoke alarm almost drowned Jane Street's only NYC datacenter](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/)** (⬆️ 241)
+1. **[Jensen Huang resigns](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f)** (⬆️ 2010)
+2. **[Rust 1.100.0](https://github.com/rust-lang/rust/releases/tag/1.100.0)** (⬆️ 202)
+3. **[Gemini 4 Hydrogen](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/)** (⬆️ 267)
 <!-- AUTO-UPDATE-END -->
