@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-11-12 19:35 UTC_
+_Last updated: 2026-11-14 17:41 UTC_
 
 ### 🔬 Latest AI Research
-**[Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training](http://arxiv.org/abs/2611.14519v1)**  
-_Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation, in the expectation that they will replace models trained for each task. Most co..._
+**[Unbundling Multimodal Vision Encoding](http://arxiv.org/abs/2611.17334v1)**  
+_How multimodal language models should encode visual input remains up for debate. Most models use a pretrained vision encoder, while some recent recipes train the encoder from scratch with the language..._
 
 ### 💻 Trending Tech
-1. **[Jensen Huang resigns](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f)** (⬆️ 2010)
-2. **[Rust 1.100.0](https://github.com/rust-lang/rust/releases/tag/1.100.0)** (⬆️ 202)
-3. **[Gemini 4 Hydrogen](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/)** (⬆️ 267)
+1. **[Italy fines Meta €805M over photo privacy](https://www.rapporteur.com/news/italy-fines-meta-880mn-over-photo-privacy-authority/)** (⬆️ 86)
+2. **[PyPI's redesigned project pages with clearer security signals are now live](https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/)** (⬆️ 91)
+3. **[KDE: The Documentary on Free Software [video]](https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c)** (⬆️ 165)
 <!-- AUTO-UPDATE-END -->
