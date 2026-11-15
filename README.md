@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-11-14 17:41 UTC_
+_Last updated: 2026-11-15 18:30 UTC_
 
 ### 🔬 Latest AI Research
 **[Unbundling Multimodal Vision Encoding](http://arxiv.org/abs/2611.17334v1)**  
 _How multimodal language models should encode visual input remains up for debate. Most models use a pretrained vision encoder, while some recent recipes train the encoder from scratch with the language..._
 
 ### 💻 Trending Tech
-1. **[Italy fines Meta €805M over photo privacy](https://www.rapporteur.com/news/italy-fines-meta-880mn-over-photo-privacy-authority/)** (⬆️ 86)
-2. **[PyPI's redesigned project pages with clearer security signals are now live](https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/)** (⬆️ 91)
-3. **[KDE: The Documentary on Free Software [video]](https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c)** (⬆️ 165)
+1. **[All AI-generated code should be Open Source](https://jakub.jankiewicz.org/blog/ai-code-open-source/)** (⬆️ 627)
+2. **[The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use](https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/)** (⬆️ 251)
+3. **[Emacs Is My Browser](https://joshblais.com/blog/emacs-as-my-browser/)** (⬆️ 87)
 <!-- AUTO-UPDATE-END -->
