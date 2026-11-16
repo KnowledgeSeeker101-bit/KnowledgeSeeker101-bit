@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-11-15 18:30 UTC_
+_Last updated: 2026-11-16 21:40 UTC_
 
 ### 🔬 Latest AI Research
-**[Unbundling Multimodal Vision Encoding](http://arxiv.org/abs/2611.17334v1)**  
-_How multimodal language models should encode visual input remains up for debate. Most models use a pretrained vision encoder, while some recent recipes train the encoder from scratch with the language..._
+**[Pairing AIS with RF: Analysis of a Markovian Approach for Maritime Data Fusion](http://arxiv.org/abs/2611.18563v1)**  
+_Monitoring maritime activities is important for safety and security, particularly for detecting illegal activities, but remains challenging due to the size and complexity of the maritime domain. The A..._
 
 ### 💻 Trending Tech
-1. **[All AI-generated code should be Open Source](https://jakub.jankiewicz.org/blog/ai-code-open-source/)** (⬆️ 627)
-2. **[The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use](https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/)** (⬆️ 251)
-3. **[Emacs Is My Browser](https://joshblais.com/blog/emacs-as-my-browser/)** (⬆️ 87)
+1. **[Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle](https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda)** (⬆️ 553)
+2. **[Grazing sheep in fields with solar arrays](https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains)** (⬆️ 159)
+3. **[Jiff 1.0: A datetime library for Rust](https://burntsushi.net/jiff/)** (⬆️ 244)
 <!-- AUTO-UPDATE-END -->
