@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-11-16 21:40 UTC_
+_Last updated: 2026-11-17 20:30 UTC_
 
 ### 🔬 Latest AI Research
-**[Pairing AIS with RF: Analysis of a Markovian Approach for Maritime Data Fusion](http://arxiv.org/abs/2611.18563v1)**  
-_Monitoring maritime activities is important for safety and security, particularly for detecting illegal activities, but remains challenging due to the size and complexity of the maritime domain. The A..._
+**[Latent Lattice Language Models](http://arxiv.org/abs/2611.21608v1)**  
+_Language models typically increase per-token computation through deeper or looped layers and latent reasoning steps, while richer residual connections improve information flow across layers. We instea..._
 
 ### 💻 Trending Tech
-1. **[Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle](https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda)** (⬆️ 553)
-2. **[Grazing sheep in fields with solar arrays](https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains)** (⬆️ 159)
-3. **[Jiff 1.0: A datetime library for Rust](https://burntsushi.net/jiff/)** (⬆️ 244)
+1. **[GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/)** (⬆️ 721)
+2. **[Apple Services Down](https://developer.apple.com/system-status/)** (⬆️ 427)
+3. **[jQuery 4.1.0](https://github.com/jquery/jquery/releases/tag/4.1.0)** (⬆️ 52)
 <!-- AUTO-UPDATE-END -->
