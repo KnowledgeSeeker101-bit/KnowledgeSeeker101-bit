@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-11-18 20:01 UTC_
+_Last updated: 2026-11-19 19:59 UTC_
 
 ### 🔬 Latest AI Research
-**[Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching](http://arxiv.org/abs/2611.23229v1)**  
-_Collecting large-scale, diverse, and high-quality post-training datasets for autoregressive language models is challenging. Consequently, Supervised Fine-Tuning (SFT) is typically applied to datasets ..._
+**[Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems](http://arxiv.org/abs/2611.24932v1)**  
+_When a capable model and a human reviewer cooperate on the same decision, which human still adds value? We argue this is a question about a single cognitive trait, metacognitive calibration: the align..._
 
 ### 💻 Trending Tech
-1. **[Unauthenticated remote code execution in Nginx](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities)** (⬆️ 669)
-2. **[Scottish HTTP Codes](https://underwood.network/http/scots.html)** (⬆️ 121)
-3. **[Seven new models at scalable price-performance](https://microsoft.ai/news/microsoft-ignite-2026/)** (⬆️ 296)
+1. **[Anthropic hits $2T in Nasdaq debut](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/)** (⬆️ 453)
+2. **[Claude solves two open problems in the physics of black holes](https://www.anthropic.com/research/claude-black-hole-physics)** (⬆️ 193)
+3. **[Pancreatic cancer halted by virus injection in three patients](https://scienceinhand.com/pancreatic-cancer-halted-by-virus-injection-in-three-patients/)** (⬆️ 105)
 <!-- AUTO-UPDATE-END -->
