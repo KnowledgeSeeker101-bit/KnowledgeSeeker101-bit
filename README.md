@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-11-19 19:59 UTC_
+_Last updated: 2026-11-20 19:39 UTC_
 
 ### 🔬 Latest AI Research
-**[Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems](http://arxiv.org/abs/2611.24932v1)**  
-_When a capable model and a human reviewer cooperate on the same decision, which human still adds value? We argue this is a question about a single cognitive trait, metacognitive calibration: the align..._
+**[RL Post-Training in Diffusion Transformers Is Activation Steering](http://arxiv.org/abs/2611.26627v1)**  
+_Reinforcement learning (RL) post-training substantially improves the visual quality, text rendering, and compositional accuracy of diffusion transformers. Because capabilities such as rendering reques..._
 
 ### 💻 Trending Tech
-1. **[Anthropic hits $2T in Nasdaq debut](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/)** (⬆️ 453)
-2. **[Claude solves two open problems in the physics of black holes](https://www.anthropic.com/research/claude-black-hole-physics)** (⬆️ 193)
-3. **[Pancreatic cancer halted by virus injection in three patients](https://scienceinhand.com/pancreatic-cancer-halted-by-virus-injection-in-three-patients/)** (⬆️ 105)
+1. **[Hurried Announcement: Alessandro Masullo GRH](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/)** (⬆️ 390)
+2. **[Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf)** (⬆️ 1883)
+3. **[Language Models Can Rewrite Their Own Weights](https://arxiv.org/abs/2611.21885)** (⬆️ 225)
 <!-- AUTO-UPDATE-END -->
