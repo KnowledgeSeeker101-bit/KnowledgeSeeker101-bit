@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-11-20 19:39 UTC_
+_Last updated: 2026-11-21 18:44 UTC_
 
 ### 🔬 Latest AI Research
 **[RL Post-Training in Diffusion Transformers Is Activation Steering](http://arxiv.org/abs/2611.26627v1)**  
 _Reinforcement learning (RL) post-training substantially improves the visual quality, text rendering, and compositional accuracy of diffusion transformers. Because capabilities such as rendering reques..._
 
 ### 💻 Trending Tech
-1. **[Hurried Announcement: Alessandro Masullo GRH](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/)** (⬆️ 390)
-2. **[Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf)** (⬆️ 1883)
-3. **[Language Models Can Rewrite Their Own Weights](https://arxiv.org/abs/2611.21885)** (⬆️ 225)
+1. **[Jensen Huang's fall is bad news for Silicon Valley's accelerationists](https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists)** (⬆️ 51)
+2. **[Detonating a pile of lead azide](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really)** (⬆️ 361)
+3. **[Lean verification of the Riemann Hypothesis](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/)** (⬆️ 471)
 <!-- AUTO-UPDATE-END -->
