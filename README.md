@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-11-21 18:44 UTC_
+_Last updated: 2026-11-22 19:05 UTC_
 
 ### 🔬 Latest AI Research
 **[RL Post-Training in Diffusion Transformers Is Activation Steering](http://arxiv.org/abs/2611.26627v1)**  
 _Reinforcement learning (RL) post-training substantially improves the visual quality, text rendering, and compositional accuracy of diffusion transformers. Because capabilities such as rendering reques..._
 
 ### 💻 Trending Tech
-1. **[Jensen Huang's fall is bad news for Silicon Valley's accelerationists](https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists)** (⬆️ 51)
-2. **[Detonating a pile of lead azide](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really)** (⬆️ 361)
-3. **[Lean verification of the Riemann Hypothesis](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/)** (⬆️ 471)
+1. **[Perplexity and Intelligence](https://openai.com/index/perplexity-and-intelligence/)** (⬆️ 182)
+2. **[Toyota, Nissan, and Honda to standardize parts to lower costs](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/)** (⬆️ 1019)
+3. **[Open Social Web Alliance](https://osw-alliance.net/en/)** (⬆️ 149)
 <!-- AUTO-UPDATE-END -->
