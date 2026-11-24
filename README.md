@@ -109,14 +109,13 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-11-22 19:05 UTC_
+_Last updated: 2026-11-24 21:57 UTC_
 
 ### 🔬 Latest AI Research
-**[RL Post-Training in Diffusion Transformers Is Activation Steering](http://arxiv.org/abs/2611.26627v1)**  
-_Reinforcement learning (RL) post-training substantially improves the visual quality, text rendering, and compositional accuracy of diffusion transformers. Because capabilities such as rendering reques..._
+**[Pruning Autonomous Driving VLAs: What to Preserve for Reasoning and Action](http://arxiv.org/abs/2611.31240v1)**  
+_Reasoning vision-language-action (VLA) models for autonomous driving use chain-of-thought (CoT) reasoning to guide action generation, but incur substantial memory and computational costs. We study str..._
 
 ### 💻 Trending Tech
-1. **[Perplexity and Intelligence](https://openai.com/index/perplexity-and-intelligence/)** (⬆️ 182)
-2. **[Toyota, Nissan, and Honda to standardize parts to lower costs](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/)** (⬆️ 1019)
-3. **[Open Social Web Alliance](https://osw-alliance.net/en/)** (⬆️ 149)
+1. **[Ternary Bonsai 2.5 27B](https://prismml.com/news/bonsai-2-5-27b)** (⬆️ 160)
+2. **[Active intrusion campaign against Check Point security management servers](https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign)** (⬆️ 232)
 <!-- AUTO-UPDATE-END -->
