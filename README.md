@@ -109,13 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-11-24 21:57 UTC_
+_Last updated: 2026-11-25 07:13 UTC_
 
 ### 🔬 Latest AI Research
-**[Pruning Autonomous Driving VLAs: What to Preserve for Reasoning and Action](http://arxiv.org/abs/2611.31240v1)**  
-_Reasoning vision-language-action (VLA) models for autonomous driving use chain-of-thought (CoT) reasoning to guide action generation, but incur substantial memory and computational costs. We study str..._
+**[OmniAct: One Policy, One Million Embodiments](http://arxiv.org/abs/2611.33158v1)**  
+_A single policy that controls diverse robots must not only transfer task knowledge across embodiments, but also adapt its behavior to each robot's capabilities. Existing approaches facilitate transfer..._
 
 ### 💻 Trending Tech
-1. **[Ternary Bonsai 2.5 27B](https://prismml.com/news/bonsai-2-5-27b)** (⬆️ 160)
-2. **[Active intrusion campaign against Check Point security management servers](https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign)** (⬆️ 232)
+1. **[Matrix Multiplication is Θ(n^2.25) [pdf]](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf)** (⬆️ 479)
+2. **[Button Sounds – collection of professionally-recorded button clicks and presses](https://buttons.joshwcomeau.com/)** (⬆️ 209)
+3. **[Gemini refused to give me the lyrics to Twinkle Twinkle Little Star](https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F)** (⬆️ 134)
 <!-- AUTO-UPDATE-END -->
