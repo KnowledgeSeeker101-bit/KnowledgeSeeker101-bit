@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-11-25 07:13 UTC_
+_Last updated: 2026-11-25 21:07 UTC_
 
 ### 🔬 Latest AI Research
 **[OmniAct: One Policy, One Million Embodiments](http://arxiv.org/abs/2611.33158v1)**  
 _A single policy that controls diverse robots must not only transfer task knowledge across embodiments, but also adapt its behavior to each robot's capabilities. Existing approaches facilitate transfer..._
 
 ### 💻 Trending Tech
-1. **[Matrix Multiplication is Θ(n^2.25) [pdf]](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf)** (⬆️ 479)
-2. **[Button Sounds – collection of professionally-recorded button clicks and presses](https://buttons.joshwcomeau.com/)** (⬆️ 209)
-3. **[Gemini refused to give me the lyrics to Twinkle Twinkle Little Star](https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F)** (⬆️ 134)
+1. **[1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident)** (⬆️ 736)
+2. **[Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening](https://scottaaronson.blog/?p=10379)** (⬆️ 410)
+3. **[A few questions for the guy who went snorkeling in a Home Depot retention pond](https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts)** (⬆️ 374)
 <!-- AUTO-UPDATE-END -->
