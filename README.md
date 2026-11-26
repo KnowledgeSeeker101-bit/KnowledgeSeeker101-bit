@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-11-25 21:07 UTC_
+_Last updated: 2026-11-26 20:58 UTC_
 
 ### 🔬 Latest AI Research
-**[OmniAct: One Policy, One Million Embodiments](http://arxiv.org/abs/2611.33158v1)**  
-_A single policy that controls diverse robots must not only transfer task knowledge across embodiments, but also adapt its behavior to each robot's capabilities. Existing approaches facilitate transfer..._
+**[Spectrum Adaptation of AI-Native Autoencoder Communications with Transfer Learning](http://arxiv.org/abs/2611.34942v1)**  
+_End-to-end physical-layer learning replaces separate modulation, coding, and detection operations with an autoencoder (AE) that consists of a jointly trained encoder-decoder pair at the transmitter an..._
 
 ### 💻 Trending Tech
-1. **[1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident)** (⬆️ 736)
-2. **[Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening](https://scottaaronson.blog/?p=10379)** (⬆️ 410)
-3. **[A few questions for the guy who went snorkeling in a Home Depot retention pond](https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts)** (⬆️ 374)
+1. **[AMD Specific Patches for Llama.cpp](https://devnull.land/amd-specific-llama-cpp)** (⬆️ 184)
+2. **[CTO of 'RansomwareHelp' Indicted for Wire Fraud](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/)** (⬆️ 119)
+3. **[YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays](https://github.com/antonpictures/youtube-punisher)** (⬆️ 113)
 <!-- AUTO-UPDATE-END -->
