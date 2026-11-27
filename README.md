@@ -109,14 +109,14 @@ I build **AI for people and languages often overlooked by the global AI ecosyste
 <!-- AUTO-UPDATE-START -->
 # 📰 Latest AI & Tech Articles
 
-_Last updated: 2026-11-26 20:58 UTC_
+_Last updated: 2026-11-27 20:43 UTC_
 
 ### 🔬 Latest AI Research
 **[Spectrum Adaptation of AI-Native Autoencoder Communications with Transfer Learning](http://arxiv.org/abs/2611.34942v1)**  
 _End-to-end physical-layer learning replaces separate modulation, coding, and detection operations with an autoencoder (AE) that consists of a jointly trained encoder-decoder pair at the transmitter an..._
 
 ### 💻 Trending Tech
-1. **[AMD Specific Patches for Llama.cpp](https://devnull.land/amd-specific-llama-cpp)** (⬆️ 184)
-2. **[CTO of 'RansomwareHelp' Indicted for Wire Fraud](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/)** (⬆️ 119)
-3. **[YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays](https://github.com/antonpictures/youtube-punisher)** (⬆️ 113)
+1. **[Credit card skimming scripts using WebRTC found on popular shopping sites](https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer)** (⬆️ 270)
+2. **[Convex skills send the user's app idea to a remote server without telling them](https://github.com/convex/convex-backend-skill/issues/64)** (⬆️ 108)
+3. **[GPT 6.2 Astra Solves a Historical Mystery](https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical)** (⬆️ 45)
 <!-- AUTO-UPDATE-END -->
